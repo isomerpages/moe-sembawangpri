@@ -18,5 +18,5 @@ links:
     sublinks:
       - title: Submenu Title
         url: /permalink
-  - title: Additional information
-    url: /additional-information
+  - title: Contact Us
+    url: /contact-us
