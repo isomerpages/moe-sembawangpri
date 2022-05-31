@@ -2,4 +2,5 @@ collections:
   our-staff:
     output: true
     order:
+      - Teachers.md
       - School Leadership Team.md
