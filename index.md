@@ -22,8 +22,7 @@ sections:
           description: Key Highlight description
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: School Safety, Security & Emergency Preparedness
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
