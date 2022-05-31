@@ -4,6 +4,7 @@ permalink: /our-school/principals-message
 description: ""
 ---
 ### **Principal's Message**
+
 ![](/images/principal.jpg)
 
 Warm greetings from Sembawang Primary School (SBPS)!
@@ -22,3 +23,5 @@ Thank you and have an awesome year ahead!
 Mrs Grace Chua
 
 Principal
+
+Last updated : 01/01/2022
