@@ -4,20 +4,20 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/updategif.gif
       key_highlights:
         - title: Our School
-          description: Important highlight A is important
+          description: ""
           url: https://google.com
         - title: Our Staff
-          description: Important highlight B is equally important
+          description: ""
           url: https://gmail.com
         - title: Programmes
-          description: Page A is important too
-          url: /privacy/
+          description: ""
+          url: /programmes/
         - title: Quick Links
           description: Key Highlight description
           url: ""
