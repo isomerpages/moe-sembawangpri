@@ -13,8 +13,6 @@ links:
         url: /our-school/school-operating-hours
       - title: School Building
         url: /our-school/school-building
-      - title: Submenu Title
-        url: /permalink
   - title: OUR STAFF
     url: /our-staff
     sublinks:
