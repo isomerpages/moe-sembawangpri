@@ -21,12 +21,12 @@ sections:
         - title: Quick Links
           description: Key Highlight description
           url: ""
+  - resources:
+      title: Our Students
+      button: View More
   - infobar:
       title: School Safety, Security & Emergency Preparedness
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - resources:
-      title: Our Students
-      button: View More
 ---
