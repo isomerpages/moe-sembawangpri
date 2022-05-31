@@ -2,8 +2,8 @@ collections:
   our-school:
     output: true
     order:
-      - School Building.md
-      - School Operating Hours.md
-      - School Advisory Committee.md
-      - Principal's Message.md
       - About Us.md
+      - Principal's Message.md
+      - School Advisory Committee.md
+      - School Operating Hours.md
+      - School Building.md
