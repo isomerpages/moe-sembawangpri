@@ -16,3 +16,5 @@ The exterior facades of the school are the ‘faces’ that greet our students, 
 ![](/images/pic4.jpg)
 
 ![](/images/pic5.jpg)
+
+Last updated :01/01/2022
