@@ -14,7 +14,7 @@ sections:
           url: https://google.com
         - title: Our Staff
           description: ""
-          url: https://gmail.com
+          url: /our-staff
         - title: Programmes
           description: ""
           url: /programmes/
