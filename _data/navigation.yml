@@ -16,8 +16,12 @@ links:
   - title: OUR STAFF
     url: /our-staff
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: School Leadership Team
+        url: /our-staff/school-leadership-team
+      - title: Senior Teacher Team
+        url: /our-staff/senior-teacher-team
+      - title: Teachers
+        url: /our-staff/teachers
   - title: Our Students
     url: /our-students
     sublinks:
