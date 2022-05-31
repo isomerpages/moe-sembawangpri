@@ -2,24 +2,21 @@ logo: /images/isomer-logo.svg
 links:
   - title: Our School
     url: /our-school/
-  - title: Our staff
-    resource_room: true
-  - title: Programmes
-    url: /permalink
+  - title: OUR STAFF
+    url: /our-staff
     sublinks: []
   - title: Our Students
-    url: /permalink
+    url: /our-students
     sublinks:
       - title: Submenu Title
         url: /permalink
+  - title: Programmes
+    url: /programmes
+    sublinks: []
   - title: For Parents
-    url: /permalink
+    url: /for-parents
     sublinks:
       - title: Submenu Title
         url: /permalink
-  - title: MK @ Sembawang
-    url: /permalink
-    sublinks: []
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: Additional information
+    url: /additional-information
