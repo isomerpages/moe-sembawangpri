@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Senior Teacher Team.md
       - Staff Awards.md
       - Admin & Support Staff.md
       - Teachers.md
