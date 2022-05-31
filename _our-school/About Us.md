@@ -33,12 +33,14 @@ Relational values are needed to build quality relationships with others; Functio
   
 **Relational**
 
-School Crest
-School Crest
-School Crest
-Functional
+![](/images/SPS_Wall%20Mural_FA-06.jpg)
+![](/images/SPS_Wall%20Mural_FA-05.jpg)
+![](/images/SPS_Wall%20Mural_FA-04.jpg)
 
-School Crest
-School Crest
-School Crest
+**Functional**
+
+![](/images/SPS_Wall%20Mural_FA-01.jpg)
+![](/images/SPS_Wall%20Mural_FA-03.jpg)
+![](/images/SPS_Wall%20Mural_FA-02.jpg)
+
 Last updated :01/01/2022
