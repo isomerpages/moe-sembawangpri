@@ -9,8 +9,7 @@ The school forges strong partnership with its key stakeholders to enhance the qu
  
 School Advisory Committee (SAC):
 
-![](/images/SAC.jpg)
-
+![](/images/SAC1.jpg)
 In 2006 the SAC instituted two new awards namely 'SAC Book Prize' and 'SAC Gold Medal'. The introduction of these two SAC awards is to recognize and reward outstanding pupils in the academic and non-academic areas.
  
 The 'SAC Book Prize' comprising a voucher of $100, a plaque and certificate, will be awarded to the top PSLE pupil i.e. the one with the highest T-Score. The 'SAC Gold Medal' will be awarded to an outstanding P6 pupil who not only excels in his/her studies but has also demonstrated leadership qualities and is exemplary in the way he/she carries himself/herself and serves the school and community. The 'SAC Gold Medal' will comprise a gold medal and a certificate.
