@@ -2,4 +2,4 @@ collections:
   our-staff:
     output: true
     order:
-      - Example Title.md
+      - School Leadership Team.md
