@@ -13,8 +13,8 @@ links:
         url: /our-school/school-operating-hours
       - title: School Building
         url: /our-school/school-building
-  - title: OUR STAFF
-    url: /our-staff
+  - title: Our Staff
+    url: /our-staff/school-leadership-team
     sublinks:
       - title: School Leadership Team
         url: /our-staff/school-leadership-team
@@ -27,14 +27,14 @@ links:
       - title: Staff Awards
         url: /our-staff/staff-awards
   - title: Our Students
-    url: /our-students
+    url: /our-students/achievements
     sublinks:
       - title: Achievements
         url: /our-students/achievements
       - title: 2021 Speech Day
         url: /our-students/2021-speech-day
   - title: Programmes
-    url: /programmes
+    url: /programmes/applied-learning-programmes
     sublinks:
       - title: Applied Learning Programmes
         url: /programmes/applied-learning-programmes
@@ -45,9 +45,23 @@ links:
       - title: Learning for Life Programmes
         url: /programes/learning-for-life-programme
   - title: For Parents
-    url: /for-parents
+    url: /for-parents/letters-to-parents
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Letters to Parents
+        url: /for-parents/letters-to-parents
+      - title: Parent Support Group
+        url: /for-parents/parent-support-group
+      - title: Parenting Programme
+        url: /for-parents/parenting-programme
+      - title: Parents Gateway
+        url: /for-parents/parents-gateway
+      - title: Safe Management Rules
+        url: /for-parents/safe-management-rules
+      - title: School Newsletter
+        url: /for-parents/school-newsletter
+      - title: Transitioning back to School
+        url: /for-parents/transitioning-back-to-school
+      - title: Transition to P1
+        url: /for-parents/transition-to-p1
   - title: Contact Us
     url: /contact-us
