@@ -2,9 +2,22 @@ logo: /images/isomer-logo.svg
 links:
   - title: Our School
     url: /our-school/
+    sublinks:
+      - title: Principal's Message
+        url: /our-school/principals-message
+      - title: About Us
+        url: /our-school/about-us
+      - title: School Advisory Committee
+        url: /our-school/school-advisory-committee
+      - title: School Operating Hours
+        url: /our-school/school-operating-hours
+      - title: School Building
+        url: /our-school/school-building
   - title: OUR STAFF
     url: /our-staff
-    sublinks: []
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
   - title: Our Students
     url: /our-students
     sublinks:
