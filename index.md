@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/smbprimary.gif
+      background: /images/updategif.gif
       key_highlights:
         - title: Our School
           description: Important highlight A is important
@@ -18,7 +18,7 @@ sections:
         - title: Programmes
           description: Page A is important too
           url: /privacy/
-        - title: Our Students
+        - title: Quick Links
           description: Key Highlight description
           url: ""
   - infobar:
