@@ -29,11 +29,21 @@ links:
   - title: Our Students
     url: /our-students
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Achievements
+        url: /our-students/achievements
+      - title: 2021 Speech Day
+        url: /our-students/2021-speech-day
   - title: Programmes
     url: /programmes
-    sublinks: []
+    sublinks:
+      - title: Applied Learning Programmes
+        url: /programmes/applied-learning-programmes
+      - title: Co-curricular Activities
+        url: /programmes/co-curricular-activities
+      - title: Departments
+        url: /programmes/department
+      - title: Learning for Life Programmes
+        url: /programes/learning-for-life-programme
   - title: For Parents
     url: /for-parents
     sublinks:
