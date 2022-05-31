@@ -1,13 +1,25 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
+  - title: Our School
     url: /contact-us/
-  - title: Resources
+  - title: Our staff
     resource_room: true
+  - title: Programmes
+    url: /permalink
+    sublinks: []
+  - title: Our Students
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+  - title: For Parents
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+  - title: MK @ Sembawang
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
