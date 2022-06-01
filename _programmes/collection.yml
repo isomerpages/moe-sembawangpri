@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Departments/Student Management.md
       - Departments/Character & Citizenship Education.md
       - Departments/Aesthetics.md
       - Departments/Physical Education.md
