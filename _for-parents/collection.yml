@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Books, Uniform & Transport/School Uniform.md
       - Books, Uniform & Transport/Booklist.md
       - Books, Uniform & Transport/.keep
       - Transition to Primary 1.md
