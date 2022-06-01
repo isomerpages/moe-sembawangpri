@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Learning for Life Programme/.keep
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Sports Teams.md
       - Co Curricular Activities/Visual and Performing Arts.md
