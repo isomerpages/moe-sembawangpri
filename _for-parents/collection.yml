@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Student Learning Space.md
       - School Newsletter.md
       - Safe Management Measures.md
       - Photography and Videography.md
