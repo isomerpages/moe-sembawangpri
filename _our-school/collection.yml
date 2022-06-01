@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About Us.md
+      - About Us/Our Corporate Video.md
       - About Us/Our School Song.md
       - About Us/.keep
       - Principal's Message.md
