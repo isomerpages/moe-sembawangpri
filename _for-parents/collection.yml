@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - Parent Support Group.md
       - Letters to Parents/.keep
       - Letters to Parents/Join Us!.md
       - Letters to Parents/Primary 3 Learning Journey.md
+      - Parent Support Group.md
       - Parenting Programme.md
       - Parents Gateway.md
       - Useful contacts/.keep
