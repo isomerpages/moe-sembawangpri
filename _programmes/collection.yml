@@ -1,4 +1,4 @@
 collections:
-  departments:
+  programmes:
     output: true
     order: []
