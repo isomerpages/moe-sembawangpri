@@ -2,17 +2,17 @@ collections:
   for-parents:
     output: true
     order:
-      - Useful contacts/School Uniform.md
-      - Useful contacts/Booklist.md
-      - Useful contacts/.keep
-      - Transition to Primary 1.md
-      - Transitioning back to School.md
-      - Student Learning Space.md
-      - School Newsletter.md
-      - Safe Management Measures.md
-      - Photography and Videography.md
-      - Parents Gateway.md
-      - Parenting Programme.md
       - Letters to Parents/.keep
       - Letters to Parents/Join Us!.md
       - Letters to Parents/Primary 3 Learning Journey.md
+      - Parenting Programme.md
+      - Parents Gateway.md
+      - Useful contacts/.keep
+      - Useful contacts/School Uniform.md
+      - Useful contacts/Booklist.md
+      - Transitioning back to School.md
+      - Transition to Primary 1.md
+      - Student Learning Space.md
+      - Safe Management Measures.md
+      - School Newsletter.md
+      - Photography and Videography.md
