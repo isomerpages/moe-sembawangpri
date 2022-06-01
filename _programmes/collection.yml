@@ -1,6 +1,4 @@
 collections:
   programmes:
     output: true
-    order:
-      - English/Departments.md
-      - English/.keep
+    order: []
