@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Transition to Primary 1.md
       - Transitioning back to School.md
       - Student Learning Space.md
       - School Newsletter.md
