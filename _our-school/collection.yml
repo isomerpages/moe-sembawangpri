@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About Us.md
+      - About Us/School Song.md
       - About Us/.keep
       - Principal's Message.md
       - School Advisory Committee.md
