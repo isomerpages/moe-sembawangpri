@@ -2,13 +2,13 @@ collections:
   programmes:
     output: true
     order:
-      - Departments/Student Management.md
-      - Departments/Character & Citizenship Education.md
-      - Departments/Aesthetics.md
-      - Departments/Physical Education.md
-      - Departments/InfoComm Technology.md
-      - Departments/Mother Tongue Languages.md
-      - Departments/Science.md
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Mother Tongue Languages.md
+      - Departments/InfoComm Technology.md
+      - Departments/Physical Education.md
+      - Departments/Aesthetics.md
+      - Departments/Character & Citizenship Education.md
+      - Departments/Student Management.md
