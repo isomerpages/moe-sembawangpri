@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Co Curricular Activities.md
       - Applied Learning Programme.md
       - Departments/.keep
       - Departments/English Language.md
