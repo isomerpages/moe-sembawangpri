@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Books, Uniform & Transport/.keep
       - Transition to Primary 1.md
       - Transitioning back to School.md
       - Student Learning Space.md
