@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Letters to Parents/Join Us!.md
       - Letters to Parents/.keep
