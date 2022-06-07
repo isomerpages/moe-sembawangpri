@@ -53,3 +53,4 @@ plugins:
 staging: https://moe-sembawangpri-staging.netlify.app
 prod: https://moe-sembawangpri-prod.netlify.app
 shareicon: /images/SMB.svg
+is_government: true
