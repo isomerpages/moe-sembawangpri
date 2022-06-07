@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - School Security, Safety & Emergency Preparedness.md
       - Our School.md
       - Principal's Message.md
       - About Us/.keep
@@ -11,3 +10,4 @@ collections:
       - School Advisory Committee.md
       - School Operating Hours.md
       - School Building.md
+      - School Security, Safety & Emergency Preparedness.md
