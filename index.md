@@ -9,16 +9,16 @@ sections:
   - hero:
       background: /images/updategif.gif
       key_highlights:
-        - title: Our School
+        - title: Announcements
           description: ""
           url: https://google.com
-        - title: Our Staff
+        - title: MK @ Sembawang
           description: ""
           url: /our-staff
-        - title: Programmes
+        - title: Quick Links
           description: ""
           url: /programmes/
-        - title: Quick Links
+        - title: Contact us
           description: Key Highlight description
           url: ""
   - resources:
