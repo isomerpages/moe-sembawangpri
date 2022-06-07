@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Our School
-    url: /our-school/principals-message
+    url: /our-school/
     sublinks:
       - title: Principal's Message
         url: /our-school/principals-message
