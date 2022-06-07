@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Our School.md
+      - Principal's Message.md
       - About Us/.keep
       - About Us/Our School Song.md
       - About Us/Our Corporate Video.md
-      - Principal's Message.md
       - School Advisory Committee.md
       - School Operating Hours.md
       - School Building.md
