@@ -14,3 +14,4 @@ description: ""
 | ST Malay Language | Mr Mohd Saidali B Ali<br>mohd_saidali_b_ali@schools.gov.sg |
 | ST Character and Citizenship Education | Mdm Wu Yong Yun<br>wu_yongyun@schools.gov.sg |
 | ST Tamil Language | Mrs Sujith-Subashini G.<br>subashini_gopalakrishnan@schools.gov.sg |
+Last updated: 01/01/2022
