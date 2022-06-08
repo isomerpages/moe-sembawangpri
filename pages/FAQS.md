@@ -47,7 +47,7 @@ However, we strongly encourage parents to teach your children to buy things from
 
 
 
-5.    What is the school dentist operating hours?
+**5.    What is the school dentist operating hours?**
 
 
 |  |
