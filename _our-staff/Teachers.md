@@ -130,3 +130,4 @@ description: ""
 | Mrs Chitra Pillay Chua  | chitra_pillay_chua@moe.edu.sg |
 | Mdm Chionh Siew Chern | chionh_siew_chern@moe.edu.sg |
 | Mdm Rachael Wong | rachael_wong_kar_wye@moe.edu.sg  |
+Last updated: 11/01/2022
