@@ -19,3 +19,4 @@ description: ""
 | **Administrative Assistant** | Ms Surastri Bte Katimin<br>surastri_katimin@schools.gov.sg |
 | **Science Laboratory Assistant** | Mdm Janet Ang Bee Leng<br>ang_bee_leng@schools.gov.sg |
 | **Gardener** | Mr Lim Keng Leong  |
+Last updated: 28/01/2022
