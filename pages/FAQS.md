@@ -50,11 +50,11 @@ However, we strongly encourage parents to teach your children to buy things from
 5.    What is the school dentist operating hours?
 
 
-Mon & Wed
-
-8.00 a.m. – 5.30 p.m. (Last appointment @ 4.30 p.m.)
-
-Closed for lunch from 1300-1400
+|  |
+|---|
+| Monday and Wednesday |
+| 8.00 a.m. to 5.30 p.m. <br>(Last appointment @ 4.30 p.m.) |
+| Closed for lunch from 1 p.m. to 2 p.m. |
 
                                                                 
 
@@ -65,17 +65,14 @@ In case of any urgent treatment, please call any of the following clinics to ens
 
  
 
-a) CHIJ St Nicholas Girls' School Dental Clinic: 6455 1996 (SBPS Dental Therapist will be in the said school on Tue, Thur, Fri)
-
-b) Canberra Primary Dental Clinic: 6555 1777 (opening days varies)
-
-c)  Northoaks Primary Dental Clinic: 6853 7393 (Wed, Fri)
-
-d)  Endeavour Primary Dental Clinic: 6481 6081 (Mon-Wed)
-
-e)  Wellington Primary Dental Clinic: 6753 4697 (Mon-Fri till 12pm only)
-
-f)  Health Promotion Board, School Dental Centre: 6435 3782 (appointment line)
+|  |
+|---|
+| CHIJ St Nicholas Girls' School Dental Clinic: 6455 1996 (SBPS Dental Therapist will be in the said school on Tue, Thur, Fri) |
+| Canberra Primary Dental Clinic: 6555 1777 (opening days varies) |
+| Northoaks Primary Dental Clinic: 6853 7393 (Wed, Fri) |
+| Endeavour Primary Dental Clinic: 6481 6081 (Mon-Wed) |
+| Wellington Primary Dental Clinic: 6753 4697 (Mon-Fri till 12pm only) |
+| Health Promotion Board, School Dental Centre: 6435 3782 (appointment line) |
 
  
 
