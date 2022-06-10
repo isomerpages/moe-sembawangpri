@@ -5,3 +5,7 @@ description: ""
 third_nav_title: Useful contacts
 ---
 
+| Dental Clinic |
+|---|
+| Address: Sembawang Primary School |
+| Tel: 6556 0872 |
