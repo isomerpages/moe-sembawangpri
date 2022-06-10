@@ -24,5 +24,7 @@ third_nav_title: Useful contacts
 
 **Sembawang Primary School**
 
-**Sale of School Uniform in school 2021**
+**Sale of School Uniform in school 2021**![](/images/uniform.png)
+**Please take note that strictly no trying of  uniform.  Thank you!**
 
+Last updated : 08/12/2021
