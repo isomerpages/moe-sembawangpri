@@ -16,6 +16,7 @@ third_nav_title: Useful contacts
 
 **School Uniform Vendor - Chop Kong Chong
 (Sale in School)**
+
 |   |  |
 |---|---|
 | Business hour | From Term 3 2022 onwards:<br>First and Third Wednesday of the month<br>(Excluding school holidays) |
