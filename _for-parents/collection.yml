@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Useful Contacts.md
       - Letters to Parents.md
       - Parents Support Group/Parents Support Group.md
       - Parents Support Group/.keep
