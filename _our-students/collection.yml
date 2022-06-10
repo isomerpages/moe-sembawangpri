@@ -2,5 +2,6 @@ collections:
   our-students:
     output: true
     order:
+      - Achievements/.keep
       - Achievements.md
       - Speech Day 2021.md
