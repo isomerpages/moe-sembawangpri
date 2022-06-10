@@ -3,7 +3,7 @@ title: Senior Teacher Team
 permalink: /our-staff/senior-teacher-team
 description: ""
 ---
-**Senior Teacher Team**
+#### Senior Teacher Team
 
 |  |  |
 |---|---|
