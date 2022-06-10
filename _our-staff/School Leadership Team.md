@@ -3,6 +3,8 @@ title: School Leadership Team
 permalink: /our-staff/school-leadership-team
 description: ""
 ---
+Table looks ok in isomer, but doesn't appear alright at the staging.
+
 **School Leadership Team**
 |  |  |
 |---|---|
@@ -26,4 +28,4 @@ description: ""
 | Year Head (Middle Primary) | Ms Venice Soh Bee Peng<br>soh_bee_peng@schools.gov.sg |
 | Year Head (Lower Primary) | Ms Ratna Dewi<br>ratna_dewi@schools.gov.sg |
 
-Last updated : 29/12/2021 
+Last updated : 29/12/2021
