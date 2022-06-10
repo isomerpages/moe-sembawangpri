@@ -2,7 +2,7 @@ collections:
   our-students:
     output: true
     order:
-      - Non Academic Achievements/.keep
-      - Academic achievements/Achievements.md
       - Academic achievements/.keep
+      - Academic achievements/Achievements.md
+      - Non Academic Achievements/.keep
       - Speech Day 2021.md
