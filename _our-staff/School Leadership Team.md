@@ -6,6 +6,7 @@ description: ""
 Table looks ok in isomer, but doesn't appear alright at the staging.
 
 **School Leadership Team**
+
 |  |  |
 |---|---|
 | **Principal** | Mrs Grace Chua<br>Grace_Lee@schools.gov.sg |
@@ -13,6 +14,7 @@ Table looks ok in isomer, but doesn't appear alright at the staging.
 | **Vice-Principal<br>(Administration)** | Mr Shawn Tan<br>Tan_Thiam_Siong@schools.gov.sg |
 
 **Department Heads**
+
 |  |  |
 |---|---|
 | English Language | Ms Rajasveri D/O Renganathan<br>rajasveri_renganathan@schools.gov.sg |
