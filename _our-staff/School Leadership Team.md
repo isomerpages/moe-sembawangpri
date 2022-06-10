@@ -3,9 +3,7 @@ title: School Leadership Team
 permalink: /our-staff/school-leadership-team
 description: ""
 ---
-Table looks ok in isomer, but doesn't appear alright at the staging.
-
-**School Leadership Team**
+##### School Leadership Team
 
 |  |  |
 |---|---|
