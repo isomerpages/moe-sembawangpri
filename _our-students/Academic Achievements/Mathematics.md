@@ -4,6 +4,8 @@ permalink: /our-students/Academic-achievements/mathematics
 description: ""
 third_nav_title: Academic Achievements
 ---
+#### Mathematics
+
 | Event | 2016 | 2017 | 2018 |
 |:---:|:---:|:---:|:---:|
 | SMOPS<br>(Singapore Mathematical Olympiad for Primary School) | 1 Bronze | 3 Silver<br> 2 Bronze | 2 Bronze |
