@@ -3,10 +3,10 @@ title: Teachers
 permalink: /our-staff/teachers
 description: ""
 ---
-Zzzz why the table looks ok in isomer but not at staging?
-WIP
+#### Teachers
 
 **Primary 1**
+
 |  |  |  |
 |:---:|:---:|:---:|
 | **Class** | **Form Teachers** | **Email** |
@@ -24,6 +24,7 @@ WIP
 | 1 Respect | Mr Kelvin Toh Chong Han | toh_chong_han_kelvin@schools.gov.sg |
 
 **Primary 2**
+
 |  |  |  |
 |:---:|:---:|:---:|
 | **Class** | **Form Teachers** | **Email** |
@@ -41,6 +42,7 @@ WIP
 | 2 Respect | Ms Wang Xinlin | wang_xinlin@schools.gov.sg |
 
 **Primary 3**
+
 |  |  |  |
 |:---:|:---:|:---:|
 | **Class** | **Form Teachers** | **Email** |
@@ -56,6 +58,7 @@ WIP
 | 3 Resilience | Mr Mohammad Haslam Rahmat | mohd_haslam@schools.gov.sg |
 
 **Primary 4**
+
 |  |  |  |
 |:---:|:---:|---|
 | **Class** | **Form Teachers** | **Email** |
@@ -73,6 +76,7 @@ WIP
 | 4 Respect | Mrs Sujith-Subashini G. | subashini_gopalakrishnan@schools.gov.sg |
 
 **Primary 5**
+
 |  |  |  |
 |:---:|:---:|---|
 | **Class** | **Form Teachers** | **Email** |
@@ -91,6 +95,7 @@ WIP
 | 5 Respect | Mdm Liu Hongyan | liu_hongyan@schools.gov.sg |
 
 **Primary 6**
+
 |  |  |  |
 |:---:|:---:|---|
 | **Class** | **Form Teachers** | **Email** |
@@ -109,6 +114,7 @@ WIP
 | 6 Respect | Mr Adrian Chong Yew Chin | chong_yew_chin_adrian@schools.gov.sg |
 
 **Other Teaching Staff**
+
 |  |  |
 |:---:|---|
 | **Teacher** | **Email** |
@@ -133,4 +139,5 @@ WIP
 | Mrs Chitra Pillay Chua  | chitra_pillay_chua@moe.edu.sg |
 | Mdm Chionh Siew Chern | chionh_siew_chern@moe.edu.sg |
 | Mdm Rachael Wong | rachael_wong_kar_wye@moe.edu.sg  |
+
 Last updated: 11/01/2022
