@@ -2,6 +2,7 @@ collections:
   our-students:
     output: true
     order:
+      - Academic achievements/Mathematics.md
       - Academic achievements/.keep
       - Academic achievements/Destination Imagination.md
       - Non Academic Achievements/.keep
