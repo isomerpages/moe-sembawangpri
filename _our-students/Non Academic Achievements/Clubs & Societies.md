@@ -16,6 +16,7 @@ third_nav_title: Non Academic Achievements
 **Red Cross**
 
 **Excellence Unit Award**
+
 | 2014 | 2015 | 2016 | 2017 | 2018 |
 |:---:|:---:|:---:|:---:|:---:|
 | Silver | Silver | Gold |  Gold | Gold  |
@@ -25,11 +26,13 @@ third_nav_title: Non Academic Achievements
 **Chess Club**
 
 **National Schools Individual International Chess Championships**
+
 | 2015 | 2016 | 2018 |
 |:---:|:---:|:---:|
 | 2nd - Kelly Tan<br>6th - Lisa Tan | 9th - Kelly Tan | 4th - Dawson Oh Xu Jie |
 
 **North-Zone Individual International Chess Championships**
+
 | 2015 | 2016 | 2018 |
 |:---:|:---:|:---:|
 | Nil | 4th - Kelly Tan | 2nd - Dawson Oh Xu Jie |
