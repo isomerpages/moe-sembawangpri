@@ -3,8 +3,8 @@ title: Senior Teacher Team
 permalink: /our-staff/senior-teacher-team
 description: ""
 ---
-
 **Senior Teacher Team**
+
 |  |  |
 |---|---|
 | Lead Teacher English Language | Mdm Sharmila Singh<br>sharmila_singh@schools.gov.sg |
