@@ -3,10 +3,9 @@ title: Security & Emergency Measures
 permalink: /our-school/securityandemergencymeasures
 description: ""
 ---
-
 School Safety Vision - **ZERO accident/incident is achievable**
 
-Insert picture here
+![](/images/safety.png)
 
 Emergency Preparedness Culture - **Have a MINDSET of preparedness, ready to act!**
 
