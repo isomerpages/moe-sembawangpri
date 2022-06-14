@@ -3,8 +3,6 @@ title: English Language
 permalink: /programmes/departments/english
 description: ""
 ---
-
-
 ### English Language
 
 **Vision: Every Child an Effective, Empathetic and Confident Communicator**
@@ -16,6 +14,7 @@ description: ""
      A multiliterate student is one who is able to critically read multiple modes of communication (e.g. printed texts with accompanying visuals, digital animations, music and sound effects etc) while also taking into account socio-cultural factors. Students learn to read critically through Curriculum Innovation lessons where inquiry through dialogues take place and metacognitive skills are practised. Below are some photos taken during these lessons.
 		
 	![](/images/el1.png)
+	
 	
 	**Learning Outside the Classroom**
 
