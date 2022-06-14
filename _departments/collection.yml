@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Chinese Language.md
       - Mother Tongue Languages/Malay Language.md
       - Mother Tongue Languages/Tamil Language.md
-      - English Language.md
-      - Mathematics.md
-      - Science.md
