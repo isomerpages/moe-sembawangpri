@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Applied Learning Programme.md
       - CCA/.keep
       - Departments/.keep
       - Departments/English Language.md
@@ -14,6 +13,7 @@ collections:
       - Departments/Aesthetics.md
       - Departments/Character & Citizenship Education.md
       - Departments/Student Management.md
+      - Applied Learning Programme.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Perfectorial Board.md
       - Learning for Life Programme/Class Committee.md
