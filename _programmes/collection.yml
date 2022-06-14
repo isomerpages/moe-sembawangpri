@@ -2,6 +2,12 @@ collections:
   programmes:
     output: true
     order:
+      - Applied Learning Programme.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Sports Teams.md
+      - Co Curricular Activities/Visual and Performing Arts.md
+      - Co Curricular Activities/Clubs and Societies.md
+      - Co Curricular Activities/Uniformed Group.md
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
@@ -12,12 +18,6 @@ collections:
       - Departments/Aesthetics.md
       - Departments/Character & Citizenship Education.md
       - Departments/Student Management.md
-      - Applied Learning Programme.md
-      - Co Curricular Activities/.keep
-      - Co Curricular Activities/Sports Teams.md
-      - Co Curricular Activities/Visual and Performing Arts.md
-      - Co Curricular Activities/Clubs and Societies.md
-      - Co Curricular Activities/Uniformed Group.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Perfectorial Board.md
       - Learning for Life Programme/Class Committee.md
