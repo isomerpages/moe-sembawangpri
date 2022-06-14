@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports Teams.md
       - CCA Philosophy.md
       - Sports Team/Track & Field.md
       - Sports Team/.keep
