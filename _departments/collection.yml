@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character Education/.keep
       - Aesthetics/.keep
       - Aesthetics/Art & Craft.md
       - Aesthetics/Music.md
