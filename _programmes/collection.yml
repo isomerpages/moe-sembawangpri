@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Sports Team/.keep
       - Applied Learning Programme.md
       - Co Curricular Activities/Why CCA?.md
       - Co Curricular Activities/.keep
