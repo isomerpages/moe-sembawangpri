@@ -2,13 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Management/.keep
-      - Student Management/Overview of Student Management.md
-      - Student Management/Case Management Team.md
-      - Student Management/Counselling.md
-      - Student Management/Discipline.md
-      - Student Management/Preventive Anti Drug Education Programme.md
-      - Student Management/Special Education Needs.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -27,3 +20,10 @@ collections:
       - Character Education/Citizenship Education.md
       - Character Education/Growing Years Programme.md
       - Character Education/Programme for Active Learning.md
+      - Student Management/.keep
+      - Student Management/Overview of Student Management.md
+      - Student Management/Case Management Team.md
+      - Student Management/Counselling.md
+      - Student Management/Discipline.md
+      - Student Management/Preventive Anti Drug Education Programme.md
+      - Student Management/Special Education Needs.md
