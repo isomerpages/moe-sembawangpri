@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - CCA/.keep
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
