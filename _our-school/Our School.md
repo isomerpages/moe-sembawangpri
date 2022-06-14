@@ -3,6 +3,8 @@ title: Our School
 permalink: /our-school/
 description: ""
 ---
+### Our School
+
 ![](/images/Updated%20School%20Logo.png)
 
 *   The STAR symbolises the school's philosophy that every child is a winner.  
