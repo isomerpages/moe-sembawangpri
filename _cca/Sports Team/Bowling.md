@@ -7,6 +7,8 @@ third_nav_title: Sports Team
 ### Bowling
 Bowling CCA aspires to groom little bowlers who are focussed and good decision makers. Through rigorous training, our bowlers will gain experience and learn more about themselves to become more resilient, disciplined and confident.
 
+Insert introduction video here.
+
 |  |  |
 |---|---|
 | Schedule | Friday : 2.15 p.m. – 4.15 p.m. |
@@ -15,8 +17,7 @@ Bowling CCA aspires to groom little bowlers who are focussed and good decision m
 
 ![](/images/cca5.png)
 
-Insert video introduction here.
 
-###### View all our Sports achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
+###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
 
 Last updated : 10/04/2022
