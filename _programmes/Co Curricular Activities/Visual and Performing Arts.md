@@ -35,7 +35,7 @@ Malay Dance CCA aspires to groom little dancers who are passionate about not onl
 | Teachers-in-charge | <br>Mdm Norlin Binte Mansor<br><br>Ms Nurul Syahidah Binte Bahari<br>Mdm Khadijah Bte Ahmad |
 |  Venue | Dance Studio  |
 
-
+INSERT PIC
 
 ### Chinese Orchestra
 
