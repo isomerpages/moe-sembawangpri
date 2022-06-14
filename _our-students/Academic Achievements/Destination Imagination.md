@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Academic Achievements
 ---
 #### Destination Imagination
-#### 
 
 |  |  |
 |:---:|:---:|
