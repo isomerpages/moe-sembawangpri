@@ -4,7 +4,9 @@ permalink: /our-school/About-Us/our-school-song
 description: ""
 third_nav_title: About Us
 ---
-***Got to insert school song video***
+### Our School Song
+
+***Insert school song video here***
 
 Learning is an adventure.
 
