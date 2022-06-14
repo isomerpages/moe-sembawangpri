@@ -11,6 +11,8 @@ Table tennis is a sport that requires students to possess dexterity and a high l
  ·         To develop self-discipline, resilience and confidence in the students.  
  ·         To provide a platform for students to experience the sport at a competitive level.
  
+ Insert introduction video here.
+ 
  |  |  |
 |---|---|
 | Schedule | Friday :   2.15 p.m. – 4.15 p .m. (All) <br><br>4.15 p.m. – 5.15 p.m. (Selected students) |
@@ -19,8 +21,7 @@ Table tennis is a sport that requires students to possess dexterity and a high l
 
 ![](/images/cca6.png)
 
-Insert video introduction here.
 
-###### View all our Sports achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
+###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
 
 Last updated : 10/04/2022
