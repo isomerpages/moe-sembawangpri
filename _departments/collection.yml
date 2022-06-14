@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Aesthetics/Music.md
-      - Aesthetics/Art & Craft.md
       - Aesthetics/.keep
+      - Aesthetics/Art & Craft.md
+      - Aesthetics/Music.md
       - Physical Education.md
       - InfoComm Technology.md
       - English Language.md
