@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Why CCA?.md
-      - Sports Team/Table Tennis.md
-      - Sports Team/Bowling.md
-      - Sports Team/Softball.md
-      - Sports Team/Rugby.md
       - Sports Team/.keep
       - Sports Team/Track & Field.md
+      - Sports Team/Rugby.md
+      - Sports Team/Softball.md
+      - Sports Team/Table Tennis.md
+      - Sports Team/Bowling.md
       - Sports Teams.md
       - Uniformed Group.md
       - Clubs and Societies.md
