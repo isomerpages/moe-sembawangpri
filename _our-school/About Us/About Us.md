@@ -4,6 +4,8 @@ permalink: /our-school/About-Us/
 description: ""
 third_nav_title: About Us
 ---
+### About Us
+
 **SCHOOL PHILOSOPHY**
 
 We believe in providing a holistic education to help every child discover joy of learning in a safe and caring environment.
