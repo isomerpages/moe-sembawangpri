@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Management/Case Management Team.md
       - Student Management/Counselling.md
       - Student Management/Discipline.md
       - Student Management/Preventive Anti Drug Education Programme.md
