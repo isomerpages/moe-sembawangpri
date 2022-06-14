@@ -7,6 +7,8 @@ third_nav_title: Sports Team
 ### Track & Field
 Track and Field CCA aspires to groom little athletes who can run, jump or throw well. With various competition opportunities, our little athletes will gain experience and learn more about themselves to become more resilient, disciplined and confident.
 
+Insert video introduction here.
+
 |  |  |
 |---|---|
 | Schedule | <br>Monday, 4pm to 5.30pm (Pri 3 & Pri 4)  <br><br>Thursday, 4pm to 5.30pm ( Pri 5 & 6)  |
@@ -15,8 +17,7 @@ Track and Field CCA aspires to groom little athletes who can run, jump or throw 
 
 ![](/images/cca2.png)
 
-Insert video introduction here.
 
-###### View all our Sports achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
+###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
 
 Last updated : 10/04/2022
