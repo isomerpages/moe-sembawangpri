@@ -2,17 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Character Education/Overview of CCE.md
-      - Character Education/Character Education.md
-      - Character Education/Citizenship Education.md
-      - Character Education/Growing Years Programme.md
-      - Character Education/Programme for Active Learning.md
-      - Character Education/.keep
-      - Aesthetics/.keep
-      - Aesthetics/Art & Craft.md
-      - Aesthetics/Music.md
-      - Physical Education.md
-      - InfoComm Technology.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -20,3 +9,14 @@ collections:
       - Mother Tongue Languages/Chinese Language.md
       - Mother Tongue Languages/Malay Language.md
       - Mother Tongue Languages/Tamil Language.md
+      - InfoComm Technology.md
+      - Physical Education.md
+      - Aesthetics/.keep
+      - Aesthetics/Art & Craft.md
+      - Aesthetics/Music.md
+      - Character Education/.keep
+      - Character Education/Overview of CCE.md
+      - Character Education/Character Education.md
+      - Character Education/Citizenship Education.md
+      - Character Education/Growing Years Programme.md
+      - Character Education/Programme for Active Learning.md
