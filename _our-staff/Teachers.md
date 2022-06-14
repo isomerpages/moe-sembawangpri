@@ -3,7 +3,7 @@ title: Teachers
 permalink: /our-staff/teachers
 description: ""
 ---
-#### Teachers
+### Teachers
 
 **Primary 1**
 
