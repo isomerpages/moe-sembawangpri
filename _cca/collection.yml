@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Group/.keep
       - Why CCA?.md
       - Sports Team/.keep
       - Sports Team/Track & Field.md
