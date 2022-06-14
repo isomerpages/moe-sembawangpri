@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
+      - Why CCA?.md
+      - Sports Team/.keep
+      - Sports Team/Track & Field.md
+      - Sports Teams.md
       - Uniformed Group.md
       - Clubs and Societies.md
-      - Why CCA?.md
       - Visual and Performing Arts.md
-      - Sports Teams.md
       - CCA Philosophy.md
-      - Sports Team/Track & Field.md
-      - Sports Team/.keep
