@@ -3,6 +3,8 @@ title: School Advisory Committee
 permalink: /our-school/school-advisory-committee
 description: ""
 ---
+### School Advisory Committee
+### 
 Partnership
  
 The school forges strong partnership with its key stakeholders to enhance the quality of learning experience for its pupils. The key stakeholders include the School Advisory Committee, parents, external organizations and the community.
