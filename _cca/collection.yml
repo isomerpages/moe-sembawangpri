@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Visual & Performing Arts/.keep
+      - Visual and Performing Arts/.keep
       - Clubs and Societies/.keep
       - Uniformed Group/.keep
       - Why CCA?.md
