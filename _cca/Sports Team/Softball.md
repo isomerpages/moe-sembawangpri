@@ -7,6 +7,8 @@ third_nav_title: Sports Team
 ### Softball
 Softball CCA aspires to groom little softball players who are good team players and make sound game decisions. Through rigorous training and competitions, our softball players will gain experience and learn more about themselves to become more resilient, disciplined and confident.
 
+Insert introduction video here.
+
 |  |  |
 |---|---|
 | Schedule | Tuesday: 2.15 p.m. – 4.15 p.m.<br><br>Friday: 2.15 p.m. – 5.15 p.m.  |
@@ -15,8 +17,7 @@ Softball CCA aspires to groom little softball players who are good team players 
 
 ![](/images/cca4.png)
 
-Insert video introduction here.
 
-###### View all our Sports achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
+###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
 
 Last updated : 10/04/2022
