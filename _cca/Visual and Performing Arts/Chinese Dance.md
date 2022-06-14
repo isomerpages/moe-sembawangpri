@@ -15,6 +15,8 @@ Chinese Dance CCA aspires to groom little dancers who are passionate about not o
 
 ![](/images/cca7.png)
 
+Insert introduction video here.
+
 ###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !
 
-Last updated : 11/01/2022
+Last updated : 11/01/202211/01/2022
