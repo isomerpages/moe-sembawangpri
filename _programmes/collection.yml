@@ -2,13 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Departments/.keep
-      - Departments/Mother Tongue Languages.md
-      - Departments/InfoComm Technology.md
-      - Departments/Physical Education.md
-      - Departments/Aesthetics.md
-      - Departments/Character & Citizenship Education.md
-      - Departments/Student Management.md
       - Applied Learning Programme.md
       - Learning for Life Programme/Learning for Life Programme.md
       - Learning for Life Programme/.keep
