@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Applied Learning Programme.md
-      - Co Curricular Activities/.keep
+      - CCA/.keep
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
