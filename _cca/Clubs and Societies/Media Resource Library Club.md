@@ -13,4 +13,6 @@ third_nav_title: Clubs and Societies
 ![](/images/cca23.png)
 ![](/images/cca24.png)
 
+Insert video introduction here.
+
 Last updated: 11/01/2022
