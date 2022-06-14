@@ -8,6 +8,8 @@ third_nav_title: Clubs and Societies
 
 ICT Club CCA aspires to groom little ICT professionals who will be equipped with ICT skills to handle the technology-enabled future. Selected students will also get to take part in competitions such as the National Game Creation Competition which requires them to make use of logical thinking.  
   
+Insert video introduction here.
+	
 **Schedule :**  
   
 Due to the safety management measures in place, students will be attending the CCA sessions on a rotational basis.  
@@ -24,7 +26,6 @@ Due to the safety management measures in place, students will be attending the C
 
 ![](/images/cca16.png)
 
-Insert video introduction here.
 
 ###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !
 ###### 
