@@ -2,9 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Visual and Performing Arts/.keep
-      - Clubs and Societies/.keep
-      - Uniformed Group/.keep
       - Why CCA?.md
       - Sports Team/.keep
       - Sports Team/Track & Field.md
@@ -12,3 +9,6 @@ collections:
       - Sports Team/Softball.md
       - Sports Team/Bowling.md
       - Sports Team/Table Tennis.md
+      - Uniformed Group/.keep
+      - Clubs and Societies/.keep
+      - Visual and Performing Arts/.keep
