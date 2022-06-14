@@ -40,12 +40,12 @@ links:
   - title: Programmes
     url: /programmes/applied-learning-programme
     sublinks:
-      - title: Applied Learning Programmes
-        url: /programmes/applied-learning-programme
       - title: CCA Programmes
         url: /CCAprogrammes/whycca
       - title: Departments
         url: /programmes/departments/english
+      - title: Applied Learning Programmes
+        url: /programmes/applied-learning-programme
       - title: Learning for Life Programmes
         url: /programes/learning-for-life-programme
   - title: For Parents
