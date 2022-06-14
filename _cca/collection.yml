@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Why CCA?.md
+      - Sports Team/Rugby.md
       - Sports Team/.keep
       - Sports Team/Track & Field.md
       - Sports Teams.md
