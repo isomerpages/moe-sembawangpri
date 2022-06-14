@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character Education/Growing Years Programme.md
       - Character Education/Programme for Active Learning.md
       - Character Education/.keep
       - Aesthetics/.keep
