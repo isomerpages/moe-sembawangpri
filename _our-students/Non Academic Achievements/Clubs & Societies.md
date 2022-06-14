@@ -4,8 +4,8 @@ permalink: /our-students/Non-Academic-Achievements/clubsandsocieties
 description: ""
 third_nav_title: Non Academic Achievements
 ---
-#### Clubs & Societies
-**ICT Club**
+### Clubs & Societies
+#### **ICT Club**
 
 | Year | Event | Achievement |
 |:---:|:---:|:---:|
@@ -13,7 +13,7 @@ third_nav_title: Non Academic Achievements
 | 2017 | National Coding Competition | 1 silver, 1 bronze |
 | 2018 | National Coding Competition  | 2 bronzes  |
 
-**Red Cross**
+#### **Red Cross**
 
 **Excellence Unit Award**
 
