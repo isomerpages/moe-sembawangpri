@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education.md
       - InfoComm Technology.md
       - English Language.md
       - Mathematics.md
