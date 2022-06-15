@@ -13,7 +13,8 @@ Chinese Dance CCA aspires to groom little dancers who are passionate about not o
 | Teachers-in-charge | <br>Ms Kong Jia Yee<br><br>Ms Lian Wei Qi, Jenell<br><br><br>Mdm Suraya Bte Mohamed Iqbal |
 |  Venue | MPH |
 
-![](/images/cca7.png)
+<img src="/images/cca7.png" 
+     style="width:80%">
 
 Insert introduction video here.
 
