@@ -61,20 +61,9 @@ There are also resources for parents to share with their children about the dang
 
 This Augmented Reality (AR) mobile game app, _Drug Buster Buddies_, is now available for download on the App Store and Play Store. Players are to accomplish all 3 missions to join Captain Drug Buster as a Drug Buster Buddy, while learning more about the harmful effects of drugs through a fun gameplay experience. The app also serves as a digitally relevant and engaging platform to spread the anti-drug message.
 
-![](/images/Drug%20Buster%20Buddies.png)
-
+<img src="/images/Drug%20Buster%20Buddies.png" 
+     style="width:35%">
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
 You may use the link to download the app:
 
 [**https://www.cnb.gov.sg/educational-resources/for-communities/ar-mobile-game-app**](https://www.cnb.gov.sg/educational-resources/for-communities/ar-mobile-game-app)
