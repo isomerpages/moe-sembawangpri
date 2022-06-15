@@ -5,8 +5,10 @@ description: ""
 ---
 ### **Principal's Message**
 
-![](/images/principal.jpg)
 
+<img src="/images/principal.jpg" 
+     style="width:50%">
+		 
 Warm greetings from Sembawang Primary School (SBPS)!
 
 As a school, we are conscientious in ensuring that our students are well-prepared for the future economy. As we gear our students to strive in the fast-changing world of globalisation and technological advancements, we envision for our students to be anchored in good values, to be proactive, daring to take risks and adding value to self, others and the community. Our new vision, “Innovative Learners, Rooted in Values”, summarises our aspirations for all of our current students.
