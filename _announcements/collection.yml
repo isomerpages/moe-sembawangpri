@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Safe Management Measures.md
       - Sembawang Buzz.md
       - Transition to Primary 1.md
       - 2022 Booklists.md
