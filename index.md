@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://google.com
+          url: /announcements/first
         - title: MK @ Sembawang
           description: ""
           url: /our-staff
@@ -19,6 +19,6 @@ sections:
           description: ""
           url: /programmes/
         - title: Contact us
-          description: Key Highlight description
+          description: ""
           url: ""
 ---
