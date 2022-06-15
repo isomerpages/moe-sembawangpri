@@ -37,6 +37,7 @@ Members of the CMT include:
 
 Articulated in our school philosophy, in SBPS, we believe in providing a holistic education to help every child discover joy of learning in a safe and caring environment. Helping ‘every child’ means leaving no child behind because of their background, profile or abilities. As such, through the composition of the CMT, the school hopes to leverage on.
 
-![](/images/cmt1.png)
+<img src="/images/cmt1.png" 
+     style="width:35%">
 
 Last updated : 06/06/2022
