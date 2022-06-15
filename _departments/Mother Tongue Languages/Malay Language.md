@@ -40,7 +40,7 @@ This programme hopes to cultivate students writing skills at the earliest stage 
 This programme aims to provide a platform for students to develop their oratory skills in stages. For the lower primary, oratory skills are introduce through speaking activities such as Show and Tell in Primary 1 and the Speech and Drama Workshop in Primary Two. For the middle primary, the programme is expanded to allow students to learn presentation skills through the comic creation presentation during Mother Tongue Fortnight. In the upper primary, students are given opportunity to make use of their learnings in an authentic situation by taking on the role of a young journalist.
 
 <img src="/images/ml1.png" 
-     style="width:35%">
+     style="width:80%">
 
 **• Cultural Awareness Programme**  
 
