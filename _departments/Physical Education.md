@@ -33,7 +33,9 @@ The PE department believes in the holistic development of a child to enable them
 | SEP Programmes | Students will be exposed to physical activities that are not in MOE PE syllabus   |
 
 Photos
-![](/images/pe1.png)
-![](/images/pe2.png)
+<img src="/images/pe1.png" 
+     style="width:35%">
+<img src="/images/pe2.png" 
+     style="width:35%">
 
 Last updated : 23/01/2022
