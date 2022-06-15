@@ -14,5 +14,7 @@ third_nav_title: Academic Achievements
 | 2018 | Engineering Category 2nd, 3rd and 5th<br> Project Outreach Category 3rd<br> Improvisational Category 2nd |
 | 2019 | Technical Category 1st <br> Engineering Category 1st  <br> Scientific Category 4th |
 
+<img src="images/piec.png" 
+     style="width:50%">
 ![](/images/piec.png)
 Last updated : 01/01/2022
