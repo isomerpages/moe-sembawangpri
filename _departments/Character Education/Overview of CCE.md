@@ -23,7 +23,8 @@ Having a sense of purpose in life, developing dispositions of adaptability and l
 ●       Active Citizenship  
 Developing a strong national identity based on a sense of belonging to the nation, hope in themselves and the future and having the will to act on improving the lives of others, building a future for our nation.
 
-![](/images/cce1.png)
+<img src="/images/cce1.png" 
+     style="width:35%">
 
 As part of the total curriculum classroom lessons for CCE provide dedicated curriculum time for the explicit teaching and learning of values and social-emotional competencies, as well as engaging and building relationships with our students. CCE lessons in primary schools comrise of:  
 
