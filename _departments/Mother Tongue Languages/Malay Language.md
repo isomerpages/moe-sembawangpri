@@ -47,6 +47,6 @@ This programme aims to provide a platform for students to develop their oratory 
 Through the annual Cultural Camp, Primary 3 students are exposed to Malay Culture in an immersive and fun programme. Students are introduce to various Malay customs and traditions by taking part in Malay Traditional Games and learning Malay Martial Arts and Malay traditional crafts.
 
 <img src="/images/ml2.png" 
-     style="width:35%">
+     style="width:80%">
 
 Last updated : 01/01/2022
