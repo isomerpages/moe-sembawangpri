@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Transition to Primary 1.md
       - Sembawang Buzz.md
       - Safe Management Measures.md
       - On the Red Dot Preview.md
