@@ -19,6 +19,6 @@ Choir CCA aspires to create little singers who are passionate about music and si
 
 Insert introduction video here.
 
-###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !
+**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !**
 
-Last updated : 30/12/2022
+Last updated: 30/12/2022
