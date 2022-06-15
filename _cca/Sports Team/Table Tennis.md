@@ -19,7 +19,8 @@ Table tennis is a sport that requires students to possess dexterity and a high l
 | Teachers-in-charge | Mdm Wang Yingchao<br>Mr Mohammad  Noorkhuzaifah <br> Mr Calvin Chia |
 |  Venue |  ISH |
 
-![](/images/cca6.png)
+<img src="/images/cca6.png" 
+     style="width:80%">
 
 
 ###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
