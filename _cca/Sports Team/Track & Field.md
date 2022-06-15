@@ -15,8 +15,8 @@ Insert video introduction here.
 | Teachers-in-charge  | Mr Muhammad Iskandar<br><br><br>Mr Mike Tay Eng Wee<br>Ms Tan Yi Xuan<br>Ms Insyirah Binti Mohamad Ali<br>Ms Awyong Yun Ting<br><br>Ms Joey Tan Siew Bing<br> |
 |  Venue |  School |
 
-![](/images/cca2.png)
-
+<img src="/images/cca2.png" 
+     style="width:80%">
 
 ###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
 
