@@ -42,7 +42,7 @@ Relational values are needed to build quality relationships with others; Functio
      style="width:50%">
 		 
 <img src="images/SPS_Wall%20Mural_FA-04.jpg" 
-     style="width:50%">![]
+     style="width:50%">
 
 **Functional**
 
