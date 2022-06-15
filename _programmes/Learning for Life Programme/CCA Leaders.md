@@ -27,6 +27,7 @@ CCA leaders are entrusted with the responsibility and opportunity to uphold the 
 
 ●       Active Listening
 
-![](/images/ccaleaders.png)
+<img src="images/ccaleaders.png" 
+     style="width:50%">
 
 Last update: 25/05/2022
