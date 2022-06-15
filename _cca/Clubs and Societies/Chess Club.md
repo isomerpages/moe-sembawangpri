@@ -18,10 +18,10 @@ Insert video introduction here.
 |  Venues | 2C and 2E Classrooms |
 
 <img src="/images/cca17.png" 
-     style="width:80%">
+     style="width:70%">
 <img src="/images/cca18.png" 
-     style="width:80%">
+     style="width:70%">
 
-###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !
+**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !**
 
 Last updated: 20/01/2022
