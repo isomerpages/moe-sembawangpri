@@ -15,7 +15,8 @@ Insert introduction video here.
 | Teachers-in-charge | Mr Adrian Chong Yew Chin<br><br>Ms Lee Wei Qin<br>Mr Lim Jeen Perng |
 |  Venue | Sheltered Basketball Court / School Field |
 
-![](/images/cca4.png)
+<img src="/images/cca4.png" 
+     style="width:80%">
 
 
 ###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
