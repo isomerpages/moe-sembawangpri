@@ -17,7 +17,7 @@ Insert introduction video here.
 |  Venue | PAL Room |
 
 <img src="/images/idance.png" 
-     style="width:80%">
+     style="width:65%">
 
 ###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !
 
