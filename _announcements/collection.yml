@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Open Letter from School Leaders 2.md
       - 2022 Booklists.md
       - Transition to Primary 1.md
       - Sembawang Buzz.md
