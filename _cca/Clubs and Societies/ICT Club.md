@@ -4,7 +4,11 @@ permalink: /cca/Clubs-and-Societies/ictclub
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![](/images/ictlogo.png)
+### ICT Club
+
+<img src="/images/ictlogo.png" 
+     style="width:80%">
+
 
 ICT Club CCA aspires to groom little ICT professionals who will be equipped with ICT skills to handle the technology-enabled future. Selected students will also get to take part in competitions such as the National Game Creation Competition which requires them to make use of logical thinking.  
   
@@ -16,7 +20,8 @@ Due to the safety management measures in place, students will be attending the C
   
 
 **2022 ICT Club CCA Schedule**
-![](/images/cca15.png)
+<img src="/images/cca15.png" 
+     style="width:80%">
 
 |  |  |
 |---|---|
@@ -25,6 +30,8 @@ Due to the safety management measures in place, students will be attending the C
 |  Venue | Media Room, Computer Labs |
 
 ![](/images/cca16.png)
+<img src="/images/cca16.png" 
+     style="width:80%">
 
 
 ###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !
