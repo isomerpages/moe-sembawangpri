@@ -19,7 +19,7 @@ _Overview of LLP Framework_
 A series of Growth Mindset lessons is offered to all students to enrich their educational experience and develop them to be self leaders. This includes learning the key messages and strategies of Growth Mindset and structuring time for students for goal-setting and reflections. A student with growth mindset learns from their mistakes (reflective), embraces challenges and puts in effective effort to achieve their goals.
 
 <img src="images/lflp1.png" 
-     style="width:50%">
+     style="width:30%">
 
 **Community Leaders who Advocate**
 
@@ -27,7 +27,7 @@ Learning opportunities for students to advocate and effect positive changes are 
 
 The Primary 4 students had the opportunity to learn more about gracious and safe commuting from SMRT through a virtual dialogue session with a team of SMRT staff. Gleaning from their learning, students designed slogans and made them into badges for the promotion of gracious commuting. The badges were then gifted and explained personally to each Primary 3 student, as part of their efforts to advocate and encourage others to contribute to the cause.
 <img src="images/lflp5.png" 
-     style="width:50%">
+     style="width:60%">
 
 **Student Leaders who Lead Peers and Affect Positive Changes**
 
