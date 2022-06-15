@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/first
+          url: /announcements
         - title: MK @ Sembawang
           description: ""
           url: /mk-sembawang
