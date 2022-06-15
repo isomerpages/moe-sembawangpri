@@ -34,8 +34,8 @@ The PE department believes in the holistic development of a child to enable them
 
 Photos
 <img src="/images/pe1.png" 
-     style="width:35%">
+     style="width:70%">
 <img src="/images/pe2.png" 
-     style="width:35%">
+     style="width:70%">
 
 Last updated : 23/01/2022
