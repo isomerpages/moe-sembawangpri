@@ -17,12 +17,12 @@ Insert introduction video here.
 | Venue <br> | Science Rooms & Level 1 Classrooms |
 
 <img src="/images/cca29.png" 
-     style="width:80%">
+     style="width:70%">
 		 
 **Other photos**
 <img src="/images/cca30.png" 
-     style="width:80%">
+     style="width:65%">
 
-###### **View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !**
+**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !**
 
 Last updated: 12/01/2021
