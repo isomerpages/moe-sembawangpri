@@ -20,9 +20,11 @@ Table tennis is a sport that requires students to possess dexterity and a high l
 |  Venue |  ISH |
 
 <img src="/images/cca6.png" 
-     style="width:80%">
+     style="width:70%">
+<img src="/images/tabletennis.png" 
+     style="width:70%">
+		 
 
+**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !**
 
-###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
-
-Last updated : 10/04/2022
+Last updated: 10/04/2022
