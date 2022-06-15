@@ -75,6 +75,6 @@ This approach takes into account various models that focuses on holistic develop
 *   Emphasise that trust comes with great responsibility
 
 <img src="/images/cmt4.png" 
-     style="width:35%">
+     style="width:90%">
 
 Last updated: 01/01/2022
