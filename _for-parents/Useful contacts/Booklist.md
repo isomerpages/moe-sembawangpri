@@ -14,20 +14,20 @@ third_nav_title: Useful contacts
 
 **Booklist**
 
-[SBPS P1 Booklist 2022.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Booklists/SEPS%20P1%20Booklist.pdf)
+[[SBPS P1 Booklist 2022.pdf]](/files/SEPS%20P1%20Booklist.pdf)
 
-[SBPS P2 Booklist 2022.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Booklists/SEPS%20P2.pdf)
+[[SBPS P2 Booklist 2022.pdf]](/files/SEPS%20P2.pdf)
 
-[SBPS P3 Booklist 2022.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Booklists/SEPS%20P3.pdf)
+[[SBPS P3 Booklist 2022.pdf]](/files/SEPS%20P3.pdf)
 
-[SBPS P4 Booklist 2022.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Booklists/SEPS%20P4.pdf)
+[[SBPS P4 Booklist 2022.pdf]](/files/SEPS%20P4.pdf)
 
-[SBPS P5 Booklist 2022.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Booklists/SEPS%20P5.pdf)
+[[SBPS P5 Booklist 2022.pdf]](/files/SEPS%20P5.pdf)
 
-[SBPS P5 Foundation Booklist 2022.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Booklists/SEPS%20P5%20FDN.pdf)
+[[SBPS P5 Foundation Booklist 2022.pdf]](/files/SEPS%20P5%20FDN.pdf)
 
-[SBPS P6 Booklist 2022.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Booklists/SEPS%20P6.pdf)
+[[SBPS P6 Booklist 2022.pdf]](/files/SEPS%20P6.pdf)
 
-[SBPS P6 Foundation Booklist 2022.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Booklists/SEPS%20P6%20FDN.pdf)
+[[SBPS P6 Foundation Booklist 2022.pdf]](/files/SEPS%20P6%20FDN.pdf)
 
 Last updated : 05/12/2021
