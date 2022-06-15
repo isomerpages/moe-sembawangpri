@@ -17,10 +17,11 @@ Insert video introduction here.
 | Teachers-in-charge | Mdm Liu Hongyan<br><br>Ms Jacintha Devi d/o Tamilveeran |
 |  Venues | 2C and 2E Classrooms |
 
-![](/images/cca17.png)
-![](/images/cca18.png)
+<img src="/images/cca17.png" 
+     style="width:80%">
+<img src="/images/cca18.png" 
+     style="width:80%">
 
 ###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !
-###### 
 
 Last updated: 20/01/2022
