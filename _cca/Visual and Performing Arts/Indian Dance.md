@@ -19,6 +19,6 @@ Insert introduction video here.
 <img src="/images/idance.png" 
      style="width:65%">
 
-###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !
+** View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !**
 
-Last updated : 11/01/2022
+Last updated: 11/01/2022
