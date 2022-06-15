@@ -127,6 +127,6 @@ A list of age-appropriate VIA tasks is provided for students, encouraging them t
 Students learn about the contributions of everyday heroes in Singapore and create artifacts to express appreciation and put our school value, Gratitude, into action. Their expressions of gratitude (notes, letters, artifacts, etc.) were delivered to the everyday heroes who have contributed to improving the lives of others and to the nation 
 
        ●         Clean Up  
-              To maintain a clean and conducive learning environment, students do daily clean-up in their                        classrooms. In addition, the school structures in time for students to conduct a thorough clean-                  up  for the whole school at the end of every semester.  
+              To maintain a clean and conducive learning environment, students do daily clean-up in their classrooms. In addition, the school structures in time for students to conduct a thorough clean-up  for the whole school at the end of every semester.  
   
  Last Updated : 24/04/2022
