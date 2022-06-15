@@ -3,7 +3,10 @@ title: Parents Gateway
 permalink: /for-parents/parents-gateway
 description: ""
 ---
-![](/images/Parents_Gateway.png)
+### Parents Gateway
+
+<img src="/images/Parents_Gateway.png" 
+     style="width:70%">
 The school has embarked on Parents Gateway for all official communication with parents and legal guardians from Jul 2019.
 
 Parents Gateway (PG) is a digital service that connects parents/legal guardians and schools on key administrative matters. PG is a one-stop mobile application for parents/legal guardians and schools to better support their child/ward’s educational journey through improved communication. This application can be downloaded from Play Store (Android users) or Apple Store (IOS users).
