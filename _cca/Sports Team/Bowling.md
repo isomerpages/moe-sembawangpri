@@ -15,7 +15,8 @@ Insert introduction video here.
 | Teachers-in-charge | Ms Leong Wei Yee Tracy<br><br>Ms Heow Tsuey Yan<br><br>Mdm Jessie Ho Yit Har |
 |  Venue | Yishun Safra / Orchid Country Club |
 
-![](/images/cca5.png)
+<img src="/images/cca5.png" 
+     style="width:80%">
 
 
 ###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
