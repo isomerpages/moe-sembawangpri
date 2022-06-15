@@ -13,6 +13,7 @@ Dear Parents,
 The 2022 booklists are available now. Click [here](https://moe-sembawangpri-staging.netlify.app/for-parents/useful-contacts/booklist) to get the booklists.
 
 **Transition to Primary 1**
+
 Attached is the document to upload with the following write up.
 Dear Primary 1 Parents, do refer to the [pdf file](/files/transition.pdf) for some tips for transition from preschool to Primary 1.
 
