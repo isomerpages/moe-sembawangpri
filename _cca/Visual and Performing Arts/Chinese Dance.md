@@ -14,7 +14,7 @@ Chinese Dance CCA aspires to groom little dancers who are passionate about not o
 |  Venue | MPH |
 
 <img src="/images/cca7.png" 
-     style="width:80%">
+     style="width:70%">
 
 Insert introduction video here.
 
