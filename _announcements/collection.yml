@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - On the Red Dot Preview.md
-      - Safe Management Measures.md
-      - Sembawang Buzz.md
-      - Transition to Primary 1.md
-      - 2022 Booklists.md
       - Open Letter from School Leaders 2.md
+      - 2022 Booklists.md
+      - Transition to Primary 1.md
+      - Sembawang Buzz.md
+      - Safe Management Measures.md
+      - On the Red Dot Preview.md
