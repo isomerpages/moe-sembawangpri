@@ -13,10 +13,10 @@ description: ""
 
      A multiliterate student is one who is able to critically read multiple modes of communication (e.g. printed texts with accompanying visuals, digital animations, music and sound effects etc) while also taking into account socio-cultural factors. Students learn to read critically through Curriculum Innovation lessons where inquiry through dialogues take place and metacognitive skills are practised. Below are some photos taken during these lessons.
 		
-	![](/images/el1.png)
+<img src="/images/el98.png" 
+     style="width:35%">
 	
-	
-	**Learning Outside the Classroom**
+**Learning Outside the Classroom**
 
      In order to be empathetic communicators, students have to be aware of their socio-cultural environment. Therefore, we provide rich learning experiences such as the theatre experiences and learning journeys.
 
@@ -38,8 +38,9 @@ Sensory Path 
 
           The sensory path is an inter-departmental initiative between the English Language and Physical Education departments. This learning path combines the kinaesthetic and cognitive faculties of the child as they navigate the colourful and exciting stations and walkways. This sensory path pays homage to our school song’s chorus: Learning is an adventure; Learning is fun!
 					
-![](/images/el2.png)
-
+<img src="/images/el2.png" 
+     style="width:35%">
+		 
 **Differentiated Programmes to support our students**
 
      On top of our usual classroom lessons that happen during curriculum time, we offer differentiated programmes to cater to students of different needs. They range from HAL to Pull-Out programmes. The goal is always to match our students to their readiness level so that they are always progressing steadily to becoming effective, empathetic and confident communicators.
@@ -56,7 +57,8 @@ School-based Dyslexia Remediation (SDR) Khadijah
 
      This remediation programme utilises internationally tested and proven methods to teach reading and spelling to students belonging to the dyslexic profile. For instance, our SDR-trained teachers teach these students to make the connections between letters and sounds, as well as read text explicitly with methods that involve multiple senses such as sight, sound, movement and touch.
 		 
-![](/images/el3.png)
+<img src="/images/el3.png" 
+     style="width:35%">
 
 Reading Remediation Programme (RRP)
 
@@ -98,18 +100,22 @@ P5 and P6: What’sUp newspaper 
 
      A beautifully decorated library invites students to revisit it again and again. Our library is a beautiful and conducive place for book lovers!
 		 
-![](/images/el4.png)
+<img src="/images/el4.png" 
+     style="width:35%">
 
 Genres Reading Programme
 
      Our students also participate in reading programmes during assembly that teaches them about different book genres. Book genres covered include fantasy, fairy tales, fractured fairy tales and pourquoi tales. Students were tasked to be creative writers of their own stories in any of these genres.
 		 
-![](/images/el5.png)
+<img src="/images/el5.png" 
+     style="width:35%">
+		 
 Reading Parents Programme
 
      Our Parents Support Group are with us to ensure our struggling readers are able to enjoy the world of books. They attended a carefully-tailored session before being paired with a student to enjoy a book.
 		 
-![](/images/el6.png)
+<img src="/images/el6.png" 
+     style="width:35%">
 
 **Competitions**
 
@@ -140,9 +146,14 @@ SOTA Creative Writing Competition 
   
 
      Our students get to immerse themselves in a wide variety of enriched activities during their Experiential Learning Week. Below are some memorable photos that capture the highlights of the week last year.  
-  
-![](/images/el7.png)
-![](/images/el8.png)
-![](/images/el9.png)
+ 
+ <img src="/images/el7.png" 
+     style="width:35%">
+		 
+ <img src="/images/el8.png" 
+     style="width:35%">
+		 
+ <img src="/images/el9.png" 
+     style="width:35%">
 
 Last updated: 23/01/2022
