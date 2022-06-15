@@ -14,7 +14,8 @@ Drama Club CCA aspires to groom little actors/actresses who are expressive and h
 | Teachers-in-charge | Ms Nur Syafiqah Binte Eddie Yusof<br><br>Ms Ganda Sari Binte Chokri |
 |  Venue | MRL  |
 
-![](/images/cca11.png)
+<img src="/images/cca11.png" 
+     style="width:80%">
 
 Insert video introduction here.
 
