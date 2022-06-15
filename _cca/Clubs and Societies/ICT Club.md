@@ -29,7 +29,6 @@ Due to the safety management measures in place, students will be attending the C
 | Teachers-in-charge | Mr Andi Fatahillah<br>  <br>Ms Ong Jia Hui<br><br>Ms Shermeine Chua<br>          <br>Ms Carine Oh Chew Hoon<br> |
 |  Venue | Media Room, Computer Labs |
 
-![](/images/cca16.png)
 <img src="/images/cca16.png" 
      style="width:80%">
 
