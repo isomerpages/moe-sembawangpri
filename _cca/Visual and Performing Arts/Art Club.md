@@ -55,7 +55,8 @@ We brainstormed on what constitutes Singapore and what it means to be a Singapor
   
 
 We used coloured pencils and markers and a variety of mixed media like paper, cardboards, styrofoam and other recycled materials.
-![](/images/ccaart.png)
+<img src="/images/ccaart.png" 
+     style="width:80%">
 
 **2\. NDP 2020 Pledge Card Design Competiton**  
   
@@ -64,11 +65,12 @@ One of our P5 Art Club student, Lim Chen Xun’s design was selected by the Art 
 1) the credit for funpack pledge card designs. You can download it [here](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/CCA/Clubs%20&%20Societies/Art%20Club/NDP%20Card%20Design.pptx)
 2) time capsule gift for Singapore’s 55th at NMS, and  
 3) National Museum of Singapore gallery showcase.
-
-![](/images/cca12.png)
+<img src="/images/cca12.png" 
+     style="width:80%">
 
 Other Photos
-![](/images/cca13.png)
+<img src="/images/cca13.png" 
+     style="width:80%">
 
 Insert video introduction here.
 
