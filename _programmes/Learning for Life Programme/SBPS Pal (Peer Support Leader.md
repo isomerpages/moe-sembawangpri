@@ -21,6 +21,7 @@ The selected students from each class undergo an in-house training program that 
 |---|
 | ● How to be a good listener<br>● Reaching out to friends and building a positive class culture<br>● Offering social-emotional support to friends in need<br>● Promoting positive behaviour |
 
-![](/images/sbpspal.png)
+<img src="images/sbpspal.png" 
+     style="width:50%">
 
 Last update: 25/04/2022
