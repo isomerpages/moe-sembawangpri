@@ -3,9 +3,7 @@ title: Safe Management Measures
 permalink: /for-parents/safe-management-measures
 description: ""
 ---
-**Hand Sanitizers  
-  
-**
+**Hand Sanitizers**
 
 Over and above the hand sanitizers issued to your child, the school has also deployed hand sanitizers at the entry points to the assembly areas (MPH, ISH and sheltered basketball court). Your child is required to apply the hand sanitizer solution when he/she reaches the assembly area before proceeding to the allocated section in the assembly area. The purpose of doing so is to sanitize the hands as your child may come into contact with surfaces along the way to the school. In addition, the school has also deployed sanitizer dispensers at various locations in the school, to facilitate ease of sanitization should your child is unable to perform washing of hands.
 
