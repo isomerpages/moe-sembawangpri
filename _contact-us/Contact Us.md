@@ -17,6 +17,7 @@ description: ""
 
 Social Media:
 
-<p><a href="https://www.moe.gov.sg/"> 
-<img style="width:25%" src="/images/link14.png">  
+<p><a href="https://www.instagram.com/sembawangprimaryschool/?hl=en"> 
+<img style="width:25%" src="/images/sm1.png">  
 </a></p>
+
