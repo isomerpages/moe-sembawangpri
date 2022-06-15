@@ -4,9 +4,9 @@ permalink: /for-parents/Parents-Support-Group
 description: ""
 third_nav_title: Parents Support Group
 ---
-
 Parents, being key stakeholders, are an important link between the school and our children. In our journey to provide our children with a holistic education, we believe in forging a strong working relationship with parents.
-![](/images/PSG.jpeg)
+<img src="/images/PSG.jpeg" 
+     style="width:70%">
 
 The partnership with parents aims to support parents so that are they are able and are empowered to:  
   
@@ -19,7 +19,8 @@ The partnership with parents aims to support parents so that are they are able a
 
 **Parent Support Group (PSG) Executive Committee:**
 
-![](/images/psg.png)
+<img src="/images/psg.png" 
+     style="width:85%">
 
 Parents who are interested to volunteer their services by being a member of the Parent Support Group can call the General Office at 67567330 or email: [sbps.parents@gmail.com](mailto:sbps.parents@gmail.com)  
   
