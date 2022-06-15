@@ -6,11 +6,17 @@ third_nav_title: Mother Tongue Languages
 ---
 ### Tamil Language
 
-![](/images/tl1.png)
-![](/images/tl2.png)
-![](/images/tl3.png)
-![](/images/tl4.png)
-![](/images/tl6.png)
-![](/images/tl7.png)
+<img src="/images/tl1.png" 
+     style="width:35%">
+<img src="/images/tl2.png" 
+     style="width:35%">
+<img src="/images/tl3.png" 
+     style="width:35%">
+<img src="/images/tl4.png" 
+     style="width:35%">
+<img src="/images/tl6.png" 
+     style="width:35%">
+<img src="/images/tl7.png" 
+     style="width:35%">
 
 Last updated : 01/01/2022
