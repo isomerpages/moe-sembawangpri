@@ -33,6 +33,7 @@ Outdoor Education - Plant-Potting
 
 _Students learnt to pot plants and handle them with care. Our students’ specially designed pots of plants and cards were delivered to the elderly at Woodlands Care Centre and Sree Narayana Mission (Singapore). As part of their Values in Action (VIA) experience, students learnt that even at a young age, they can contribute meaningfully to the community too._
 
-![](/images/ce8.png)
+<img src="/images/ce8.png" 
+     style="width:35%">
 
 Last Updated : 24/04/2022
