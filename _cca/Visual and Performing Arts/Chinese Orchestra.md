@@ -12,7 +12,8 @@ Chinese Orchestra CCA aspires to groom little musicians who can appreciate and p
 | Teachers-in-charge | Mdm Wang Xinling<br>Mdm Wu Yongyun <br>Mdm Zheng Hongyu <br>Mrs Vivien Seah-Zee Chung Lah<br>Mdm Shadidah Bte Mokhtar |
 |  Venue | Band Room and Music Rooms  |
 
-![](/images/cca14.png)
+<img src="/images/cca14.png" 
+     style="width:80%">
 
 Insert introduction video here.
 
