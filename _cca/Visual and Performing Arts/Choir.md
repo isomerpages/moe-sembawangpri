@@ -15,7 +15,7 @@ Choir CCA aspires to create little singers who are passionate about music and si
 |  Venue | Music Room 1  |
 
 <img src="/images/cca10.png" 
-     style="width:80%">
+     style="width:65%">
 
 Insert introduction video here.
 
