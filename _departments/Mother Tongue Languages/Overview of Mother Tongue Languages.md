@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue Languages
 ---
 ### Overview of Mother Tongue Languages
-### 
+
 **Our focus : To develop effective communicators and self-directed learners with a passion for the Mother Tongue Language and deep understanding of their cultural heritage.**
 
 The Mother Tongue department believes in equipping students with the knowledge and skills to be effective and confident communicators in the 21st century. Our teachers will focus on helping every child acquire the four language skills and develop a deep understanding of their cultural heritage and values.
