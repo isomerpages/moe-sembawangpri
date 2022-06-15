@@ -21,7 +21,6 @@ Insert video here.
      style="width:70%">
 <img src="/images/smbqr.png" 
      style="width:70%">
-![](/images/smb.png)
-![](/images/smbqr.png)
+
 
 Last updated : 01/01/2022
