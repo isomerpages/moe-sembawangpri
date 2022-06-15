@@ -8,8 +8,6 @@ third_nav_title: Aesthetics
 The Art Department believes in providing students opportunities to learn and appreciate art. Through equipping students with skills, they will be able to make meaning of artworks and relate it to their own experiences.  
   
 
-####   
-
 **Key Programmes**
   
 
