@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /programmes/Departments/mathematics
 description: ""
 ---
-
 ### Mathematics
 
 A strong foundation in numeracy is important as mathematical skills are critical to many of our everyday activities. Furthermore, with Science Technology, Engineering and Mathematics (STEM) as the main driver of emerging job markets, our students need to have strong mathematical skills to be able to access the opportunities, which will become available in the years head.
@@ -14,8 +13,9 @@ Students’ passion in a subject do influence their motivation to learn and achi
 *   develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem solving;
 *   build confidence and foster joy of learning in mathematics.
 
-![](/images/math1.png)
-
+<img src="/images/math1.png" 
+     style="width:35%">
+		 
 In addition to the Mathematics curriculum, the department administers the following programmes to help all students achieve success in learning mathematics. 
 
 **Learning Support for Mathematics Programme**  
@@ -44,13 +44,19 @@ The programme allows students who are mathematically inclined to have opportunit
 
 **Financial Literacy Programme**  
  
- ![](/images/math2.png)
+ <img src="/images/math2.png" 
+     style="width:35%">
+		 
 Financial literacy complements the teaching of consumer mathematics concepts by providing a real world context for the students to make sense of quantities and to reason inductively about data. It provides a platform for students to apply mathematics in everyday decision making, beyond merely finding the “correct” answers.
 
 Through the financial literacy programme, authentic applications of money decisions are integrated into the mathematics curriculum topics of money, graphs, fraction and percentage. Through these lessons, students also gain basic knowledge on economics and financial management skills.
 
 **Math Homekit**  
 
-![](/images/math3.png)
+<img src="/images/math3.png" 
+     style="width:35%">
+		 
 Research shows that families are an essential part of the learning of Mathematics. Doing and supporting mathematics learning at home can make a great difference in a child’s mathematics learning. When children participate in the activities with family members, their self-confidence increases and their attitude towards mathematics becomes
 The Math Homekit has been designed to provide opportunities for parents and their children to solve problems, to use logical thinking, to develop strategies, and to communicate mathematical thinking and understanding. Some questions in the Homekit booklet can be used by parents to help their children gain a clearer understanding of the mathematics concepts being explored. While some of the activities review concepts that have already been taught in class, some extend the child’s understanding and some prepare the child for concepts to be explored in class in the near future.
+
+Last updated : 01/01/2022
