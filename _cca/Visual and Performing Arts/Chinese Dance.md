@@ -14,10 +14,10 @@ Chinese Dance CCA aspires to groom little dancers who are passionate about not o
 |  Venue | MPH |
 
 <img src="/images/cca7.png" 
-     style="width:70%">
+     style="width:65%">
 
 Insert introduction video here.
 
-###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !
+**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !**
 
-Last updated : 11/01/20221
+Last updated: 11/01/20221
