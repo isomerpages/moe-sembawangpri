@@ -16,7 +16,8 @@ Insert introduction video here.
 | Teachers-in-charge | <br>Mr Mohammad Haslam Rahmat<br><br>Ms Mohamad Irwan Bin Mohamad Mazlan<br><br>Mr Silas Abdul Karim<br>Mdm Srimarlina Binte Mohamed Esa<br>Mdm Kalaiyarasi d/o Kalidasan |
 | Venue  | ISH / MPH / School Field |
 
-![](/images/cca3.png)
+<img src="/images/cca3.png" 
+     style="width:80%">
 
 
 ###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
