@@ -33,7 +33,7 @@ Due to the safety management measures in place, students will be attending the C
      style="width:80%">
 
 
-###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !
+**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !**
 
 
 Last updated: 23/02/2022
