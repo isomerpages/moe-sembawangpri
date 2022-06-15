@@ -1,4 +1,5 @@
 collections:
   announcements:
     output: true
-    order: []
+    order:
+      - Open Letter from School Leaders 2 (Click here to open the Letter).md
