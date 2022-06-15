@@ -28,9 +28,9 @@ The prefects take part in the following milestone programs:
 | Head Prefect Campaign | Selected P6s | Selected prefects go through a selection panel to identify 3 candidates to run for the Head Prefect campaign. These Head Prefect candidates develop greater leadership skills such as critical thinking, communication and problem-solving skills as they prepare their campaign manifesto and materials under the guidance of teachers. These selected Prefects demonstrate outstanding leadership and personal qualities and were nominated by their peers, supported by teachers.<br>Prefects who did not get selected at the panel will form the executive committee (EXCO) consisting of the following roles. |
 
 <img src="images/pb1.png" 
-     style="width:50%">
+     style="width:80%">
 <img src="images/pb2.png" 
-     style="width:50%">
+     style="width:80%">
 
 
 Last updated: 25/04/2022
