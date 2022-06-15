@@ -17,9 +17,9 @@ Insert introduction video here.
 | Venue  | ISH / MPH / School Field |
 
 <img src="/images/cca3.png" 
-     style="width:80%">
+     style="width:70%">
 
 
-###### View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !
+**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !**
 
-Last updated : 10/04/2022
+Last updated: 10/04/2022
