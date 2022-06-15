@@ -17,7 +17,7 @@ In Sembawang Primary School, we adopt the the PSR Framework which embodies the 3
 ●       Peer Influencing
 
 <img src="/images/cce2.png" 
-     style="width:35%">_PSR Framework adopted by the school_
+     style="width:70%">_PSR Framework adopted by the school_
 
     **Level 1 - Every Child is a Peer Supporter**
 
@@ -26,7 +26,7 @@ The students are taught that every student can play the role of a peer supporter
 Through multiple programs in school, students are taught how to be a good friend to their peers and show care for each other.
 
 <img src="/images/cce3.png" 
-     style="width:35%">_Discussion with students on Peer Support_
+     style="width:90%">_Discussion with students on Peer Support_
 
 Additionally, every student in Sembawang Primary School will be paired to at least 1 **_Peer Buddy,_** a fellow student that is either from their form classes or CCA.
 
@@ -37,7 +37,7 @@ The role of the Peer Buddy is to:
 ●      Check-in on their buddies when they have been away from school.
 
 <img src="/images/cce7.png" 
-     style="width:35%">
+     style="width:90%">
 1.  **Selected students trained to be Peer Support Leaders**
 
 In each class, teachers will select suitable students to receive further training on how to be a SBPS PAL (Peer Support Leader).
@@ -72,7 +72,7 @@ The students were able to listen and interact with industry professionals from d
 
 ●       Medical
 <img src="/images/cce8.png" 
-     style="width:35%">
+     style="width:90%">
 **Form Teacher Guidance Period (FTGP)**
 
 CCE (FTGP) lessons involve the explicit teaching and learning of fundamental social-emotional skills which are anchored on values and citizenship dispositions. The activities, reflections and discussions during the lessons also help strengthen positive Teacher-Student Relationships (TSR) and build supportive peer relationships.
@@ -112,6 +112,6 @@ SBPS Star is a school-based recognition for students who have demonstrated exemp
 
 _Collar pin for SBPS Stars_
 <img src="/images/cce5.png" 
-     style="width:35%">
+     style="width:80%">
 
 Last updated : 08/05/2022
