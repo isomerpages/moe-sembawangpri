@@ -61,8 +61,7 @@ To find out more about Special Educational Needs and how parents could support t
 
 <img src="/images/cmt5.png" 
      style="width:80%">
-On the left: Ms Farah Syahirah Bte Abdul Wahab
-[farah\_syahirah\_abdul\_wahab@schools.gov.sg](mailto:farah_syahirah_abdul_wahab@schools.gov.sg)
+On the left: Ms Farah Syahirah Bte Abdul Wahab [farah\_syahirah\_abdul\_wahab@schools.gov.sg](mailto:farah_syahirah_abdul_wahab@schools.gov.sg)
 
 On the right: Mrs Cynthia Chong 
 [lim\_mei\_poh\_cynthia@schools.gov.sg](mailto:lim_mei_poh_cynthia@schools.gov.sg)
