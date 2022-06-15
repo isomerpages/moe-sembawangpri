@@ -14,7 +14,7 @@ Students’ passion in a subject do influence their motivation to learn and achi
 *   build confidence and foster joy of learning in mathematics.
 
 <img src="/images/math1.png" 
-     style="width:35%">
+     style="width:60%">
 		 
 In addition to the Mathematics curriculum, the department administers the following programmes to help all students achieve success in learning mathematics. 
 
@@ -45,7 +45,7 @@ The programme allows students who are mathematically inclined to have opportunit
 **Financial Literacy Programme**  
  
  <img src="/images/math2.png" 
-     style="width:35%">
+     style="width:60%">
 		 
 Financial literacy complements the teaching of consumer mathematics concepts by providing a real world context for the students to make sense of quantities and to reason inductively about data. It provides a platform for students to apply mathematics in everyday decision making, beyond merely finding the “correct” answers.
 
@@ -54,7 +54,7 @@ Through the financial literacy programme, authentic applications of money decisi
 **Math Homekit**  
 
 <img src="/images/math3.png" 
-     style="width:35%">
+     style="width:60%">
 		 
 Research shows that families are an essential part of the learning of Mathematics. Doing and supporting mathematics learning at home can make a great difference in a child’s mathematics learning. When children participate in the activities with family members, their self-confidence increases and their attitude towards mathematics becomes
 The Math Homekit has been designed to provide opportunities for parents and their children to solve problems, to use logical thinking, to develop strategies, and to communicate mathematical thinking and understanding. Some questions in the Homekit booklet can be used by parents to help their children gain a clearer understanding of the mathematics concepts being explored. While some of the activities review concepts that have already been taught in class, some extend the child’s understanding and some prepare the child for concepts to be explored in class in the near future.
