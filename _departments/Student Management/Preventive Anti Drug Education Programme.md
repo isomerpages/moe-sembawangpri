@@ -41,21 +41,20 @@ There are also resources for parents to share with their children about the dang
 
 **PDE for Parents** 
 
-[a5-parent-brochure-english.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/a5-parent-brochure-english.pdf) 
+[[a5-parent-brochure-english.pdf]](/files/a5-parent-brochure-english.pdf)
 
-[a5-parent-brochure-chinese.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/a5-parent-brochure-chinese.pdf) 
+[[a5-parent-brochure-chinese.pdf]](/files/a5-parent-brochure-chinese.pdf)
 
-[a5-parent-brochure-malay.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/a5-parent-brochure-malay.pdf)
+[[a5-parent-brochure-malay.pdf]](/files/a5-parent-brochure-malay.pdf)
 
-[a5-parent-brochure-tamil.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/a5-parent-brochure-tamil.pdf)  
+[[a5-parent-brochure-tamil.pdf]](/files/a5-parent-brochure-tamil.pdf)
 
-  
 
 **Card Messages for Parents and Educators/Counsellours**    
 
-[pde-parents-message-card.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/pde-parents-message-card.pdf)      
+[[pde-parents-message-card.pdf]](/files/pde-parents-message-card.pdf)
 
-[pde-educators-counsellors-message-card.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/pde-educators-counsellors-message-card.pdf) 
+[[pde-educators-counsellors-message-card.pdf]](/files/pde-educators-counsellors-message-card.pdf)
 
 **AR Mobile Game App for Primary School**  
 
