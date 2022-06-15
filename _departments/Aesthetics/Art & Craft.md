@@ -17,7 +17,9 @@ The Art Department believes in providing students opportunities to learn and app
 *   P5 Art Mosaic
 
 Photos
-![](/images/art1.png)
-![](/images/art2.png)
+<img src="/images/art1.png" 
+     style="width:35%">
+<img src="/images/art2.png" 
+     style="width:35%">
 
 Last updated : 01/01/2022
