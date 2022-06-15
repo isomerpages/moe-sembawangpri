@@ -112,6 +112,6 @@ SBPS Star is a school-based recognition for students who have demonstrated exemp
 
 _Collar pin for SBPS Stars_
 <img src="/images/cce5.png" 
-     style="width:80%">
+     style="width:67%">
 
 Last updated : 08/05/2022
