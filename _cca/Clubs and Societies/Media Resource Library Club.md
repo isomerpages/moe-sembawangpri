@@ -6,12 +6,18 @@ third_nav_title: Clubs and Societies
 ---
 ### Media Resource Library Club
 
-![](/images/cca19.png)
-![](/images/cca20.png)
-![](/images/cca21.png)
-![](/images/cca22.png)
-![](/images/cca23.png)
-![](/images/cca24.png)
+<img src="/images/cca19.png" 
+     style="width:80%">
+<img src="/images/cca20.png" 
+     style="width:80%">!
+<img src="/images/cca21.png" 
+     style="width:80%">
+<img src="/images/cca22.png" 
+     style="width:80%">
+<img src="/images/cca23.png" 
+     style="width:80%">		 
+<img src="/images/cca24.png" 
+     style="width:80%">		 
 
 Insert video introduction here.
 
