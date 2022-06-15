@@ -21,7 +21,8 @@ third_nav_title: Non Academic Achievements
 |:---:|:---:|:---:|:---:|:---:|
 | Silver | Silver | Gold |  Gold | Gold  |
 
-![](/images/redcross.png)
+<img src="images/redcross.png" 
+     style="width:50%">
 
 **Chess Club**
 
