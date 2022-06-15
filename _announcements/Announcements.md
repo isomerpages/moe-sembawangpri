@@ -5,7 +5,7 @@ description: ""
 ---
 **Open Letter from School Leaders 2**
 
-(Click [here](/files/AdmissionLetter_90023533_Offer%20.pdf) to open the letter)
+(Click [here](/files/Open%20Letter%20from%20SLs_02-2022.pdf)to open the letter)
 
 **2022 Booklists**
 
