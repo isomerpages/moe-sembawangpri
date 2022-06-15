@@ -16,3 +16,7 @@ description: ""
 | Nearest MRT Station: | Sembawang MRT |
 
 Social Media:
+
+<p><a href="https://www.moe.gov.sg/"> 
+<img style="width:25%" src="/images/link14.png">  
+</a></p>
