@@ -1,4 +1,5 @@
 collections:
   mk-sembawang:
     output: true
-    order: []
+    order:
+      - MK@Sembawang.md
