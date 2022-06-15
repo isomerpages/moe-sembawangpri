@@ -21,7 +21,7 @@ Due to the safety management measures in place, students will be attending the C
 
 **2022 ICT Club CCA Schedule**
 <img src="/images/cca15.png" 
-     style="width:80%">
+     style="width:70%">
 
 |  |  |
 |---|---|
