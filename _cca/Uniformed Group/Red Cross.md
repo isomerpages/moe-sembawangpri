@@ -16,10 +16,12 @@ Insert introduction video here.
 | Teachers-in-charge | Ms Nursahila Bte Roszelan<br>Ms Ruhaida Bte Hashim |
 | Venue <br> | Science Rooms & Level 1 Classrooms |
 
-![](/images/cca29.png)
-
+<img src="/images/cca29.png" 
+     style="width:80%">
+		 
 **Other photos**
-![](/images/cca30.png)
+<img src="/images/cca30.png" 
+     style="width:80%">
 
 ###### **View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !**
 
