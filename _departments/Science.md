@@ -35,14 +35,14 @@ Students from P3 to P6 enjoy opportunities to attend learning journeys for rich 
 | Primary 6 | Adaptations Workshop and Guided Tour at Lee Kong Chian Natural History Museum | Adaptations, Man’s Impact on the Environment |
 
 <img src="/images/sci1.png" 
-     style="width:35%">
+     style="width:60%">
 
 **Science Olympiad Training Programme**
 
 The Science Olympiad Training Programme is offered to selected Primary 5 students with an aptitude for Science. Through enhancing their repertoire of Science problem-solving knowledge and skills, the programme prepares these students to participate in the various Science Olympiad competitions held annually.
 
 <img src="/images/sci2.png" 
-     style="width:35%">
+     style="width:60%">
 
 **E2K Science Programme**  
 
