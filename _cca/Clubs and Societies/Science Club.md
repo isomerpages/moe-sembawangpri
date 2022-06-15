@@ -17,15 +17,14 @@ Insert video introduction here.
 | Venue <br> | Science Rooms & Level 1 Classrooms |
 
 <img src="/images/cca25.png" 
-     style="width:80%">
+     style="width:70%">
 
 **Other photos**
 <img src="/images/cca26.png" 
-     style="width:80%">
+     style="width:70%">
 <img src="/images/cca27.png" 
-     style="width:80%">
+     style="width:70%">
 <img src="/images/cca28.png" 
-     style="width:80%">
+     style="width:70%">
 
-Last updated : 24/05/2022
 Last updated : 24/05/2022
