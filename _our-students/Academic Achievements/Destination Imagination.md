@@ -16,5 +16,5 @@ third_nav_title: Academic Achievements
 
 <img src="images/piec.png" 
      style="width:50%">
-![](/images/piec.png)
+
 Last updated : 01/01/2022
