@@ -15,7 +15,7 @@ Malay Dance CCA aspires to groom little dancers who are passionate about not onl
 |  Venue | Dance Studio |
 
 <img src="/images/cca9.png" 
-     style="width:75%">
+     style="width:60%">
 
 Insert introduction video here.
 
