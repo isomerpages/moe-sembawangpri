@@ -14,7 +14,7 @@ sections:
           url: /announcements/first
         - title: MK @ Sembawang
           description: ""
-          url: /our-staff
+          url: /mk-sembawang
         - title: Quick Links
           description: ""
           url: /quick-links/general
