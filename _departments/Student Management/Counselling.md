@@ -26,12 +26,14 @@ Parents’/Guardians’ consent would be required, and their active partnership 
 
 School Counsellor
 
-![](/images/cmt2.png)
+<img src="/images/cmt2.png" 
+     style="width:35%">
 I believe every child can learn and achieve their fullest potential when given appropriate support through specialised interventions to manage issues such as anger, grief/loss, fear, trauma, stress and low self-esteem. Also, I work with external agencies to provide support the wellbeing of the child and family. The profession gives me a lot of satisfaction although at times I have to face challenges. I feel happy when the child is able to manage himself/herself emotionally.  
 
 If you have any enquiries, please feel free to email me at [fong\_lai\_see@moe.edu.sg](mailto:fong_lai_see@moe.edu.sg)
 
-![](/images/cmt3.png)
+<img src="/images/cmt3.png" 
+     style="width:35%">
 
 On the left: Mdm Tamarai  
 [Tamarai\_joseph@moe.edu.sg](mailto:Tamarai_joseph@moe.edu.sg)
