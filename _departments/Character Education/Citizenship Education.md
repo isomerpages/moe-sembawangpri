@@ -38,10 +38,13 @@ There are opportunities for students to be engaged in Field Based Learning which
 | Primary 5 | Little India | Exploring the customs and traditions of the Indian community in Singapore and appreciating the cultural diversity in Singapore. |
 | Primary 6 | Asian Civilisations Museum | Discovering Southeast Asia: How is Southeast Asia important to Singapore? |
 
-![](/images/ce1.png)
+<img src="/images/ce1.png" 
+     style="width:35%">
 Students have the opportunities to engage in project works where they synthesise knowledge from Social Studies lessons, collaborate with their peers and communicate their ideas effectively to their classmates.
 
-![](/images/ce2.png)
+<img src="/images/ce2.png" 
+     style="width:35%">
+		 
 **National Education**
 
 National Education (NE) aims to instill national identity and the spirit of togetherness in our students.
@@ -56,10 +59,13 @@ The NE Commemorative Days are linked to important points in Singapore’s histor
 
 ●        National Day
 
-![](/images/ce3.png)
+<img src="/images/ce3.png" 
+     style="width:35%">
+		 
 Since 2020, our students have been participating in “Our Heart for Singapore” where a gallery was put together to celebrate Singapore’s birthday. Students wrote down their stories, well-wishes and pledges to Singapore and created artworks based on what they have learnt.
 
-![](/images/ce4.png)
+<img src="/images/ce4.png" 
+     style="width:35%">
 
 **Heritage Gallery**
 
@@ -73,7 +79,8 @@ Stories about life in the kampong (since the 1800s) are woven as a running narra
 
 ●       Post-war to modern-day era
 
-![](/images/ce5.png)
+<img src="/images/ce5.png" 
+     style="width:35%">
 
 **Overseas Learning Journeys**
 
@@ -87,10 +94,12 @@ The school organises Overseas Learning Journey (OLJ) to provide internationalisa
 
 Our students have been to various countries to immerse in different environments through classroom learning, and visit places of interest to get a taste of the richness of the history, cultures and traditions of different countries.
 
-![](/images/ce6.png)
+<img src="/images/ce6.png" 
+     style="width:35%">
 Due to Covid-19 pandemic, outbound overseas trips were deferred. The school organises virtual overseas learning journey so that students will have the opportunity to interact with students of different countries through virtual platforms and have a deeper understanding of ASEAN countries through authentic learning contexts.
 
-![](/images/ce7.png)
+<img src="/images/ce7.png" 
+     style="width:35%">
 
 **Values in Action**
 
