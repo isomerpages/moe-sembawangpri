@@ -15,7 +15,7 @@ Drama Club CCA aspires to groom little actors/actresses who are expressive and h
 |  Venue | MRL  |
 
 <img src="/images/cca11.png" 
-     style="width:80%">
+     style="width:65%">
 
 Insert video introduction here.
 
