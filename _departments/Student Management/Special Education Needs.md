@@ -60,7 +60,7 @@ To find out more about Special Educational Needs and how parents could support t
 [https://beta.moe.gov.sg/special-educational-needs/school-support/mainstream/](https://beta.moe.gov.sg/special-educational-needs/school-support/mainstream/)
 
 <img src="/images/cmt5.png" 
-     style="width:35%">
+     style="width:80%">
 On the left: Ms Farah Syahirah Bte Abdul Wahab
 [farah\_syahirah\_abdul\_wahab@schools.gov.sg](mailto:farah_syahirah_abdul_wahab@schools.gov.sg)
 
@@ -68,7 +68,7 @@ On the right: Mrs Cynthia Chong 
 [lim\_mei\_poh\_cynthia@schools.gov.sg](mailto:lim_mei_poh_cynthia@schools.gov.sg)
 
 <img src="/images/cmt6.png" 
-     style="width:35%">
+     style="width:80%">
 On the left: Ms Melissa Yeo
 [yeo\_may\_lynn\_melissa@schools.gov.sg](mailto:yeo_may_lynn_melissa@schools.gov.sg)
 
