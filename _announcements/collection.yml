@@ -2,4 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - On the Red Dot Preview.md
+      - Announcements.md
