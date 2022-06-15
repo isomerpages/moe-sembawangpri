@@ -53,7 +53,7 @@ Through the financial literacy programme, authentic applications of money decisi
 
 **Math Homekit**  
 
-<img src="/images/math3.png" 
+<img src="/images/mathkit.png" 
      style="width:60%">
 		 
 Research shows that families are an essential part of the learning of Mathematics. Doing and supporting mathematics learning at home can make a great difference in a child’s mathematics learning. When children participate in the activities with family members, their self-confidence increases and their attitude towards mathematics becomes
