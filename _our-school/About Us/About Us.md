@@ -35,19 +35,24 @@ THE BEST FROM ME.
 Relational values are needed to build quality relationships with others; Functional values help us to be effective individuals . Together, they nurture the whole being.
   
 **Relational**
-
-![](/images/SPS_Wall%20Mural_FA-06.jpg)
-
-![](/images/SPS_Wall%20Mural_FA-05.jpg)
-
-![](/images/SPS_Wall%20Mural_FA-04.jpg)
+<img src="images/SPS_Wall%20Mural_FA-06.jpg" 
+     style="width:50%">
+		 
+<img src="images/SPS_Wall%20Mural_FA-05.jpg" 
+     style="width:50%">
+		 
+<img src="images/SPS_Wall%20Mural_FA-04.jpg" 
+     style="width:50%">![]
 
 **Functional**
 
-![](/images/SPS_Wall%20Mural_FA-01.jpg)
+<img src="images/SPS_Wall%20Mural_FA-01.jpg" 
+     style="width:50%">
+		 
+<img src="images/SPS_Wall%20Mural_FA-03.jpg" 
+     style="width:50%">
 
-![](/images/SPS_Wall%20Mural_FA-03.jpg)
-
-![](/images/SPS_Wall%20Mural_FA-02.jpg)
+<img src="images/SPS_Wall%20Mural_FA-02.jpg" 
+     style="width:50%">
 
 Last updated :01/01/2022
