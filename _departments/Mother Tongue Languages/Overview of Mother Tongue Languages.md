@@ -32,7 +32,7 @@ We believe in using ICT as a value-adding tool for self-directed and classroom l
 Culture Festival Celebrations help students value Singapore’s socio-cultural diversity, and promote social cohesion and harmony. The MTL Department organises interesting and meaningful activities to celebrate Chinese New Year, Hari Raya Puasa, and Deepavali. These activities allow students to have a better understanding of other ethnic races, their cultures and traditions. This would help them better appreciate the multi-racial and multi-cultural society in Singapore.
 
 <img src="/images/mtl1.png" 
-     style="width:35%">
+     style="width:70%">
 
 _Mother Tongue Fortnight_  
   
@@ -40,14 +40,14 @@ _Mother Tongue Fortnight_
 During MT Fortnight, a series of MTL activities is planned to enable students to learn and use MTL in a novel and exciting ways. The MTL Fortnight activities bring MTL learning beyond the classroom, stimulate pupils’ interest to use Mother Tongue language and have a deep understanding of their cultures.
 
 <img src="/images/mtl2.png" 
-     style="width:35%">
+     style="width:70%">
 
 _Primary 3 Language Camp_  
 
 The Primary 3 Language Camp provides a wide range of activities for students. We immerse students in an environment that encourages them to learn and use the language through the Language Camp.
 
 <img src="/images/mtl3.png" 
-     style="width:35%">
+     style="width:70%">
 		 
 _Culture Performance Exposure Programme_  
   
@@ -55,7 +55,7 @@ _Culture Performance Exposure Programme_
 The Cultural Performance Exposure Programme aims to expose pupils to Chinese language-related cultural performances and programmes. The Chinese name for the scheme means “free gate”, implying that participating schools have the autonomy to arrange their schedules and select suitable cultural performances by local or international performing arts groups. We arrange for our Primary 4 students to watch Chinese cultural performances at public performance arts venues such as theatres so that they can experience Chinese culture in an authentic atmosphere.
 
 <img src="/images/mtl4.png" 
-     style="width:35%">
+     style="width:70%">
 
 _Reading Programme_  
   
