@@ -76,11 +76,9 @@ On the right: Ms Maizatul Husna 
 
 **SEN Bite-sized Sharing for Parents**  
 
-[Children with Sensory Needs.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/SEN/Children%20with%20Sensory%20Needs.pdf)  
+[[Children with Sensory Needs.pdf]](/files/Children%20with%20Sensory%20Needs.pdf)
 
+[[Autism Awareness.pdf]](/files/Autism%20Awareness.pdf)
   
-
-[Autism Awareness.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/SEN/Autism%20Awareness.pdf)
-
 
 Last updated : 06/06/2022
