@@ -39,12 +39,14 @@ This programme hopes to cultivate students writing skills at the earliest stage 
 
 This programme aims to provide a platform for students to develop their oratory skills in stages. For the lower primary, oratory skills are introduce through speaking activities such as Show and Tell in Primary 1 and the Speech and Drama Workshop in Primary Two. For the middle primary, the programme is expanded to allow students to learn presentation skills through the comic creation presentation during Mother Tongue Fortnight. In the upper primary, students are given opportunity to make use of their learnings in an authentic situation by taking on the role of a young journalist.
 
-![](/images/ml1.png)
+<img src="/images/ml1.png" 
+     style="width:35%">
 
 **• Cultural Awareness Programme**  
 
 Through the annual Cultural Camp, Primary 3 students are exposed to Malay Culture in an immersive and fun programme. Students are introduce to various Malay customs and traditions by taking part in Malay Traditional Games and learning Malay Martial Arts and Malay traditional crafts.
 
-![](/images/ml2.png)
+<img src="/images/ml2.png" 
+     style="width:35%">
 
 Last updated : 01/01/2022
