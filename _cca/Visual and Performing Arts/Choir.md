@@ -14,7 +14,8 @@ Choir CCA aspires to create little singers who are passionate about music and si
 | Teachers-in-charge | Mr Joseph Yap How Joo<br><br>Mdm Phee Huai Le Renee<br><br>Mrs Prakash-Malarvizhi R.<br> |
 |  Venue | Music Room 1  |
 
-![](/images/cca10.png)
+<img src="/images/cca10.png" 
+     style="width:80%">
 
 Insert introduction video here.
 
