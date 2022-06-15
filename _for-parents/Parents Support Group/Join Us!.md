@@ -16,8 +16,12 @@ Please watch the video below where our dedicated PSG members work hand-in-hand w
 Insert video here.
 
 **More PSG involvement in school events, in picture!**
+
+<img src="/images/smb.png" 
+     style="width:70%">
+<img src="/images/smbqr.png" 
+     style="width:70%">
 ![](/images/smb.png)
 ![](/images/smbqr.png)
 
 Last updated : 01/01/2022
-
