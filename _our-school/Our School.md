@@ -5,7 +5,9 @@ description: ""
 ---
 ### Our School
 
-![](/images/Updated%20School%20Logo.png)
+
+<img src="/images/Updated%20School%20Logo.png" 
+     style="width:25%">
 
 *   The STAR symbolises the school's philosophy that every child is a winner.  
     
