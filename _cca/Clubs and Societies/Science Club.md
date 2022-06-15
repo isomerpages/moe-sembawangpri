@@ -16,11 +16,16 @@ Insert video introduction here.
 |  Teachers-in-charge | <br>Mr Zhao Zhiyang<br>Ms Long Shi Hui Ms Pearlyn Seow Pei Yi <br> |
 | Venue <br> | Science Rooms & Level 1 Classrooms |
 
-![](/images/cca25.png)
+<img src="/images/cca25.png" 
+     style="width:80%">
 
 **Other photos**
-![](/images/cca26.png)
-![](/images/cca27.png)
-![](/images/cca28.png)
+<img src="/images/cca26.png" 
+     style="width:80%">
+<img src="/images/cca27.png" 
+     style="width:80%">
+<img src="/images/cca28.png" 
+     style="width:80%">
 
+Last updated : 24/05/2022
 Last updated : 24/05/2022
