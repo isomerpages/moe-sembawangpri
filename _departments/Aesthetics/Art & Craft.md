@@ -18,8 +18,8 @@ The Art Department believes in providing students opportunities to learn and app
 
 Photos
 <img src="/images/art1.png" 
-     style="width:35%">
+     style="width:80%">
 <img src="/images/art2.png" 
-     style="width:35%">
+     style="width:80%">
 
 Last updated : 01/01/2022
