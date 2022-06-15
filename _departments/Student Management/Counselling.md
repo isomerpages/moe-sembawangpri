@@ -33,7 +33,7 @@ I believe every child can learn and achieve their fullest potential when given a
 If you have any enquiries, please feel free to email me at [fong\_lai\_see@moe.edu.sg](mailto:fong_lai_see@moe.edu.sg)
 
 <img src="/images/cmt3.png" 
-     style="width:35%">
+     style="width:80%">
 
 On the left: Mdm Tamarai  
 [Tamarai\_joseph@moe.edu.sg](mailto:Tamarai_joseph@moe.edu.sg)
