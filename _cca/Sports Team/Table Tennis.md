@@ -25,6 +25,4 @@ Table tennis is a sport that requires students to possess dexterity and a high l
      style="width:70%">
 		 
 
-**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !**
-
 Last updated: 10/04/2022
