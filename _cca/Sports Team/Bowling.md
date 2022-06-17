@@ -19,6 +19,5 @@ Insert introduction video here.
      style="width:70%">
 
 
-**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !**
 
 Last updated: 10/04/2022
