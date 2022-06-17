@@ -24,7 +24,7 @@ third_nav_title: Non Academic Achievements
 <img src="images/redcross.png" 
      style="width:50%">
 
-**Chess Club**
+#### **Chess Club**
 
 **National Schools Individual International Chess Championships**
 
