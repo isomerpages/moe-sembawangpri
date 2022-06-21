@@ -6,4 +6,4 @@ third_nav_title: About Us
 ---
 ### Our Corporate Video
 
-Insert corportate video here
+Insert corporate video here
