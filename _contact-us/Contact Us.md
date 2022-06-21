@@ -19,17 +19,17 @@ description: ""
 
 SBPS Official Instagram
 <p><a href="https://www.instagram.com/sembawangprimaryschool/?hl=en"> 
-<img style="width:25%" src="/images/sm1.png">  
+<img style="width:10%" src="/images/sm1.png">  
 </a></p>
 
 SBPS Official Facebook Page
 <p><a href="https://www.facebook.com/sembawangpri/"> 
-<img style="width:25%" src="/images/sm5.png">  
+<img style="width:10%" src="/images/sm5.png">  
 </a></p>
 
 SBPS Official YouTube
 <p><a href="https://www.youtube.com/c/sembawangprimaryschool"> 
-<img style="width:25%" src="/images/sm3.png">  
+<img style="width:10%" src="/images/sm3.png">  
 </a></p>
 
 Last updated : 16/03/2022
