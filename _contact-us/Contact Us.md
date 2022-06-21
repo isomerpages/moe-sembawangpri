@@ -5,6 +5,8 @@ description: ""
 ---
 ### Contact Us
 
+Insert Google Map here
+
 |  |  |
 |---|---|
 | Address | 10 Sembawang Drive S(757715) |
