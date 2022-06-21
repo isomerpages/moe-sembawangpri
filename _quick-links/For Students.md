@@ -5,6 +5,9 @@ description: ""
 ---
 ### For Students
 
+<p><a href="https://schoolibrary.moe.edu.sg/sembawangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> 
+<img style="width:25%" src="/images/OPAC2.png"> 
+
 <p><a href="https://vle.learning.moe.edu.sg/login"> 
 <img style="width:25%" src="/images/link1.png">  
 </a></p>
