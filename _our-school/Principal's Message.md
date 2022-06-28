@@ -5,9 +5,7 @@ description: ""
 ---
 ### **Principal's Message**
 
-
-<img src="/images/principal.jpg" 
-     style="width:50%">
+<img src="/images/principal.jpg" style="width:280px;height:380px;margin-right:15px;" align = "left">
 		 
 Warm greetings from Sembawang Primary School (SBPS)!
 
