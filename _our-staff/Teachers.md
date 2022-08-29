@@ -117,29 +117,29 @@ description: ""
 
 #### Other Teaching Staff
 
-|  |  |
-|:---:|---|
-| **Teacher** | **Email** |
-| Ms Nuremiliyana Suhaidi | nuremiliyana_suhaidi@schools.gov.sg |
-| Mdm Noraida Binte Wagimin | noraida_wagimin@schools.gov.sg |
-| Ms Rajasveri d/o Renganathan | rajasveri_renganathan@schools.gov.sg |
-| Mr Oh Ming Yie | oh_ming_yie@schools.gov.sg |
-| Mdm Ratna Dewi A K Magnus | ratna_dewi@schools.gov.sg |
-| Ms Vernice Soh Bee Peng | soh_bee_peng@schools.gov.sg |
-| Mr Yang Binglin | yang_binglin@schools.gov.sg |
-| Ms Zalina Bte Abdul Malik | zalina_bt_ab_malik@schools.gov.sg |
-| Ms Jennifer Fong Lai See | fong_lai_see@schools.gov.sg |
-| Mrs Cynthia Chong-Lim Mei Poh | lim_mei_poh_cynthia@schools.gov.sg |
-| Ms Farah Syahirah Binte Abdul Wahab | farah_syahirah_abdul_wahab@schools.gov.sg |
-| Ms Yeo May Lynn Melissa | yeo_may_lynn_melissa@schools.gov.sg |
-| Mdm Maizatul Husna Binte Ishak | maizatul_husna_ishak@moe.edu.sg |
-| Mr Choo Kian Guan Ryan | choo_kian_guan@schools.gov.sg |
-| Mrs Ang-Koh Lee Seng | koh_lee_seng@schools.gov.sg |
-| Mdm Laura Wee | laura_wee@schools.gov.sg |
-| Mdm Jennie Teo | Jennie_Teo@schools.gov.sg |
-| Mdm Asimah Binte Abdul Aziz  | Asimah_Abdul_Aziz@schools.gov.sg |
-| Mrs Chitra Pillay Chua  | chitra_pillay_chua@moe.edu.sg |
-| Mdm Chionh Siew Chern | chionh_siew_chern@moe.edu.sg |
-| Mdm Rachael Wong | rachael_wong_kar_wye@moe.edu.sg  |
+| Teacher 	| Email 	|
+|:---:	|:---:	|
+| Mrs Rena Phang-Yong Geok Ping 	| [yong\_geok\_ping@schools.gov.sg](mailto:yong_geok_ping@schools.gov.sg) 	|
+| Ms Chong Lay Ting Tiffany 	| [chong\_lay\_ting@schools.gov.sg](mailto:chong_lay_ting@schools.gov.sg) 	|
+| Ms Rajasveri d/o Renganathan 	| [rajasveri\_renganathan@schools.gov.sg](mailto:rajasveri_renganathan@schools.gov.sg) 	|
+| Mr Oh Ming Yie 	| [oh\_ming\_yie@schools.gov.sg](mailto:oh_ming_yie@schools.gov.sg) 	|
+| Mdm Ratna Dewi A K Magnus 	| [ratna\_dewi@schools.gov.sg](mailto:ratna_dewi@schools.gov.sg) 	|
+| Ms Vernice Soh Bee Peng 	| [soh\_bee\_peng@schools.gov.sg](mailto:soh_bee_peng@schools.gov.sg) 	|
+| Mr Yang Binglin 	| [yang\_binglin@schools.gov.sg](mailto:yang_binglin@schools.gov.sg) 	|
+| Ms Zalina Bte Abdul Malik 	| [zalina\_bt\_ab\_malik@schools.gov.sg](mailto:zalina_bt_ab_malik@schools.gov.sg) 	|
+| Mdm Phee Huai Le Renee 	| [phee\_huai\_le\_renee@schools.gov.sg](mailto:phee_huai_le_renee@schools.gov.sg) 	|
+| Ms Jennifer Fong Lai See 	| [fong\_lai\_see@schools.gov.sg](mailto:fong_lai_see@schools.gov.sg) 	|
+| Mrs Cynthia Chong-Lim Mei Poh 	| [lim\_mei\_poh\_cynthia@schools.gov.sg](mailto:lim_mei_poh_cynthia@schools.gov.sg) 	|
+| Ms Farah Syahirah Binte Abdul Wahab 	| [farah\_syahirah\_abdul\_wahab@schools.gov.sg](mailto:farah_syahirah_abdul_wahab@schools.gov.sg) 	|
+| Ms Yeo May Lynn Melissa 	| [yeo\_may\_lynn\_melissa@schools.gov.sg](mailto:yeo_may_lynn_melissa@schools.gov.sg) 	|
+| Mdm Maizatul Husna Binte Ishak 	| [maizatul\_husna\_ishak@moe.edu.sg](mailto:maizatul_husna_ishak@moe.edu.sg) 	|
+| Mr Choo Kian Guan Ryan 	| [choo\_kian\_guan@schools.gov.sg](mailto:choo_kian_guan@schools.gov.sg) 	|
+| Mrs Ang-Koh Lee Seng 	| [koh\_lee\_seng@schools.gov.sg](mailto:koh_lee_seng@schools.gov.sg) 	|
+| Mdm Laura Wee 	| [laura\_wee@schools.gov.sg](mailto:laura_wee@schools.gov.sg) 	|
+| Mdm Jennie Teo 	| [Jennie\_Teo@schools.gov.sg](mailto:Jennie_Teo@schools.gov.sg) 	|
+| Mdm Asimah Binte Abdul Aziz  	| [Asimah\_Abdul\_Aziz@schools.gov.sg](mailto:Asimah_Abdul_Aziz@schools.gov.sg) 	|
+| Mrs Chitra Pillay Chua  	| [chitra\_pillay\_chua@moe.edu.sg](mailto:chitra_pillay_chua@moe.edu.sg) 	|
+| Mdm Chionh Siew Chern 	| [chionh\_siew\_chern@moe.edu.sg](mailto:chionh_siew_chern@moe.edu.sg) 	|
+| Mdm Rachael Wong 	| [rachael\_wong\_kar\_wye@moe.edu.sg](mailto:rachael_wong_kar_wye@moe.edu.sg)   	|
 
 Last updated: 11/01/2022
