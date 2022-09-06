@@ -1,9 +1,13 @@
 ---
 title: Senior Teacher Team
-permalink: /our-staff/senior-teacher-team
+permalink: /our-staff/senior-teacher-team/
 description: ""
 ---
 ### Senior Teacher Team
+
+<p><a href="https://sites.google.com/moe.edu.sg/sbps/home"><img style="width:65%" src="/images/stt1.png"></a></p>
+
+https://sites.google.com/moe.edu.sg/sbps/home
 
 |  |  |
 |---|---|
