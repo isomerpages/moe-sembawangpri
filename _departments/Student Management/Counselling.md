@@ -1,6 +1,6 @@
 ---
 title: Counselling
-permalink: /departments/Student-Management/counselling
+permalink: /departments/Student-Management/counselling/
 description: ""
 third_nav_title: Student Management
 ---
@@ -32,13 +32,10 @@ I believe every child can learn and achieve their fullest potential when given a
 
 If you have any enquiries, please feel free to email me at [fong\_lai\_see@moe.edu.sg](mailto:fong_lai_see@moe.edu.sg)
 
-<img src="/images/cmt3.png" 
-     style="width:80%">
 
-On the left: Mdm Tamarai  
-[Tamarai\_joseph@moe.edu.sg](mailto:Tamarai_joseph@moe.edu.sg)
-
-On the right: Ms Maha  
-[Mahalakshmi\_panneerselvam@moe.edu.sg](mailto:Mahalakshmi_panneerselvam@moe.edu.sg)
+|  	|  	|
+|---	|---	|
+| <img src="/images/counsellor1.png" style="width:70%"> 	| <img src="/images/counsellor2.png" style="width:50%"> 	|
+| Mdm Tamarai<br>Tamarai_joseph@moe.edu.sg 	| Ms Maha<br>Mahalakshmi_panneerselvam@moe.edu.sg 	|
 
 Last updated : 06/06/2022
