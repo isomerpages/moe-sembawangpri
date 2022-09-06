@@ -18,7 +18,4 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/general
-        - title: Contact us
-          description: ""
-          url: /contact-us
 ---
