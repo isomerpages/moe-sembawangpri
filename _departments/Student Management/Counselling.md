@@ -35,7 +35,7 @@ If you have any enquiries, please feel free to email me at [fong\_lai\_see@moe.
 
 |  	|  	|
 |---	|---	|
-| <img src="/images/counsellor1.png" style="width:50%"> 	| <img src="/images/counsellor2.png" style="width:50%"> 	|
-| Mdm Tamarai<br>Tamarai_joseph@moe.edu.sg 	| Ms Maha<br>Mahalakshmi_panneerselvam@moe.edu.sg 	|
+| <img src="/images/counsellor1.png" style="width:50%"> 	| <img src="/images/counsellor2.png" style="width:48%"> 	|
+| Mdm Tamarai<br>[Tamarai\_joseph@moe.edu.sg](mailto:Tamarai_joseph@moe.edu.sg) 	| Ms Maha<br>[Mahalakshmi\_panneerselvam@moe.edu.sg](mailto:Mahalakshmi_panneerselvam@moe.edu.sg) 	|
 
 Last updated : 06/06/2022
