@@ -2,6 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - General.md
-      - For Staff.md
       - For Students.md
+      - For Staff.md
+      - General.md
