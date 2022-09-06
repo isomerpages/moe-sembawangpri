@@ -1,6 +1,6 @@
 ---
 title: Special Education Needs
-permalink: /departments/Student-Management/special-education-needs
+permalink: /departments/Student-Management/special-education-needs/
 description: ""
 third_nav_title: Student Management
 ---
@@ -59,20 +59,16 @@ To find out more about Special Educational Needs and how parents could support t
 
 [https://beta.moe.gov.sg/special-educational-needs/school-support/mainstream/](https://beta.moe.gov.sg/special-educational-needs/school-support/mainstream/)
 
-<img src="/images/cmt5.png" 
-     style="width:80%">
-On the left: Ms Farah Syahirah Bte Abdul Wahab [farah\_syahirah\_abdul\_wahab@schools.gov.sg](mailto:farah_syahirah_abdul_wahab@schools.gov.sg)
+|  	|  	|
+|---	|---	|
+| <img src="/images/cmt100.png" style="width:50%"> 	| <img src="/images/cmt101.png" style="width:48%"> 	|
+| Ms Farah Syahirah Bte Abdul Wahab<br>[farah\_syahirah\_abdul\_wahab@schools.gov.sg](mailto:farah_syahirah_abdul_wahab@schools.gov.sg)	| Mrs Cynthia Chong <br>[lim\_mei\_poh\_cynthia@schools.gov.sg](mailto:lim_mei_poh_cynthia@schools.gov.sg) 	|
 
-On the right: Mrs Cynthia Chong 
-[lim\_mei\_poh\_cynthia@schools.gov.sg](mailto:lim_mei_poh_cynthia@schools.gov.sg)
+|  	|  	|
+|---	|---	|
+| <img src="/images/cmt102.png" style="width:50%"> 	| <img src="/images/cmt103.png" style="width:48%"> 	|
+| Ms Melissa Yeo<br>[yeo\_may\_lynn\_melissa@schools.gov.sg](mailto:yeo_may_lynn_melissa@schools.gov.sg)	| Ms Maizatul Husna <br>[maizatul\_husna\_ishak@schools.gov.sg](mailto:maizatul_husna_ishak@schools.gov.sg) 	|
 
-<img src="/images/cmt6.png" 
-     style="width:80%">
-On the left: Ms Melissa Yeo
-[yeo\_may\_lynn\_melissa@schools.gov.sg](mailto:yeo_may_lynn_melissa@schools.gov.sg)
-
-On the right: Ms Maizatul Husna 
-[maizatul\_husna\_ishak@schools.gov.sg](mailto:maizatul_husna_ishak@schools.gov.sg)
 
 **SEN Bite-sized Sharing for Parents**  
 
