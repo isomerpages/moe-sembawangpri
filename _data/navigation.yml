@@ -31,12 +31,12 @@ links:
   - title: Programmes
     url: /programmes/departments/english
     sublinks:
-      - title: CCA Programmes
-        url: /CCAprogrammes/whycca
       - title: Departments
         url: /programmes/departments/english
       - title: Applied Learning Programmes
         url: /programmes/applied-learning-programme
+      - title: CCA Programmes
+        url: /CCAprogrammes/whycca
       - title: Learning for Life Programmes
         url: /programmes/Learning-for-Life-Programme/lflp
   - title: Our Students
