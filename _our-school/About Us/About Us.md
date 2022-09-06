@@ -12,7 +12,8 @@ We believe in providing a holistic education to help every child discover joy of
   
 **SCHOOL VISION**
 
-***Innovative Learners, Rooted in Values***
+***Innovative Learners, Rooted in Values*** 
+
 We define innovative learners as students and staff who are proactive, and dare to take risks to solve problems and add value to self, others and community. Rooted in values means to embrace and live out the core values in our daily lives. The school desires to see all learners rooted in relational and functional values. 
 
 **SCHOOL MISSION**
