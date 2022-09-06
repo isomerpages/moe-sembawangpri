@@ -1,6 +1,6 @@
 ---
 title: Preventive Anti Drug Education Programme
-permalink: /departments/Student-Management/antidrugprogramme
+permalink: /departments/Student-Management/antidrugprogramme/
 description: ""
 third_nav_title: Student Management
 ---
@@ -23,23 +23,23 @@ Did you know that about 62% of new drug abusers and arrested in Singapore were b
 
 Our students from Primary 4 and 5 will complete the _Anti-Drug Ambassador Booklet_. They will be aware of the different type of drugs and pledge to stay away from drug.
 
- [P4 Anti-drug Ambassador.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/P4%20Anti-drug%20Ambassador.pdf)  
+ [P4 Anti-drug Ambassador.pdf]Please upload PDF here
 
-[P5 Anti-drug Ambassador.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/P5%20Anti-drug%20Ambassador.pdf) 
+[P5 Anti-drug Ambassador.pdf]Please upload PDF here
 
 There are also resources for parents to share with their children about the danger of drug and to stay free such as _Captain Drug Buster Origin, PDE for Parents and card_ messages. The resources are in English, Malay, Chinese and Tamil.
 
 **Captain Drug Buster** 
 
-[Captain Drug Buster\_Chinese.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/Captain%20Drug%20Buster_Chinese.pdf)  
+[Captain Drug Buster\_Chinese.pdf]Please upload PDF here
 
-[Captain Drug Buster\_Malay.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/Captain%20Drug%20Buster_Malay.pdf) 
+[Captain Drug Buster\_Malay.pdf]Please upload PDF here
 
-[Captain Drug Buster Origin\_Tamil.pdf](https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/Departments/Student%20Management/Captain%20Drug%20Buster%20Origin_Tamil.pdf)
+[Captain Drug Buster Origin\_Tamil.pdf]Please upload PDF here
 
   
 
-**PDE for Parents** 
+**PDF for Parents** 
 
 [[a5-parent-brochure-english.pdf]](/files/a5-parent-brochure-english.pdf)
 
