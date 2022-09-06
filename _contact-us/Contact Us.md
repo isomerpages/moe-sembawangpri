@@ -21,7 +21,7 @@ Insert Google Map here
 
 |  	|  	|  	|
 |---	|---	|---	|
-| SBPS Official Instagram<br> <a href="https://www.instagram.com/sembawangprimaryschool/?hl=en"> <img style="width:50%" src="/images/sm1.png"></a>	|SBPS Official Facebook Page<br><a href="https://www.facebook.com/sembawangpri/"> <img style="width:50%" src="/images/sm5.png">  </a>  	| SBPS Official YouTube<br><a href="https://www.youtube.com/c/sembawangprimaryschool"><img style="width:50%" src="/images/sm3.png">  </a> 	|
+| SBPS Official Instagram<br> <a href="https://www.instagram.com/sembawangprimaryschool/?hl=en"> <img style="width:50%" src="/images/sm1.png"></a>	|SBPS Official Facebook Page<br><a href="https://www.facebook.com/sembawangpri/"> <img style="width:30%" src="/images/sm5.png">  </a>  	| SBPS Official YouTube<br><a href="https://www.youtube.com/c/sembawangprimaryschool"><img style="width:50%" src="/images/sm3.png">  </a> 	|
 
 
 
