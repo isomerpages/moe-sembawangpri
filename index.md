@@ -12,9 +12,6 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
-        - title: MK @ Sembawang
-          description: ""
-          url: /mk-sembawang
         - title: Quick Links
           description: ""
           url: /quick-links/general
