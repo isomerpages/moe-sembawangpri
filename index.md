@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Sembawang Primary School
 description: Brief site description here
 image: /images/SMB.svg
 permalink: /
@@ -16,3 +16,4 @@ sections:
           description: ""
           url: /quick-links/general
 ---
+
