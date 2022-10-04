@@ -1,5 +1,5 @@
-title: Title
-url: ""
+title: Sembawang Primary School
+url: https://sembawangpri.moe.edu.sg
 favicon: /images/updatedlogofav.png
 colors:
   primary-color: "#2c5ec2"
@@ -54,3 +54,6 @@ staging: https://moe-sembawangpri-staging.netlify.app
 prod: https://moe-sembawangpri-prod.netlify.app
 shareicon: /images/SMB.svg
 is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
