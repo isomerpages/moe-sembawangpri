@@ -33,7 +33,6 @@ Due to the safety management measures in place, students will be attending the C
      style="width:80%">
 
 
-**View our achievements [here](https://www.youtube.com/watch?v=9A0NdnVeoJ0) !**
 <div class="embed-container">
   <iframe
       src="[https://www.youtube.com/embed/{{ include.id }](https://www.youtube.com/watch?v=9A0NdnVeoJ0)}"
