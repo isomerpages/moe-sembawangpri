@@ -1,6 +1,6 @@
 ---
 title: Softball
-permalink: /cca/Sports-Team/softball
+permalink: /cca/Sports-Team/softball/
 description: ""
 third_nav_title: Sports Team
 ---
@@ -19,6 +19,16 @@ Insert introduction video here.
      style="width:70%">
 
 
-**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !**
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yFALYnCWyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+<br>
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HRqVf1_mKmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated: 10/04/2022
