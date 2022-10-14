@@ -34,7 +34,10 @@ Due to the safety management measures in place, students will be attending the C
 
 
 
+<div class="bp-youtube">
 
-{% include youtubePlayer.html id=page.9A0NdnVeoJ0 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9A0NdnVeoJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated: 23/02/2022
