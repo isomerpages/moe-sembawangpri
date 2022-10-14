@@ -1,6 +1,6 @@
 ---
 title: Science Club
-permalink: /cca/Clubs-and-Societies/scienceclub
+permalink: /cca/Clubs-and-Societies/scienceclub/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -26,5 +26,19 @@ Insert video introduction here.
      style="width:70%">
 <img src="/images/cca28.png" 
      style="width:70%">
+
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0MsbFp97q1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<br>
+
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9j_vWpe4asc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated : 24/05/2022
