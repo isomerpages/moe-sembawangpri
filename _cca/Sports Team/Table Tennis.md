@@ -1,6 +1,6 @@
 ---
 title: Table Tennis
-permalink: /cca/Sports-Team/tabletennis
+permalink: /cca/Sports-Team/tabletennis/
 description: ""
 third_nav_title: Sports Team
 ---
@@ -24,5 +24,9 @@ Table tennis is a sport that requires students to possess dexterity and a high l
 <img src="/images/tabletennis.png" 
      style="width:70%">
 		 
+<div class="bp-youtube">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pkwsHUACXuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 Last updated: 10/04/2022
