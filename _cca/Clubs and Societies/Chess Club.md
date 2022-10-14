@@ -1,6 +1,6 @@
 ---
 title: Chess Club
-permalink: /cca/Clubs-and-Societies/chessclub
+permalink: /cca/Clubs-and-Societies/chessclub/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -22,6 +22,10 @@ Insert video introduction here.
 <img src="/images/cca18.png" 
      style="width:70%">
 
-**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !**
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MsboEWEDlPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated: 20/01/2022
