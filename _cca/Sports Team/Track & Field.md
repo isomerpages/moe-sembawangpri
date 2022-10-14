@@ -1,10 +1,14 @@
 ---
 title: Track & Field
-permalink: /cca/Sports-Team/trackandfield
+permalink: /cca/Sports-Team/trackandfield/
 description: ""
 third_nav_title: Sports Team
 ---
-### Track & Field
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9A0NdnVeoJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>### Track & Field
 Track and Field CCA aspires to groom little athletes who can run, jump or throw well. With various competition opportunities, our little athletes will gain experience and learn more about themselves to become more resilient, disciplined and confident.
 
 Insert video introduction here.
@@ -18,6 +22,10 @@ Insert video introduction here.
 <img src="/images/cca2.png" 
      style="width:70%">
 
-**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/sportsandgames) !**
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dkE93Fz7bsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated: 10/04/2022
