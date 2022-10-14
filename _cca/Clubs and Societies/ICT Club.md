@@ -34,6 +34,14 @@ Due to the safety management measures in place, students will be attending the C
 
 
 **View our achievements [here](https://www.youtube.com/watch?v=9A0NdnVeoJ0) !**
-
+<div class="embed-container">
+  <iframe
+      src="[https://www.youtube.com/embed/{{ include.id }](https://www.youtube.com/watch?v=9A0NdnVeoJ0)}"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
 
 Last updated: 23/02/2022
