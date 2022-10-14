@@ -4,9 +4,7 @@ permalink: /cca/Sports-Team/trackandfield/
 description: ""
 third_nav_title: Sports Team
 ---
-<div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9A0NdnVeoJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>### Track & Field
 Track and Field CCA aspires to groom little athletes who can run, jump or throw well. With various competition opportunities, our little athletes will gain experience and learn more about themselves to become more resilient, disciplined and confident.
