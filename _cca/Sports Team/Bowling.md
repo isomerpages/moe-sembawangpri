@@ -1,6 +1,6 @@
 ---
 title: Bowling
-permalink: /cca/Sports-Team/bowling
+permalink: /cca/Sports-Team/bowling/
 description: ""
 third_nav_title: Sports Team
 ---
@@ -18,6 +18,10 @@ Insert introduction video here.
 <img src="/images/cca5.png" 
      style="width:70%">
 
+<div class="bp-youtube">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eaWHO0yBdf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated: 10/04/2022
