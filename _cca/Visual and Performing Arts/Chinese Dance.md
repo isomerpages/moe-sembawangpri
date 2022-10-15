@@ -1,6 +1,6 @@
 ---
 title: Chinese Dance
-permalink: /cca/Visual-and-Performing-Arts/chinesedance
+permalink: /cca/Visual-and-Performing-Arts/chinesedance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -18,6 +18,10 @@ Chinese Dance CCA aspires to groom little dancers who are passionate about not o
 
 Insert introduction video here.
 
-**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !**
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8aKa4pSHDHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated: 11/01/20221
