@@ -1,6 +1,6 @@
 ---
 title: Malay Dance
-permalink: /cca/Visual-and-Performing-Arts/malaydance
+permalink: /cca/Visual-and-Performing-Arts/malaydance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -19,6 +19,10 @@ Malay Dance CCA aspires to groom little dancers who are passionate about not onl
 
 Insert introduction video here.
 
-**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !**
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uf9_ewpYBCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated: 11/01/2022
