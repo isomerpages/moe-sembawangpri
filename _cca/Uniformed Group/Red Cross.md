@@ -1,6 +1,6 @@
 ---
 title: Red Cross
-permalink: /cca/Uniformed-Group/redcross
+permalink: /cca/Uniformed-Group/redcross/
 description: ""
 third_nav_title: Uniformed Group
 ---
@@ -23,6 +23,10 @@ Insert introduction video here.
 <img src="/images/cca30.png" 
      style="width:65%">
 
-**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/clubsandsocieties) !**
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AlEF0oLrgHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated: 12/01/2021
