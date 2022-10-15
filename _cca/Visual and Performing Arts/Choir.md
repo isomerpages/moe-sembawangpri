@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /cca/Visual-and-Performing-Arts/choir
+permalink: /cca/Visual-and-Performing-Arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -19,6 +19,10 @@ Choir CCA aspires to create little singers who are passionate about music and si
 
 Insert introduction video here.
 
-**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !**
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pIp9CL5aGew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated: 30/12/2022
