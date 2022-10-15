@@ -1,6 +1,6 @@
 ---
 title: Indian Dance
-permalink: /cca/Visual-and-Performing-Arts/indiandance
+permalink: /cca/Visual-and-Performing-Arts/indiandance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -19,6 +19,10 @@ Insert introduction video here.
 <img src="/images/idance.png" 
      style="width:65%">
 
-** View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !**
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b7XAueKUU9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated: 11/01/2022
