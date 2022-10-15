@@ -1,6 +1,6 @@
 ---
 title: ICT Club
-permalink: /cca/Clubs-and-Societies/ictclub
+permalink: /cca/Clubs-and-Societies/ictclub/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -32,7 +32,6 @@ Due to the safety management measures in place, students will be attending the C
 <img src="/images/cca16.png" 
      style="width:80%">
 
-Test Andi Fatahillah
 
 <div class="bp-youtube">
 
