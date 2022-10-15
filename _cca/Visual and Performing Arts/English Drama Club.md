@@ -1,6 +1,6 @@
 ---
 title: English Drama Club
-permalink: /cca/Visual-and-Performing-Arts/englishdramaclub
+permalink: /cca/Visual-and-Performing-Arts/englishdramaclub/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -17,6 +17,10 @@ Drama Club CCA aspires to groom little actors/actresses who are expressive and h
 <img src="/images/cca11.png" 
      style="width:65%">
 
-Insert video introduction here.
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/13tdzh-HbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated 23/01/2022
