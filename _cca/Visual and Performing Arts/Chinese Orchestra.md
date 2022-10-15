@@ -1,6 +1,6 @@
 ---
 title: Chinese Orchestra
-permalink: /cca/Visual-and-Performing-Arts/chineseorchestra
+permalink: /cca/Visual-and-Performing-Arts/chineseorchestra/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -17,6 +17,10 @@ Chinese Orchestra CCA aspires to groom little musicians who can appreciate and p
 
 Insert introduction video here.
 
-**View our achievements [here](https://moe-sembawangpri-staging.netlify.app/our-students/non-academic-achievements/aesthetics) !**
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dCxxlWkXhS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated : 30/12/2021
