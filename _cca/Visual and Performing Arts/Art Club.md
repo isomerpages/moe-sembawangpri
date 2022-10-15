@@ -1,6 +1,6 @@
 ---
 title: Art Club
-permalink: /cca/Visual-and-Performing-Arts/Artclub
+permalink: /cca/Visual-and-Performing-Arts/Artclub/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -72,6 +72,10 @@ Other Photos
 <img src="/images/cca13.png" 
      style="width:70%">
 
-Insert video introduction here.
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K1QGjF4bFgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 Last updated : 30/12/2021
