@@ -17,7 +17,6 @@ Choir CCA aspires to create little singers who are passionate about music and si
 <img src="/images/cca10.png" 
      style="width:65%">
 
-Insert introduction video here.
 
 <div class="bp-youtube">
 
