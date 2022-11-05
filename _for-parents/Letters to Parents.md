@@ -1,6 +1,6 @@
 ---
 title: Letters to Parents
-permalink: /for-parents/Letters-to-parents
+permalink: /for-parents/Letters-to-parents/
 description: ""
 ---
 **Term 1**
@@ -15,6 +15,7 @@ description: ""
 
 | Reference No. | Date | Title |
 |---|---|---|
-| [[SBPS/22/034]](/files/SBPS:22:034.pdf) | 29 April 2022 | Open Letter from School Leaders |
+| [[SBPS/22/025]](/files/SBPS:22:034.pdf) | 28 March 2022 | Open Letter from School Leaders |
+|[[SBPS/22/034]](/files/Open%20Letter%20from%20SLs_04-2022.pdf) | 29 April 2022 | Open Letter from School Leaders |
 
-Last updated: 08/05/2022
+Last updated: 06/11/2022
