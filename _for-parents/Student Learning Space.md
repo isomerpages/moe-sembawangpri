@@ -1,10 +1,10 @@
 ---
 title: Student Learning Space
-permalink: /for-parents/studentlearningspace
+permalink: /for-parents/studentlearningspace/
 description: ""
 ---
-<img src="/images/SLS%20HBL%20helpline%20updated%2023%20Sept.jpeg" 
-     style="width:70%">
+![](/images/2022%20Helpline.jpg)
+
 Please find the files below for the guide on using SLS.
 
 [[SLS 250321 - Getting Started with SLS.pdf]](/files/SLS1.pdf)
