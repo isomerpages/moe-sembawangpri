@@ -14,4 +14,4 @@ Please find the files below for the guide on using SLS.
 <img src="/images/ss_hbl_4.png" 
      style="width:70%">
 
- Last updated : 01/01/2022
+ Last updated : 06/11/2022
