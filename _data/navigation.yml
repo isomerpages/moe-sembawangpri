@@ -28,6 +28,8 @@ links:
         url: /our-staff/adminandsupportteam
       - title: Staff Awards
         url: /our-staff/staff-awards
+  - title: Our Student
+    collection: our-students
   - title: Programmes
     url: /programmes/departments/english
     sublinks:
