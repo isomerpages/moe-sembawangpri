@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Contact Us.md
+      - Useful Contacts/Dental Clinic.md
       - Useful Contacts/Booklist.md
       - Useful Contacts/.keep
