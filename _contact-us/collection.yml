@@ -2,5 +2,5 @@ collections:
   contact-us:
     output: true
     order:
-      - Useful Contacts.md
       - Contact Us.md
+      - Useful Contacts.md
