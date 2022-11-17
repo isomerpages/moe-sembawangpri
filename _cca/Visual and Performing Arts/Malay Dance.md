@@ -17,8 +17,6 @@ Malay Dance CCA aspires to groom little dancers who are passionate about not onl
 <img src="/images/cca9.png" 
      style="width:60%">
 
-Insert introduction video here.
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uf9_ewpYBCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
