@@ -8,8 +8,6 @@ third_nav_title: Clubs and Societies
 
 Science and Green Club aspires to groom budding scientists who are curious and have an insatiable thirst to learn. Our young scientists will learn more about the world around us and have opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry.
 
-Insert video introduction here.
-
 |  |  |
 |---|---|
 | Time | <br>2.15 p.m - 4.15 p.m. |
