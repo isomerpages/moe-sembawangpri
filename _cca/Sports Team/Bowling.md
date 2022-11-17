@@ -7,7 +7,6 @@ third_nav_title: Sports Team
 ### Bowling
 Bowling CCA aspires to groom little bowlers who are focussed and good decision makers. Through rigorous training, our bowlers will gain experience and learn more about themselves to become more resilient, disciplined and confident.
 
-Insert introduction video here.
 
 |  |  |
 |---|---|
