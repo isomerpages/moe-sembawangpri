@@ -7,7 +7,6 @@ third_nav_title: Sports Team
 ### Softball
 Softball CCA aspires to groom little softball players who are good team players and make sound game decisions. Through rigorous training and competitions, our softball players will gain experience and learn more about themselves to become more resilient, disciplined and confident.
 
-Insert introduction video here.
 
 |  |  |
 |---|---|
