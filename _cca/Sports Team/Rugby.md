@@ -8,7 +8,6 @@ third_nav_title: Sports Team
 
 Rugby CCA aspires to groom young rugby players to be good team players with sound decision making skills. Through rigorous trainings and competitions, our rugby players will gain experience and learn more about themselves to become more resilient, disciplined and confident.
 
-Insert introduction video here.
 
 |  |  |
 |---|---|
