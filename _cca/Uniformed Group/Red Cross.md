@@ -8,8 +8,6 @@ third_nav_title: Uniformed Group
 
 Red Cross CCA aspires to groom little humanitarians who have big hearts and never find it a chore to help others. Through training, our little humanitarians will be equipped with basic first aid skills and knowledge to let them carry out their life mission.
 
-Insert introduction video here.
-
 |  |  |
 |---|---|
 | Time | <br>Fridays, 2.15 p.m - 4.15 p.m. |
