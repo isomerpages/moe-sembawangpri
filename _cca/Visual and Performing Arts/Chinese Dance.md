@@ -16,8 +16,6 @@ Chinese Dance CCA aspires to groom little dancers who are passionate about not o
 <img src="/images/cca7.png" 
      style="width:65%">
 
-Insert introduction video here.
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8aKa4pSHDHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
