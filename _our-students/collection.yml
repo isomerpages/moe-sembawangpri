@@ -2,7 +2,6 @@ collections:
   our-students:
     output: true
     order:
-      - Staff Awards.md
       - Academic Achievements/.keep
       - Academic Achievements/Destination Imagination.md
       - Academic Achievements/Mathematics.md
