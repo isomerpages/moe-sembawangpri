@@ -15,8 +15,6 @@ Chinese Orchestra CCA aspires to groom little musicians who can appreciate and p
 <img src="/images/cca14.png" 
      style="width:80%">
 
-Insert introduction video here.
-
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dCxxlWkXhS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
