@@ -1,6 +1,6 @@
 ---
 title: InfoComm Technology
-permalink: /departments/ICT
+permalink: /departments/ICT/
 description: ""
 ---
 ### ICT
@@ -66,6 +66,6 @@ c. Connect & communicate digitally
 <img src="/images/ICT4.png" 
      style="width:70%">
 
-Source: [https://ictconnection.moe.edu.sg/masterplan-4/key-features/being-and-becoming-responsible/new-media-literacies](https://ictconnection.moe.edu.sg/masterplan-4/key-features/being-and-becoming-responsible/new-media-literacies)  
+
   
 Last updated : 24/04/2022
