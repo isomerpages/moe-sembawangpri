@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - PAT 2023.md
       - Announcements.md
