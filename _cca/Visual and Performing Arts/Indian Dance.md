@@ -8,8 +8,6 @@ third_nav_title: Visual and Performing Arts
 
 Indian Dance CCA aspires to groom little dancers who are passionate about not only dancing but also the movements specific to the Indian dance and culture. These budding dancers will have opportunities to perform their talent in public.
 
-Insert introduction video here.
-
 |  |  |
 |---|---|
 | Schedule | Friday : 2.15 p.m. – 4.15 p.m. |
