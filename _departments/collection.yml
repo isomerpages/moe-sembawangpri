@@ -1,0 +1,30 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages/Overview of Mother Tongue Languages.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Chinese Language.md
+      - Mother Tongue Languages/Malay Language.md
+      - Mother Tongue Languages/Tamil Language.md
+      - InfoComm Technology.md
+      - Physical Education.md
+      - Aesthetics/.keep
+      - Aesthetics/Art & Craft.md
+      - Aesthetics/Music.md
+      - Character Education/.keep
+      - Character Education/Overview of CCE.md
+      - Character Education/Character Education.md
+      - Character Education/Citizenship Education.md
+      - Character Education/Growing Years Programme.md
+      - Character Education/Programme for Active Learning.md
+      - Student Management/.keep
+      - Student Management/Overview of Student Management.md
+      - Student Management/Case Management Team.md
+      - Student Management/Counselling.md
+      - Student Management/Discipline.md
+      - Student Management/Preventive Anti Drug Education Programme.md
+      - Student Management/Special Education Needs.md

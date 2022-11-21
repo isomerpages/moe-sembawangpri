@@ -1,0 +1,7 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - For Students.md
+      - For Staff.md
+      - General.md

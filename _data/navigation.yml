@@ -1,13 +1,66 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SMB.svg
 links:
+  - title: Our School
+    url: /our-school/
+    sublinks:
+      - title: Principal's Message
+        url: /our-school/principals-message
+      - title: About Us
+        url: /our-school/about-us/
+      - title: School Advisory Committee
+        url: /our-school/school-advisory-committee
+      - title: School Operating Hours
+        url: /our-school/school-operating-hours
+      - title: School Building
+        url: /our-school/school-building
+      - title: Security & Emergency measures
+        url: /our-school/securityandemergencymeasures
+  - title: Our Staff
+    url: /our-staff/school-leadership-team
+    sublinks:
+      - title: School Leadership Team
+        url: /our-staff/school-leadership-team
+      - title: Senior Teacher Team
+        url: /our-staff/senior-teacher-team
+      - title: Teachers
+        url: /our-staff/teachers
+      - title: Admin & Support Team
+        url: /our-staff/adminandsupportteam
+  - title: Programmes
+    url: /programmes/departments/english
+    sublinks:
+      - title: Departments
+        url: /programmes/departments/english
+      - title: Applied Learning Programmes
+        url: /programmes/applied-learning-programme
+      - title: CCA Programmes
+        url: /CCAprogrammes/whycca
+      - title: Learning for Life Programmes
+        url: /programmes/Learning-for-Life-Programme/lflp
+  - title: For Parents
+    url: /for-parents/letters-to-parents
+    sublinks:
+      - title: Letters to Parents
+        url: /for-parents/letters-to-parents
+      - title: Parent Support Group
+        url: /for-parents/Parents-Support-Group
+      - title: Parenting Programme
+        url: /for-parents/parenting-programme
+      - title: Parents Gateway
+        url: /for-parents/parents-gateway
+      - title: School Newsletter
+        url: /for-parents/school-newsletter
+      - title: Safe Management Measures
+        url: /for-parents/safe-management-measures
+      - title: Transitioning back to School
+        url: /for-parents/transitioning-back-to-school
+      - title: Transition to P1
+        url: /for-parents/transition-to-p1
+      - title: Student Learning Space
+        url: /for-parents/studentlearningspace
+      - title: Photography and Videography
+        url: /for-parents/photography-and-videography
+  - title: MOE Kindergarten
+    collection: mk-sembawang
   - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+    url: /contact-us
