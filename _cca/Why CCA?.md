@@ -1,6 +1,6 @@
 ---
 title: Why CCA?
-permalink: /CCAprogrammes/whycca
+permalink: /CCAprogrammes/whycca/
 description: ""
 ---
 

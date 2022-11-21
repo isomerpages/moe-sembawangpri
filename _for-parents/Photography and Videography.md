@@ -1,6 +1,6 @@
 ---
 title: Photography and Videography
-permalink: /for-parents/photography-and-videography
+permalink: /for-parents/photography-and-videography/
 description: ""
 ---
 Dear Parents  

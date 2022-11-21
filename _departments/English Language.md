@@ -1,6 +1,6 @@
 ---
 title: English Language
-permalink: /programmes/departments/english
+permalink: /programmes/departments/english/
 description: ""
 ---
 ### English Language

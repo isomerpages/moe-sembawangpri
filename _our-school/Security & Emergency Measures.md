@@ -1,6 +1,6 @@
 ---
 title: Security & Emergency Measures
-permalink: /our-school/securityandemergencymeasures
+permalink: /our-school/securityandemergencymeasures/
 description: ""
 ---
 ### Security & Emergency Measures

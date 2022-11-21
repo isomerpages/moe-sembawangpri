@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /programmes/Departments/mathematics
+permalink: /programmes/Departments/mathematics/
 description: ""
 ---
 ### Mathematics

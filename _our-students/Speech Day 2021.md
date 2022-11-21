@@ -1,6 +1,6 @@
 ---
 title: Speech Day 2021
-permalink: /our-students/2021-speech-day
+permalink: /our-students/2021-speech-day/
 description: ""
 ---
 ### Speech Day 2021

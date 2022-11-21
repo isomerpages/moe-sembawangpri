@@ -1,6 +1,6 @@
 ---
 title: Admin & Support Staff
-permalink: /our-staff/adminandsupportteam
+permalink: /our-staff/adminandsupportteam/
 description: ""
 ---
 ### Admin & Support Staff

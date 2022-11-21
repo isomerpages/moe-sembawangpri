@@ -1,6 +1,6 @@
 ---
 title: School Leadership Team
-permalink: /our-staff/school-leadership-team
+permalink: /our-staff/school-leadership-team/
 description: ""
 ---
 ### School Leadership Team
