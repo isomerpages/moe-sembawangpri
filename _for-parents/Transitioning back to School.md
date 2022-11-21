@@ -1,6 +1,6 @@
 ---
 title: Transitioning back to School
-permalink: /for-parents/transitioning-back-to-school
+permalink: /for-parents/transitioning-back-to-school/
 description: ""
 ---
 “How do I cope with the ‘new normal’ after the Circuit Breaker?

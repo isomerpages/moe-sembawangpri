@@ -1,6 +1,6 @@
 ---
 title: Safe Management Measures
-permalink: /for-parents/safe-management-measures
+permalink: /for-parents/safe-management-measures/
 description: ""
 ---
 **Hand Sanitizers**

@@ -1,6 +1,6 @@
 ---
 title: MK@Sembawang
-permalink: /mk-sembawang
+permalink: /mk-sembawang/
 description: ""
 ---
 <img src="/images/mksmb.png" 

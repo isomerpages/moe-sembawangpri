@@ -1,6 +1,6 @@
 ---
 title: School Operating Hours
-permalink: /our-school/school-operating-hours
+permalink: /our-school/school-operating-hours/
 description: ""
 ---
 ### School Operating Hours

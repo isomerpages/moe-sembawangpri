@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /departments/physicaleducation
+permalink: /departments/physicaleducation/
 description: ""
 ---
 ### Physical Education
