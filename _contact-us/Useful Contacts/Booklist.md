@@ -4,7 +4,6 @@ permalink: /for-parents/useful-contacts/booklist/
 description: ""
 third_nav_title: Useful Contacts
 ---
-
 **School Bookshop Vendor - Pacific Bookstores Pte Ltd**
 
 | Address:  | Sembawang Primary School |
@@ -31,4 +30,4 @@ third_nav_title: Useful Contacts
 
 [[SBPS P6 Foundation Booklist 2022.pdf]](/files/SEPS%20P6%20FDN.pdf)
 
-Last updated : 05/12/2021
+Last updated : 21/11/2022
