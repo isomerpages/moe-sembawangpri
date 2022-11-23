@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-sembawangpri-staging.netlify.app
-prod: https://moe-sembawangpri-prod.netlify.app
+staging: https://staging.d3kffjsgu8ndp8.amplifyapp.com
+prod: https://master.d3kffjsgu8ndp8.amplifyapp.com
 shareicon: /images/SMB.svg
 is_government: true
 facebook-pixel: ""
