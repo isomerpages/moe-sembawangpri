@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgifupdated.gif
+      background: /images/banner2.gif
       key_highlights:
         - title: Announcements
           description: ""
@@ -16,4 +16,3 @@ sections:
           description: ""
           url: /quick-links/general
 ---
-
