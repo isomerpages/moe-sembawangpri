@@ -34,13 +34,18 @@ THE BEST FROM ME.
 **SCHOOL VALUES**
   
 Relational values are needed to build quality relationships with others; Functional values help us to be effective individuals . Together, they nurture the whole being.
-  
+  !
+	
 **Relational**
-<img src="images/mural1.png" 
-     style="width:85%">
+
+![](/images/mural1.png)
+<!--<img src="images/mural1.png" 
+     style="width:85%">-->
 
 **Functional**
-<img src="images/mural2.png" 
-     style="width:85%">
 
-Last updated :01/01/2022
+![](/images/mural2.png)
+<!--<img src="images/mural2.png" 
+     style="width:85%">-->
+
+Last updated :29/12/2022
