@@ -67,18 +67,17 @@ description: ""
 |  |  |  |
 |:---:|:---:|---|
 | **Class** | **Form Teachers** | **Email** |
-| 4 Care | Ms Tan Yi Xuan | [tan\_yi\_xuan@schools.gov.sg](mailto:tan_yi_xuan@schools.gov.sg) |
-| 4 Care | Ms Heow Tsuey Yan | [heow\_tsuey\_yan@schools.gov.sg](mailto:heow_tsuey_yan@schools.gov.sg) |
-| 4 Empathy | Ms Long Shi Hui | [long\_shi\_hui@schools.gov.sg](mailto:long_shi_hui@schools.gov.sg) |
-| 4 Empathy | Mrs Hazel Boo-Lim Peck Joo | [lim\_peck\_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg) |
-| 4 Gratitude | Ms Tan Siew Bing Joey | [tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) |
-| 4 Gratitude | Ms Lian Wei Qi, Jenell | [lian\_wei\_qi\_jenell@schools.gov.sg](mailto:lian_wei_qi_jenell@schools.gov.sg) |
-| 4 Integrity | Mdm Suraya Bte Mohamed Iqbal | [suraya\_mohamed\_iqbal@schools.gov.sg](mailto:suraya_mohamed_iqbal@schools.gov.sg) |
-| 4 Integrity | Ms Carine Oh Chew Hoon | [carine\_oh\_chew\_hoon@schools.gov.sg](mailto:carine_oh_chew_hoon@schools.gov.sg) |
-| 4 Resilience | Mdm Sharmila Singh  | [sharmila\_singh@schools.gov.sg](mailto:sharmila_singh@schools.gov.sg)  |
-| 4 Resilience | Ms Ong Jia Hui | [ong\_jia\_hui\_a@schools.gov.sg](mailto:ong_jia_hui_a@schools.gov.sg) |
-| 4 Respect | Ms Chan Hui Yu Sharon | [chan\_hui\_yu\_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg) |
-| 4 Respect | Mrs Sujith-Subashini G. | [subashini\_gopalakrishnan@schools.gov.sg](mailto:subashini_gopalakrishnan@schools.gov.sg) |
+| 4 Care | Ms Awyong Yun Ting | [awyong\_yun\_ting@schools.gov.sg](mailto:awyong_yun_ting@schools.gov.sg) |
+| 4 Care | Mr Tay Kuok Liang Winston | [tay\_kuok\_liang\_winston@schools.gov.sg](mailto:tay_kuok_liang_winston@schools.gov.sg) |
+| 4 Empathy | Mrs Prakash-Malarvizhi R. | [malarvizhi\_ramasamy@schools.gov.sg](mailto:malarvizhi_ramasamy@schools.gov.sg) |
+| 4 Empathy | Mr Adrian Chong Yew Chin | [chong\_yew\_chin\_adrian@schools.gov.sg](mailto:chong_yew_chin_adrian@schools.gov.sg) |
+| 4 Gratitude | Mdm Kalaiyarasi d/o Kalidasan | [kalaiyarasi\_kalidasan@schools.gov.sg](mailto:kalaiyarasi_kalidasan@schools.gov.sg) |
+| 4 Gratitude | Ms Lee Weiqin | [lee\_weiqin@schools.gov.sg](mailto:lee_weiqin@schools.gov.sg) |
+| 4 Integrity | Mr Andi Fatahillah | [andi\_fatahillah@schools.gov.sg](mailto:andi_fatahillah@schools.gov.sg) |
+| 4 Integrity | Ms Kong Jia Yee | [kong\_jia\_yee@schools.gov.sg](mailto:kong_jia_yee@schools.gov.sg) |
+| 4 Resilience | Mr Zhao Zhiyang | [zhao\_zhiyang@schools.gov.sg](mailto:zhao_zhiyang@schools.gov.sg) |
+| 4 Resilience | Mr Mohamad Iskandar B Ishak | [mohamad\_iskandar\_b\_ishak@schools.gov.sg](mailto:mohamad_iskandar_b_ishak@schools.gov.sg) |
+
 
 **Primary 5**
 
