@@ -54,7 +54,7 @@ description: ""
 | 3 Care | Ms Wang Xinlin | [wang\_xinlin@schools.gov.sg](mailto:wang_xinlin@schools.gov.sg) |
 | 3 Empathy | Ms Mahalakshmi | [mahalakshmi\_panneerselvam@schools.gov.sg](mailto:mahalakshmi_panneerselvam@schools.gov.sg) |
 | 3 Empathy | Ms Long Shi Hui | [long\_shi\_hui@schools.gov.sg](mailto:long_shi_hui@schools.gov.sg) |
-| 3 Gratitude | Mr Mohd Noorkhuzaifah Bin Hishamuddin | [Mohammad\_Noorkhuzaifah\_Hishamuddin@schools.gov.sg](mailto: Mohammad_Noorkhuzaifah_Hishamuddin@schools.gov.sg) |
+| 3 Gratitude | Mr Mohd Noorkhuzaifah Bin Hishamuddin |[Mohammad\_Noorkhuzaifah\_Hishamuddin@schools.gov.sg](mailto:Mohammad_Noorkhuzaifah_Hishamuddin@schools.gov.sg)
 | 3 Gratitude | Mrs Hazel Boo-Lim Peck Joo | [lim\_peck\_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg) |
 | 3 Integrity | Ms Jacintha Devi d/o Tamilveeran | [jacintha\_devi@schools.gov.sg](mailto:jacintha_devi@schools.gov.sg) |
 | 3 Integrity | Ms Carine Oh Chew Hoon | [carine\_oh\_chew\_hoon@schools.gov.sg](mailto:carine_oh_chew_hoon@schools.gov.sg) |
