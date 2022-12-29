@@ -10,19 +10,21 @@ description: ""
 |  |  |  |
 |:---:|:---:|:---:|
 | **Class** | **Form Teachers** | **Email** |
-| 1 Care | Mdm Nur Syafiqah Binte Eddie Yusof | [nur\_syafiqah\_eddie\_yusof@schools.gov.sg](mailto:nur_syafiqah_eddie_yusof@schools.gov.sg) |
-| 1 Care | Mr Tay Eng Wee Mike | [tay\_eng\_wee@schools.gov.sg](mailto:tay_eng_wee@schools.gov.sg) |
-| 1 Empathy | Mr Cheah boon Teck Janssen | [cheah\_boon\_teck\_janssen@schools.gov.sg](mailto:cheah_boon_teck_janssen@schools.gov.sg) |
-| 1 Empathy | Ms Ganda Sari Binte Chokri | [ganda\_sari\_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg) |
-| 1 Gratitude | Mrs Sundram-R Megala | [r\_megala@schools.gov.sg](mailto:r_megala@schools.gov.sg) |
-| 1 Gratitude | Mr Xie Meng Hui | [xie\_meng\_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg) |
-| 1 Integrity | Mdm Jamaliah Binte Ismail | [jamaliah\_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg) |
-| 1 Integrity | Mdm Zheng Hongyu | [zheng\_hongyu@schools.gov.sg](mailto:zheng_hongyu@schools.gov.sg) |
-| 1 Resilience | Ms Khalisah Bte Kamisan | [khalisah\_kamisan@schools.gov.sg](mailto:khalisah_kamisan@schools.gov.sg) |
-| 1 Resilience | Mdm Insyirah Binti Mohamad Ali  | [insyirah\_mohamad\_ali@schools.gov.sg](mailto:insyirah_mohamad_ali@schools.gov.sg) |
-| 1 Respect | Ms Nuremiliyana Suhaidi | [nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg) |
-| 1 Respect | Mdm Srimarlina Binte Mohamed Esa | [srimarlina\_mohd\_esa@schools.gov.sg](mailto:srimarlina_mohd_esa@schools.gov.sg) |
-| 1 Respect | Mr Kelvin Toh Chong Han | [toh\_chong\_han\_kelvin@schools.gov.sg](mailto:toh_chong_han_kelvin@schools.gov.sg) |
+| 1 Care | Ms Nuremiliyana Suhaidi | [nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg) |
+| 1 Care | Ms Ong Jia Hui | [ong\_jia\_hui\_a@schools.gov.sg](mailto:ong_jia_hui_a@schools.gov.sg) |
+| 1 Empathy | Mdm Tan Lee Kiang Diane | [tan\_lee\_kiang\_a@schools.gov.sg](mailto:tan_lee_kiang_a@schools.gov.sg) |
+| 1 Empathy | Mdm Wang Yingchao | [wang\_ying\_chao@schools.gov.sg](mailto:wang_ying_chao@schools.gov.sg) |
+| 1 Gratitude | Mdm Michelle Tamarai d/o Joseph | [tamarai\_joseph@schools.gov.sg](mailto:tamarai_joseph@schools.gov.sg) |
+| 1 Gratitude | Mdm Wu Yongyun | [wu\_yongyun@schools.gov.sg](mailto:wu_yongyun@schools.gov.sg) |
+| 1 Integrity | Mdm Phee Huai Le Renee 	| [phee\_huai\_le\_renee@schools.gov.sg](mailto:phee_huai_le_renee@schools.gov.sg) 	|
+| 1 Integrity | Ms Nurul Syahidah Binte Bahari | [nurul\_syahidah\_bahari@schools.gov.sg](mailto:nurul_syahidah_bahari@schools.gov.sg) |
+| 1 Resilience | Ms Noorhuda Amalina Binte Ab Rahman| [Noorhuda\_Amalina\_Ab\_Rahman@schools.gov.sg](mailto: Noorhuda_Amalina_Ab_Rahman@schools.gov.sg) |
+| 1 Resilience | Mr Yap How Joo Joseph | [yap\_how\_joo@schools.gov.sg](mailto:yap_how_joo@schools.gov.sg) |
+| 1 Respect | Mrs Sundram-R Megala | [r\_megala@schools.gov.sg](mailto:r_megala@schools.gov.sg) |
+| 1 Respect | Ms Heow Tsuey Yan | [heow\_tsuey\_yan@schools.gov.sg](mailto:heow_tsuey_yan@schools.gov.sg) |
+| 1 Responsibility | Ms Nur Qistina Binte Abdul Wahid | [nur\_qistina\_abdul\_wahid@schools.gov.sg](mailto:nur_qistina_abdul_wahid@schools.gov.sg) |
+| 1 Responsibility | Ms M Buvaneswari | [m\_buvaneswari@schools.gov.sg](mailto:m_buvaneswari@schools.gov.sg) |
+
 
 #### Primary 2
 
