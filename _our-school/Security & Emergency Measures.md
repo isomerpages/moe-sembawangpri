@@ -7,8 +7,10 @@ description: ""
 
 School Safety Vision - **ZERO accident/incident is achievable**
 
+![](/images/safety.png)
+<!--
 <img src="images/safety.png" 
-     style="width:50%">
+     style="width:50%"> -->
 
 Emergency Preparedness Culture - **Have a MINDSET of preparedness, ready to act!**
 
