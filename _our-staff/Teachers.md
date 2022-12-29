@@ -84,19 +84,20 @@ description: ""
 |  |  |  |
 |:---:|:---:|---|
 | **Class** | **Form Teachers** | **Email** |
-| 5 Care | Mrs Vivien Seah-Zee Chung Lah | [zee\_chung\_lah@schools.gov.sg](mailto:zee_chung_lah@schools.gov.sg) |
-| 5 Care | Ms Pan Jingting Alisa | [pan\_jingting\_alisa@schools.gov.sg](mailto:pan_jingting_alisa@schools.gov.sg) |
-| 5 Care | Mdm Jessie Ho Yit Har | [ho\_yit\_har@schools.gov.sg](mailto:ho_yit_har@schools.gov.sg) |
-| 5 Empathy | Ms Seow Pei Yi, Pearlyn | [seow\_pei\_yi\_pearlyn@schools.gov.sg](mailto:seow_pei_yi_pearlyn@schools.gov.sg) |
-| 5 Empathy | Mr Mohd Saidali B Ali | [mohd\_saidali\_b\_ali@schools.gov.sg](mailto:mohd_saidali_b_ali@schools.gov.sg) |
-| 5 Gratitude | Ms Nursahila Bte Roszelan | [nursahila\_roszelan@schools.gov.sg](mailto:nursahila_roszelan@schools.gov.sg) |
-| 5 Gratitude | Mdm Noraida Binte Wagimin | [noraida\_wagimin@schools.gov.sg](mailto:noraida_wagimin@schools.gov.sg) |
-| 5 Integrity | Mr Chia Chin Ooi Calvin | [chia\_chin\_ooi\_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg) |
-| 5 Integrity | Ms Afiqah Binte Abdul Samad | [afiqah\_binte\_abdul\_samad@schools.gov.sg](mailto:afiqah_binte_abdul_samad@schools.gov.sg) |
-| 5 Resilience | Ms Shreenjit Kaur d/o Sardul Singh | [shreenjit\_kaur\_sardul\_sing@schools.gov.sg](mailto:shreenjit_kaur_sardul_sing@schools.gov.sg) |
-| 5 Resilience | Mr Mohd Irwan Bin Mohamad Mazlan | [mohamad\_irwan\_mohamad\_mazlan@schools.gov.sg](mailto:mohamad_irwan_mohamad_mazlan@schools.gov.sg) |
-| 5 Respect | Mdm Shadidah Bte Mokhtar | [shadidah\_mokhtar@schools.gov.sg](mailto:shadidah_mokhtar@schools.gov.sg) |
-| 5 Respect | Mdm Liu Hongyan | [liu\_hongyan@schools.gov.sg](mailto:liu_hongyan@schools.gov.sg) |
+| 5 Care | Mdm Khadijah Bte Ahmad | [khadijah\_ahmad\_a@schools.gov.sg](mailto:khadijah_ahmad_a@schools.gov.sg)  |
+| 5 Care | Mrs Crystal Lee-Cai Wanqin | [cai\_wanqin\_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg) |
+| 5 Empathy | Mr Lim Teck Huat | [lim\_teck\_huat\_a@schools.gov.sg](mailto:lim_teck_huat_a@schools.gov.sg) |
+| 5 Empathy | Ms Ganda Sari Binte Chokri | [ganda\_sari\_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg) |
+| 5 Gratitude | Ms Leong Wei Yee Tracy | [leong\_wei\_yee@schools.gov.sg](mailto:leong_wei_yee@schools.gov.sg) |
+| 5 Gratitude | Mdm Norlin Binte Mansor | [norlin\_mansor@schools.gov.sg](mailto:norlin_mansor@schools.gov.sg) |
+| 5 Integrity | Mr Lim Jeen Perng | [lim\_jeen\_perng@schools.gov.sg](mailto:lim_jeen_perng@schools.gov.sg) |
+| 5 Integrity | Mdm Suraya Bte Mohamed Iqbal | [suraya\_mohamed\_iqbal@schools.gov.sg](mailto:suraya_mohamed_iqbal@schools.gov.sg) |
+| 5 Resilience | Ms Ruhaida Bte Hashim | [ruhaida\_hashim@schools.gov.sg](mailto:ruhaida_hashim@schools.gov.sg) |
+| 5 Resilience | Ms Lian Wei Qi, Jenell | [lian\_wei\_qi\_jenell@schools.gov.sg](mailto:lian_wei_qi_jenell@schools.gov.sg) |
+| 5 Respect | Ms Chan Hui Yu Sharon | [chan\_hui\_yu\_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg) |
+| 5 Respect | Mr Mohd Irwan Bin Mohamad Mazlan | [mohamad\_irwan\_mohamad\_mazlan@schools.gov.sg](mailto:mohamad_irwan_mohamad_mazlan@schools.gov.sg) |
+| 5 Responsibility | Mdm Sharmila Singh  | [sharmila\_singh@schools.gov.sg](mailto:sharmila_singh@schools.gov.sg)  |
+| 5 Responsibility | Mr Ng Wei Da | [ng\_wei\_da@schools.gov.sg](mailto:ng_wei_da@schools.gov.sg) |
 
 **Primary 6**
 
