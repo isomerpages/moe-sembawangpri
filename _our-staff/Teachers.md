@@ -50,17 +50,17 @@ description: ""
 |  |  |  |
 |:---:|:---:|:---:|
 | **Class** | **Form Teachers** | **Email** |
-| 3 Care | Ms Awyong Yun Ting | [awyong\_yun\_ting@schools.gov.sg](mailto:awyong_yun_ting@schools.gov.sg) |
-| 3 Care | Mr Tay Kuok Liang Winston | [tay\_kuok\_liang\_winston@schools.gov.sg](mailto:tay_kuok_liang_winston@schools.gov.sg) |
-| 3 Empathy | Mr Lim Teck Huat | [lim\_teck\_huat\_a@schools.gov.sg](mailto:lim_teck_huat_a@schools.gov.sg) |
-| 3 Empathy | Mrs Prakash-Malarvizhi R. | [malarvizhi\_ramasamy@schools.gov.sg](mailto:malarvizhi_ramasamy@schools.gov.sg) |
-| 3 Gratitude | Mdm Kalaiyarasi d/o Kalidasan | [kalaiyarasi\_kalidasan@schools.gov.sg](mailto:kalaiyarasi_kalidasan@schools.gov.sg) |
-| 3 Gratitude | Ms Lee Weiqin | [lee\_weiqin@schools.gov.sg](mailto:lee_weiqin@schools.gov.sg) |
-| 3 Gratitude | Ms Nur Qistina Binte Abdul Wahid | [nur\_qistina\_abdul\_wahid@schools.gov.sg](mailto:nur_qistina_abdul_wahid@schools.gov.sg) |
-| 3 Integrity | Mr Andi Fatahillah | [andi\_fatahillah@schools.gov.sg](mailto:andi_fatahillah@schools.gov.sg) |
-| 3 Integrity | Ms Kong Jia Yee | [kong\_jia\_yee@schools.gov.sg](mailto:kong_jia_yee@schools.gov.sg) |
-| 3 Resilience | Mr Zhao Zhiyang | [zhao\_zhiyang@schools.gov.sg](mailto:zhao_zhiyang@schools.gov.sg) |
-| 3 Resilience | Mr Mohammad Haslam Rahmat | [mohd\_haslam@schools.gov.sg](mailto:mohd_haslam@schools.gov.sg) |
+| 3 Care | Ms Tan Siew Bing Joey | [tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) |
+| 3 Care | Ms Wang Xinlin | [wang\_xinlin@schools.gov.sg](mailto:wang_xinlin@schools.gov.sg) |
+| 3 Empathy | Ms Mahalakshmi | [mahalakshmi\_panneerselvam@schools.gov.sg](mailto:mahalakshmi_panneerselvam@schools.gov.sg) |
+| 3 Empathy | Ms Long Shi Hui | [long\_shi\_hui@schools.gov.sg](mailto:long_shi_hui@schools.gov.sg) |
+| 3 Gratitude | Mr Mohd Noorkhuzaifah Bin Hishamuddin | [Mohammad\_Noorkhuzaifah\_Hishamuddin@schools.gov.sg](mailto: Mohammad_Noorkhuzaifah_Hishamuddin@schools.gov.sg) |
+| 3 Gratitude | Mrs Hazel Boo-Lim Peck Joo | [lim\_peck\_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg) |
+| 3 Integrity | Ms Jacintha Devi d/o Tamilveeran | [jacintha\_devi@schools.gov.sg](mailto:jacintha_devi@schools.gov.sg) |
+| 3 Integrity | Ms Carine Oh Chew Hoon | [carine\_oh\_chew\_hoon@schools.gov.sg](mailto:carine_oh_chew_hoon@schools.gov.sg) |
+| 3 Resilience | Ms Tan Yi Xuan | [tan\_yi\_xuan@schools.gov.sg](mailto:tan_yi_xuan@schools.gov.sg) |
+| 3 Resilience | Mr Tan Zuo Hou  | [tan\_zuo\_hou@schools.gov.sg](mailto:tan_zuo_hou@schools.gov.sg) |
+
 
 #### Primary 4
 
