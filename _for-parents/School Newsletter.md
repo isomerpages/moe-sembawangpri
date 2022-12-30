@@ -27,4 +27,6 @@ description: ""
 
 | Year | Issue |
 |---|---|
-| 2022 |  [2022 School Newsletter 1](https://go.gov.sg/2022sembawangbuzz1)  |
+| 2022 |  [2022 School Newsletter 1](https://go.gov.sg/2022**sembawangbuzz1)  |
+
+Last Updated : 30 December 2022
