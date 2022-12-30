@@ -24,3 +24,7 @@ description: ""
 |---|---|
 | 2021 |  [2021 School Newsletter 1](https://go.gov.sg/2021sembawangbuzz1)  |
 | 2021 |  [2021 School Newsletter 2](https://go.gov.sg/2021sembawangbuzz2) |
+
+| Year | Issue |
+|---|---|
+| 2022 |  [2022 School Newsletter 1](https://go.gov.sg/2022sembawangbuzz1)  |
