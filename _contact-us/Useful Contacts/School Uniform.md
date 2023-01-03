@@ -27,7 +27,7 @@ third_nav_title: Useful Contacts
 
 **Sale of School Uniform in school 2021**
 <img src="/images/uniform.png" 
-     style="width:70%">-->
+     style="width:70%"> -->
 **Please take note that strictly no trying of  uniform.  Thank you!**
 
 Last updated : 03/01/2023
