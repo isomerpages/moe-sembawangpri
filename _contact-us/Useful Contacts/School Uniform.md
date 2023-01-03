@@ -4,7 +4,6 @@ permalink: /for-parents/useful-contacts/schooluniform/
 description: ""
 third_nav_title: Useful Contacts
 ---
-
 **School Uniform Vendor - Chop Kong Chong**
 
 |   |  |
@@ -20,15 +19,10 @@ third_nav_title: Useful Contacts
 
 |   |  |
 |---|---|
-| Business hour | From Term 3 2022 onwards:<br>First and Third Wednesday of the month<br>(Excluding school holidays) |
+| Business hour | From 18 January 2023 onwards:<br>First and Third Wednesday of the month<br>(Excluding school holidays) |
 | Time | 2.00p.m. to 4.00p.m. |
 | Payment Mode | Cash and PayNow only |
 
-**Sembawang Primary School**
-
-**Sale of School Uniform in school 2021**
-<img src="/images/uniform.png" 
-     style="width:70%">
 **Please take note that strictly no trying of  uniform.  Thank you!**
 
-Last updated : 08/12/2021
+Last updated : 03/01/2023
