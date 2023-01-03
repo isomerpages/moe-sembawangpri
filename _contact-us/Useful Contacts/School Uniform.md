@@ -22,12 +22,7 @@ third_nav_title: Useful Contacts
 | Business hour | From 18 January 2023 onwards:<br>First and Third Wednesday of the month<br>(Excluding school holidays) |
 | Time | 2.00p.m. to 4.00p.m. |
 | Payment Mode | Cash and PayNow only |
-<!--
-**Sembawang Primary School**
 
-**Sale of School Uniform in school 2021**
-<img src="/images/uniform.png" 
-     style="width:70%"> -->
 **Please take note that strictly no trying of  uniform.  Thank you!**
 
 Last updated : 03/01/2023
