@@ -11,7 +11,7 @@ Drama Club CCA aspires to groom little actors/actresses who are expressive and h
 |  |  |
 |---|---|
 | Schedule | Friday : 2.15 p.m. – 4.15 p.m. |
-| Teachers-in-charge | Ms Nur Syafiqah Binte Eddie Yusof<br><br>Ms Ganda Sari Binte Chokri |
+| Teachers-in-charge | Ms Nur Syafiqah Binte Eddie Yusof<br>Ms Nur Qistina Binte Abdul Wahid<br>Ms Ganda Sari Binte Chokri |
 |  Venue | MRL  |
 
 <img src="/images/cca11.png" 
@@ -23,4 +23,4 @@ Drama Club CCA aspires to groom little actors/actresses who are expressive and h
 
 </div>
 
-Last updated 23/01/2022
+Last updated 05/01/2023
