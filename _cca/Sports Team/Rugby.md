@@ -25,4 +25,4 @@ Rugby CCA aspires to groom young rugby players to be good team players with soun
 
 </div>
 
-Last updated: 10/04/2022
+Last updated: 05/01/2023
