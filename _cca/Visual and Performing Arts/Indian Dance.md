@@ -23,4 +23,4 @@ Indian Dance CCA aspires to groom little dancers who are passionate about not on
 
 </div>
 
-Last updated: 11/01/2022
+Last updated: 05/01/2023
