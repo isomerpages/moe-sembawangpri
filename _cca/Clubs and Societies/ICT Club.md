@@ -36,4 +36,4 @@ Due to the safety management measures in place, students will be attending the C
 
 </div>
 
-Last updated: 23/02/2022
+Last updated: 05/01/2023
