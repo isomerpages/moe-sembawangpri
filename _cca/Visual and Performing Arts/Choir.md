@@ -11,7 +11,7 @@ Choir CCA aspires to create little singers who are passionate about music and si
 |  |  |
 |---|---|
 | Schedule | Friday : 2.15 p.m. – 4.15 p.m. |
-| Teachers-in-charge | Mr Joseph Yap How Joo<br><br>Mdm Phee Huai Le Renee<br><br>Mrs Prakash-Malarvizhi R.<br> |
+| Teachers-in-charge | Mr Joseph Yap How Joo<br><br>Ms Mahalakshmi<br><br>Ms Noorhuda Amalina Binte A R<br> |
 |  Venue | Music Room 1  |
 
 <img src="/images/cca10.png" 
@@ -24,4 +24,4 @@ Choir CCA aspires to create little singers who are passionate about music and si
 
 </div>
 
-Last updated: 30/12/2022
+Last updated: 05/01/2023
