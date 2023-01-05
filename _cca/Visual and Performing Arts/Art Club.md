@@ -9,7 +9,7 @@ third_nav_title: Visual and Performing Arts
 |  |  |
 |---|---|
 | Schedule | Friday : 2.15 p.m. – 4.15 p.m. |
-| Teachers-in-charge | Mr Tay Kuok Liang Winston <br><br>Mrs Hazel Boo-Lim Peck Joo<br><br>Ms Afiqah Binte Abdul Samad<br>Mr Mohd Saidali B Ali<br> |
+| Teachers-in-charge | Mr Tay Kuok Liang Winston <br><br>Mrs Hazel Boo-Lim Peck Joo<br><br>Ms Afiqah Binte Abdul Samad<br><br>Mr Mohd Saidali B Ali<br> |
 |  Venue |  Art Room & Art Room 2 |
 
 #### **OUR OBJECTIVE**
@@ -78,4 +78,4 @@ Other Photos
 
 </div>
 
-Last updated : 30/12/2021
+Last updated : 05/01/2023
