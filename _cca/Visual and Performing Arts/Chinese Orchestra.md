@@ -9,7 +9,7 @@ Chinese Orchestra CCA aspires to groom little musicians who can appreciate and p
 |  |  |
 |---|---|
 | Schedule | Tuesday, 2.15 p.m – 5.15 p.m. (Sectional Practice)<br>Friday : 2.15 p.m. – 4.15 p.m. (Combined Practice) |
-| Teachers-in-charge | Mdm Wang Xinling<br>Mdm Wu Yongyun <br>Mdm Zheng Hongyu <br>Mrs Vivien Seah-Zee Chung Lah<br>Mdm Shadidah Bte Mokhtar |
+| Teachers-in-charge | Mdm Wang Xinling<br>Mdm Wu Yongyun <br>Mdm Khadijah Bte Ahmad <br>Mrs Vivien Seah-Zee Chung Lah<br>Mdm Tan Lee Kiang Diane<br>Ms Sharon Chan Hui Yu |
 |  Venue | Band Room and Music Rooms  |
 
 <img src="/images/cca14.png" 
@@ -21,4 +21,4 @@ Chinese Orchestra CCA aspires to groom little musicians who can appreciate and p
 
 </div>
 
-Last updated : 30/12/2021
+Last updated : 05/01/2023
