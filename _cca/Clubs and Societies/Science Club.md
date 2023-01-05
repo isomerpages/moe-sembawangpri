@@ -37,4 +37,4 @@ Science and Green Club aspires to groom budding scientists who are curious and h
 
 </div>
 
-Last updated : 24/05/2022
+Last updated : 05/01/2023
