@@ -11,17 +11,14 @@ third_nav_title: Clubs and Societies
 
 
 ICT Club CCA aspires to groom little ICT professionals who will be equipped with ICT skills to handle the technology-enabled future. Selected students will also get to take part in competitions such as the National Game Creation Competition which requires them to make use of logical thinking.  
-  
-Insert video introduction here.
 	
 **Schedule :**  
   
 Due to the safety management measures in place, students will be attending the CCA sessions on a rotational basis.  
   
+**2023 ICT Club CCA Schedule**
+![](/images/2023_Semester1_CCA%20schedule.png)
 
-**2022 ICT Club CCA Schedule**
-<img src="/images/cca15.png" 
-     style="width:70%">
 
 |  |  |
 |---|---|
