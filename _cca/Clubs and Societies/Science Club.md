@@ -11,12 +11,10 @@ Science and Green Club aspires to groom budding scientists who are curious and h
 |  |  |
 |---|---|
 | Time | <br>2.15 p.m - 4.15 p.m. |
-|  Teachers-in-charge | <br>Mr Zhao Zhiyang<br>Ms Long Shi Hui Ms Pearlyn Seow Pei Yi <br> |
+|  Teachers-in-charge | <br>Mr Zhao Zhiyang<br>Ms Long Shi Hui<br> Ms Pearlyn Seow Pei Yi <br> |
 | Venue <br> | Science Rooms & Level 1 Classrooms |
 
-<img src="/images/cca25.png" 
-     style="width:70%">
-
+![](/images/2023_Semester1_CCA%20schedule.png)
 **Other photos**
 <img src="/images/cca26.png" 
      style="width:70%">
@@ -39,4 +37,4 @@ Science and Green Club aspires to groom budding scientists who are curious and h
 
 </div>
 
-Last updated : 24/05/2022
+Last updated : 05/01/2023

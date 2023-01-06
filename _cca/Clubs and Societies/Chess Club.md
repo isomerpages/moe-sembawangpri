@@ -11,7 +11,7 @@ Chess Club CCA aspires to groom little chess players who will develop intellectu
 |  |  |
 |---|---|
 | Time |  2.15 p.m. – 4.15 p.m. |
-| Teachers-in-charge | Mdm Liu Hongyan<br><br>Ms Jacintha Devi d/o Tamilveeran |
+| Teachers-in-charge | Mdm Liu Hongyan<br><br>Mrs Crystal Lee-Cai Wanqin |
 |  Venues | 2C and 2E Classrooms |
 
 <img src="/images/cca17.png" 
@@ -25,4 +25,4 @@ Chess Club CCA aspires to groom little chess players who will develop intellectu
 
 </div>
 
-Last updated: 20/01/2022
+Last updated: 05/01/2023

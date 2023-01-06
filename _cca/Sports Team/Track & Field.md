@@ -11,7 +11,7 @@ Track and Field CCA aspires to groom little athletes who can run, jump or throw 
 |  |  |
 |---|---|
 | Schedule | <br>Monday, 4pm to 5.30pm (Pri 3 & Pri 4)  <br><br>Thursday, 4pm to 5.30pm ( Pri 5 & 6)  |
-| Teachers-in-charge  | Mr Muhammad Iskandar<br><br><br>Mr Mike Tay Eng Wee<br>Ms Tan Yi Xuan<br>Ms Insyirah Binti Mohamad Ali<br>Ms Awyong Yun Ting<br><br>Ms Joey Tan Siew Bing<br> |
+| Teachers-in-charge  | Mr Muhammad Iskandar<br>Mr Mike Tay Eng Wee<br>Ms Tan Yi Xuan<br>Ms Insyirah Binti Mohamad Ali<br>Ms Awyong Yun Ting<br>Ms Joey Tan Siew Bing<br> |
 |  Venue |  School |
 
 <img src="/images/cca2.png" 
@@ -23,4 +23,4 @@ Track and Field CCA aspires to groom little athletes who can run, jump or throw 
 
 </div>
 
-Last updated: 10/04/2022
+Last updated: 05/01/2023

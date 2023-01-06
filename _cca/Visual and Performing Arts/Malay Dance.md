@@ -11,7 +11,7 @@ Malay Dance CCA aspires to groom little dancers who are passionate about not onl
 |  |  |
 |---|---|
 | Schedule | Friday : 2.15 p.m. – 4.15 p.m.<br><br>Group 1 (P4 & P5): 14/1, 28/1, 11/2, 25/2<br>Group 2 (P3 & P6): 21/2, 4/2, 18/2, 4/3 |
-| Teachers-in-charge | <br>Mdm Norlin Binte Mansor<br><br>Ms Nurul Syahidah Binte Bahari<br>Mdm Khadijah Bte Ahmad |
+| Teachers-in-charge | <br>Mdm Norlin Binte Mansor<br><br>Ms Nurul Syahidah Binte Bahari |
 |  Venue | Dance Studio |
 
 <img src="/images/cca9.png" 
@@ -23,4 +23,4 @@ Malay Dance CCA aspires to groom little dancers who are passionate about not onl
 
 </div>
 
-Last updated: 11/01/2022
+Last updated: 05/01/2023

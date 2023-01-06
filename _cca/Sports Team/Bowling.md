@@ -11,7 +11,7 @@ Bowling CCA aspires to groom little bowlers who are focussed and good decision m
 |  |  |
 |---|---|
 | Schedule | Friday : 2.15 p.m. – 4.15 p.m. |
-| Teachers-in-charge | Ms Leong Wei Yee Tracy<br><br>Ms Heow Tsuey Yan<br><br>Mdm Jessie Ho Yit Har |
+| Teachers-in-charge | Ms Leong Wei Yee Tracy<br><br>Ms Heow Tsuey Yan<br><br>Mdm Shadidah Bte Mokhtar|
 |  Venue | Yishun Safra / Orchid Country Club |
 
 <img src="/images/cca5.png" 
@@ -23,4 +23,4 @@ Bowling CCA aspires to groom little bowlers who are focussed and good decision m
 
 </div>
 
-Last updated: 10/04/2022
+Last updated: 05/01/2023

@@ -11,7 +11,7 @@ Red Cross CCA aspires to groom little humanitarians who have big hearts and neve
 |  |  |
 |---|---|
 | Time | <br>Fridays, 2.15 p.m - 4.15 p.m. |
-| Teachers-in-charge | Ms Nursahila Bte Roszelan<br>Ms Ruhaida Bte Hashim |
+| Teachers-in-charge | Ms Nursahila Bte Roszelan<br>Ms Ruhaida Bte Hashim <br>Mrs Prakash-Malarvizhi R.|
 | Venue <br> | Science Rooms & Level 1 Classrooms |
 
 <img src="/images/cca29.png" 
@@ -27,4 +27,4 @@ Red Cross CCA aspires to groom little humanitarians who have big hearts and neve
 
 </div>
 
-Last updated: 12/01/2021
+Last updated: 05/01/2023

@@ -6,6 +6,13 @@ third_nav_title: Clubs and Societies
 ---
 ### Media Resource Library Club
 
+|  |  |
+|---|---|
+| Time | 2.15 pm tp 4.15pm |
+| Teachers-in-charge | Mdm Noraida Binte Wagimin<br>  <br>Ms Nuremiliyana Suhaidi<br>
+|  Venue | Library|
+
+
 <img src="/images/cca19.png" 
      style="width:70%">
 <img src="/images/cca20.png" 
@@ -39,4 +46,4 @@ third_nav_title: Clubs and Societies
 </div>
 
 
-Last updated: 11/01/2022
+Last updated: 05/01/2023

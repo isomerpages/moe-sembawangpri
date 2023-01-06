@@ -10,7 +10,7 @@ Chinese Dance CCA aspires to groom little dancers who are passionate about not o
 |  |  |
 |---|---|
 | Schedule | Every Friday : 2.15 p.m. – 4.15 p.m.<br>SYF Group: Term 1(4 feb, 18 feb, 25 feb, 4 mar)<br>Non-SYF Group: Term 1(21 jan, 28 jan, 11feb) |
-| Teachers-in-charge | <br>Ms Kong Jia Yee<br><br>Ms Lian Wei Qi, Jenell<br><br><br>Mdm Suraya Bte Mohamed Iqbal |
+| Teachers-in-charge | <br>Ms Kong Jia Yee<br><br>Ms Lian Wei Qi, Jenell<br><br>Mdm Zheng Hongyu |
 |  Venue | MPH |
 
 <img src="/images/cca7.png" 
@@ -22,4 +22,4 @@ Chinese Dance CCA aspires to groom little dancers who are passionate about not o
 
 </div>
 
-Last updated: 11/01/20221
+Last updated: 05/01/2023

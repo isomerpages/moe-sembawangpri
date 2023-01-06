@@ -14,7 +14,7 @@ Table tennis is a sport that requires students to possess dexterity and a high l
  |  |  |
 |---|---|
 | Schedule | Friday :   2.15 p.m. – 4.15 p .m. (All) <br><br>4.15 p.m. – 5.15 p.m. (Selected students) |
-| Teachers-in-charge | Mdm Wang Yingchao<br>Mr Mohammad  Noorkhuzaifah <br> Mr Calvin Chia |
+| Teachers-in-charge | Mdm Wang Yingchao<br>Mr Mohammad  Noorkhuzaifah <br> Mr Cheah Boon Teck Janssen |
 |  Venue |  ISH |
 
 <img src="/images/cca6.png" 
@@ -27,4 +27,4 @@ Table tennis is a sport that requires students to possess dexterity and a high l
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pkwsHUACXuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
-Last updated: 10/04/2022
+Last updated: 05/01/2023
