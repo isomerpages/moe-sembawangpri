@@ -7,8 +7,9 @@ description: ""
 
 #### Primary 1
 
+
 |  |  |  |
-|:---:|:---:|:---:|
+|---|---|---|
 | **Class** | **Form Teachers** | **Email** |
 | 1 Care | Ms Nuremiliyana Suhaidi | [nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg) |
 | 1 Care | Ms Ong Jia Hui | [ong\_jia\_hui\_a@schools.gov.sg](mailto:ong_jia_hui_a@schools.gov.sg) |
@@ -29,7 +30,7 @@ description: ""
 #### Primary 2
 
 |  |  |  |
-|:---:|:---:|:---:|
+|---|---|---|
 | **Class** | **Form Teachers** | **Email** |
 | 2 Care | Mdm Nur Syafiqah Binte Eddie Yusof | [nur\_syafiqah\_eddie\_yusof@schools.gov.sg](mailto:nur_syafiqah_eddie_yusof@schools.gov.sg) |
 | 2 Care | Mr Tay Eng Wee Mike | [tay\_eng\_wee@schools.gov.sg](mailto:tay_eng_wee@schools.gov.sg) |
@@ -48,7 +49,7 @@ description: ""
 #### Primary 3
 
 |  |  |  |
-|:---:|:---:|:---:|
+|---|---|---|
 | **Class** | **Form Teachers** | **Email** |
 | 3 Care | Ms Tan Siew Bing Joey | [tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) |
 | 3 Care | Ms Wang Xinlin | [wang\_xinlin@schools.gov.sg](mailto:wang_xinlin@schools.gov.sg) |
@@ -65,7 +66,7 @@ description: ""
 #### Primary 4
 
 |  |  |  |
-|:---:|:---:|---|
+|---|---|---|
 | **Class** | **Form Teachers** | **Email** |
 | 4 Care | Ms Awyong Yun Ting | [awyong\_yun\_ting@schools.gov.sg](mailto:awyong_yun_ting@schools.gov.sg) |
 | 4 Care | Mr Tay Kuok Liang Winston | [tay\_kuok\_liang\_winston@schools.gov.sg](mailto:tay_kuok_liang_winston@schools.gov.sg) |
@@ -82,7 +83,7 @@ description: ""
 **Primary 5**
 
 |  |  |  |
-|:---:|:---:|---|
+|---|---|---|
 | **Class** | **Form Teachers** | **Email** |
 | 5 Care | Mdm Khadijah Bte Ahmad | [khadijah\_ahmad\_a@schools.gov.sg](mailto:khadijah_ahmad_a@schools.gov.sg)  |
 | 5 Care | Mrs Crystal Lee-Cai Wanqin | [cai\_wanqin\_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg) |
@@ -102,7 +103,7 @@ description: ""
 **Primary 6**
 
 |  |  |  |
-|:---:|:---:|---|
+|---|---|---|
 | **Class** | **Form Teachers** | **Email** |
 | 6 Care | Mrs Vivien Seah-Zee Chung Lah | [zee\_chung\_lah@schools.gov.sg](mailto:zee_chung_lah@schools.gov.sg) |
 | 6 Care | Ms Pan Jingting Alisa | [pan\_jingting\_alisa@schools.gov.sg](mailto:pan_jingting_alisa@schools.gov.sg) |
@@ -121,7 +122,7 @@ description: ""
 #### Other Teaching Staff
 
 | Teacher 	| Email 	|
-|:---:	|:---:	|
+|---|---|
 | Mdm Lediana Bte Mohamed Said | [lediana\_mohamed\_said@schools.gov.sg](mailto:lediana_mohamed_said@schools.gov.sg) |
 | Ms Shanthini d/o Manoosegaran | [shanthini\_manoosegaran@schools.gov.sg](mailto:shanthini_manoosegaran@schools.gov.sg) |
 | Ms Rajasveri d/o Renganathan 	| [rajasveri\_renganathan@schools.gov.sg](mailto:rajasveri_renganathan@schools.gov.sg) |
