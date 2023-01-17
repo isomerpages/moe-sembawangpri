@@ -22,17 +22,6 @@ Track and Field CCA aspires to groom little athletes who can run, jump or throw 
 
 <img src="/images/tf6.jpg" style="width:60%"><img src="/images/tf7.jpg" style="width:60%">
 
-![]()![]()
 
-![]()![]()
-
-![]()
-
-
-<div class="bp-youtube">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dkE93Fz7bsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
 
 Last updated: 17/01/2023
