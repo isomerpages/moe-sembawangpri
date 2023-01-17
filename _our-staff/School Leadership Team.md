@@ -31,8 +31,8 @@ description: ""
 
 #### Level Heads/Subject Heads
 
-|  |  |
-|---|---|
+| <br> 	|  	|
+|:---:	|:---:	|
 | English   	| Mdm Noraida Binte Wagimin <br>[noraida\_wagimin@schools.gov.sg](mailto:noraida_wagimin@schools.gov.sg)   <br> 	|
 | Mathematics 	| Mrs Crystal Lee-Cai Wan Qin <br>[cai\_wanqin\_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg) <br> 	|
 | Mother Tongue Languages           	| Ms Ganda Sari Binte Chokri <br>[ganda\_sari\_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg)    <br> 	|
@@ -44,5 +44,4 @@ description: ""
 | Student Management 	| Mr Calvin Chia Chin Ooi<br>[chia\_chin\_ooi\_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg)<br> 	|
 | Student Well-Being	| Ms Sharon Chan Hui Yu<br>[chan\_hui\_yu\_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg) 	|
 
-
-Last updated : 12/01/2023
+Last updated : 29/12/2022

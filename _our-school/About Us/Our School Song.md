@@ -6,7 +6,7 @@ third_nav_title: About Us
 ---
 ### Our School Song
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VCkVs6eK5NU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+***Insert school song video here***
 
 Learning is an adventure.
 
@@ -51,4 +51,4 @@ Music -  Tan Wei Ling
 
 
 
-Last updated :12/01/2023
+Last updated :01/01/2022
