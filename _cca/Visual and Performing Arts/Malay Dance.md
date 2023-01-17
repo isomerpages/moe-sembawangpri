@@ -30,4 +30,4 @@ Malay Dance CCA aspires to groom dancers who are passionate and will be able to:
 
 </div>
 
-Last updated: 05/01/2023
+Last updated: 17/01/2023
