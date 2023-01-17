@@ -6,11 +6,18 @@ third_nav_title: Visual and Performing Arts
 ---
 ### Malay Dance
 
-Malay Dance CCA aspires to groom little dancers who are passionate about not only dancing, but also the movements specific to the Malay dance and culture. These budding dancers will have opportunities to showcase their talent in public.
+Malay Dance CCA aspires to groom dancers who are passionate and will be able to:
+*   immerse themselves in the Malay culture, customs and traditions through traditional Malay Dance
+*   learn and execute Malay Dance steps from the various genres: Asli, Inang, Joget, Masri and Zapin
+*   gain exposure in the local Malay Dance Performing Arts scene
+*   develop and demonstrate the school values through various experiences e.g. roles and responsibilities
+*   build self-confidence as a performer through involvement in various school and external performances
+*   be instilled with a deep passion and appreciation for the performing arts
+*   play a part in igniting the passion and ensuring the preservation of traditional Malay Dance
 
 |  |  |
 |---|---|
-| Schedule | Friday : 2.15 p.m. – 4.15 p.m.<br><br>Group 1 (P4 & P5): 14/1, 28/1, 11/2, 25/2<br>Group 2 (P3 & P6): 21/2, 4/2, 18/2, 4/3 |
+| Schedule | Friday : 2.15 p.m. – 4.15 p.m.<br><br> Additional Trainings: 4.30 p.m. – 5.30 p.m. |
 | Teachers-in-charge | <br>Mdm Norlin Binte Mansor<br><br>Ms Nurul Syahidah Binte Bahari |
 |  Venue | Dance Studio |
 
@@ -23,4 +30,4 @@ Malay Dance CCA aspires to groom little dancers who are passionate about not onl
 
 </div>
 
-Last updated: 05/01/2023
+Last updated: 17/01/2023
