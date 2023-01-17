@@ -14,8 +14,7 @@ Track and Field CCA aspires to groom little athletes who can run, jump or throw 
 | Teachers-in-charge  | Mr Muhammad Iskandar<br>Mr Mike Tay Eng Wee<br>Ms Tan Yi Xuan<br>Ms Insyirah Binti Mohamad Ali<br>Ms Awyong Yun Ting<br>Ms Joey Tan Siew Bing<br> |
 |  Venue |  School |
 
-<img src="/images/cca2.png" 
-     style="width:70%">
+<img src="/images/tf1.jpg" style="width:60%"><img src="/images/tf2.jpg" style="width:60%">
 
 <div class="bp-youtube">
 
