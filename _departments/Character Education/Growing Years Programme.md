@@ -24,15 +24,15 @@ third_nav_title: Character Education
 
 3.         The <b>key messages</b> of Sexuality Education are: 
 
-<p align = "justify">(i)            Love and respect yourself as you love and respect others;</P>
+<p align = "justify">(a)            Love and respect yourself as you love and respect others;</P>
 
-<p align = "justify">(ii)     Build positive relationships based on love and respect (which are the foundation for strong families);</P>
+<p align = "justify">(b)     Build positive relationships based on love and respect (which are the foundation for strong families);</P>
 
-<p align = "justify">(iii)         Make responsible decisions for yourself, your family and society; and</P>
+<p align = "justify">(c)         Make responsible decisions for yourself, your family and society; and</P>
 
-<p align = "justify">(iv)         Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</P>
+<p align = "justify">(d)         Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</P>
 
-You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
  **Overview of Sembawang Primary School’s Sexuality Education Programme for 2022**
 
