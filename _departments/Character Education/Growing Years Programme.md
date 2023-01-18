@@ -61,6 +61,8 @@ b.       Character and Citizenship Education (CCE)
 
 **Primary 5**
 
+<table><tbody><thead><tr><td></td></tr></thead></tbody></table>
+
 
 **Primary 6**
 
