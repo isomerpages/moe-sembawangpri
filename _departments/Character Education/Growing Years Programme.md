@@ -64,7 +64,15 @@ b.       Character and Citizenship Education (CCE)
 
 
 <table >
-<tbody><thead style="background-color:#c0c0c0;border-color:#000000;border-style:solid;"><tr><td>aaaa</td><td></td></tr></thead></tbody></table>
+<tbody><thead >
+	<tr ><td style="background-color:#;
+	border:solid black;
+	border-style:solid;
+	border-collapse: collapse;">aaaa</td>
+	<td style="background-color:#;
+	border:solid black;
+	border-style:solid;
+	border-collapse: collapse;"></td></tr></thead></tbody></table>
 
 
 **Primary 6**
