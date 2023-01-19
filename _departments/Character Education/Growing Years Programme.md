@@ -74,18 +74,13 @@ style='font-size:28.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>
   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
    <td width=189 valign=top style='width:141.5pt;border:solid black 1.0pt;
    mso-border-alt:solid black .5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt'>
-   <p class=MsoNormal align=center style='margin-top:3.0pt;margin-right:0cm;
-   margin-bottom:3.0pt;margin-left:15.8pt;text-align:center;text-indent:-15.8pt'><b><span
-   lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif;
-   color:black'>CCE(FTGP) THEME</span></b></p>
+   <b>CCE(FTGP) THEME</b></p>
    </td>
    <td width=227 valign=top style='width:6.0cm;border:solid black 1.0pt;
    border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
    background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt'>
-   <p class=MsoNormal align=center style='margin-top:3.0pt;margin-right:0cm;
-   margin-bottom:3.0pt;margin-left:0cm;text-align:center'><b><span lang=EN-GB
-   style='font-size:11.0pt;font-family:"Arial",sans-serif;color:black'>LESSON
-   TITLE / DURATION</span></b></p>
+ <b>LESSON
+   TITLE / DURATION</b>
    </td>
    <td width=444 valign=top style='width:333.15pt;border:solid black 1.0pt;
    border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
@@ -160,9 +155,7 @@ style='font-size:28.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.1pt'>
-  <p class=MsoNormal align=center style='margin-left:3.6pt;text-align:center'><span
-  lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif'><span
-  style='mso-spacerun:yes'>&nbsp;</span>Did You Know? </span></p>
+  <p class=MsoNormal align=center style='margin-left:3.6pt;text-align:center'>Did You Know? </p>
   <p class=MsoNormal align=center style='margin-left:3.6pt;text-align:center'><span
   lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif'>(60 min)</span></p>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-GB
