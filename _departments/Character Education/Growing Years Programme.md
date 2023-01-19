@@ -59,25 +59,179 @@ b.       Character and Citizenship Education (CCE)
 ![](/images/MOE%20Logo%20Black%20and%20White.jpg)
 <b>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </b>
 
-**Primary 5**
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-GB
+style='font-size:28.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>Primary
+5</span></b></p>
 
+<div align=center>
 
-
-<table >
-<tbody><thead >
-	<tr ><td style="background-color:#;
-	border:solid black;
-	border-style:solid;
-	border-collapse: collapse;">aaaa</td>
-	<td style="background-color:#;
-	border:solid black;
-	border-style:solid;
-	border-collapse: collapse;"></td></tr></thead></tbody></table>
-
-
-**Primary 6**
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#c0c0c0;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">UNIT</th><th style="background-color:#c0c0c0;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">LESSONS / DURATION</th><th style="background-color:#c0c0c0;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="5">Are We More Than Friends?</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Who Are My Friends?<br>(30 min)</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">·         identify the qualities of a healthy friendship<br>·         recognise the importance of making wise choices in friendship</td></tr><tr><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Am I A Good Friend?<br>(30 min)</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">·         identify the qualities that they have as a friend<br>·         recognise the importance of developing in oneself the qualities of a good friend</td></tr><tr><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">What is Love?<br>(30 min)</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">·         identify the characteristics of love and infatuation<br>·         distinguish between the characteristics of love versus infatuation<br>·         identify strong feelings arising from infatuation</td></tr><tr><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Am I Falling In Love?<br>(30 min)</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">·         manage strong feelings arising from infatuation<br>·         identify ways to manage and cope with teasing from peers</td></tr><tr><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Main Task<br> (30 min)</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Description of the Main Task:<span style="font-weight:400;color:#000"> </span><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td></tr><tr><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="3">Friends or Foes?</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Are You Really My Friend?<br>(30 min)</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">·         identify the pros and cons of forming relationships through social networking websites<br>·         know ways to keep themselves safe when using social networking websites</td></tr><tr><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Is It All Safe?<br>(30 min)</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">·         know that some information (like pornography) received through the Internet may be harmful<br>·         know ways to keep themselves safe when using social networking websites or the Internet</td></tr><tr><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Main Task<br> (30 min)</td><td style="background-color:#FFF;border-color:#9b9b9b;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Description of the Main Task:<span style="font-weight:400;color:#000"> </span><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility. </td></tr></tbody></table>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=1039
+ style='border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
+ .5pt solid windowtext'>
+ <thead>
+  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+   <td width=189 valign=top style='width:141.5pt;border:solid black 1.0pt;
+   mso-border-alt:solid black .5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt'>
+   <p class=MsoNormal align=center style='margin-top:3.0pt;margin-right:0cm;
+   margin-bottom:3.0pt;margin-left:15.8pt;text-align:center;text-indent:-15.8pt'><b><span
+   lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif;
+   color:black'>CCE(FTGP) THEME</span></b></p>
+   </td>
+   <td width=227 valign=top style='width:6.0cm;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt'>
+   <p class=MsoNormal align=center style='margin-top:3.0pt;margin-right:0cm;
+   margin-bottom:3.0pt;margin-left:0cm;text-align:center'><b><span lang=EN-GB
+   style='font-size:11.0pt;font-family:"Arial",sans-serif;color:black'>LESSON
+   TITLE / DURATION</span></b></p>
+   </td>
+   <td width=444 valign=top style='width:333.15pt;border:solid black 1.0pt;
+   border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt'>
+   <p class=MsoNormal align=center style='margin-top:3.0pt;margin-right:0cm;
+   margin-bottom:3.0pt;margin-left:0cm;text-align:center'><b><span lang=EN-GB
+   style='font-size:11.0pt;font-family:"Arial",sans-serif;color:black;
+   text-transform:uppercase'>Lesson OVERVIEW</span></b><b><span lang=EN-GB
+   style='font-size:11.0pt;font-family:"Arial",sans-serif;color:black'></span></b></p>
+   </td>
+   <td width=180 style='width:134.65pt;border:solid black 1.0pt;border-left:
+   none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+   background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt'>
+   <p class=MsoNormal align=center style='margin-top:3.0pt;margin-right:0cm;
+   margin-bottom:3.0pt;margin-left:0cm;text-align:center'><b><span lang=EN-GB
+   style='font-size:11.0pt;font-family:"Arial",sans-serif;color:black'>TIME
+   PERIOD </span></b></p>
+   <p class=MsoNormal align=center style='margin-top:3.0pt;margin-right:0cm;
+   margin-bottom:3.0pt;margin-left:0cm;text-align:center'><b><span lang=EN-GB
+   style='font-size:11.0pt;font-family:"Arial",sans-serif;color:black'>(<span
+   class=GramE>e.g.</span> Term 1 Week 2)<span style='text-transform:uppercase'></span></span></b></p>
+   </td>
+  </tr>
+ </thead>
+ <tr style='mso-yfti-irow:1;height:143.95pt'>
+  <td width=189 rowspan=3 style='width:141.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid windowtext .5pt;
+  mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:143.95pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-GB
+  style='font-size:11.0pt;font-family:"Arial",sans-serif'>Growing Years</span></p>
+  </td>
+  <td width=227 style='width:6.0cm;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:143.95pt'>
+  <p class=MsoNormal align=center style='margin-left:3.6pt;text-align:center'><span
+  lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif'>The
+  Changes in Me</span></p>
+  <p class=MsoNormal align=center style='margin-left:3.6pt;text-align:center'><span
+  lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif'>(60 min)</span></p>
+  </td>
+  <td width=444 style='width:333.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;mso-border-top-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:143.95pt'>
+  <p style='text-align:justify;text-justify:inter-ideograph'><span lang=EN-GB
+  style='font-size:11.0pt;font-family:"Arial",sans-serif'>This lesson focuses
+  on helping students identify the emotions and stress caused by physical
+  changes during puberty. Students will learn to describe the healthy ways to
+  manage their negative feelings during this time. They will also learn to
+  recognise that one’s identity <span class=GramE>need</span> not be negatively
+  affected, even when one’s body is experiencing changes due to puberty. </span></p>
+  <p style='text-align:justify;text-justify:inter-ideograph'><span lang=EN-GB
+  style='font-size:11.0pt;font-family:"Arial",sans-serif'>This lesson is
+  conducted separately for boys and girls in different classrooms, so that the
+  students will feel more comfortable during the discussions.</span></p>
+  </td>
+  <td width=180 style='width:134.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;mso-border-top-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:143.95pt'>
+  <p align=center style='margin-right:-5.2pt;text-align:center'><span
+  lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif'>Term 3
+  Week 5 &amp; 6</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:48.1pt'>
+  <td width=227 style='width:6.0cm;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.1pt'>
+  <p class=MsoNormal align=center style='margin-left:3.6pt;text-align:center'><span
+  lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif'><span
+  style='mso-spacerun:yes'>&nbsp;</span>Did You Know? </span></p>
+  <p class=MsoNormal align=center style='margin-left:3.6pt;text-align:center'><span
+  lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif'>(60 min)</span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-GB
+  style='font-size:11.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
+  </td>
+  <td width=444 style='width:333.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.1pt'>
+  <p style='text-align:justify;text-justify:inter-ideograph'><span lang=EN-GB
+  style='font-size:11.0pt;font-family:"Arial",sans-serif'>This lesson focuses
+  on helping students know what pornography is and how it can affect themselves
+  and others. Students will learn about the dangers of being exposed to
+  sexually explicit materials and reject the viewing and/or reading of
+  pornographic materials. They will learn to evaluate their own responses when
+  they encounter pornography by applying the strategy ‘<b>Stop-Think-Do’. </b></span></p>
+  <p><span lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif'>This
+  lesson is conducted separately for boys and girls in different classrooms, so
+  that the students will feel more comfortable during the discussions.</span><span
+  lang=EN-SG style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+  EN-SG;mso-fareast-language:EN-SG'></span></p>
+  </td>
+  <td width=180 style='width:134.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.1pt'>
+  <p align=center style='text-align:center'><span lang=EN-GB style='font-size:
+  11.0pt;font-family:"Arial",sans-serif'>Term 3 Week 7 &amp; 8</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:134.5pt'>
+  <td width=227 style='width:6.0cm;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:134.5pt'>
+  <p class=MsoNormal align=center style='margin-left:3.6pt;text-align:center'><span
+  lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif'>Keeping
+  Myself Safe</span></p>
+  <p class=MsoNormal align=center style='margin-left:3.6pt;text-align:center'><span
+  lang=EN-GB style='font-size:11.0pt;font-family:"Arial",sans-serif'>(60 min)</span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-GB
+  style='font-size:11.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
+  </td>
+  <td width=444 style='width:333.15pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:134.5pt'>
+  <p style='text-align:justify;text-justify:inter-ideograph'><span lang=EN-GB
+  style='font-size:11.0pt;font-family:"Arial",sans-serif'>In this lesson,
+  students will learn about sexual abuse, how it can happen during online and
+  offline interactions and the impact of such abuse on victims. They also learn
+  how to take precautionary measures to be safe and how to seek help for
+  themselves and their friends.</span></p>
+  <p style='text-align:justify;text-justify:inter-ideograph'><span lang=EN-GB
+  style='font-size:11.0pt;font-family:"Arial",sans-serif'>This lesson is
+  conducted separately for boys and girls in different classrooms, so that the
+  students will feel more comfortable during the discussions.</span><span
+  lang=EN-SG style='font-size:10.0pt;mso-ansi-language:EN-SG;mso-fareast-language:
+  EN-SG'></span></p>
+  </td>
+  <td width=180 style='width:134.65pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:134.5pt'>
+  <p align=center style='text-align:center'><span lang=EN-GB style='font-size:
+  11.0pt;font-family:"Arial",sans-serif'>Term 3 Week 9 &amp; 10</span></p>
+  </td>
+ </tr>
+</table>
 
 **Information for Parents**
 
