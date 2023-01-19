@@ -67,14 +67,11 @@ b.       Character and Citizenship Education (CCE)
 
 **Information for Parents**
 
-<p align = "justify">8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</P>
+<p align = "justify">8.        Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</P>
 
-<p align = "justify">9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents Gateway.</P>
+<p align = "justify">9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex A and insert a hyperlink for parents to download the form). The completed opt-out form is to be submitted by 31/01/2023.</P>
 
-<p align = "justify">10.       Parents can contact the school at [sembawang\_ps@moe.edu.sg](mailto:sembawang_ps@moe.edu.sg)  or 67567330 for discussion or to seek clarification about the school’s sexuality education programme.</P>
+<p align = "justify">10.  Parents can contact the school at sembawang_ps@moe.edu.sg or 67567330  for discussion or to seek clarification about the school’s Sexuality Education programme.</P>
 
-  
-
-<p align = "justify">**At Sembawang Primary School, the following Sexuality Education lessons will be taught in 2022:**</P>
 
 Last updated : 19/01/2023
