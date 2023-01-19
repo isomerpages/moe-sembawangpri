@@ -244,4 +244,5 @@ style='font-size:28.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>
   
 
 <p align = "justify">**At Sembawang Primary School, the following Sexuality Education lessons will be taught in 2022:**</P>
+
 Last updated : 19/01/2023
