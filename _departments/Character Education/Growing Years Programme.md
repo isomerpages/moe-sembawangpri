@@ -59,7 +59,7 @@ b.       Character and Citizenship Education (CCE)
 ![](/images/MOE%20Logo%20Black%20and%20White.jpg)
 <b>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </b>
 
-
+![](/images/P5%20Table.png)
 
 
 
