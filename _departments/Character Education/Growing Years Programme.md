@@ -62,6 +62,8 @@ b.       Character and Citizenship Education (CCE)
 ![](/images/P5%20Table.png)
 
 
+![](/images/P6%20Table.png)
+
 
 **Information for Parents**
 
