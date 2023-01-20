@@ -3,7 +3,6 @@ title: MK@Sembawang
 permalink: /mk-sembawang/
 description: ""
 ---
-	
 ![](/images/MK%20Open%20House%202023.jpeg)
 <br>
 <img src="/images/mksmb.png" 
