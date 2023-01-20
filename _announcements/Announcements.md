@@ -3,6 +3,8 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+![](/images/MK%20Open%20House%202023.jpeg)
+
 **2022 Speech Day**
 
 Program booklet :   
@@ -11,30 +13,6 @@ Program booklet : 
 
 Last updated : 17/11/2022
 
-**PAT 2023**
-
-The President’s Award for Teachers gives national recognition to experienced teachers for their dedication and hard work in developing our young. These teachers prepare students for life, as well as model commitment to continuous learning and enterprise. They inspire both their students and peers through their words and deeds.
-
-Nomination for PAT 2022 is **now open** and will **close on Wednesday, 11 January 2023**.  
-
-Submit your nominations online by clicking on the URLs or scanning the QR codes below.
-
-[https://go.gov.sg/pat2023](https://go.gov.sg/pat2023)
-
-![](/images/pat2023-01%20(002).jpg)
-
-
-**OYEA 2023**
-
-The Outstanding Youth in Education Award gives national recognition to young teachers who are role models for the teaching profession. These teachers personify youthful idealism, energy and enthusiasm, and inspire both their students and peers through their words and deeds. Educators who are 35 years and younger are eligible for the award. Hence, OYEA 2023 is open to educators who are born on or after 30 June 1988.
-
-Nomination for OYEA 2022 is **now open** and will **close on Wednesday, 11 January 2023.**  
-
-Submit your nominations online by clicking on the URLs or scanning the QR codes below.
-
-[https://go.gov.sg/oyea2023](https://go.gov.sg/oyea2023)
-
-![](/images/oyea2023-poster.png)
 
 **Open Letter from School Leaders 2**
 
