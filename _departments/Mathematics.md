@@ -13,7 +13,10 @@ Students’ passion in a subject do influence their motivation to learn and achi
 *   develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem solving;
 *   build confidence and foster joy of learning in mathematics.
 
-<img src="/images/math1.png" 
+<img src="/images/math1.jpg" 
+     style="width:70%"> 
+		 
+<img src="images/math1-1.jpg" 
      style="width:60%">
 		 
 In addition to the Mathematics curriculum, the department administers the following programmes to help all students achieve success in learning mathematics. 
@@ -37,10 +40,6 @@ The E2K Mathematics Programme was conceptualized as a Mathematics enrichment pro
 The programme aims to foster independence in mathematical thinking skills, as well as nurture other important 21st century competencies such as resilience and resourcefulness and to enhance critical and inventive thinking and effective communication skills.   
 
 During the E2K sessions, our identified students will be exposed to challenging Math problems. The learning experiences will include opportunities to discover, reason and communicate Mathematical ideas and concepts, especially in problem solving.
-
-**Math Olympiad Programme**  
-  
-The programme allows students who are mathematically inclined to have opportunities to extend their learning in the classroom, we seek to expose them to more challenging tasks to stretch their thinking and deepen their understanding. The Mathematics Olympiad programme is offered to students from Primary 3 to Primary 6 to develop their creative thinking and problem solving abilities in Mathematics. Students in the programme have opportunities to participate in the various Mathematics Olympiad competitions held annually.
 
 **Financial Literacy Programme**  
  
