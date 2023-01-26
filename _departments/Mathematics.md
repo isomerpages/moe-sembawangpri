@@ -61,4 +61,4 @@ Through the financial literacy programme, authentic applications of money decisi
 Research shows that families are an essential part of the learning of Mathematics. Doing and supporting mathematics learning at home can make a great difference in a child’s mathematics learning. When children participate in the activities with family members, their self-confidence increases and their attitude towards mathematics becomes
 The Math Homekit has been designed to provide opportunities for parents and their children to solve problems, to use logical thinking, to develop strategies, and to communicate mathematical thinking and understanding. Some questions in the Homekit booklet can be used by parents to help their children gain a clearer understanding of the mathematics concepts being explored. While some of the activities review concepts that have already been taught in class, some extend the child’s understanding and some prepare the child for concepts to be explored in class in the near future.
 
-Last updated : 01/01/2022
+Last updated : 26/01/2023
