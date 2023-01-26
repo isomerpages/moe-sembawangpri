@@ -43,7 +43,10 @@ During the E2K sessions, our identified students will be exposed to challenging 
 
 **Financial Literacy Programme**  
  
- <img src="/images/math2.png" 
+<img src="/images/math2.jpg" 
+     style="width:60%">
+		 
+<img src="/images/math2-1.jpg" 
      style="width:60%">
 		 
 Financial literacy complements the teaching of consumer mathematics concepts by providing a real world context for the students to make sense of quantities and to reason inductively about data. It provides a platform for students to apply mathematics in everyday decision making, beyond merely finding the “correct” answers.
