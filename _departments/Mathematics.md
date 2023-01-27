@@ -13,11 +13,9 @@ Students’ passion in a subject do influence their motivation to learn and achi
 *   develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem solving;
 *   build confidence and foster joy of learning in mathematics.
 
-<img src="/images/math1.jpg" 
-     style="width:70%"> 
+<img src="/images/math1.jpg" style="width:70%"> 
 		 
-<img src="images/math1-1.jpg" 
-     style="width:60%">
+<img src="/images/math1-1.jpg" style="width:50%">
 		 
 In addition to the Mathematics curriculum, the department administers the following programmes to help all students achieve success in learning mathematics. 
 
