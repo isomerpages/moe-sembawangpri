@@ -8,8 +8,9 @@ description: ""
 
 Environmental sustainability has become increasingly critical, with the prevalence of current issues such as climate change, loss of biodiversity, pollution and waste management. We believe that our children need to be given early exposure to these issues and be inculcated with the necessary knowledge, skills, and values to be environmentally-responsible citizens throughout their lives.
 
-<img src="images/alp1.png" 
-     style="width:50%">
+<img src="/images/math1.jpg" style="width:70%">
+
+<img src="images/alp1.png" style="width:50%">
 
 **Overview of ALP Framework**
 <img src="images/framwork.png" 
