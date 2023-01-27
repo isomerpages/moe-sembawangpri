@@ -10,11 +10,11 @@ Environmental sustainability has become increasingly critical, with the prevalen
 
 <img src="/images/math1.jpg" style="width:70%">
 
-<img src="images/alp1.png" style="width:50%">
+<img src="/images/alp1.png" style="width:50%">
 
 **Overview of ALP Framework**
-<img src="images/framwork.png" 
-     style="width:50%">
+<img src="/images/framwork.png" style="width:50%">
+
 The school’s ALP in Environmental Studies is offered to all students to enrich their educational experience and support content mastery in Science. This includes providing avenues for students to learn outside of the classroom, and apply their understanding to solve real-life environmental issues. Selected students are also given the opportunity to share their findings in nationwide competitions.
 <img src="images/alp2.png" 
      style="width:50%">
