@@ -15,8 +15,8 @@ Environmental sustainability has become increasingly critical, with the prevalen
 <img src="/images/framwork.png" style="width:50%">
 
 The school’s ALP in Environmental Studies is offered to all students to enrich their educational experience and support content mastery in Science. This includes providing avenues for students to learn outside of the classroom, and apply their understanding to solve real-life environmental issues. Selected students are also given the opportunity to share their findings in nationwide competitions.
-<img src="images/alp2.png" 
-     style="width:50%">
+
+<img src="/images/alp2.png" style="width:50%">
 
 **Green Leaders**
 
@@ -27,9 +27,10 @@ The Green Leaders are a group of student leaders who have been selected to advoc
 **Community Outreach**
 
 Our students also share with members of the public on the importance of environmental issues, and help to impart the message of environmental conservation.
+
 <img src="/images/alp4.png" style="width:50%">
 
-<img src="images/alp5.png" style="width:50%">
+<img src="/images/alp5.png" style="width:50%">
 
 **Green Learning Spaces**
 
