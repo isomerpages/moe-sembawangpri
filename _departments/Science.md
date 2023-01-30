@@ -36,6 +36,9 @@ Students from P3 to P6 enjoy opportunities to attend learning journeys for rich 
 
 <img src="/images/sci1.png" 
      style="width:75%">
+		 
+		 ![](/images/Picture2.jpg)
+		 ![](/images/Picture3.jpg)
 
 **Science Olympiad Training Programme**
 
