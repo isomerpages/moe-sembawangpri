@@ -21,6 +21,7 @@ All young children are innately curious about the world around them. Our goal is
 <img src="/images/Picture1.jpg" 
      style="width:75%">
 		 
+		 
  **Field-based Learning via Learning Journeys**  
   
 Students from P3 to P6 enjoy opportunities to attend learning journeys for rich field-based learning on identified Science topics:
