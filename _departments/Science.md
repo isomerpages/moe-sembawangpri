@@ -24,7 +24,6 @@ All young children are innately curious about the world around them. Our goal is
 		         Experiential activity to learn about life cycles
 		 
 
-		 		 
 **Field-based Learning via Learning Journeys**  
   
 Students from P3 to P6 enjoy opportunities to attend learning journeys for rich field-based learning on identified Science topics:
