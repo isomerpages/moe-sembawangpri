@@ -20,12 +20,18 @@ The school’s ALP in Environmental Studies is offered to all students to enrich
 
 ![](/images/alp1.jpg)
 ![](/images/alp2.jpg)
+![](/images/alp3.jpg)
+![](/images/alp4.jpg)
 
 **Green Leaders**
 
 The Green Leaders are a group of student leaders who have been selected to advocate environmental conservation efforts in the school and the community. Training is conducted for these students to deepen their knowledge in environmental issues and hone presentation skills. They also drive a food waste recycling programme during recess to encourage their peers to reduce food waste.
 
 <img src="/images/alp3.png" style="width:50%">
+
+![](/images/alp5.jpg)
+![](/images/alp6.jpg)
+![](/images/alp7.jpg)
 
 **Community Outreach**
 
@@ -44,6 +50,14 @@ In Sembawang Primary School, several learning spaces have been set up to enrich 
 <img src="/images/alp7.png" style="width:50%">
 
 <img src="/images/alp8.png" style="width:50%">
+
+![](/images/alp8.jpg)
+![](/images/alp9.jpg)
+![](/images/alp10.png)
+![](/images/alp11.jpg)
+![](/images/alp12.jpg)
+![](/images/alp13.jpg)
+![](/images/alp14.jpg)
 
 Our rooftop garden allows our students to experience the full process of growing and harvesting their own fruits and vegetables. Furthermore, they are able to gain a keen awareness of challenges faced by Singapore in terms of land scarcity and food sustainability.
 
