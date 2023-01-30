@@ -48,4 +48,4 @@ The E2K Science Programme is an enrichment programme for Upper Primary students 
 
 During the weekly sessions, stories, role-play and challenges are used to replicate the process that scientists go through to generate knowledge in Science. Students will be engaged in higher order thinking through effective questioning and experimentation that will allow them to discover scientific principles inductively.   
 
-Last updated : 01/01/2022
+Last updated : 30/01/2023
