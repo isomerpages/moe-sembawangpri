@@ -29,7 +29,7 @@ The school’s ALP in Environmental Studies is offered to all students to enrich
 
 **Green Leaders**
 
-The Green Leaders are a group of student leaders who have been selected to advocate environmental conservation efforts in the school and the community. Training is conducted for these students to deepen their knowledge in environmental issues and hone presentation skills. They also drive a food waste recycling programme during recess to encourage their peers to reduce food waste.
+The Green Leaders are a group of student leaders who have been selected to advocate environmental conservation efforts within the school and the community. They drive recycling efforts within the school and selected Green Leaders also conduct sharing sessions with the school population on environmental issues. Enrichment workshops and trainings are conducted for these students to deepen their knowledge of environmental issues and hone their presentation skills.
 
 <img src="/images/alp5.jpg" style="width:75%">
 
