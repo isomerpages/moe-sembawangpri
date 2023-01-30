@@ -12,7 +12,7 @@ Environmental sustainability has become increasingly critical, with the prevalen
 
 <img src="/images/framwork.png" style="width:80%">
 
-The school’s ALP in Environmental Studies is offered to all students to enrich their educational experience and support content mastery in Science. This includes providing avenues for students to learn outside of the classroom, and apply their understanding to solve real-life environmental issues. Selected students are also given the opportunity to share their findings in nationwide competitions.
+The school’s ALP in Environmental Studies is offered to all students to enrich their educational experience and support content mastery in Science. Through partnerships with external agencies and collaboration with various departments, students are provided with avenues to learn outside of the classroom and apply their understanding to tackle real-life environmental issues.
 
 <img src="/images/alp1.jpg" style="width:75%">
 
