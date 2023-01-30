@@ -46,15 +46,17 @@ The Green Leaders are a group of student leaders who have been selected to advoc
 
 Several green learning spaces have been set up around the school to support students’ learning in Environmental Studies. These include an eco-pond with an inverted aquarium, solar-powered water feature, habitat tanks, various gardening plots and a Zero Waste Hub where usual tables have been replaced with customised ones made from pallet wood gathered from discarded furniture.
 
-<img src="/images/alp6.png" style="width:50%">
+<img src="/images/alp8.jpg" style="width:75%">
 
-<img src="/images/alp7.png" style="width:50%">
+<img src="/images/alp9.jpg" style="width:75%">
 
-<img src="/images/alp8.png" style="width:50%">
+*Eco-ponds with an inverted aquarium in the school garden (L) and a solar-powered water feature at the school foyer (R)*
 
-![](/images/alp8.jpg)
-![](/images/alp9.jpg)
-![](/images/alp10.png)
+<img src="/images/alp10.png" style="width:50%">
+
+![]()
+![]()
+![]()
 ![](/images/alp11.jpg)
 ![](/images/alp12.jpg)
 ![](/images/alp13.jpg)
