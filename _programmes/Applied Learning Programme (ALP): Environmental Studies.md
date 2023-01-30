@@ -3,21 +3,23 @@ title: "Applied Learning Programme (ALP): Environmental Studies"
 permalink: /programmes/applied-learning-programme/
 description: ""
 ---
-
 **Introduction**  
   
 
 Environmental sustainability has become increasingly critical, with the prevalence of current issues such as climate change, loss of biodiversity, pollution and waste management. We believe that our children need to be given early exposure to these issues and be inculcated with the necessary knowledge, skills, and values to be environmentally-responsible citizens throughout their lives.
 
-<img src="/images/alp1.png" style="width:50%">
-
 **Overview of ALP Framework**
 
-<img src="/images/framwork.png" style="width:50%">
+<img src="/images/framwork.png" style="width:80%">
 
 The school’s ALP in Environmental Studies is offered to all students to enrich their educational experience and support content mastery in Science. This includes providing avenues for students to learn outside of the classroom, and apply their understanding to solve real-life environmental issues. Selected students are also given the opportunity to share their findings in nationwide competitions.
 
 <img src="/images/alp2.png" style="width:50%">
+
+<img src="/images/alp1.png" style="width:50%">
+
+![](/images/alp1.jpg)
+![](/images/alp2.jpg)
 
 **Green Leaders**
 
