@@ -18,14 +18,14 @@ The school’s ALP in Environmental Studies is offered to all students to enrich
 
 <img src="/images/alp2.jpg" style="width:75%">
 
-P5 students on a learning journey to Lower Seletar Reservoir to learn about the importance of water conservation
+*P5 students on a learning journey to Lower Seletar Reservoir to learn about the importance of water conservation*
 
 <img src="/images/alp3.jpg" style="width:75%">
 
 <img src="/images/alp4.jpg" style="width:75%">
 
-![]()
-![]()
+*Students viewing informative display panels by Singapore Botanic Gardens to learn about biodiversity in Singapore, as part of Biodiversity Week*
+
 
 **Green Leaders**
 
