@@ -44,7 +44,7 @@ The Green Leaders are a group of student leaders who have been selected to advoc
 
 **Learning Spaces**
 
-In Sembawang Primary School, several learning spaces have been set up to enrich students’ learning in Environmental Studies. These include a rooftop garden, eco-pond with an inverted aquarium, solar-powered water feature, upcycled green wall and habitat tanks.
+Several green learning spaces have been set up around the school to support students’ learning in Environmental Studies. These include an eco-pond with an inverted aquarium, solar-powered water feature, habitat tanks, various gardening plots and a Zero Waste Hub where usual tables have been replaced with customised ones made from pallet wood gathered from discarded furniture.
 
 <img src="/images/alp6.png" style="width:50%">
 
