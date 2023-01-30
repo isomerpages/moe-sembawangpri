@@ -52,7 +52,9 @@ Several green learning spaces have been set up around the school to support stud
 
 *Eco-ponds with an inverted aquarium in the school garden (L) and a solar-powered water feature at the school foyer (R)*
 
-<img src="/images/alp10.png" style="width:50%">
+<img src="/images/alp10.png" style="width:90%">
+
+*Habitat tanks to showcase mangrove, marine and forest habitats*
 
 ![]()
 ![]()
