@@ -19,11 +19,12 @@ Our department envisions that **every child is a scientific thinker** who:
 *   Is able to **make informed decisions** relating to Science and technology; and 
 *   Is **compassionate towards other living things** and **cares for the environment** .
 
-  
+All young children are innately curious about the world around them. Our goal is to tap on this curiosity to develop in our students the skills of inquiry and problem-solving which they can apply in authentic, every-day situations through experiential learning opportunities. 
 
-All young children are innately curious about the world around them. Our goal is to tap on this curiosity to develop in our students the skills of inquiry and problem-solving which they can apply in authentic, every-day situations through experiential learning opportunities.  
-  
-**Field-based Learning via Learning Journeys**  
+<img src="/images/Picture1.jpg" 
+     style="width:75%">
+		 
+ **Field-based Learning via Learning Journeys**  
   
 Students from P3 to P6 enjoy opportunities to attend learning journeys for rich field-based learning on identified Science topics:
 
