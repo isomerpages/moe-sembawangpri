@@ -50,7 +50,7 @@ Several green learning spaces have been set up around the school to support stud
 
 <img src="/images/alp9.jpg" style="width:75%">
 
-*Eco-ponds with an inverted aquarium in the school garden (L) and a solar-powered water feature at the school foyer (R)*
+*Eco-ponds with an inverted aquarium in the school garden (Top) and a solar-powered water feature at the school foyer (Bottom)*
 
 <img src="/images/alp10.png" style="width:90%">
 
