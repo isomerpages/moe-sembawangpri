@@ -30,7 +30,6 @@ Students from P3 to P6 enjoy opportunities to attend learning journeys for rich 
 | Level | Learning Journey | Topic |
 |:---:|:---:|:---:|
 | Primary 3 | Guided Tour at Singapore Botanic Gardens | Diversity of Plants |
-| Primary 4 | Light Workshop at Science Centre Singapore | Light and Shadows |
 | Primary 5 | Diversity of Cells Workshop at Science Centre Singapore | The Unit of Life |
 | Primary 6 | Adaptations Workshop and Guided Tour at Lee Kong Chian Natural History Museum | Adaptations, Man’s Impact on the Environment |
 
