@@ -21,7 +21,7 @@ All young children are innately curious about the world around them. Our goal is
 <img src="/images/Picture1.jpg" 
      style="width:90%">  
 		 
-		         Experiential activity to learn about life cycles
+*Experiential activity to learn about life cycles*
 		 
 
 **Field-based Learning via Learning Journeys**  
@@ -40,7 +40,7 @@ Students from P3 to P6 enjoy opportunities to attend learning journeys for rich 
 <img src="/images/Picture3.jpg" 
      style="width:75%"> 
 		 
-		 Guided tour at Lee Kong Chian Natural History Museum
+*Guided tour at Lee Kong Chian Natural History Museum*
 	
 **E2K Science Programme**  
 
@@ -54,6 +54,6 @@ During the weekly sessions, stories, role-play and challenges are used to replic
 <img src="/images/Picture5.jpg" 
      style="width:80%"> 
 		
-		                        E2K Science Programme activities
+*E2K Science Programme activities*
 
 Last updated : 30/01/2023
