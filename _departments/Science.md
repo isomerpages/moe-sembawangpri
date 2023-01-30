@@ -19,7 +19,9 @@ Our department envisions that **every child is a scientific thinker** who:
 All young children are innately curious about the world around them. Our goal is to tap on this curiosity to develop in our students the skills of inquiry and problem-solving which they can apply in authentic, every-day situations through experiential learning opportunities. 
 
 <img src="/images/Picture1.jpg" 
-     style="width:75%">
+     style="width:100%">  Experiential activity to learn about life cycles
+		 
+
 		 
 		 
  **Field-based Learning via Learning Journeys**  
