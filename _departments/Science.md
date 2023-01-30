@@ -35,10 +35,10 @@ Students from P3 to P6 enjoy opportunities to attend learning journeys for rich 
 | Primary 6 | Adaptations Workshop and Guided Tour at Lee Kong Chian Natural History Museum | Adaptations, Man’s Impact on the Environment |
 
 <img src="/images/Picture2.jpg" 
-     style="width:75%">
+     style="width:65%">
 		 
 <img src="/images/Picture3.jpg" 
-     style="width:75%"> 
+     style="width:65%"> 
 		 
 *Guided tour at Lee Kong Chian Natural History Museum*
 	
