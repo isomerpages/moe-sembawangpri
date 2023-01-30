@@ -60,8 +60,6 @@ In Sembawang Primary School, several learning spaces have been set up to enrich 
 ![](/images/alp13.jpg)
 ![](/images/alp14.jpg)
 
-Our rooftop garden allows our students to experience the full process of growing and harvesting their own fruits and vegetables. Furthermore, they are able to gain a keen awareness of challenges faced by Singapore in terms of land scarcity and food sustainability.
-
 <img src="/images/alp9.png" style="width:50%">
 
-Last updated : 27/01/2023
+Last updated : 30/01/2023
