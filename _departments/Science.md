@@ -19,12 +19,13 @@ Our department envisions that **every child is a scientific thinker** who:
 All young children are innately curious about the world around them. Our goal is to tap on this curiosity to develop in our students the skills of inquiry and problem-solving which they can apply in authentic, every-day situations through experiential learning opportunities. 
 
 <img src="/images/Picture1.jpg" 
-     style="width:100%">  Experiential activity to learn about life cycles
+     style="width:90%">  
+		 
+		         Experiential activity to learn about life cycles
 		 
 
-		 
-		 
- **Field-based Learning via Learning Journeys**  
+		 		 
+**Field-based Learning via Learning Journeys**  
   
 Students from P3 to P6 enjoy opportunities to attend learning journeys for rich field-based learning on identified Science topics:
 
@@ -34,19 +35,14 @@ Students from P3 to P6 enjoy opportunities to attend learning journeys for rich 
 | Primary 5 | Diversity of Cells Workshop at Science Centre Singapore | The Unit of Life |
 | Primary 6 | Adaptations Workshop and Guided Tour at Lee Kong Chian Natural History Museum | Adaptations, Man’s Impact on the Environment |
 
-<img src="/images/sci1.png" 
+<img src="/images/Picture2.jpg" 
      style="width:75%">
 		 
-		 ![](/images/Picture2.jpg)
-		 ![](/images/Picture3.jpg)
-
-**Science Olympiad Training Programme**
-
-The Science Olympiad Training Programme is offered to selected Primary 5 students with an aptitude for Science. Through enhancing their repertoire of Science problem-solving knowledge and skills, the programme prepares these students to participate in the various Science Olympiad competitions held annually.
-
-<img src="/images/sci2.png" 
-     style="width:75%">
-
+<img src="/images/Picture3.jpg" 
+     style="width:75%"> 
+		 
+		 Guided tour at Lee Kong Chian Natural History Museum
+	
 **E2K Science Programme**  
 
 The E2K Science Programme is an enrichment programme for Upper Primary students who demonstrate interest and ability in Science. It aims to foster independence and confidence in scientific inquiry, as well as develop Science process skills and 21st century competencies such as resilience, resourcefulness, communications skills, and critical and inventive thinking.
