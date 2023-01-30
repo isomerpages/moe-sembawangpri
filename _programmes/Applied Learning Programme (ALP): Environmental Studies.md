@@ -56,14 +56,21 @@ Several green learning spaces have been set up around the school to support stud
 
 *Habitat tanks to showcase mangrove, marine and forest habitats*
 
-![]()
-![]()
-![]()
-![](/images/alp11.jpg)
-![](/images/alp12.jpg)
-![](/images/alp13.jpg)
-![](/images/alp14.jpg)
+<img src="/images/alp11.jpg" style="width:75%">
 
-<img src="/images/alp9.png" style="width:50%">
+<img src="/images/alp12.jpg" style="width:75%">
+
+
+  *Garden plots around the school*
+
+
+<img src="/images/alp13.jpg" style="width:75%">
+
+<img src="/images/alp14.jpg" style="width:75%">
+
+*Zero Waste Hub in our school*
+
+
+
 
 Last updated : 30/01/2023
