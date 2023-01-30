@@ -41,15 +41,8 @@ The Green Leaders are a group of student leaders who have been selected to advoc
 
 *Selected Green Leaders conduct sharing sessions with the school population*
 
-**Community Outreach**
 
-Our students also share with members of the public on the importance of environmental issues, and help to impart the message of environmental conservation.
-
-<img src="/images/alp4.png" style="width:50%">
-
-<img src="/images/alp5.png" style="width:50%">
-
-**Green Learning Spaces**
+**Learning Spaces**
 
 In Sembawang Primary School, several learning spaces have been set up to enrich students’ learning in Environmental Studies. These include a rooftop garden, eco-pond with an inverted aquarium, solar-powered water feature, upcycled green wall and habitat tanks.
 
