@@ -7,10 +7,7 @@ description: ""
 
 **Introduction**  
   
-
 Science helps us to make sense of natural phenomena in the world that we live in. With basic Science literacy, students would be equipped with the necessary knowledge to navigate everyday life. Practising scientific inquiry also develops students’ ability to ask questions about the world around them, make sense of data, and arrive at logical deductions and conclusions.
-
-  
 
 Our department envisions that **every child is a scientific thinker** who:
 
