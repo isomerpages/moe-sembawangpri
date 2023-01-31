@@ -38,6 +38,4 @@ In addition to the Safe Management Measures (SMM) implemented by the school (ref
 
 **On the Red Dot Preview**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uT1NE5ru3U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Last Updated : 12/01/2023
+Link is not properly uploaded on school webpage.
