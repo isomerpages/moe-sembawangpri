@@ -8,10 +8,10 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-			<td><a href="https://schoolibrary.moe.edu.sg/sembawangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> <img src="images/OPAC_Icon.png" >School Library</a></td>
-			<td><a href="https://vle.learning.moe.edu.sg/login"><img src="images/SLS_Icon.png)" >SLS</a></td>
+			<td><a href="https://schoolibrary.moe.edu.sg/sembawangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> <img src="images/OPAC_Icon.png" >School Library</a><a href="https://schoolibrary.moe.edu.sg/sembawangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"></td>
+			<td><a href="https://vle.learning.moe.edu.sg/login"> <img src="images/SLS_Icon.png" ><br>SLS</a></td>
 			<td><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/RecommendedReads/ForChildren.aspx"> <img src="images/NLB_Icon.png" >NLB Reading</a></td>
-			<td><a href="https://sites.google.com/moe.edu.sg/sbpshidear/home"> <img src="images/HiDear_Icon.png" >Hi Dear</a></td>
+			<td><a href="https://sites.google.com/moe.edu.sg/sbpshidear/home"> <img src="images/HiDear_Icon.png" ><br>Hi Dear</a></td>
 		</tr>
 	</tbody>
 	</table>
