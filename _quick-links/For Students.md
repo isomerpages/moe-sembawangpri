@@ -19,6 +19,18 @@ description: ""
 			<td><a href="https://www.ezhishi.net/Contents/"> <img src="images/Ezhishi_Icon.png" ><br>EZhishi</a></td>
 			<td><a href="http://www.tuvideos.sg/cos/o.x?c=/ca7_tuvid/user&func=login"> <img src="images/Thumbs_Up_Icon.png" ><br>Thumbs Up</a></td>
 		</tr>
+		<tr>
+			<td><a href="https://forms.gle/tdRBGjDJx2hv7rUu5"> <img src="images/Google_Form_Icon.png" ><br>Change CCA Form</a></td>
+			<td><a href="https://go.gov.sg/sbpsbuzz"> <img src="images/Sembawang_Buzz_Icon.png" ><br>SBPS Buzz</a></td>
+			<td><a href="https://workspace.google.com/dashboard"> <img src="images/ICON_icon.png" ><br>Student ICON</a></td>
+			<td><a href="https://raw.githubusercontent.com/isomerpages/moe-sembawangpri/staging/images/zoom.png)"> <img src="images/zoom.png" ><br>Student Zoom</a></td>
+		</tr>
+		<tr>
+			<td><a href="https://www.office.com/"> <img src="images/office_Icon.png" ><br>Office 365</a></td>
+			<td><a href="https://go.gov.sg/sbpsbuzz"> <img src="images/Sembawang_Buzz_Icon.png" ><br>SBPS Buzz</a></td>
+			<td><a href="https://workspace.google.com/dashboard"> <img src="images/ICON_icon.png" ><br>Student ICON</a></td>
+			<td><a href="https://raw.githubusercontent.com/isomerpages/moe-sembawangpri/staging/images/zoom.png)"> <img src="images/zoom.png" ><br>Student Zoom</a></td>
+		</tr>
 	</tbody>
 	</table>
 
