@@ -9,9 +9,9 @@ description: ""
 	<tbody>
 		<tr>
 			<td><a href="https://schoolibrary.moe.edu.sg/sembawangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> <img src="images/OPAC_Icon.png" >School Library</a></td>
-			<td><a href="https://vle.learning.moe.edu.sg/login"> <img src="images/SLS_Icon.png" ><br>SLS</a></td>
+			<td><a href="https://vle.learning.moe.edu.sg/login"> <img src="images/SLS_Icon.png" >SLS</a></td>
 			<td><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/RecommendedReads/ForChildren.aspx"> <img src="images/NLB_Icon.png" >NLB Reading</a></td>
-			<td><a href="https://sites.google.com/moe.edu.sg/sbpshidear/home"> <img src="images/HiDear_Icon.png" ><br>Hi Dear</a></td>
+			<td><a href="https://sites.google.com/moe.edu.sg/sbpshidear/home"> <img src="images/HiDear_Icon.png" >Hi Dear</a></td>
 		</tr>
 		<tr>
 			<td><a href="https://go.gov.sg/sbpscleclass"> <img src="images/CL_Icon.png" ><br>SBPS CL Class</a></td>
@@ -27,9 +27,9 @@ description: ""
 		</tr>
 		<tr>
 			<td><a href="https://www.office.com/"> <img src="images/office_Icon.png" ><br>Office 365</a></td>
-			<td><a href="https://go.gov.sg/sbpsbuzz"> <img src="images/Sembawang_Buzz_Icon.png" ><br>SBPS Buzz</a></td>
-			<td><a href="https://workspace.google.com/dashboard"> <img src="images/ICON_icon.png" ><br>Student ICON</a></td>
-			<td><a href="https://raw.githubusercontent.com/isomerpages/moe-sembawangpri/staging/images/zoom.png)"> <img src="images/zoom.png" ><br>Student Zoom</a></td>
+			<td><a href="https://www.myon.com.sg/login/index.html"> <img src="images/myON_Icon.png" ><br>myON reading portal</a></td>
+			<td><a href="https://www.koobits.com/"> <img src="images/Koobits_Icon2.png" ><br>Koobits</a></td>
+			<td></td>
 		</tr>
 	</tbody>
 	</table>
