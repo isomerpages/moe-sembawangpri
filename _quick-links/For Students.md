@@ -20,7 +20,7 @@ description: ""
 		</tr>
 		<tr>			
 			<td><a href="https://go.gov.sg/sbpsbuzz"> <img src="/images/Sembawang_Buzz_Icon.png" >SBPS Buzz</a></td>
-			<td><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/RecommendedReads/ForChildren.aspx"> <img src="images/NLB_Icon.png" >NLB Reading</a></td>
+			<td><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/RecommendedReads/ForChildren.aspx"> <img src="/images/NLB_Icon.png" >NLB Reading</a></td>
 			<td><a href="https://sites.google.com/moe.edu.sg/sbpshidear/home"> <img src="/images/HiDear_Icon.png" >Hi Dear</a></td>
 			<td><a href="https://schoolibrary.moe.edu.sg/sembawangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> <img src="/images/OPAC_Icon.png" >School Library</a></td>
 		</tr>
