@@ -6,6 +6,11 @@ description: ""
 ![](/images/MK%20Open%20House%202023.jpeg)
 
 ![](/images/MK-open-house.jpeg)
+
+![](/images/waitlist-application.jpeg)
+
+![](/images/mk-youtube.jpeg)
+
 <br>
 <img src="/images/mksmb.png" 
      style="width:40%">
@@ -13,4 +18,4 @@ description: ""
  <img src="/images/mksmb1.png" 
      style="width:40%">
 
-Last updated : 27/01/2023
+Last updated : 3/02/2023
