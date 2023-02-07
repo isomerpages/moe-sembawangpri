@@ -40,6 +40,8 @@ links:
   - title: For Parents
     url: /for-parents/Letters-to-parents/
     sublinks:
+      - title: Briefing for parents
+        url: /briefing-for-parents
       - title: Letters to Parents
         url: /for-parents/Letters-to-parents/
       - title: Parent Support Group
@@ -60,8 +62,6 @@ links:
         url: /for-parents/studentlearningspace
       - title: Photography and Videography
         url: /for-parents/photography-and-videography
-      - title: Briefing for parents
-        url: /briefing-for-parents
   - title: MOE Kindergarten
     collection: mk-sembawang
   - title: Contact Us
