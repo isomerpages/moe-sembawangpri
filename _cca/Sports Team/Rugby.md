@@ -11,18 +11,21 @@ Rugby CCA aspires to groom young rugby players to be good team players with soun
 
 |  |  |
 |---|---|
-| Schedule | Tuesday: 2.00 – 4.00 p.m.<br>Thursday: 2.00 – 4.00 p.m.   <br> Friday: 2.15 – 4.15 p.m.  (extra training) |
+| Schedule | Tuesday: 2.00 – 4.00 p.m.<br>Thursday: 2.00 – 4.00 p.m.   |
 | Teachers-in-charge | <br>Mr Mohammad Haslam Rahmat<br>Ms Mohamad Irwan Bin Mohamad Mazlan<br>Mdm Kalaiyarasi d/o Kalidasan<br>Mdm Nor Afidah Binte Jaafar |
 | Venue  | ISH / MPH / School Field |
 
-<img src="/images/cca3.png" 
-     style="width:70%">
+<img src="/images/rugby1.jpg" 
+     style="width:80%">
+		 
+*Junior Team 2022*
+		 
+<img src="/images/rugby2.jpg" 
+     style="width:90%">
+		 
+*Senior Team 2022*
 
 
-<div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mRQN3-H-d8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</div>
-
-Last updated: 05/01/2023
+Last updated: 07/02/2023
