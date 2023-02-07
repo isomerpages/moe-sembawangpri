@@ -24,7 +24,7 @@ The safety and security of our students and staff are of paramount importance to
 
 **School Visitors** 
 
-All visitors (including parents/guardians) are required to enter the school via the main gate and report to the security guard post for screening and registration. All visitors must then report to the General Office to seek assistance. Visitors are  **not allowed**  to proceed beyond the General Office without an accompanying school staff. The school staff are authorized to approach any visitor, when necessary.
+All visitors (including parents/guardians) are required to enter the school via the main gate and report to the security guard post for registration. All visitors must then report to the General Office to seek assistance. Visitors are  **not allowed**  to proceed beyond the General Office without an accompanying school staff or informing the staff at the General Office of their intention, for instance to make purchases at the bookstore. The school staff are authorized to approach any visitor, when necessary.
 
   
 
@@ -54,7 +54,7 @@ We urge drivers to exhibit patience and care when driving within the school com
 
   
 
-Students may be dismissed via the main gate or one of the side gates during school dismissal. We seek parents/guardians’ cooperation to wait at the designated areas along the walkway at the main gate or at the void decks of the HDB flats located near the side gates for their child/ward, so as to avoid congestion at the gates. Similar to reporting, parents may also arrange with your child for pick up at the drop off locations outside of the school. The School’s main gate is close from 1.15pm to 1.45pm to all vehicles, except for authorized vehicles such as School buses. Parents who are driving into the School to pick up your child can only do so from 1.45pm provided all our school buses have left the school compound.  
+Students may be dismissed via the main gate or one of the side gates during school dismissal. We seek parents/guardians’ cooperation to wait at the designated areas along the walkway at the main gate or at the void decks of the HDB flats located near the side gates for their child/ward, so as to avoid congestion at the gates. The School’s main gate is close from 1.15pm to 1.45pm to all vehicles, except for authorized vehicles such as School buses. Parents who are driving into the School to pick up your child can only do so from 1.45pm provided all our school buses have left the school compound.  
 
   
 
