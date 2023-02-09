@@ -5,7 +5,7 @@ description: ""
 ---
 | Level | Slides | 
 | -------- | -------- | 
-| Primary 1 and 2 | [](/files/SBPS%20P1%20and%20P2%20Briefing%20for%20Parents%202023.pdf)|
+| Primary 1 and 2 | [SBPS P1 and P2 Briefing for Parents 2023](/files/SBPS%20P1%20and%20P2%20Briefing%20for%20Parents%202023.pdf)|
 | Primary 1 and 2 Chinese Language briefing | |
 | Primary 1 and 2 Malay Language briefing | |
 |  Primary 1 and 2 Tamil Language briefing | |
