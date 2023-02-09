@@ -3,8 +3,6 @@ title: Briefing for parents
 permalink: /for-parents/Briefing-for-parents/
 description: ""
 ---
-
-
 | Level | Slides | 
 | -------- | -------- | 
 | Primary 1 and 2 | [](/files/SBPS%20P1%20and%20P2%20Briefing%20for%20Parents%202023.pdf)|
