@@ -3,6 +3,7 @@ title: MK@Sembawang
 permalink: /mk-sembawang/
 description: ""
 ---
+<!--
 ![](/images/MK%20Open%20House%202023.jpeg)
 
 ![](/images/MK-open-house.jpeg)
@@ -17,5 +18,9 @@ description: ""
 		 
  <img src="/images/mksmb1.png" 
      style="width:40%">
+-->
+For enquiries, please contact us at:<br>
+Tel: 6235 7588<br>
+Email: mk_sembawang@moe.edu.sg
 
-Last updated : 3/02/2023
+Last updated : 28/02/2023
