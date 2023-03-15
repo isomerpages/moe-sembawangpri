@@ -42,5 +42,14 @@ Last updated : 17/11/2022
 Dear Parents, 
 The 2022 booklists are available now. Click [here](https://moe-sembawangpri-staging.netlify.app/for-parents/useful-contacts/booklist) to get the booklists.
 
--->
+The President’s Award for Teachers gives national recognition to experienced teachers for their dedication and hard work in developing our young. These teachers prepare students for life, as well as model commitment to continuous learning and enterprise. They inspire both their students and peers through their words and deeds.
 
+Nomination for PAT 2022 is **now open** and will **close on Wednesday, 11 January 2023**.  
+
+Submit your nominations online by clicking on the URLs or scanning the QR codes below.
+
+[https://go.gov.sg/pat2023](https://go.gov.sg/pat2023)
+
+![](/images/pat2023-01%20(002).jpg)
+
+-->
