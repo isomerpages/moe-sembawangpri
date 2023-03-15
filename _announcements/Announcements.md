@@ -3,6 +3,25 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**Transition to Primary 1**
+
+Attached is the document to upload with the following write up.
+Dear Primary 1 Parents, do refer to the [pdf file](/files/transition.pdf) for some tips for transition from preschool to Primary 1.
+
+**Sembawang Buzz**
+
+Click [here](https://sites.google.com/moe.edu.sg/sbps-buzz/home) for the latest edition of Sembawang Buzz.
+
+**Safe Management Measures**
+
+In addition to the Safe Management Measures (SMM) implemented by the school (refer to Open Letter 05/2020 available on the school website), the following are the additional SMM put in place by the school
+
+**On the Red Dot Preview**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uT1NE5ru3U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Last Updated : 15/03/2023
+<!--
 ![](/images/MK%20Open%20House%202023.jpeg)
 
 **2022 Speech Day**
@@ -23,21 +42,5 @@ Last updated : 17/11/2022
 Dear Parents, 
 The 2022 booklists are available now. Click [here](https://moe-sembawangpri-staging.netlify.app/for-parents/useful-contacts/booklist) to get the booklists.
 
-**Transition to Primary 1**
+-->
 
-Attached is the document to upload with the following write up.
-Dear Primary 1 Parents, do refer to the [pdf file](/files/transition.pdf) for some tips for transition from preschool to Primary 1.
-
-**Sembawang Buzz**
-
-Click [here](https://sites.google.com/moe.edu.sg/sbps-buzz/home) for the latest edition of Sembawang Buzz.
-
-**Safe Management Measures**
-
-In addition to the Safe Management Measures (SMM) implemented by the school (refer to Open Letter 05/2020 available on the school website), the following are the additional SMM put in place by the school
-
-**On the Red Dot Preview**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uT1NE5ru3U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Last Updated : 12/01/2023
