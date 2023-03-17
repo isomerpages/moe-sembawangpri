@@ -3,6 +3,21 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**Transition to Primary 1**
+
+Attached is the document to upload with the following write up.
+Dear Primary 1 Parents, do refer to the [pdf file](/files/transition.pdf) for some tips for transition from preschool to Primary 1.
+
+**Sembawang Buzz**
+
+Click [here](https://sites.google.com/moe.edu.sg/sbps-buzz/home) for the latest edition of Sembawang Buzz.
+
+**On the Red Dot Preview**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uT1NE5ru3U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Last Updated : 15/03/2023
+<!--
 ![](/images/MK%20Open%20House%202023.jpeg)
 
 **2022 Speech Day**
@@ -23,21 +38,24 @@ Last updated : 17/11/2022
 Dear Parents, 
 The 2022 booklists are available now. Click [here](https://moe-sembawangpri-staging.netlify.app/for-parents/useful-contacts/booklist) to get the booklists.
 
-**Transition to Primary 1**
+The President’s Award for Teachers gives national recognition to experienced teachers for their dedication and hard work in developing our young. These teachers prepare students for life, as well as model commitment to continuous learning and enterprise. They inspire both their students and peers through their words and deeds.
 
-Attached is the document to upload with the following write up.
-Dear Primary 1 Parents, do refer to the [pdf file](/files/transition.pdf) for some tips for transition from preschool to Primary 1.
+Nomination for PAT 2022 is **now open** and will **close on Wednesday, 11 January 2023**.  
 
-**Sembawang Buzz**
+Submit your nominations online by clicking on the URLs or scanning the QR codes below.
 
-Click [here](https://sites.google.com/moe.edu.sg/sbps-buzz/home) for the latest edition of Sembawang Buzz.
+[https://go.gov.sg/pat2023](https://go.gov.sg/pat2023)
 
-**Safe Management Measures**
+![](/images/pat2023-01%20(002).jpg)
 
-In addition to the Safe Management Measures (SMM) implemented by the school (refer to Open Letter 05/2020 available on the school website), the following are the additional SMM put in place by the school
 
-**On the Red Dot Preview**
+The Outstanding Youth in Education Award gives national recognition to young teachers who are role models for the teaching profession. These teachers personify youthful idealism, energy and enthusiasm, and inspire both their students and peers through their words and deeds. Educators who are 35 years and younger are eligible for the award. Hence, OYEA 2023 is open to educators who are born on or after 30 June 1988.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uT1NE5ru3U4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Nomination for OYEA 2022 is **now open** and will **close on Wednesday, 11 January 2023.**  
 
-Last Updated : 12/01/2023
+Submit your nominations online by clicking on the URLs or scanning the QR codes below.
+
+[https://go.gov.sg/oyea2023](https://go.gov.sg/oyea2023)
+
+![](/images/oyea2023-poster.png)
+-->

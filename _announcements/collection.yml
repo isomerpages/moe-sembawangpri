@@ -2,7 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Speech Day 2022.md
-      - PAT 2023.md
-      - OYEA 2023.md
       - Announcements.md
