@@ -29,8 +29,8 @@ The school also advocate and enforce personal hygiene and social responsibility,
 
 **Conclusion**
 
-The safety and well-being of our students and staff are of utmost importance and the school will not spare any effort to ensure that staff and students adhere to all SMMs. The school will review the SMMs in alignment to the National posture in response to the COVID-19 situation, when necessary.  
+The safety and well-being of our students and staff are of utmost importance and the school will not spare any effort to ensure that staff and students adhere to all SMMs. The school will review the SMMs in alignment to the National posture in response to the COVID-19 situation, when necessary.
 
   
 
-Last  updated: 16/05/2022
+Last  updated: 19/04/2023
