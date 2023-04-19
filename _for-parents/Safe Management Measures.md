@@ -3,8 +3,6 @@ title: Safe Management Measures
 permalink: /for-parents/safe-management-measures/
 description: ""
 ---
-
-
 **General.** While the school has stepped down on SMMs in line with the national posture, the school will continue to stay vigilant and emphasize the importance of personal hygiene and social responsibility. Parents are advised not to send your child to the school should your child is unwell, instead to seek medical attention if necessary.
 
 **Mask-Wearing.** While mask-wearing in the school setting is not required, it is still an effective way to minimise the risk of infectious disease transmission. Staff and students who prefer to continue wearing masks are allowed to do so.
