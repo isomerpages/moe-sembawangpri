@@ -11,6 +11,5 @@ We would like to inform you that throughout the course of the year, photograph(s
   
 Thank you.
 
-Insert on the red dot preview here.
   
-Last updated : 01/01/2022
+Last updated : 21/04/2023
