@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Sembawang Primary School
-description: Brief site description here
+description: Sembawang Primary School
 image: /images/SMB.svg
 permalink: /
 notification: ""
