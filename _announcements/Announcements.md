@@ -5,7 +5,7 @@ description: ""
 ---
 **COTA 2023 Program booklet** 
 
-[Dare to Soar - Programme Booklet](/files/dare-to-soar%20-%20programme%20booklet%20(final).pdf)
+[DARE-TO-SOAR - programme booklet](/files/dare-to-soar%20-%20programme%20booklet.pdf)
 
 
 **Sembawang Buzz**
