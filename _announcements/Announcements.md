@@ -3,14 +3,16 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**COTA 2023 Program booklet **
+**COTA 2023 Program booklet** 
 
 [DARE-TO-SOAR - programme booklet (final)]()
+
 
 **Transition to Primary 1**
 
 Attached is the document to upload with the following write up.
 Dear Primary 1 Parents, do refer to the [pdf file](/files/transition.pdf) for some tips for transition from preschool to Primary 1.
+
 
 **Sembawang Buzz**
 
