@@ -5,7 +5,7 @@ description: ""
 ---
 **COTA 2023 Program booklet** 
 
-[DARE-TO-SOAR - programme booklet (final)]()
+[DARE-TO-SOAR - programme booklet (final)](/files/dare-to-soar%20-%20programme%20booklet%20(final).pdf)
 
 
 **Transition to Primary 1**
