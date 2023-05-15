@@ -17,11 +17,19 @@ Table tennis is a sport that requires students to possess dexterity and a high l
 | Teachers-in-charge | Mdm Wang Yingchao<br>Mr Mohammad  Noorkhuzaifah <br> Mr Cheah Boon Teck Janssen |
 |  Venue |  ISH |
 
-
+![](/images/2023_table_tennis_1.jpeg)
+<br>
+![](/images/2023_table_tennis_2.jpeg)
+<br>
+![](/images/2023_table_tennis_3.jpeg)
+<br>
+![](/images/2023_table_tennis_4.jpeg)
+<br>
+![](/images/2023_table_tennis_5.jpeg)
 		 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pkwsHUACXuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pkwsHUACXuA" height="315" width="560"></iframe>
 
 </div>
 Last updated: 15/05/2023
