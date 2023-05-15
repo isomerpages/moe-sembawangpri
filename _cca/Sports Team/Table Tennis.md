@@ -7,9 +7,9 @@ third_nav_title: Sports Team
 ### Table Tennis 
 Table tennis is a sport that requires students to possess dexterity and a high level of focus – as they consider the spin, speed, and placement of the ball during play. In SBPS, the training sessions assist in the development of mental acuity, with focus on their serves, strokes, and footwork. Objectives of Table Tennis CCA:  
   
- ·         To enable table tennis as a recreational sport for healthy living in our students.  
- ·         To develop self-discipline, resilience and confidence in the students.  
- ·         To provide a platform for students to experience the sport at a competitive level.
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable table tennis as a recreational sport for healthy living in our students.  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To develop self-discipline, resilience and confidence in the students.  
+&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To provide a platform for students to experience the sport at a competitive level.
  
  |  |  |
 |---|---|
@@ -17,14 +17,19 @@ Table tennis is a sport that requires students to possess dexterity and a high l
 | Teachers-in-charge | Mdm Wang Yingchao<br>Mr Mohammad  Noorkhuzaifah <br> Mr Cheah Boon Teck Janssen |
 |  Venue |  ISH |
 
-<img src="/images/cca6.png" 
-     style="width:70%">
-<img src="/images/tabletennis.png" 
-     style="width:70%">
+![](/images/2023_table_tennis_1.jpeg)
+<br>
+![](/images/2023_table_tennis_2.jpeg)
+<br>
+![](/images/2023_table_tennis_3.jpeg)
+<br>
+![](/images/2023_table_tennis_4.jpeg)
+<br>
+![](/images/2023_table_tennis_5.jpeg)
 		 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pkwsHUACXuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pkwsHUACXuA" height="315" width="560"></iframe>
 
 </div>
-Last updated: 05/01/2023
+Last updated: 15/05/2023
