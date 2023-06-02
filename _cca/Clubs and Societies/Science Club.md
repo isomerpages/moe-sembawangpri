@@ -17,22 +17,17 @@ Science and Green Club aspires to groom budding scientists who are curious and h
 ![semester 2](/images/sciclub-schedule.png)
 
 **Other photos**
-<img src="/images/cca26.png" style="width:70%">
-<img src="/images/cca27.png" style="width:70%">
-<img src="/images/cca28.png" style="width:70%">
 
-<div class="bp-youtube">
+<img src="/images/sci1-2023.jpg" style="width:100%">Learning journey to Gardens By The Bay
+										 
+<img src="/images/sci2-2023.jpg" style="width:90%">Exploring and discovering various bird and butterfly species in our school as part of the Every Singaporean A Naturalist (ESN) programme (Nature Society Singapore; NSS)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0MsbFp97q1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<img src="/images/sci3-2023.jpg" style="width:90%">Congratulations to our Novice Naturalists (Birds) who were 
+awarded under the NSS ESN Skills Achievement Programme!
 
-</div>
+<img src="/images/sci4-2023.jpg" style="width:70%">
 
-<br>
+<img src="/images/sci5-2023.jpg" style="width:70%">
 
-<div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9j_vWpe4asc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-</div>
-
-Last updated : 05/01/2023
+Last updated : 02/06/2023
