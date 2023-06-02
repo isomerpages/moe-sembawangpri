@@ -11,7 +11,7 @@ Science and Green Club aspires to groom budding scientists who are curious and h
 |  |  |
 |---|---|
 | Time | <br>2.15 p.m - 4.15 p.m. |
-|  Teachers-in-charge | <br>Mr Zhao Zhiyang<br>Ms Long Shi Hui<br> Ms Pearlyn Seow Pei Yi <br> |
+|  Teachers-in-charge |<br>Ms Long Shi Hui<br> Ms Pearlyn Seow Pei Yi <br>Mr Zhao Zhiyang<br> |
 | Venue <br> | Science Rooms &amp; Level 1 Classrooms |
 
 ![semester 2](/images/sciclub-schedule.png)
