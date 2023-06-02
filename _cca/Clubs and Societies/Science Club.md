@@ -12,20 +12,18 @@ Science and Green Club aspires to groom budding scientists who are curious and h
 |---|---|
 | Time | <br>2.15 p.m - 4.15 p.m. |
 |  Teachers-in-charge | <br>Mr Zhao Zhiyang<br>Ms Long Shi Hui<br> Ms Pearlyn Seow Pei Yi <br> |
-| Venue <br> | Science Rooms & Level 1 Classrooms |
+| Venue <br> | Science Rooms &amp; Level 1 Classrooms |
 
-![](/images/2023_Semester1_CCA%20schedule.png)
+![semester 2](/images/sciclub-schedule.png)
+
 **Other photos**
-<img src="/images/cca26.png" 
-     style="width:70%">
-<img src="/images/cca27.png" 
-     style="width:70%">
-<img src="/images/cca28.png" 
-     style="width:70%">
+<img src="/images/cca26.png" style="width:70%">
+<img src="/images/cca27.png" style="width:70%">
+<img src="/images/cca28.png" style="width:70%">
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0MsbFp97q1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0MsbFp97q1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -33,7 +31,7 @@ Science and Green Club aspires to groom budding scientists who are curious and h
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9j_vWpe4asc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9j_vWpe4asc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
