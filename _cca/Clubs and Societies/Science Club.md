@@ -25,7 +25,7 @@ Science and Green Club aspires to groom budding scientists who are curious and h
 <img src="/images/sci3-2023.jpg" style="width:90%">Congratulations to our Novice Naturalists (Birds) who were 
 awarded under the NSS ESN Skills Achievement Programme!
 
-<img src="/images/sci4-2023.jpg" style="width:70%">
+<img src="/images/sci4-2023.jpg" style="width:90%">Urban Farming Experience at Nature’s International Commodity (Tampines)
 
 <img src="/images/sci5-2023.jpg" style="width:70%">
 
