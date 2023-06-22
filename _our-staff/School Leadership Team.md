@@ -37,7 +37,6 @@ description: ""
 | English   	| Mdm Noraida Binte Wagimin <br>[noraida\_wagimin@schools.gov.sg](mailto:noraida_wagimin@schools.gov.sg)   <br> 	|
 | Mathematics 	| Mrs Crystal Lee-Cai Wan Qin <br>[cai\_wanqin\_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg) <br> 	|
 | Mother Tongue Languages           	| Ms Ganda Sari Binte Chokri <br>[ganda\_sari\_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg)    <br> 	|
-| Aesthetics  	| Ms Pan Jingting Alisa <br>[pan\_jingting\_alisa@schools.gov.sg](mailto:pan_jingting_alisa@schools.gov.sg)   <br> 	|
 |    Citizenship Education 	| Mdm Jamaliah Ismail <br>[jamaliah\_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg)    <br> 	|
 |  <br>Character Education 	|  <br>Ms Joey Tan Siew Bing<br>[tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) <br>         	|
 |  <br>Science 	|  <br>Ms Pearlyn Seow Pei Yi<br>[Seow\_Pei\_Yi\_Pearlyn@schools.gov.sg](mailto:Seow_Pei_Yi_Pearlyn@schools.gov.sg)   <br> 	|
