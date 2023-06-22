@@ -122,7 +122,6 @@ description: ""
 
 | Teacher 	| Email 	|
 |---|---|
-
 | Mdm Ratna Dewi A K Magnus 	| [ratna\_dewi@schools.gov.sg](mailto:ratna_dewi@schools.gov.sg) 	|
 | Ms Vernice Soh Bee Peng 	| [soh\_bee\_peng@schools.gov.sg](mailto:soh_bee_peng@schools.gov.sg) 	|
 | Mr Yang Binglin 	| [yang\_binglin@schools.gov.sg](mailto:yang_binglin@schools.gov.sg)|
