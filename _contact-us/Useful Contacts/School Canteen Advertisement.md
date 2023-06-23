@@ -6,9 +6,11 @@ third_nav_title: Useful Contacts
 ---
 ### School Canteen Advertisement
 
-| Type of Stall | Closing Date
-| Western Food Stall  | 7 Jul 2023 | -------- |
-|| 
+|  |  |
+|---|---|
+| Type of Stall | Western Food Stall   |
+| Closing Date | 7 Jul 2023 |
+| 
 
 #### **Application Procedure**
 
