@@ -4,7 +4,13 @@ permalink: /contact-us/useful-contacts/permalink/
 description: ""
 third_nav_title: Useful Contacts
 ---
-### **Application Procedure**
+### School Canteen Advertisement
+
+| Type of Stall | Closing Date
+| Western Food Stall  | 7 Jul 2023 | -------- |
+|| 
+
+#### **Application Procedure**
 
 1. Download and complete the application form. You may also obtain a hardcopy from the School’s Security Guard Post/ General Office.
 
