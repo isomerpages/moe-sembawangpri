@@ -9,7 +9,8 @@ third_nav_title: Useful Contacts
 |  |  |
 |---|---|
 | Type of Stall | Western Food Stall   |
-| Closing Date | 7 Jul 2023 |
+| Closing Date | 7 Jul 2023 
+|
 
 #### **Application Procedure**
 
