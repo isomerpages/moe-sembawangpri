@@ -10,7 +10,7 @@ third_nav_title: Useful Contacts
 |---|---|
 | Type of Stall | Western Food Stall   |
 | Closing Date | 7 Jul 2023 |
-|
+
 #### **Application Procedure**
 
 1. Download and complete the application form. You may also obtain a hardcopy from the School’s Security Guard Post/ General Office.
