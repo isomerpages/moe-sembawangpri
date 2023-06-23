@@ -8,15 +8,6 @@ third_nav_title: Useful Contacts
 
 
 
-| | |
---- | -- |
-| Type of Stall | Column 2 |
-| -- | --| 
-| Text     | Text     |    
-|
-
-
-
 
 |  |  |
 |---|---|
