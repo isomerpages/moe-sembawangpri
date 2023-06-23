@@ -52,6 +52,7 @@ description: ""
 | **Class** | **Form Teachers** | **Email** |
 | 3 Care | Ms Tan Siew Bing Joey | [tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) |
 | 3 Care | Ms Wang Xinlin | [wang\_xinlin@schools.gov.sg](mailto:wang_xinlin@schools.gov.sg) |
+| 3 Care | Mr Derrick Choy Chong Hing | 
 | 3 Empathy | Ms Mahalakshmi | [mahalakshmi\_panneerselvam@schools.gov.sg](mailto:mahalakshmi_panneerselvam@schools.gov.sg) |
 | 3 Empathy | Ms Long Shi Hui | [long\_shi\_hui@schools.gov.sg](mailto:long_shi_hui@schools.gov.sg) |
 | 3 Gratitude | Mr Mohd Noorkhuzaifah Bin Hishamuddin |[Mohammad\_Noorkhuzaifah\_Hishamuddin@schools.gov.sg](mailto:Mohammad_Noorkhuzaifah_Hishamuddin@schools.gov.sg)
@@ -89,7 +90,7 @@ description: ""
 | 5 Empathy | Mr Lim Teck Huat | [lim\_teck\_huat\_a@schools.gov.sg](mailto:lim_teck_huat_a@schools.gov.sg) |
 | 5 Empathy | Ms Ganda Sari Binte Chokri | [ganda\_sari\_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg) |
 | 5 Gratitude | Ms Leong Wei Yee Tracy | [leong\_wei\_yee@schools.gov.sg](mailto:leong_wei_yee@schools.gov.sg) |
-| 5 Gratitude | Ms Rajasveri d/o Renganathan 	| [rajasveri\_renganathan@schools.gov.sg](mailto:rajasveri_renganathan@schools.gov.sg) |
+| 5 Gratitude |Mdm Norlin Binte Mansor | [norlin\_mansor@schools.gov.sg](mailto:norlin_mansor@schools.gov.sg) |
 | 5 Integrity | Mr Lim Jeen Perng | [lim\_jeen\_perng@schools.gov.sg](mailto:lim_jeen_perng@schools.gov.sg) |
 | 5 Integrity | Ms Elyana Binte Al-Ghazali | [elyana\_al\_ghazali@schools.gov.sg](mailto:elyana_al_ghazali@schools.gov.sg) |
 | 5 Resilience | Ms Ruhaida Bte Hashim | [ruhaida\_hashim@schools.gov.sg](mailto:ruhaida_hashim@schools.gov.sg) |
@@ -112,7 +113,7 @@ description: ""
 | 6 Gratitude | Ms Nursahila Bte Roszelan | [nursahila\_roszelan@schools.gov.sg](mailto:nursahila_roszelan@schools.gov.sg) |
 | 6 Gratitude | Mdm Noraida Binte Wagimin | [noraida\_wagimin@schools.gov.sg](mailto:noraida_wagimin@schools.gov.sg) |
 | 6 Integrity | Mr Mohammad Haslam Rahmat | [mohd\_haslam@schools.gov.sg](mailto:mohd_haslam@schools.gov.sg) |
-| 6 Integrity | Mdm Norlin Binte Mansor | [norlin\_mansor@schools.gov.sg](mailto:norlin_mansor@schools.gov.sg) |
+| 6 Integrity | Mr Chia Chin Ooi Calvin | [chia\_chin\_ooi\_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg) |
 | 6 Resilience | Ms Chua Mei Xi, Shermeine | [chua\_mei\_xi\_shermeine@schools.gov.sg](mailto:chua_mei_xi_shermeine@schools.gov.sg) |
 | 6 Resilience | Mrs Rena Phang-Yong Geok Ping 	| [yong\_geok\_ping@schools.gov.sg](mailto:yong_geok_ping@schools.gov.sg) 	|
 | 6 Respect | Mdm Shadidah Bte Mokhtar | [shadidah\_mokhtar@schools.gov.sg](mailto:shadidah_mokhtar@schools.gov.sg) |
@@ -127,7 +128,7 @@ description: ""
 | Mr Yang Binglin 	| [yang\_binglin@schools.gov.sg](mailto:yang_binglin@schools.gov.sg)|
 | Mr Oh Ming Yie 	| [oh\_ming\_yie@schools.gov.sg](mailto:oh_ming_yie@schools.gov.sg) |
 | Mr Xie Meng Hui | [xie\_meng\_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg) |
-| Mr Chia Chin Ooi Calvin | [chia\_chin\_ooi\_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg) |
+|  Ms Rajasveri d/o Renganathan 	| [rajasveri\_renganathan@schools.gov.sg](mailto:rajasveri_renganathan@schools.gov.sg) |
 | Mrs Crystal Lee-Cai Wanqin | [cai\_wanqin\_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg) |
 | Mdm Lediana Bte Mohamed Said | [lediana\_mohamed\_said@schools.gov.sg](mailto:lediana_mohamed_said@schools.gov.sg) |
 | Ms Jacintha Devi d/o Tamilveeran | [jacintha\_devi@schools.gov.sg](mailto:jacintha_devi@schools.gov.sg) |
@@ -141,7 +142,6 @@ description: ""
 | Mdm Chionh Siew Chern 	| [chionh\_siew\_chern@moe.edu.sg](mailto:chionh_siew_chern@moe.edu.sg) 	|
 | Mrs Chitra Pillay Chua  	| [chitra\_pillay\_chua@moe.edu.sg](mailto:chitra_pillay_chua@moe.edu.sg) 	|
 | Mr Choo Kian Guan Ryan 	| [choo\_kian\_guan@schools.gov.sg](mailto:choo_kian_guan@schools.gov.sg) 	|
-| Mdm Dahalia Bte Abbas 	| 	|
 | Mdm Mooi Lee Choo 	| [Mooi\_Lee\_Choo@schools.gov.sg](mailto:Mooi_Lee_Choo@schools.gov.sg) 	|	
 | Mdm Oh Keng Hong 	| [Oh\_Keng\_Hong@schools.gov.sg](mailto:Oh_Keng_Hong@schools.gov.sg) 	|
 | Mdm Shamsiah Bte Md Shariff 	| 	|
