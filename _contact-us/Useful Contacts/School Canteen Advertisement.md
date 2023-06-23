@@ -6,6 +6,18 @@ third_nav_title: Useful Contacts
 ---
 ### School Canteen Advertisement
 
+
+
+| | |
+--- | -- |
+| Type of Stall | Column 2 |
+| -- | --| 
+| Text     | Text     |    
+|
+
+
+
+
 |  |  |
 |---|---|
 | Type of Stall | Western Food Stall   |
