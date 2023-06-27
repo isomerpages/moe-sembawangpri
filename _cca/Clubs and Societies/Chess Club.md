@@ -11,18 +11,16 @@ Chess Club CCA aspires to groom little chess players who will develop intellectu
 |  |  |
 |---|---|
 | Time |  2.15 p.m. – 4.15 p.m. |
-| Teachers-in-charge | Mdm Liu Hongyan<br><br>Mrs Crystal Lee-Cai Wanqin |
+| Teachers-in-charge | Mdm Liu Hongyan<br>Mrs Crystal Lee-Cai Wanqin<br>Ms Sharon Chan Hui Yu |
 |  Venues | 2C and 2E Classrooms |
 
-<img src="/images/cca17.png" 
-     style="width:70%">
-<img src="/images/cca18.png" 
-     style="width:70%">
+<img src="/images/cca17.png" style="width:70%">
+<img src="/images/cca18.png" style="width:70%">
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MsboEWEDlPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MsboEWEDlPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
-Last updated: 05/01/2023
+Last updated: 27/06/2023
