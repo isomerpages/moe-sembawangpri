@@ -23,7 +23,7 @@ Due to the safety management measures in place, students will be attending the C
 |  |  |
 |---|---|
 | Time | 2.15 pm tp 4.15pm |
-| Teachers-in-charge | Mr Andi Fatahillah<br>  <br>Ms Ong Jia Hui<br><br>Ms Shermeine Chua<br>          <br>Ms Carine Oh Chew Hoon<br> |
+| Teachers-in-charge | Mr Andi Fatahillah<br>Ms Ong Jia Hui<br>Ms Shermeine Chua <br>Ms Carine Oh Chew Hoon|
 |  Venue | Media Room, Computer Labs |
 
 <img src="/images/cca16.png" style="width:80%">
@@ -35,4 +35,4 @@ Due to the safety management measures in place, students will be attending the C
 
 </div>
 
-Last updated: 22/06/2023
+Last updated: 27/06/2023
