@@ -21,4 +21,4 @@ Chinese Dance CCA aspires to groom little dancers who are passionate about not o
 
 </div>
 
-Last updated: 05/01/2023
+Last updated: 27/06/2023
