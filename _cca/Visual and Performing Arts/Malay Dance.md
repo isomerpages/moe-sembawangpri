@@ -18,16 +18,15 @@ Malay Dance CCA aspires to groom dancers who are passionate and will be able to:
 |  |  |
 |---|---|
 | Schedule | Friday : 2.15 p.m. – 4.15 p.m.<br><br> Additional Trainings: 4.30 p.m. – 5.30 p.m. |
-| Teachers-in-charge | <br>Mdm Norlin Binte Mansor<br><br>Ms Nurul Syahidah Binte Bahari |
+| Teachers-in-charge | Mdm Norlin Binte Mansor<br>Ms Elyana Binte Al-Ghazal|
 |  Venue | Dance Studio |
 
-<img src="/images/cca9.png" 
-     style="width:60%">
+<img src="/images/cca9.png" style="width:60%">
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uf9_ewpYBCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uf9_ewpYBCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
-Last updated: 17/01/2023
+Last updated: 27/06/2023

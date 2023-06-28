@@ -12,6 +12,9 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
+        - title: 2023 e-Open House
+          description: ""
+          url: http://go.gov.sg/sbpseopenhouse
         - title: Quick Links
           description: ""
           url: /quick-links/general

@@ -30,4 +30,4 @@ awarded under the NSS ESN Skills Achievement Programme!
 <img src="/images/sci5-2023.jpg" style="width:100%">Learning more about local marine organisms through an enriching talk conducted by National Parks Board (Coastal and Marine Branch, National Biodiversity Centre)
 
 
-Last updated : 02/06/2023
+Last updated : 27/06/2023
