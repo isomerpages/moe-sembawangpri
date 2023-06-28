@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/animated-banner_updated.gif
+      background: /images/2 - 2023 e-open house banner final.png
       key_highlights:
         - title: Announcements
           description: ""
