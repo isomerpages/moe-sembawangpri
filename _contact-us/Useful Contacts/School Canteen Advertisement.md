@@ -30,7 +30,7 @@ third_nav_title: Useful Contacts
 
 * Address: 10 Sembawang Drive S757715
 * Contact No: 6756 7330
-* Email: sembwang_ps@moe.edu.sg
+* Email: sembawang_ps@moe.edu.sg
 * Contact Person: Ms Lim Siew Hwa Agnes/ Ms Tang Li Peng Emily
 
 **How to get there?**
