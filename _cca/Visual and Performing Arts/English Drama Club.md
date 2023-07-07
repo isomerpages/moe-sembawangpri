@@ -6,23 +6,29 @@ third_nav_title: Visual and Performing Arts
 ---
 ### English Drama Club
 
-Drama Club CCA aspires to groom little actors/actresses who are expressive and have a flair for dramatizing. Our little actors and actresses will have opportunities to personify different roles and develop confidence and imagination.
+<p align="justify">Drama Club CCA aspires to groom little actors/actresses who are expressive and have a flair for dramatizing. Our little actors and actresses will have opportunities to personify different roles and develop confidence and imagination.</p>
 
 ##### Celebration of the Arts (COTA) 2023
 
-Celebration Of The Arts (COTA) 2023 showcased the talents of Sembawang Primary School students across the skills of singing, dancing and acting. The main plot of COTA takes us through a young student’s mind as she struggles with her passion for performing and her fear of failure. Her friends Determination, Courage and Focus help her build confidence and overcome Fear. Performances by different performing arts CCAs and Talent Development Programme groups also inspire the student in her journey towards the final performance.
+<p align="justify">Celebration Of The Arts (COTA) 2023 showcased the talents of Sembawang Primary School students across the skills of singing, dancing and acting. The main plot of COTA takes us through a young student’s mind as she struggles with her passion for performing and her fear of failure. Her friends Determination, Courage and Focus help her build confidence and overcome Fear. Performances by different performing arts CCAs and Talent Development Programme groups also inspire the student in her journey towards the final performance.</p>
+
+![](/images/2023_drama_1.jpg)
+
+![](/images/2023_drama_2.jpg)
+
+![](/images/2023_drama_3.jpg)
 
 ##### Canberra Community Club Easter Celebration 2022
 
-Our Drama Club participated in the Easter Celebration 2022 organised by Canberra Zone 3 and acted a story called ‘The Giving Tree’. The story begins with a young boy who discovers his friendship with a tree. They play, care and share with each other. But time and age gets in the way as a growing boy grows distant. His wants and desires are no longer what they once were as a boy. Playful antics have been replaced by material wants. All of which, the tree tries her best to provide. Time passes till he's but an old man who only wants a place to rest. They share a space of friendship and are happy again.
+<p align="justify">Our Drama Club participated in the Easter Celebration 2022 organised by Canberra Zone 3 and acted a story called ‘The Giving Tree’. The story begins with a young boy who discovers his friendship with a tree. They play, care and share with each other. But time and age gets in the way as a growing boy grows distant. His wants and desires are no longer what they once were as a boy. Playful antics have been replaced by material wants. All of which, the tree tries her best to provide. Time passes till he's but an old man who only wants a place to rest. They share a space of friendship and are happy again.</p>
+
+![](/images/2023_drama_4.jpg)
 
 |  |  |
 |---|---|
 | Schedule | Friday : 2.15 p.m. – 4.15 p.m. |
 | Teachers-in-charge | Ms Nur Syafiqah Binte Eddie Yusof<br>Ms Nur Qistina Binte Abdul Wahid |
 |  Venue | MRL  |
-
-<img src="/images/cca11.png" style="width:65%">
 
 <div class="bp-youtube">
 
