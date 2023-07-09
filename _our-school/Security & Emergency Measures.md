@@ -110,4 +110,4 @@ MOE conducts Temperature Taking Exercise twice a year, typically in January and 
 As part of emergency management and in ensuring our&nbsp;school continue to be a healthy and safe environment for all, students who travel out of Singapore during the school holidays&nbsp;are required to submit their Travel Declaration. Given the transition to primary school environment, Parents of all P1 students are to declare the travel plans of your child, regardless of travel intent, unless advised otherwise. Parents of other levels are to declare the travel plans&nbsp;ONLY&nbsp;if your child intend to travel. Parents/guardians may submit your child’s travel&nbsp;declaration via the&nbsp;Parents Gateway.&nbsp;If there is a change of travel plan(s) after declaration, please submit a new travel declaration for the updated travel destination via PG or inform the school for cancellation of travel plan(s).&nbsp;The hardcopy form for&nbsp;parents without internet or PG access is also available upon request.  
 
   
-Last updated: 29/12/2022
+Last updated: 26/16/2023
