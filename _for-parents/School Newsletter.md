@@ -7,18 +7,11 @@ description: ""
 
 | Year | Issue |
 |---|---|
-| 2017 | [2017 School Newsletter 1](https://go.gov.sg/2017sembawangbuzz1) |
-| 2017 |  [2017 School Newsletter 2](https://go.gov.sg/2017sembawangbuzz2)  |
+| 2023 |  [2022 School Newsletter 1](https://go.gov.sg/2023sembawangbuzz1)  |
 
 | Year | Issue |
 |---|---|
-| 2018 |  [2018 School Newsletter 1](https://go.gov.sg/2018sembawangbuzz1)  |
-| 2018 |  [2018 School Newsletter 2](https://go.gov.sg/2018sembawangbuzz2)  |
-
-| Year | Issue |
-|---|---|
-| 2019 |  [2019 School Newsletter 1](https://go.gov.sg/2019sembawangbuzz1)  |
-| 2019 |  [2019 School Newsletter 2](https://go.gov.sg/2019sembawangbuzz2) |
+| 2022 |  [2022 School Newsletter 1](https://go.gov.sg/2022sembawangbuzz1)  |
 
 | Year | Issue |
 |---|---|
@@ -27,6 +20,18 @@ description: ""
 
 | Year | Issue |
 |---|---|
-| 2022 |  [2022 School Newsletter 1](https://go.gov.sg/2022sembawangbuzz1)  |
+| 2019 |  [2019 School Newsletter 1](https://go.gov.sg/2019sembawangbuzz1)  |
+| 2019 |  [2019 School Newsletter 2](https://go.gov.sg/2019sembawangbuzz2) |
 
-Last Updated : 30/12/2022
+| Year | Issue |
+|---|---|
+| 2018 |  [2018 School Newsletter 1](https://go.gov.sg/2018sembawangbuzz1)  |
+| 2018 |  [2018 School Newsletter 2](https://go.gov.sg/2018sembawangbuzz2)  |
+
+| Year | Issue |
+|---|---|
+| 2017 | [2017 School Newsletter 1](https://go.gov.sg/2017sembawangbuzz1) |
+| 2017 |  [2017 School Newsletter 2](https://go.gov.sg/2017sembawangbuzz2)  |
+
+
+Last Updated : 09/07/2023
