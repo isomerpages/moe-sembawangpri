@@ -12,7 +12,7 @@ third_nav_title: Useful Contacts
 |  |  |
 |---|---|
 | Type of Stall | Western Food Stall   |
-| Closing Date | 7 Jul 2023 
+| Closing Date | 11 Aug 2023 
 |
 
 #### **Application Procedure**
@@ -37,7 +37,7 @@ third_nav_title: Useful Contacts
 * Nearest MRT: Sembawang MRT (NS11 line) – 6 minutes walking distance
 * Bus number: 656, 859, 859B, 962 and 980   
 
-**Interest applicants must meet the following criteria:**
+**Interested applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
