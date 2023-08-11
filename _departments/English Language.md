@@ -92,3 +92,4 @@ This is the structure of each session:
 		
 	</tbody></table>
 	
+	Last updated : 11/08/2023
