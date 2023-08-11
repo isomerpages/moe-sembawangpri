@@ -36,3 +36,28 @@ description: ""
 <p align="justify">Sembawang Primary School had our annual Experiential Learning Week (ELW) from 27 to 31 March. Lessons were replaced with ELW programmes and activities during curriculum time for that week.</p><p align="justify">
 Through the ELW programmes and activities, students were given more opportunities to discover their interests and strengths. They were also able to develop their 21st Century Competencies such as communication, collaboration, knowledge application and independent learning.</p><p align="justify">
 In addition to the introduction and restructuring of Project Work at Primary 4 and Primary 5, there are specially designed programmes for the other levels. The activities allow students to make connections with the world around them. The students certainly had a blast as they enjoyed exploring authentic experiences that extended learning beyond textbooks and classrooms.</p>
+
+<table>
+	<tbody><tr><th>
+		</th></tr><tr><td><img src="/images/2023_el_05.jpg" style="width:100%"></td>
+			<td><img src="/images/2023_el_06.jpg" style="width:80%"></td></tr>
+		<tr><td><img src="/images/2023_el_07.jpg" style="width:75%"></td>
+			<td><img src="/images/2023_el_08.jpg" style="width:100%"></td></tr>
+	</tbody></table>
+	
+<p align="justify">“I learnt more about our transport system from the SMRT Station Manager and Service Ambassador who came to talk to us their job and responsibilities. I enjoyed the Kahoot quiz during the talk. I was proud of myself and my team members when we presented our project on Gracious Commuting to the lower primary students.”<br>
+	<i>Mohamed Danial Raiyan Bin Mohamed Abbillah (4 Resilience)</i></p>
+	
+<u><b>Reading Parents Programme</b></u>
+<p align="justify">
+Reading Parents Programme is an initiative by the English Department to inculcate the habit of reading for pleasure among non-readers.</p>
+	<p align="justify">
+This is a collaborative effort with Parent Volunteers who introduce and read selected books to these identified students once a week. Fun activities are also conducted during this session to support our struggling readers as they find pleasure in reading.</p>
+
+<table>
+	<tbody><tr><th></th></tr><tr><td colspan="2"><img src="/images/2023_el_09.jpg" style="width:100%"></td></tr>
+		<tr><td><img src="/images/2023_el_10.jpg" style="width:100%"></td>
+			<td><img src="/images/2023_el_11.jpg" style="width:100%"></td></tr>
+		<tr><td><img src="/images/2023_el_12.jpg" style="width:100%"></td>
+			<td><img src="/images/2023_el_13.jpg" style="width:100%"></td></tr>
+	</tbody></table>
