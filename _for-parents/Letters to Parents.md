@@ -3,7 +3,7 @@ title: Letters to Parents
 permalink: /for-parents/Letters-to-parents/
 description: ""
 ---
-[]()**Term 1**
+## 2023
 
 | | | |
 |---|---|---|
@@ -13,6 +13,7 @@ description: ""
 | [SBPS/23/003](/files/Open%20Letter%20from%20SLs_03-2023.pdf)| 27 Mar 2023 | Open Letter from School Leaders | 
 | [SBPS/23/004](/files/open%20letter%20from%20sls_04-2023.pdf)| 2 May 2023 | Open Letter from School Leaders | 
 | [SBPS/23/005](/files/open%20letter%20from%20sls_05-2023.pdf)| 5 July 2023 | Open Letter from School Leaders | 
+| [SBPS/23/006](/files/Open%20Letter%20from%20SLs_06-2022.pdf)| 4 Aug 2023 | Open Letter from School Leaders | 
 
 
 
@@ -22,5 +23,4 @@ description: ""
 
 
 
-
-Last updated: 5/07/2023
+Last updated: 11/08/2023
