@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - English Language.md
-      - English Language/.keep
       - Mathematics.md
       - Science.md
       - Mother Tongue Languages/Overview of Mother Tongue Languages.md
