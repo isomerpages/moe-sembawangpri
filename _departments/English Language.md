@@ -69,8 +69,7 @@ This is a collaborative effort with Parent Volunteers who introduce and read sel
 <table>
 	<tbody><tr><th>
 		</th></tr><tr><td><img src="/images/2023_el_14.jpg" style="width:90%"></td>
-			<td><img src="/images/2023_el_15.jpg" style="width:100%"></td></tr>
-		
+			<td><img src="/images/2023_el_15.jpg" style="width:100%"></td></tr>		
 	</tbody></table>
 	
 <p align="justify">The KidsRead Club is conducted by volunteers trained by NLB and coordinated by our teachers-in-charge from SBPS. Students in this club will be provided with these following materials:</p>
@@ -78,7 +77,6 @@ This is a collaborative effort with Parent Volunteers who introduce and read sel
 <img src="/images/2023_el_16.png" style="width:100%">
 
 This is the structure of each session:
-
 
 <table>
 	<tbody><tr><th></th></tr><tr><td style="border:solid windowtext 1.0pt">a.	Tuning - in</td>
@@ -88,8 +86,9 @@ This is the structure of each session:
 			<tr><td style="border:solid windowtext 1.0pt">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STEAM Activities</td>
 			<td style="border:solid windowtext 1.0pt">Activities related to the story which range from Science, Technology, Engineering, Art and Mathematics</td></tr>
 			<tr><td style="border:solid windowtext 1.0pt">d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Independent Reading</td>
-			<td style="border:solid windowtext 1.0pt">Select books to read independently or with volunteers and friends</td></tr>
-		
+			<td style="border:solid windowtext 1.0pt">Select books to read independently or with volunteers and friends</td></tr>	
 	</tbody></table>
 	
+
+
 	Last updated : 11/08/2023
