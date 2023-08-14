@@ -102,5 +102,16 @@ This is the structure of each session:
                                            
 <p align="justify">The actors taking on different roles are positioned at different heights with respect to the rest of the class who serve as the chorus.</p>
 
+<u><b>Authentic Learning Experiences Beyond the Classroom</b></u>
 
-Last updated : 11/08/2023
+<b>Learning Journey to Singapore Zoo and Science Centre</b>
+
+<i>Primary 1 students on a Learning Journey to the Singapore Zoo. </i>
+
+<p align="justify">The students watched a performance by Tiago the Sealion at the Splash Safari Show. After watching the show, they were tasked to do a reflection on their learning experience. They enjoyed themselves at the Zoo. 
+
+Primary 2 students went on a Learning Journey to the Science Centre. There were many interesting exhibitions for the students to try out. 
+At the Science Centre, the students attended a Life in a Shell Programme where they learnt about animals that have shells. They also got to experience touching seashells and interacting with garden snails and hermit crabs.  
+
+
+Last updated : 11/08/2023</p>
