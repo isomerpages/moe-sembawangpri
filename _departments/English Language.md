@@ -89,6 +89,18 @@ This is the structure of each session:
 			<td style="border:solid windowtext 1.0pt">Select books to read independently or with volunteers and friends</td></tr>	
 	</tbody></table>
 	
+<u><b>Enrichment Classes to Enhance Learning</b></u> <br>
+<b>P3 Readers Theatre 2023</b>
+	 
+<p align="justify">This programme aims to build our primary three students’ agency, confidence and self-esteem through clear articulation, fluency and expression.</p>
+
+<p align="justify">Our students worked together with their classmates to put up a Reader’s Theatre performance. They acquired oracy skills to become confident speakers who can express themselves clearly. Students were able to work collaboratively to perform their roles in confidence.</p>
+
+<img src="/images/2023_el_16a.jpg" style="width:100%"><br>
+<img src="/images/2023_el_17.png" style="width:100%"><br>
+<img src="/images/2023_el_18.jpg" style="width:100%">
+                                           
+<p align="justify">The actors taking on different roles are positioned at different heights with respect to the rest of the class who serve as the chorus.</p>
 
 
-	Last updated : 11/08/2023
+Last updated : 11/08/2023
