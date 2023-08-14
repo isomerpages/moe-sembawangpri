@@ -51,7 +51,7 @@ In addition to the introduction and restructuring of Project Work at Primary 4 a
 <u><b>Reading Parents Programme</b></u>
 <p align="justify">
 Reading Parents Programme is an initiative by the English Department to inculcate the habit of reading for pleasure among non-readers.</p>
-	<p align="justify">
+<p align="justify">
 This is a collaborative effort with Parent Volunteers who introduce and read selected books to these identified students once a week. Fun activities are also conducted during this session to support our struggling readers as they find pleasure in reading.</p>
 
 <table>
@@ -110,10 +110,16 @@ This is the structure of each session:
 
 <p align="justify">The students watched a performance by Tiago the Sealion at the Splash Safari Show. After watching the show, they were tasked to do a reflection on their learning experience. They enjoyed themselves at the Zoo.</p>
 
+<img src="/images/2023_el_19.jpg" style="width:100%">
+<img src="/images/2023_el_20.jpg" style="width:100%">
+<img src="/images/2023_el_21.jpg" style="width:100%">
+
 <i>Primary 2 students went on a Learning Journey to the Science Centre. </i>
 	
 <p align="justify">There were many interesting exhibitions for the students to try out. 
-At the Science Centre, the students attended a Life in a Shell Programme where they learnt about animals that have shells. They also got to experience touching seashells and interacting with garden snails and hermit crabs. </p> 
+At the Science Centre, the students attended a Life in a Shell Programme where they learnt about animals that have shells. They also got to experience touching seashells and interacting with garden snails and hermit crabs.</p> 
 
+<img src="/images/2023_el_22.jpg" style="width:100%">
+<img src="/images/2023_el_23.jpg" style="width:100%">
 
-Last updated : 11/08/2023<p></p>
+Last updated : 14/08/2023
