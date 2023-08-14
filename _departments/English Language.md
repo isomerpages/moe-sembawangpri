@@ -21,12 +21,12 @@ description: ""
 <u><b>SOTA Primary Six Creative Writing Competition</b></u>
 <p align="justify">We would like to congratulate (from left in the picture) Cahanding Julia Luise De Venecia (6 Respect), Carys Chui Jia Xin (6 Respect) and Dawson Oh Xu Jie
 (6 Resilience), for being among the top 50 finalists in the annual nation-wide SOTA Primary Six Creative Writing Competition! They were given the opportunity to attend the Literary Arts Junior Academy writing workshop organised by SOTA. You may scan the QR code to view their winning entries. Enjoy their creative stories!</p>
-<!--
-<table>
+
+<!--le>
 	<th>
-		<tr><td><img style="width:70%" src="/images/2023_el_03.jpg"></td><td><img style="width:100%" src="/images/2023_el_04.png"></td></tr>
+		<tr><td><img style="width:50" src="/images/2023_el_03.jpg"></td><td><img style="width:100%" src="/images/2023_el_04.png"></td></tr>
 	</th>
-	</table>-->
+	</table-->
 
 <img src="/images/2023_el_03.jpg" style="width:70%">
 <img src="/images/2023_el_04.png" style="width:70%">
@@ -51,7 +51,7 @@ In addition to the introduction and restructuring of Project Work at Primary 4 a
 <u><b>Reading Parents Programme</b></u>
 <p align="justify">
 Reading Parents Programme is an initiative by the English Department to inculcate the habit of reading for pleasure among non-readers.</p>
-	<p align="justify">
+<p align="justify">
 This is a collaborative effort with Parent Volunteers who introduce and read selected books to these identified students once a week. Fun activities are also conducted during this session to support our struggling readers as they find pleasure in reading.</p>
 
 <table>
@@ -69,8 +69,7 @@ This is a collaborative effort with Parent Volunteers who introduce and read sel
 <table>
 	<tbody><tr><th>
 		</th></tr><tr><td><img src="/images/2023_el_14.jpg" style="width:90%"></td>
-			<td><img src="/images/2023_el_15.jpg" style="width:100%"></td></tr>
-		
+			<td><img src="/images/2023_el_15.jpg" style="width:100%"></td></tr>		
 	</tbody></table>
 	
 <p align="justify">The KidsRead Club is conducted by volunteers trained by NLB and coordinated by our teachers-in-charge from SBPS. Students in this club will be provided with these following materials:</p>
@@ -78,7 +77,6 @@ This is a collaborative effort with Parent Volunteers who introduce and read sel
 <img src="/images/2023_el_16.png" style="width:100%">
 
 This is the structure of each session:
-
 
 <table>
 	<tbody><tr><th></th></tr><tr><td style="border:solid windowtext 1.0pt">a.	Tuning - in</td>
@@ -88,8 +86,40 @@ This is the structure of each session:
 			<tr><td style="border:solid windowtext 1.0pt">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STEAM Activities</td>
 			<td style="border:solid windowtext 1.0pt">Activities related to the story which range from Science, Technology, Engineering, Art and Mathematics</td></tr>
 			<tr><td style="border:solid windowtext 1.0pt">d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Independent Reading</td>
-			<td style="border:solid windowtext 1.0pt">Select books to read independently or with volunteers and friends</td></tr>
-		
+			<td style="border:solid windowtext 1.0pt">Select books to read independently or with volunteers and friends</td></tr>	
 	</tbody></table>
 	
-	Last updated : 11/08/2023
+<u><b>Enrichment Classes to Enhance Learning</b></u> <br>
+<b>P3 Readers Theatre 2023</b>
+	 
+<p align="justify">This programme aims to build our primary three students’ agency, confidence and self-esteem through clear articulation, fluency and expression.</p>
+
+<p align="justify">Our students worked together with their classmates to put up a Reader’s Theatre performance. They acquired oracy skills to become confident speakers who can express themselves clearly. Students were able to work collaboratively to perform their roles in confidence.</p>
+
+<img src="/images/2023_el_16a.jpg" style="width:100%"><br>
+<img src="/images/2023_el_17.png" style="width:100%"><br>
+<img src="/images/2023_el_18.jpg" style="width:100%">
+                                           
+<p align="justify">The actors taking on different roles are positioned at different heights with respect to the rest of the class who serve as the chorus.</p>
+
+<u><b>Authentic Learning Experiences Beyond the Classroom</b></u>
+
+<b>Learning Journey to Singapore Zoo and Science Centre</b>
+
+<i>Primary 1 students on a Learning Journey to the Singapore Zoo. </i>
+
+<p align="justify">The students watched a performance by Tiago the Sealion at the Splash Safari Show. After watching the show, they were tasked to do a reflection on their learning experience. They enjoyed themselves at the Zoo.</p>
+
+<img src="/images/2023_el_19.jpg" style="width:100%">
+<img src="/images/2023_el_20.jpg" style="width:100%">
+<img src="/images/2023_el_21.jpg" style="width:100%">
+
+<i>Primary 2 students went on a Learning Journey to the Science Centre. </i>
+	
+<p align="justify">There were many interesting exhibitions for the students to try out. 
+At the Science Centre, the students attended a Life in a Shell Programme where they learnt about animals that have shells. They also got to experience touching seashells and interacting with garden snails and hermit crabs.</p> 
+
+<img src="/images/2023_el_22.jpg" style="width:100%">
+<img src="/images/2023_el_23.jpg" style="width:100%">
+
+Last updated : 14/08/2023
