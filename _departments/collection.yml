@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - English Language/Overview of English Language.md
       - English Language/.keep
       - Mathematics.md
       - Science.md
