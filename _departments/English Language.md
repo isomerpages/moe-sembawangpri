@@ -108,10 +108,12 @@ This is the structure of each session:
 
 <i>Primary 1 students on a Learning Journey to the Singapore Zoo. </i>
 
-<p align="justify">The students watched a performance by Tiago the Sealion at the Splash Safari Show. After watching the show, they were tasked to do a reflection on their learning experience. They enjoyed themselves at the Zoo. 
+<p align="justify">The students watched a performance by Tiago the Sealion at the Splash Safari Show. After watching the show, they were tasked to do a reflection on their learning experience. They enjoyed themselves at the Zoo.</p>
 
-Primary 2 students went on a Learning Journey to the Science Centre. There were many interesting exhibitions for the students to try out. 
-At the Science Centre, the students attended a Life in a Shell Programme where they learnt about animals that have shells. They also got to experience touching seashells and interacting with garden snails and hermit crabs.  
+<i>Primary 2 students went on a Learning Journey to the Science Centre. </i>
+	
+<p align="justify">There were many interesting exhibitions for the students to try out. 
+At the Science Centre, the students attended a Life in a Shell Programme where they learnt about animals that have shells. They also got to experience touching seashells and interacting with garden snails and hermit crabs. </p> 
 
 
-Last updated : 11/08/2023</p>
+Last updated : 11/08/2023<p></p>
