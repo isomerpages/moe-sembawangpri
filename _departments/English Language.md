@@ -3,157 +3,93 @@ title: English Language
 permalink: /programmes/departments/english/
 description: ""
 ---
-### English Language
+<h4>Developing Student Talents through Competitions</h4>
 
-**Vision: Every Child an Effective, Empathetic and Confident Communicator**
+<u><b>Singapore Moo-O Awards 2023</b></u>
 
-     Proficiency in English Language is even more necessary in today’s increasingly connected and global environment. It is not only important to be able to communicate effectively, but equally important to communicate confidently and empathetically. In order to achieve our vision, Sembawang Primary School English Language teachers are guided by a pedagogical approach that closely aligns to our Ministry of Education’s direction.
-
-     We believe that a multiliterate student will be best poised to take on the role of an effective, empathetic and confident communicator. Therefore, our lessons are rich in multiliteracies and multimodal texts in order to ignite joy and rigour in learning.
-
-     A multiliterate student is one who is able to critically read multiple modes of communication (e.g. printed texts with accompanying visuals, digital animations, music and sound effects etc) while also taking into account socio-cultural factors. Students learn to read critically through Curriculum Innovation lessons where inquiry through dialogues take place and metacognitive skills are practised. Below are some photos taken during these lessons.
-		
-<img src="/images/el98.png" 
-     style="width:70%">
+<p align="justify">Our heartiest congratulations to Tham Ka Wui Alicia (3 Care), Lee Zixuan Claudia (3 Integrity), and Zeng Zimeng (3 Resilience) for winning the Merit Award in the Singapore Moo-O Awards 2023 supported by the Speak Good English Movement.</p> 
+<img src="/images/2023_el_01.png" style="width:70%">
 	
-**Learning Outside the Classroom**
+<p align="justify">In this digital storytelling competition, students used the MooO software to portray themselves as various story characters. Our students were creative, fluent, and expressive as they read the story. Well done!</p>
 
-     In order to be empathetic communicators, students have to be aware of their socio-cultural environment. Therefore, we provide rich learning experiences such as the theatre experiences and learning journeys.
+<u><b>NewsMaker Competition 2023</b></u>
 
-  
-Learning Journeys in 2021
+<img src="/images/2023_el_02.png" style="width:70%">
 
-  
-P1: Virtual zoo  
-P2: Growing Butterflies in our Garden City  
-P3: Alice in the Wonderland  
-P4: Hansel and Greta  
-P5 and P6: Digitalised Drama Shows on the differences between English, Singlish and Broken English.
+<p align="justify">On 16 March, three P4 students, Chaudhry Zubair Saeed (4 Integrity), Jaykerb Apolonio Liang (4 Empathy), and Aadriana Marie Domiquil Azril (4 Empathy), participated in the annual NewsMaker Competition organised by Raffles Girls’ Primary School and Teevers Pte Ltd. In this news-broadcasting competition, participants used the MooV app to produce digital video news. The students received a certificate of participation in recognition of their efforts. Good work, students!</p>
 
-  
+<u><b>SOTA Primary Six Creative Writing Competition</b></u>
+<p align="justify">We would like to congratulate (from left in the picture) Cahanding Julia Luise De Venecia (6 Respect), Carys Chui Jia Xin (6 Respect) and Dawson Oh Xu Jie
+(6 Resilience), for being among the top 50 finalists in the annual nation-wide SOTA Primary Six Creative Writing Competition! They were given the opportunity to attend the Literary Arts Junior Academy writing workshop organised by SOTA. You may scan the QR code to view their winning entries. Enjoy their creative stories!</p>
+<!--
+<table>
+	<th>
+		<tr><td><img style="width:70%" src="/images/2023_el_03.jpg"></td><td><img style="width:100%" src="/images/2023_el_04.png"></td></tr>
+	</th>
+	</table>-->
 
-Sensory Path 
+<img src="/images/2023_el_03.jpg" style="width:70%">
+<img src="/images/2023_el_04.png" style="width:70%">
 
-  
+<u><b>Experiential Learning Week</b></u>
 
-          The sensory path is an inter-departmental initiative between the English Language and Physical Education departments. This learning path combines the kinaesthetic and cognitive faculties of the child as they navigate the colourful and exciting stations and walkways. This sensory path pays homage to our school song’s chorus: Learning is an adventure; Learning is fun!
-					
-<img src="/images/el2.png" 
-     style="width:70%">
-		 
-**Differentiated Programmes to support our students**
+<p align="justify">Sembawang Primary School had our annual Experiential Learning Week (ELW) from 27 to 31 March. Lessons were replaced with ELW programmes and activities during curriculum time for that week.</p><p align="justify">
+Through the ELW programmes and activities, students were given more opportunities to discover their interests and strengths. They were also able to develop their 21st Century Competencies such as communication, collaboration, knowledge application and independent learning.</p><p align="justify">
+In addition to the introduction and restructuring of Project Work at Primary 4 and Primary 5, there are specially designed programmes for the other levels. The activities allow students to make connections with the world around them. The students certainly had a blast as they enjoyed exploring authentic experiences that extended learning beyond textbooks and classrooms.</p>
 
-     On top of our usual classroom lessons that happen during curriculum time, we offer differentiated programmes to cater to students of different needs. They range from HAL to Pull-Out programmes. The goal is always to match our students to their readiness level so that they are always progressing steadily to becoming effective, empathetic and confident communicators.
+<table>
+	<tbody><tr><th>
+		</th></tr><tr><td><img src="/images/2023_el_05.jpg" style="width:100%"></td>
+			<td><img src="/images/2023_el_06.jpg" style="width:80%"></td></tr>
+		<tr><td><img src="/images/2023_el_07.jpg" style="width:75%"></td>
+			<td><img src="/images/2023_el_08.jpg" style="width:100%"></td></tr>
+	</tbody></table>
+	
+<p align="justify">“I learnt more about our transport system from the SMRT Station Manager and Service Ambassador who came to talk to us their job and responsibilities. I enjoyed the Kahoot quiz during the talk. I was proud of myself and my team members when we presented our project on Gracious Commuting to the lower primary students.”<br>
+	<i>Mohamed Danial Raiyan Bin Mohamed Abbillah (4 Resilience)</i></p>
+	
+<u><b>Reading Parents Programme</b></u>
+<p align="justify">
+Reading Parents Programme is an initiative by the English Department to inculcate the habit of reading for pleasure among non-readers.</p>
+	<p align="justify">
+This is a collaborative effort with Parent Volunteers who introduce and read selected books to these identified students once a week. Fun activities are also conducted during this session to support our struggling readers as they find pleasure in reading.</p>
 
-**Booster Programmes**
+<table>
+	<tbody><tr><th></th></tr><tr><td colspan="2"><img src="/images/2023_el_09.jpg" style="width:100%"></td></tr>
+		<tr><td><img src="/images/2023_el_10.jpg" style="width:100%"></td>
+			<td><img src="/images/2023_el_11.jpg" style="width:100%"></td></tr>
+		<tr><td><img src="/images/2023_el_12.jpg" style="width:100%"></td>
+			<td><img src="/images/2023_el_13.jpg" style="width:100%"></td></tr>
+	</tbody></table>
+	
+<u><b>KidsREAD Club</b></u> 
 
-Learning Support Programme (LSP) Khadijah
+<p align="justify">Since 2022, Sembawang Primary School has been collaborating with the National Library Board (NLB) to conduct a reading programme called KidsRead Club. This programme promotes the love of reading and cultivates good reading habits among young children.</p>
 
-     LSP-trained teachers spend half an hour a day with small groups of 8 to 10 students with a focus on building their English Language skills.
+<table>
+	<tbody><tr><th>
+		</th></tr><tr><td><img src="/images/2023_el_14.jpg" style="width:90%"></td>
+			<td><img src="/images/2023_el_15.jpg" style="width:100%"></td></tr>
+		
+	</tbody></table>
+	
+<p align="justify">The KidsRead Club is conducted by volunteers trained by NLB and coordinated by our teachers-in-charge from SBPS. Students in this club will be provided with these following materials:</p>
 
-  
+<img src="/images/2023_el_16.png" style="width:100%">
 
-School-based Dyslexia Remediation (SDR) Khadijah
+This is the structure of each session:
 
-     This remediation programme utilises internationally tested and proven methods to teach reading and spelling to students belonging to the dyslexic profile. For instance, our SDR-trained teachers teach these students to make the connections between letters and sounds, as well as read text explicitly with methods that involve multiple senses such as sight, sound, movement and touch.
-		 
-<img src="/images/el3.png" 
-     style="width:70%">
 
-Reading Remediation Programme (RRP)
-
-     The RRP seeks to equip students with reading challenges the right skills to help them understand what they are reading. The aim is to teach students to understand the text that will allow them to fully appreciate the story plot. In so doing, these students will be able to read for enjoyment and academic excellence.
-
-**Reading Programme**
-
-     Our reading programme is an extension programme that encourages every student in our school to read.
-
-  
-
-Hi DEAR!
-
-     Hi DEAR is a signature reading programme in our school in collaboration with the Mother Tongue department. This programme is structured into the language curriculum to build a positive reading culture while increasing students’ interest, competency and literacy standards. All P1 to P6 English classes will alternate fornightly between their scheduled library periods and Hi DEAR! activities at the respective levels:  
-
-  
-P1-P2: Inculcation Values through Stories 
-
-     Inculcating moral values in students through values-based storybooks and extended activities based on each story.
-
-  
-P3 and P4: Online Reading Portal 
-
-     Building independent, confident readers through an online reading portal with a wide selection of fiction and non-fiction content based on students’ interests and individual reading level.
-
-  
-P5 and P6: What’sUp newspaper 
-
-     The What’sUp newspaper complements the regular classroom with current affairs and anecdotes from the other parts of the world. Students keep abreast with what is happening around the world at the same time as they learn English Language skills.
-
-  
-
-**Reading Champion**  
-     This Reading Champion Programme is collaboration with our Mother Tongue department where students record (both English and Mother Tongue) books that they had read. A Reading Champion Booklet will be used to record the title of books or newspaper articles that students have read in order to consolidate their reading journey. Students will be awarded badges after reading the required target number of books. Badges come in bronze, silver and gold. We believe a well-read reader will have a broad knowledge base for them to tap on when they are communicating their ideas to others.
-
-  
-
-**Media Resource Library**
-
-     A beautifully decorated library invites students to revisit it again and again. Our library is a beautiful and conducive place for book lovers!
-		 
-<img src="/images/el4.png" 
-     style="width:70%">
-
-Genres Reading Programme
-
-     Our students also participate in reading programmes during assembly that teaches them about different book genres. Book genres covered include fantasy, fairy tales, fractured fairy tales and pourquoi tales. Students were tasked to be creative writers of their own stories in any of these genres.
-		 
-<img src="/images/el5.png" 
-     style="width:70%">
-		 
-Reading Parents Programme
-
-     Our Parents Support Group are with us to ensure our struggling readers are able to enjoy the world of books. They attended a carefully-tailored session before being paired with a student to enjoy a book.
-		 
-<img src="/images/el6.png" 
-     style="width:70%">
-
-**Competitions**
-
-     Our students are given many platforms to showcase their talents and abilities. We hope these platforms spur them to reach out beyond their comfort zone to excel in their respective areas of expertise.
-
-  
-
-Global English Olympiad 2020 
-
-     Two of our home-grown writers achieved first place and third place in the A2 category of the Global English Olympiad 2020. Our First Place winner was selected to represent Singapore in the Global Round 2020 in Amiens, France. We are proud of their achievements!
-
-  
-
-Moo-O Awards 2000 
-
-     We are pleased to announce that two of our primary three students received merit awards in the Singapore Moo-O Awards 2000 in collaboration with the Speak Good English Movement. Our students used the Moo-O software to portray themselves as various story characters. They also narrated their stories fluently and expressively in order to clinch the awards!
-
-  
-
-SOTA Creative Writing Competition 
-
-     We continuously look for opportunities for our students to participate in national-level creative writing competitions. Last year, two of our student’s entries (out of a total of 1514 entries) were shortlisted in SOTA Creative Writing Competition 2020! We are proud of their achievements and look forward to groom more aspiring writers for similar competitions this year.  
-
-  
-
-**Experiential Learning Week (ELW)**
-
-  
-
-     Our students get to immerse themselves in a wide variety of enriched activities during their Experiential Learning Week. Below are some memorable photos that capture the highlights of the week last year.  
- 
- <img src="/images/el7.png" 
-     style="width:70%">
-		 
- <img src="/images/el8.png" 
-     style="width:70%">
-		 
- <img src="/images/el9.png" 
-     style="width:70%">
-
-Last updated: 23/01/2022
+<table>
+	<tbody><tr><th></th></tr><tr><td style="border:solid windowtext 1.0pt">a.	Tuning - in</td>
+			<td style="border:solid windowtext 1.0pt">Each session starts with songs and games as a lead-in to the story time.</td></tr>
+		<tr><td style="border:solid windowtext 1.0pt">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Story Time</td>
+			<td style="border:solid windowtext 1.0pt">Volunteer reads to the students</td></tr>
+			<tr><td style="border:solid windowtext 1.0pt">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STEAM Activities</td>
+			<td style="border:solid windowtext 1.0pt">Activities related to the story which range from Science, Technology, Engineering, Art and Mathematics</td></tr>
+			<tr><td style="border:solid windowtext 1.0pt">d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Independent Reading</td>
+			<td style="border:solid windowtext 1.0pt">Select books to read independently or with volunteers and friends</td></tr>
+		
+	</tbody></table>
+	
+	Last updated : 11/08/2023
