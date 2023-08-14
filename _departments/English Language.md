@@ -21,12 +21,12 @@ description: ""
 <u><b>SOTA Primary Six Creative Writing Competition</b></u>
 <p align="justify">We would like to congratulate (from left in the picture) Cahanding Julia Luise De Venecia (6 Respect), Carys Chui Jia Xin (6 Respect) and Dawson Oh Xu Jie
 (6 Resilience), for being among the top 50 finalists in the annual nation-wide SOTA Primary Six Creative Writing Competition! They were given the opportunity to attend the Literary Arts Junior Academy writing workshop organised by SOTA. You may scan the QR code to view their winning entries. Enjoy their creative stories!</p>
-<!--
-<table>
+
+<!--le>
 	<th>
-		<tr><td><img style="width:70%" src="/images/2023_el_03.jpg"></td><td><img style="width:100%" src="/images/2023_el_04.png"></td></tr>
+		<tr><td><img style="width:50" src="/images/2023_el_03.jpg"></td><td><img style="width:100%" src="/images/2023_el_04.png"></td></tr>
 	</th>
-	</table>-->
+	</table-->
 
 <img src="/images/2023_el_03.jpg" style="width:70%">
 <img src="/images/2023_el_04.png" style="width:70%">
