@@ -14,13 +14,7 @@ description: ""
 | [SBPS/23/004](/files/open%20letter%20from%20sls_04-2023.pdf)| 2 May 2023 | Open Letter from School Leaders | 
 | [SBPS/23/005](/files/open%20letter%20from%20sls_05-2023.pdf)| 5 July 2023 | Open Letter from School Leaders | 
 | [SBPS/23/006](/files/open%20letter%20from%20sls_06-2023.pdf)| 4 Aug 2023 | Open Letter from School Leaders | 
+| [SBPS/23/007](/files/open%20letter%20from%20sls_07-2023.pdf)| 15 September 2023 | Open Letter from School Leaders |
 
 
-
-
-
-
-
-
-
-Last updated: 11/08/2023
+Last updated: 15/09/2023
