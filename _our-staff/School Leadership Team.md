@@ -41,7 +41,9 @@ description: ""
 |  <br>Character Education 	|  <br>Ms Joey Tan Siew Bing<br>[tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) <br>         	|
 |  <br>Science 	|  <br>Ms Pearlyn Seow Pei Yi<br>[Seow\_Pei\_Yi\_Pearlyn@schools.gov.sg](mailto:Seow_Pei_Yi_Pearlyn@schools.gov.sg)   <br> 	|
 | Assistant Year Head (Lower Primary) 	| Ms Nuremiliyana Suhaidi<br>[nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg)<br> 	|
+| Assistant Year Head (Middle Primary) 	| Mrs Hazel Boo-Lim Peck Joo<br>[lim\_peck\_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg)<br> 	|
+| Assistant Year Head (Upper Primary) 	| Mdm Norlin Binte Mansor<br>[nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg)<br> 	|
 | Student Well-Being	| Ms Sharon Chan Hui Yu<br>[chan\_hui\_yu\_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg) 	|
 
 
-Last updated : 22/06/2023
+Last updated : 27/09/2023
