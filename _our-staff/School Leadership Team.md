@@ -39,6 +39,7 @@ description: ""
 | Aesthetics | Ms Pan Jingting Alisa <br>[pan\_jingting\_alisa@schools.gov.sg](mailto:pan_jingting_alisa@schools.gov.sg) |
 |    Citizenship Education 	| Mdm Jamaliah Ismail <br>[jamaliah\_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg)    <br> 	|
 |  <br>Character Education 	|  <br>Ms Joey Tan Siew Bing<br>[tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) <br>         	|
+| Physical Education and Co-Curricular Activities | Mr Mohamad Iskandar B Ishak<br>[mohamad\_iskandar\_b\_ishak@schools.gov.sg](mailto:mohamad_iskandar_b_ishak@schools.gov.sg) |
 |  <br>Science 	|  <br>Ms Pearlyn Seow Pei Yi<br>[Seow\_Pei\_Yi\_Pearlyn@schools.gov.sg](mailto:Seow_Pei_Yi_Pearlyn@schools.gov.sg)   <br> 	|
 | Assistant Year Head (Lower Primary) 	| Ms Nuremiliyana Suhaidi<br>[nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg)<br> 	|
 | Assistant Year Head (Middle Primary) 	| Mrs Hazel Boo-Lim Peck Joo<br>[lim\_peck\_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg)<br> 	|
