@@ -38,6 +38,7 @@ description: ""
 | 2 Empathy | Mrs Sujith-Subashini G. | [subashini\_gopalakrishnan@schools.gov.sg](mailto:subashini_gopalakrishnan@schools.gov.sg) |
 | 2 Gratitude | Mdm Nor Afidah Binte Jaafar | [nor\_afidah\_jaafar@schools.gov.sg](mailto:nor_afidah_jaafar@schools.gov.sg) |
 | 2 Gratitude | Ms Tung Bee Geok | [tung\_bee\_geok@schools.gov.sg](mailto:tung_bee_geok@schools.gov.sg) |
+| 2 Gratitude | Mr Xie Meng Hui | [xie\_meng\_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg) |
 | 2 Integrity | Mdm Jamaliah Binte Ismail | [jamaliah\_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg) |
 | 2 Integrity | Mdm Zheng Hongyu | [zheng\_hongyu@schools.gov.sg](mailto:zheng_hongyu@schools.gov.sg) |
 | 2 Resilience | Ms Khalisah Bte Kamisan | [khalisah\_kamisan@schools.gov.sg](mailto:khalisah_kamisan@schools.gov.sg) |
