@@ -13,7 +13,6 @@ https://sites.google.com/moe.edu.sg/sbps/home
 |---|---|
 | LT English Language | Mdm Sharmila Singh<br>[sharmila\_singh@schools.gov.sg](mailto:sharmila_singh@schools.gov.sg)|
 | LT Mathematics | Mdm Shadidah Bte Mokhtar<br>[shadidah\_mokhtar@schools.gov.sg](mailto:shadidah_mokhtar@schools.gov.sg) |
-| ST Mathematics | Ms Shanthini d/o Manoosegaran<br>[shanthini\_manoosegaran@schools.gov.sg](mailto:shanthini_manoosegaran@schools.gov.sg) |
 | ST Science | Mdm Suraya Bte Mohamed Iqbal<br>[suraya\_mohamed\_iqbal@schools.gov.sg](mailto:suraya_mohamed_iqbal@schools.gov.sg) |
 | ST Chinese Language | Mdm Zheng Hongyu<br>[zheng\_hongyu@schools.gov.sg](mailto:zheng_hongyu@schools.gov.sg) |
 | ST Malay Language | Mr Mohd Saidali B Ali<br>[mohd\_saidali\_b\_ali@schools.gov.sg](mailto:mohd_saidali_b_ali@schools.gov.sg) |
