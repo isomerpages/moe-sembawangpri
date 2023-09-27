@@ -11,7 +11,7 @@ https://sites.google.com/moe.edu.sg/sbps/home
 
 |  |  |
 |---|---|
-| Lead Teacher English Language | Mdm Sharmila Singh<br>[sharmila\_singh@schools.gov.sg](mailto:sharmila_singh@schools.gov.sg)|
+| LT English Language | Mdm Sharmila Singh<br>[sharmila\_singh@schools.gov.sg](mailto:sharmila_singh@schools.gov.sg)|
 | ST Mathematics | Mdm Shadidah Bte Mokhtar<br>[shadidah\_mokhtar@schools.gov.sg](mailto:shadidah_mokhtar@schools.gov.sg) |
 | ST Mathematics | Ms Shanthini d/o Manoosegaran<br>[shanthini\_manoosegaran@schools.gov.sg](mailto:shanthini_manoosegaran@schools.gov.sg) |
 | ST Science | Mdm Suraya Bte Mohamed Iqbal<br>[suraya\_mohamed\_iqbal@schools.gov.sg](mailto:suraya_mohamed_iqbal@schools.gov.sg) |
