@@ -16,7 +16,6 @@ description: ""
 
 |  |  |
 |---|---|
-| English Language | Ms Rajasveri D/O Renganathan<br>[rajasveri\_renganathan@schools.gov.sg](mailto:rajasveri_renganathan@schools.gov.sg) |
 | Mathematics | Mrs Phang-Yong Geok Ping Rena<br>[yong\_geok\_ping@schools.gov.sg](mailto:yong_geok_ping@schools.gov.sg) |
 | Science | Mr Ng Wei Da<br>[Ng\_WEI\_DA@schools.gov.sg](mailto:Ng_WEI_DA@schools.gov.sg) |
 | Mother Tongue Languages |  Mr Xie Meng Hui<br>[xie\_meng\_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg) |
