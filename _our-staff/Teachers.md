@@ -18,7 +18,7 @@ description: ""
 | 1 Gratitude | Mdm Michelle Tamarai d/o Joseph | [tamarai\_joseph@schools.gov.sg](mailto:tamarai_joseph@schools.gov.sg) |
 | 1 Gratitude | Mdm Wu Yongyun | [wu\_yongyun@schools.gov.sg](mailto:wu_yongyun@schools.gov.sg) |
 | 1 Integrity | Ms Nurul Syahidah Binte Bahari | [nurul\_syahidah\_bahari@schools.gov.sg](mailto:nurul_syahidah_bahari@schools.gov.sg) |
-| 1 Integrity | Ms Chong Lay Ting Tiffany 	| [chong\_lay\_ting@schools.gov.sg](mailto:chong_lay_ting@schools.gov.sg) 	|
+| 1 Integrity | Ms Jacintha Devi d/o Tamilveeran 	| [jacintha\_devi@schools.gov.sg](mailto:jacintha_devi@schools.gov.sg) 	|
 | 1 Resilience | Ms Noorhuda Amalina Binte Ab Rahman| [Noorhuda\_Amalina\_Ab\_Rahman@schools.gov.sg](mailto: Noorhuda_Amalina_Ab_Rahman@schools.gov.sg) |
 | 1 Resilience | Ms Afiqah Binte Abdul Samad | [afiqah\_binte\_abdul\_samad@schools.gov.sg](mailto:afiqah_binte_abdul_samad@schools.gov.sg) |
 | 1 Respect | Mrs Sundram-R Megala | [r\_megala@schools.gov.sg](mailto:r_megala@schools.gov.sg) |
