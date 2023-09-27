@@ -18,8 +18,8 @@ description: ""
 | 1 Gratitude | Mdm Michelle Tamarai d/o Joseph | [tamarai\_joseph@schools.gov.sg](mailto:tamarai_joseph@schools.gov.sg) |
 | 1 Gratitude | Mdm Wu Yongyun | [wu\_yongyun@schools.gov.sg](mailto:wu_yongyun@schools.gov.sg) |
 | 1 Integrity | Ms Nurul Syahidah Binte Bahari | [nurul\_syahidah\_bahari@schools.gov.sg](mailto:nurul_syahidah_bahari@schools.gov.sg) |
-| 1 Integrity | Ms Chong Lay Ting Tiffany 	| [chong\_lay\_ting@schools.gov.sg](mailto:chong_lay_ting@schools.gov.sg) 	|
-| 1 Resilience | Ms Noorhuda Amalina Binte Ab Rahman| [Noorhuda\_Amalina\_Ab\_Rahman@schools.gov.sg](mailto: Noorhuda_Amalina_Ab_Rahman@schools.gov.sg) |
+| 1 Integrity | Ms Jacintha Devi d/o Tamilveeran 	| [jacintha\_devi@schools.gov.sg](mailto:jacintha_devi@schools.gov.sg) 	|
+| 1 Resilience | Ms Noorhuda Amalina Binte Ab Rahman | [noorhuda\_amalina\_ab\_rahman@schools.gov.sg](mailto: noorhuda_amalina_ab_rahman@schools.gov.sg) |
 | 1 Resilience | Ms Afiqah Binte Abdul Samad | [afiqah\_binte\_abdul\_samad@schools.gov.sg](mailto:afiqah_binte_abdul_samad@schools.gov.sg) |
 | 1 Respect | Mrs Sundram-R Megala | [r\_megala@schools.gov.sg](mailto:r_megala@schools.gov.sg) |
 | 1 Respect | Ms Heow Tsuey Yan | [heow\_tsuey\_yan@schools.gov.sg](mailto:heow_tsuey_yan@schools.gov.sg) |
@@ -38,6 +38,7 @@ description: ""
 | 2 Empathy | Mrs Sujith-Subashini G. | [subashini\_gopalakrishnan@schools.gov.sg](mailto:subashini_gopalakrishnan@schools.gov.sg) |
 | 2 Gratitude | Mdm Nor Afidah Binte Jaafar | [nor\_afidah\_jaafar@schools.gov.sg](mailto:nor_afidah_jaafar@schools.gov.sg) |
 | 2 Gratitude | Ms Tung Bee Geok | [tung\_bee\_geok@schools.gov.sg](mailto:tung_bee_geok@schools.gov.sg) |
+| 2 Gratitude | Mr Xie Meng Hui | [xie\_meng\_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg) |
 | 2 Integrity | Mdm Jamaliah Binte Ismail | [jamaliah\_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg) |
 | 2 Integrity | Mdm Zheng Hongyu | [zheng\_hongyu@schools.gov.sg](mailto:zheng_hongyu@schools.gov.sg) |
 | 2 Resilience | Ms Khalisah Bte Kamisan | [khalisah\_kamisan@schools.gov.sg](mailto:khalisah_kamisan@schools.gov.sg) |
@@ -52,7 +53,6 @@ description: ""
 | **Class** | **Form Teachers** | **Email** |
 | 3 Care | Ms Tan Siew Bing Joey | [tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) |
 | 3 Care | Ms Wang Xinlin | [wang\_xinlin@schools.gov.sg](mailto:wang_xinlin@schools.gov.sg) |
-| 3 Care | Mr Derrick Choy Chong Hing | 
 | 3 Empathy | Ms Mahalakshmi | [mahalakshmi\_panneerselvam@schools.gov.sg](mailto:mahalakshmi_panneerselvam@schools.gov.sg) |
 | 3 Empathy | Ms Long Shi Hui | [long\_shi\_hui@schools.gov.sg](mailto:long_shi_hui@schools.gov.sg) |
 | 3 Gratitude | Mr Mohd Noorkhuzaifah Bin Hishamuddin |[Mohammad\_Noorkhuzaifah\_Hishamuddin@schools.gov.sg](mailto:Mohammad_Noorkhuzaifah_Hishamuddin@schools.gov.sg)
@@ -131,13 +131,12 @@ description: ""
 |  Ms Rajasveri d/o Renganathan 	| [rajasveri\_renganathan@schools.gov.sg](mailto:rajasveri_renganathan@schools.gov.sg) |
 | Mrs Crystal Lee-Cai Wanqin | [cai\_wanqin\_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg) |
 | Mdm Lediana Bte Mohamed Said | [lediana\_mohamed\_said@schools.gov.sg](mailto:lediana_mohamed_said@schools.gov.sg) |
-| Ms Jacintha Devi d/o Tamilveeran | [jacintha\_devi@schools.gov.sg](mailto:jacintha_devi@schools.gov.sg) |
+| Ms Chong Lay Ting Tiffany | [chong\_lay\_ting@schools.gov.sg](mailto:chong_lay_ting@schools.gov.sg) |
 | Ms Jennifer Fong Lai See 	| [fong\_lai\_see@schools.gov.sg](mailto:fong_lai_see@schools.gov.sg) 	|
 | Mrs Cynthia Chong-Lim Mei Poh 	| [lim\_mei\_poh\_cynthia@schools.gov.sg](mailto:lim_mei_poh_cynthia@schools.gov.sg) 	|
 | Ms Farah Syahirah Binte Abdul Wahab 	| [farah\_syahirah\_abdul\_wahab@schools.gov.sg](mailto:farah_syahirah_abdul_wahab@schools.gov.sg) 	|
 | Ms Yeo May Lynn Melissa 	| [yeo\_may\_lynn\_melissa@schools.gov.sg](mailto:yeo_may_lynn_melissa@schools.gov.sg) 	|
 | Mdm Maizatul Husna Binte Ishak 	| [maizatul\_husna\_ishak@moe.edu.sg](mailto:maizatul_husna_ishak@moe.edu.sg) 	|
-| Ms Gabrielle Wan Kexin | [gabrielle\_wan\_kexin@schools.gov.sg](mailto:gabrielle_wan_kexin@schools.gov.sg) |
 | Mdm Chan Bee Bee, May	| 	|
 | Mdm Chionh Siew Chern 	| [chionh\_siew\_chern@moe.edu.sg](mailto:chionh_siew_chern@moe.edu.sg) 	|
 | Mrs Chitra Pillay Chua  	| [chitra\_pillay\_chua@moe.edu.sg](mailto:chitra_pillay_chua@moe.edu.sg) 	|
@@ -146,6 +145,8 @@ description: ""
 | Mdm Oh Keng Hong 	| [Oh\_Keng\_Hong@schools.gov.sg](mailto:Oh_Keng_Hong@schools.gov.sg) 	|
 | Mdm Shamsiah Bte Md Shariff 	| 	|
 | Mdm Jennie Teo 	| 	|
+| Mdm Dahalia Bte Abbas 	| 	|
+| Mdm Wong Mei Fong Shelley	| 	|
 | Mdm Laura Wee 	| [laura\_wee@schools.gov.sg](mailto:laura_wee@schools.gov.sg) 	|
 
-Last updated: 22/06/2023
+Last updated: 27/09/2023
