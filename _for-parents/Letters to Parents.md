@@ -3,7 +3,7 @@ title: Letters to Parents
 permalink: /for-parents/Letters-to-parents/
 description: ""
 ---
-[082023-OpenLetter](/files/open%20letter%20from%20sls_08-2023.pdf)## 2023
+## 2023
 
 | | | |
 |---|---|---|
