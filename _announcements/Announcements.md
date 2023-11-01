@@ -9,7 +9,7 @@ The Caring Teacher Awards (CTA) aims to acknowledge teachers in our schools who 
 
 You can nominate your teachers via the URL link below.
 
-[www.cta.nie.edu.sg](www.cta.nie.edu.sg)
+[www.cta.nie.edu.sg](https://www.cta.nie.edu.sg/)
 
 The closing date of nomination is 12 Jan 2024.
 
