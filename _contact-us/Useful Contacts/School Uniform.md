@@ -3,6 +3,7 @@ title: School Uniform
 permalink: /for-parents/useful-contacts/schooluniform/
 description: ""
 third_nav_title: Useful Contacts
+variant: markdown
 ---
 **School Uniform Vendor - Chop Kong Chong**
 
@@ -23,6 +24,8 @@ third_nav_title: Useful Contacts
 | Time | 2.00p.m. to 4.00p.m. |
 | Payment Mode | Cash and PayNow only |
 
-**Please take note that strictly no trying of  uniform.  Thank you!**
+[Click Here for Uniform Sale Dates](/files/school%20uniforms%20sales%20dates.pdf)
+
+**Please take note that strictly no trying of&nbsp;&nbsp;uniform.&nbsp;&nbsp;Thank you!**
 
 Last updated : 03/01/2023
