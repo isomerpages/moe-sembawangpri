@@ -8,4 +8,4 @@ variant: markdown
 
 Program booklet : [2023 Speech Day Booklet](/files/2023_Speech_Day_Programme_Booklet.pdf)
 
-Last updated : 15/11/2023
+Last updated : 16/11/2023
