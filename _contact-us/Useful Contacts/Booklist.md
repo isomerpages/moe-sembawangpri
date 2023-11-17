@@ -3,13 +3,14 @@ title: Booklist
 permalink: /for-parents/useful-contacts/booklist/
 description: ""
 third_nav_title: Useful Contacts
+variant: markdown
 ---
 **School Bookshop Vendor - Pacific Bookstores Pte Ltd**
 
 | Address:  | Sembawang Primary School |
 |---|---|
 | TEL: | 6482 3423 |
-| Mon to Fri: | Mon to Fri: <br> 8.00 a.m. to 3.00 p.m.<br> <br> Lunch Break and Dismissal Time<br><br> 12.00 noon to 2.00 p.m.<br><br> <br> Parents are advised to avoid Lunch Break & Dismissal Time |
+| Mon to Fri: | Mon to Fri: <br> 8.00 a.m. to 3.00 p.m.<br> <br> Lunch Break and Dismissal Time<br><br> 12.00 noon to 2.00 p.m.<br><br> <br> Parents are advised to avoid Lunch Break &amp; Dismissal Time |
 | Website: | http://www.pacificbookstores.com/ |
 
 **Booklist**
@@ -32,4 +33,4 @@ third_nav_title: Useful Contacts
 
 [SBPS Booklist P6](/files/SBPS%20Booklist%20P6.pdf)
 
-Last updated : 21/11/2022
+Last updated : 17/11/2023
