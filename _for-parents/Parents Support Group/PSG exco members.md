@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Parents Support Group
 ---
 Parents, being key stakeholders, are an important link between the school and our children. In our journey to provide our children with a holistic education, we believe in forging a strong working relationship with parents.
-<img src="/images/PSG.jpeg" style="width:70%">
-
+<!--
+<img style="width:70%" src="/images/PSG.jpeg">
+-->
 The partnership with parents aims to support parents so that are they are able and are empowered to:  
   
 
