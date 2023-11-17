@@ -3,7 +3,7 @@ title: Join Us!
 permalink: /for-parents/parents-support-group/join-us/
 description: ""
 third_nav_title: Parents Support Group
-variant: tiptap
+variant: markdown
 ---
 Hi Parents!
 
