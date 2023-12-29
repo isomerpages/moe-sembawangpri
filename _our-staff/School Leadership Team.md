@@ -2,12 +2,13 @@
 title: School Leadership Team
 permalink: /our-staff/school-leadership-team/
 description: ""
+variant: markdown
 ---
 ### School Leadership Team
 
 |  |  |
 |---|---|
-| **Principal** | Mrs Grace Chua<br>[Grace\_LEE@schools.gov.sg](mailto:Grace_LEE@schools.gov.sg) |
+| **Principal** | Mr Ng Aik Boon<br>[ng\_aik\_boon@schools.gov.sg](mailto:ng_aik_boon@schools.gov.sg) |
 | **Vice-Principal** | Mr Zafilin Bin Abdul Hamid<br>[Zafilin\_Abdul\_Hamid@schools.gov.sg](mailto:Zafilin_Abdul_Hamid@schools.gov.sg) |
 | **Vice-Principal<br>(Administration)** | Mr Shawn Tan<br>[TAN\_Thiam\_Siong@schools.gov.sg](mailto:TAN_Thiam_Siong@schools.gov.sg) |
 
