@@ -1,14 +1,14 @@
 ---
-title: Senior Teacher Team
-permalink: /our-staff/senior-teacher-team/
+title: Teacher Leaders Council
+permalink: /our-staff/teacher-leader-council/
 description: ""
 variant: markdown
 ---
-### Senior Teacher Team
+### Teacher Leaders Council
 
 <p><a href="https://sites.google.com/moe.edu.sg/sbps/home"><img style="width:65%" src="/images/stt1.png"></a></p>
 
-https://sites.google.com/moe.edu.sg/sbps/home
+[https://sites.google.com/moe.edu.sg/sbps/home](https://sites.google.com/moe.edu.sg/sbps/home)
 
 |  |  |
 |---|---|
@@ -17,8 +17,8 @@ https://sites.google.com/moe.edu.sg/sbps/home
 | ST Science | Mdm Suraya Bte Mohamed Iqbal<br>[suraya\_mohamed\_iqbal@schools.gov.sg](mailto:suraya_mohamed_iqbal@schools.gov.sg) |
 | ST Chinese Language | Mdm Zheng Hongyu<br>[zheng\_hongyu@schools.gov.sg](mailto:zheng_hongyu@schools.gov.sg) |
 | ST Malay Language | Mr Mohd Saidali B Ali<br>[mohd\_saidali\_b\_ali@schools.gov.sg](mailto:mohd_saidali_b_ali@schools.gov.sg) |
-| ST Character and Citizenship Education | Mdm Wu Yongyun<br>[wu\_yongyun@schools.gov.sg](mailto:wu_yongyun@schools.gov.sg) |
 | ST Tamil Language | Mrs Sujith-Subashini G.<br>[subashini\_gopalakrishnan@schools.gov.sg](mailto:subashini_gopalakrishnan@schools.gov.sg) |
+| ST Character and Citizenship Education | Mdm Wu Yongyun<br>[wu\_yongyun@schools.gov.sg](mailto:wu_yongyun@schools.gov.sg) |
 |ST Physical Education| Mr Toh Chong Han Kelvin<br>[toh\_chong\_han\_kelvin@schools.gov.sg](mailto:toh_chong_han_kelvin@schools.gov.sg) |
 
 Last updated: 02/01/2024
