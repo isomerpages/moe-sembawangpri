@@ -2,6 +2,7 @@
 title: Senior Teacher Team
 permalink: /our-staff/senior-teacher-team/
 description: ""
+variant: markdown
 ---
 ### Senior Teacher Team
 
@@ -18,5 +19,6 @@ https://sites.google.com/moe.edu.sg/sbps/home
 | ST Malay Language | Mr Mohd Saidali B Ali<br>[mohd\_saidali\_b\_ali@schools.gov.sg](mailto:mohd_saidali_b_ali@schools.gov.sg) |
 | ST Character and Citizenship Education | Mdm Wu Yongyun<br>[wu\_yongyun@schools.gov.sg](mailto:wu_yongyun@schools.gov.sg) |
 | ST Tamil Language | Mrs Sujith-Subashini G.<br>[subashini\_gopalakrishnan@schools.gov.sg](mailto:subashini_gopalakrishnan@schools.gov.sg) |
+|ST Physical Education| Mr Toh Chong Han Kelvin<br>[toh\_chong\_han\_kelvin@schools.gov.sg](mailto:toh_chong_han_kelvin@schools.gov.sg) |
 
-Last updated: 27/09/2023
+Last updated: 02/01/2024
