@@ -19,6 +19,7 @@ variant: markdown
 
 |  |  |
 |---|---|
+| English   	| Mdm Noraida Binte Wagimin <br>[noraida\_wagimin@schools.gov.sg](mailto:noraida_wagimin@schools.gov.sg)   <br> 	|
 | Mathematics | Mrs Phang-Yong Geok Ping Rena<br>[yong\_geok\_ping@schools.gov.sg](mailto:yong_geok_ping@schools.gov.sg) |
 | Science | Mr Ng Wei Da<br>[Ng\_WEI\_DA@schools.gov.sg](mailto:Ng_WEI_DA@schools.gov.sg) |
 | Mother Tongue Languages |  Mr Xie Meng Hui<br>[xie\_meng\_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg) |
@@ -35,18 +36,17 @@ variant: markdown
 
 |  |  |
 |---|---|
-| English   	| Mdm Noraida Binte Wagimin <br>[noraida\_wagimin@schools.gov.sg](mailto:noraida_wagimin@schools.gov.sg)   <br> 	|
 | Mathematics 	| Mrs Crystal Lee-Cai Wan Qin <br>[cai\_wanqin\_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg) <br> 	|
 | Mother Tongue Languages           	| Ms Ganda Sari Binte Chokri <br>[ganda\_sari\_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg)    <br> 	|
 | Aesthetics | Ms Pan Jingting Alisa <br>[pan\_jingting\_alisa@schools.gov.sg](mailto:pan_jingting_alisa@schools.gov.sg) |
-|    Citizenship Education 	| Mdm Jamaliah Ismail <br>[jamaliah\_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg)    <br> 	|
-|  <br>Character Education 	|  <br>Ms Joey Tan Siew Bing<br>[tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) <br>         	|
+| Citizenship Education 	| Mdm Jamaliah Ismail <br>[jamaliah\_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg)    <br> 	|
+| Character Education 	|Ms Joey Tan Siew Bing<br>[tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) <br>         	|
 | Physical Education and Co-Curricular Activities | Mr Mohamad Iskandar B Ishak<br>[mohamad\_iskandar\_b\_ishak@schools.gov.sg](mailto:mohamad_iskandar_b_ishak@schools.gov.sg) |
-|  <br>Science 	|  <br>Ms Pearlyn Seow Pei Yi<br>[Seow\_Pei\_Yi\_Pearlyn@schools.gov.sg](mailto:Seow_Pei_Yi_Pearlyn@schools.gov.sg)   <br> 	|
+|  Science 	|  Ms Pearlyn Seow Pei Yi<br>[Seow\_Pei\_Yi\_Pearlyn@schools.gov.sg](mailto:Seow_Pei_Yi_Pearlyn@schools.gov.sg)   <br> 	|
 | Assistant Year Head (Lower Primary) 	| Ms Nuremiliyana Suhaidi<br>[nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg)<br> 	|
 | Assistant Year Head (Middle Primary) 	| Mrs Hazel Boo-Lim Peck Joo<br>[lim\_peck\_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg)<br> 	|
 | Assistant Year Head (Upper Primary) 	| Mdm Norlin Binte Mansor<br>[norlin\_mansor@schools.gov.sg](mailto:norlin_mansor@schools.gov.sg)<br> 	|
 | Student Well-Being	| Ms Sharon Chan Hui Yu<br>[chan\_hui\_yu\_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg) 	|
 
 
-Last updated : 0
+Last updated : 02/01/2024
