@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Teachers
-aa
+
 #### Primary 1
 | Class | Form Teachers | Email |
 |---|---|---|
@@ -134,4 +134,4 @@ aa
 |Mdm Shamsiah Bte Md Shariff|[](mailto:)|
 
 
-Last updated : 02 January 2024 x
+Last updated : 02 January 2024
