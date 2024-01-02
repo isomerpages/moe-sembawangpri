@@ -5,20 +5,4 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-Chinese Orchestra CCA aspires to groom little musicians who can appreciate and perform vibrant chinese orchestra music as a group. These budding musicians will have opportunities to perform their talent in public.
-
-|  |  |
-|---|---|
-| Schedule | Tuesday, 2.15 p.m – 5.15 p.m. (Sectional Practice)<br>Friday : 2.15 p.m. – 4.15 p.m. (Combined Practice) |
-| Teachers-in-charge | Mdm Wang Xinling<br>Mdm Wu Yongyun <br>Mdm Khadijah Bte Ahmad <br>Mrs Vivien Seah-Zee Chung Lah<br>Mdm Laura Wee |
-|  Venue | Band Room and Music Rooms  |
-
-<img src="/images/cca14.png" style="width:80%">
-
-<div class="bp-youtube">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dCxxlWkXhS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-</div>
-
-Last updated : 27/06/2023
+<p>Chinese Orchestra CCA aspires to groom little musicians who can appreciate and perform vibrant chinese orchestra music as a group. These budding musicians will have opportunities to perform their talent in public.</p><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Schedule</p></td><td rowspan="1" colspan="1"><p>Tuesday, 2.15 p.m – 5.15 p.m. (Sectional Practice)<br>Friday : 2.15 p.m. – 4.15 p.m. (Combined Practice)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Teachers-in-charge</p></td><td rowspan="1" colspan="1"><p>Mdm Wang Xinling</p><p>Mdm Khadijah Bte Ahmad</p><p>Mdm Wu Yongyun</p><p>Mrs Vivien Seah-Zee Chung Lah</p><p>Mdm Lillian Tan Li Noi</p></td></tr><tr><td rowspan="1" colspan="1"><p>Venue</p></td><td rowspan="1" colspan="1"><p>Band Room and Music Rooms</p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width:80%" height="auto" width="100%" src="/images/cca14.png"></div><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dCxxlWkXhS0"></iframe></div><p>Last updated : 02/01/2024</p>
