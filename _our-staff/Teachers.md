@@ -5,10 +5,11 @@ description: ""
 variant: markdown
 ---
 ### Teachers
+
 #### Primary 1
-|  |  |  |
+
+| Class | Form Teachers | Email |
 |---|---|---|
-| **Class** | **Form Teachers** | **Email** |
 |1 Care|Mdm Nur Syafiqah Binte Eddie Yusof|[nur_syafiqah_eddie_yusof@schools.gov.sg](mailto:nur_syafiqah_eddie_yusof@schools.gov.sg)|
 |1 Care|Mdm Lillian Tan Li Noi|[tan_li_noi_lillian@schools.gov.sg](mailto:tan_li_noi_lillian@schools.gov.sg)|
 |1 Empathy|Mdm Jamaliah Binte Ismail|[jamaliah_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg)|
@@ -23,10 +24,11 @@ variant: markdown
 |1 Respect|Mr Tay Eng Wee Mike|[tay_eng_wee@schools.gov.sg](mailto:tay_eng_wee@schools.gov.sg)|
 |1 Responsibility|Mdm Siti Fatihah Bte Yazid Khan S Surattee|[siti_fatihah_yazid_khan@schools.gov.sg](mailto:siti_fatihah_yazid_khan@schools.gov.sg)|
 |1 Responsibility|Ms M Buvaneswari|[m_buvaneswari@schools.gov.sg](mailto:m_buvaneswari@schools.gov.sg)|
+
 #### Primary 2
-|  |  |  |
+
+| Class | Form Teachers | Email |
 |---|---|---|
-| **Class** | **Form Teachers** | **Email** |
 |2 Care|Ms Nuremiliyana Suhaidi|[nuremiliyana_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg)|
 |2 Care|Ms Ong Jia Hui|[ong_jia_hui_a@schools.gov.sg](mailto:ong_jia_hui_a@schools.gov.sg)|
 |2 Empathy|Mdm Tan Lee Kiang Diane|[tan_lee_kiang_a@schools.gov.sg](mailto:tan_lee_kiang_a@schools.gov.sg)|
@@ -41,10 +43,11 @@ variant: markdown
 |2 Respect|Ms Lee Weiqin|[lee_weiqin@schools.gov.sg](mailto:lee_weiqin@schools.gov.sg)|
 |2 Responsibility|Ms Nur Qistina Binte Abdul Wahid|[nur_qistina_abdul_wahid@schools.gov.sg](mailto:nur_qistina_abdul_wahid@schools.gov.sg)|
 |2 Responsibility|Mr Adrian Chong Yew Chin|[chong_yew_chin_adrian@schools.gov.sg](mailto:chong_yew_chin_adrian@schools.gov.sg)|
+
 #### Primary 3
-|  |  |  |
+
+| Class | Form Teachers | Email |
 |---|---|---|
-| **Class** | **Form Teachers** | **Email** |
 |3 Care|Mr Lee Meng Chee, Alvin|[lee_meng_chee_alvin@schools.gov.sg](mailto:lee_meng_chee_alvin@schools.gov.sg)|
 |3 Care|Mdm Liu Hongyan|[liu_hongyan@schools.gov.sg](mailto:liu_hongyan@schools.gov.sg)|
 |3 Care|Mdm Koh Lee Seng (Mrs Ang)|[koh_lee_seng@schools.gov.sg](mailto:koh_lee_seng@schools.gov.sg)|
@@ -56,10 +59,11 @@ variant: markdown
 |3 Integrity|Ms Tung Bee Geok|[tung_bee_geok@schools.gov.sg](mailto:tung_bee_geok@schools.gov.sg)|
 |3 Resilience|Mr Andi Fatahillah|[andi_fatahillah@schools.gov.sg](mailto:andi_fatahillah@schools.gov.sg)|
 |3 Resilience|Ms Kong Jia Yee|[kong_jia_yee@schools.gov.sg](mailto:kong_jia_yee@schools.gov.sg)|
+
 #### Primary 4
-|  |  |  |
+
+| Class | Form Teachers | Email |
 |---|---|---|
-| **Class** | **Form Teachers** | **Email** |
 |4 Care|Ms Tan Siew Bing Joey|[tan_siew_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg)|
 |4 Care|Ms Wang Xinlin|[wang_xinlin@schools.gov.sg](mailto:wang_xinlin@schools.gov.sg)|
 |4 Empathy|Ms Mahalakshmi |[mahalakshmi_panneerselvam@schools.gov.sg](mailto:mahalakshmi_panneerselvam@schools.gov.sg)|
@@ -70,10 +74,11 @@ variant: markdown
 |4 Integrity|Ms Carine Oh Chew Hoon|[carine_oh_chew_hoon@schools.gov.sg](mailto:carine_oh_chew_hoon@schools.gov.sg)|
 |4 Resilience|Ms Tan Yi Xuan|[tan_yi_xuan@schools.gov.sg](mailto:tan_yi_xuan@schools.gov.sg)|
 |4 Resilience|Mr Tan Zuo Hou|[tan_zuo_hou@schools.gov.sg](mailto:tan_zuo_hou@schools.gov.sg)|
+
 #### Primary 5
-|  |  |  |
+
+| Class | Form Teachers | Email |
 |---|---|---|
-| **Class** | **Form Teachers** | **Email** |
 |5 Care|Mdm Suraya Bte Mohamed Iqbal  |[suraya_mohamed_iqbal@schools.gov.sg](mailto:suraya_mohamed_iqbal@schools.gov.sg)|
 |5 Care|Ms Heow Tsuey Yan|[heow_tsuey_yan@schools.gov.sg](mailto:heow_tsuey_yan@schools.gov.sg)|
 |5 Care|Mr Choo Kian Guan Ryan|[choo_kian_guan@schools.gov.sg](mailto:choo_kian_guan@schools.gov.sg)|
@@ -88,10 +93,11 @@ variant: markdown
 |5 Resilience|Mrs Rena Phang-Yong Geok Ping|[yong_geok_ping@schools.gov.sg](mailto:yong_geok_ping@schools.gov.sg)|
 |5 Respect|Mdm Amy Ang Lay Hon|[amy_ang_lay_hon@schools.gov.sg](mailto:amy_ang_lay_hon@schools.gov.sg)|
 |5 Respect|Mr Mohammad Haslam Rahmat|[mohd_haslam@schools.gov.sg](mailto:mohd_haslam@schools.gov.sg)|
+
 #### Primary 6
-|  |  |  |
+
+| Class | Form Teachers | Email |
 |---|---|---|
-| **Class** | **Form Teachers** | **Email** |
 |6 Care|Mrs Vivien Seah-Zee Chung Lah|[zee_chung_lah@schools.gov.sg](mailto:zee_chung_lah@schools.gov.sg)|
 |6 Care|Mr Xie Meng Hui|[xie_meng_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg)|
 |6 Empathy|Mr Lim Teck Huat|[lim_teck_huat_a@schools.gov.sg](mailto:lim_teck_huat_a@schools.gov.sg)|
@@ -108,7 +114,9 @@ variant: markdown
 |6 Responsibility|Mdm Sharmila Singh|[sharmila_singh@schools.gov.sg](mailto:sharmila_singh@schools.gov.sg)|
 |6 Responsibility|Mr Ng Wei Da|[ng_wei_da@schools.gov.sg](mailto:ng_wei_da@schools.gov.sg)|
 |6 Responsibility|Mdm Dahalia Bte Abbas|[Dahalia_Abbas_A@schools.gov.sg](mailto:Dahalia_Abbas_A@schools.gov.sg)|
+
 #### Other Teaching Staff
+
 | Teacher   | Email     |
 |---|---|
 |Mr Chia Chin Ooi Calvin|[chia_chin_ooi_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg)|

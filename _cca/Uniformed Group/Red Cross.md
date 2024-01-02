@@ -1,28 +1,8 @@
 ---
 title: Red Cross
-permalink: /cca/Uniformed-Group/redcross/
+permalink: /cca/uniformed-group/red-cross/
 description: ""
 third_nav_title: Uniformed Group
+variant: tiptap
 ---
-### Red Cross
-
-Red Cross CCA aspires to groom little humanitarians who have big hearts and never find it a chore to help others. Through training, our little humanitarians will be equipped with basic first aid skills and knowledge to let them carry out their life mission.
-
-|  |  |
-|---|---|
-| Time | <br>Fridays, 2.15 p.m - 4.15 p.m. |
-| Teachers-in-charge | Ms Nursahila Bte Roszelan<br>Ms Ruhaida Bte Hashim <br>Mrs Prakash-Malarvizhi R.|
-| Venue <br> | Science Rooms &amp; Level 1 Classrooms |
-
-<img src="/images/cca29.png" style="width:70%">
-		 
-**Other photos**
-<img src="/images/cca30.png" style="width:65%">
-
-<div class="bp-youtube">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AlEF0oLrgHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-</div>
-
-Last updated: 27/06/2023
+<h3>Red Cross</h3><p>Red Cross CCA aspires to groom little humanitarians who have big hearts and never find it a chore to help others. Through training, our little humanitarians will be equipped with basic first aid skills and knowledge to let them carry out their life mission.</p><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Time</p></td><td rowspan="1" colspan="1"><p><br>Fridays, 2.15 p.m - 4.15 p.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Teachers-in-charge</p></td><td rowspan="1" colspan="1"><p>Ms Nursahila Bte Roszelan<br>Ms Ruhaida Bte Hashim <br>Mrs Prakash-Malarvizhi R.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Venue <br></p></td><td rowspan="1" colspan="1"><p>Science Rooms &amp; Level 1 Classrooms</p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width:70%" height="auto" width="100%" src="/images/cca29.png"></div><p><strong>Other photos</strong></p><div class="isomer-image-wrapper"><img style="width:65%" height="auto" width="100%" src="/images/cca30.png"></div><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AlEF0oLrgHw"></iframe></div><p>Last updated: 02/01/2024</p>
