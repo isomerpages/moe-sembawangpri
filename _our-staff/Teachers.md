@@ -13,7 +13,7 @@ variant: markdown
 |1 Care|Mdm Nur Syafiqah Binte Eddie Yusof|[nur_syafiqah_eddie_yusof@schools.gov.sg](mailto:nur_syafiqah_eddie_yusof@schools.gov.sg)|
 |1 Care|Mdm Lillian Tan Li Noi|[tan_li_noi_lillian@schools.gov.sg](mailto:tan_li_noi_lillian@schools.gov.sg)|
 |1 Empathy|Mdm Jamaliah Binte Ismail|[jamaliah_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg)|
-|1 Empathy|Mdm Chionh Siew Chern|[chionh_siew_chern@moe.edu.sg](mailto:chionh_siew_chern@moe.edu.sg)|
+|1 Empathy|Mdm Chionh Siew Chern|[chionh_siew_chern@schools.edu.sg](mailto:chionh_siew_chern@schools.edu.sg)|
 |1 Gratitude|Mr Kelvin Toh Chong Han|[toh_chong_han_kelvin@schools.gov.sg](mailto:toh_chong_han_kelvin@schools.gov.sg)|
 |1 Gratitude|Mdm Insyirah Binti Mohamad Ali|[insyirah_mohamad_ali@schools.gov.sg](mailto:insyirah_mohamad_ali@schools.gov.sg)|
 |1 Integrity|Ms Khalisah Bte Kamisan|[khalisah_kamisan@schools.gov.sg](mailto:khalisah_kamisan@schools.gov.sg)|
@@ -128,12 +128,6 @@ variant: markdown
 |Mr Yang Binglin |[yang_binglin@schools.gov.sg](mailto:yang_binglin@schools.gov.sg)|
 |Mdm Lediana Bte Mohamed Said|[lediana_mohamed_said@schools.gov.sg](mailto:lediana_mohamed_said@schools.gov.sg)|
 |Mr Cheah Boon Teck Janssen|[cheah_boon_teck_janssen@schools.gov.sg](mailto:cheah_boon_teck_janssen@schools.gov.sg)|
-|Ms Fong Lai See Jennifer|[fong_lai_see@schools.gov.sg](mailto:fong_lai_see@schools.gov.sg)|
-|Mrs Cynthia Chong-Lim Mei Poh|[lim_mei_poh_cynthia@schools.gov.sg](mailto:lim_mei_poh_cynthia@schools.gov.sg)|
-|Ms Farah Syahirah Binte Abdul Wahab|[farah_syahirah_abdul_wahab@schools.gov.sg](mailto:farah_syahirah_abdul_wahab@schools.gov.sg)|
-|Ms Yeo May Lynn Melissa|[yeo_may_lynn_melissa@schools.gov.sg](mailto:yeo_may_lynn_melissa@schools.gov.sg)|
-|Ms Maizatul Husna Binte Ishak|[maizatul_husna_ishak@moe.edu.sg](mailto:maizatul_husna_ishak@moe.edu.sg)|
-|Ms Munira Binte Mohammad Rawi|[Munira_MOHAMMAD_RAWI@moe.gov.sg](mailto:Munira_MOHAMMAD_RAWI@moe.gov.sg)|
 |Mdm Chan Bee Bee, May|[](mailto:)|
 |Mdm Chin Shu Fei|[](mailto:)|
 |Mr Lim Sok Kung (Jackie)|[](mailto:)|
