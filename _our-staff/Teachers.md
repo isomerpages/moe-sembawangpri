@@ -5,7 +5,9 @@ description: ""
 variant: markdown
 ---
 ### Teachers
+
 #### Primary 1
+
 |  |  |  |
 |---|---|---|
 | **Class** | **Form Teachers** | **Email** |
@@ -23,6 +25,7 @@ variant: markdown
 |1 Respect|Mr Tay Eng Wee Mike|[tay_eng_wee@schools.gov.sg](mailto:tay_eng_wee@schools.gov.sg)|
 |1 Responsibility|Mdm Siti Fatihah Bte Yazid Khan S Surattee|[siti_fatihah_yazid_khan@schools.gov.sg](mailto:siti_fatihah_yazid_khan@schools.gov.sg)|
 |1 Responsibility|Ms M Buvaneswari|[m_buvaneswari@schools.gov.sg](mailto:m_buvaneswari@schools.gov.sg)|
+
 #### Primary 2
 |  |  |  |
 |---|---|---|
@@ -41,6 +44,7 @@ variant: markdown
 |2 Respect|Ms Lee Weiqin|[lee_weiqin@schools.gov.sg](mailto:lee_weiqin@schools.gov.sg)|
 |2 Responsibility|Ms Nur Qistina Binte Abdul Wahid|[nur_qistina_abdul_wahid@schools.gov.sg](mailto:nur_qistina_abdul_wahid@schools.gov.sg)|
 |2 Responsibility|Mr Adrian Chong Yew Chin|[chong_yew_chin_adrian@schools.gov.sg](mailto:chong_yew_chin_adrian@schools.gov.sg)|
+
 #### Primary 3
 |  |  |  |
 |---|---|---|
@@ -56,6 +60,7 @@ variant: markdown
 |3 Integrity|Ms Tung Bee Geok|[tung_bee_geok@schools.gov.sg](mailto:tung_bee_geok@schools.gov.sg)|
 |3 Resilience|Mr Andi Fatahillah|[andi_fatahillah@schools.gov.sg](mailto:andi_fatahillah@schools.gov.sg)|
 |3 Resilience|Ms Kong Jia Yee|[kong_jia_yee@schools.gov.sg](mailto:kong_jia_yee@schools.gov.sg)|
+
 #### Primary 4
 |  |  |  |
 |---|---|---|
@@ -70,6 +75,7 @@ variant: markdown
 |4 Integrity|Ms Carine Oh Chew Hoon|[carine_oh_chew_hoon@schools.gov.sg](mailto:carine_oh_chew_hoon@schools.gov.sg)|
 |4 Resilience|Ms Tan Yi Xuan|[tan_yi_xuan@schools.gov.sg](mailto:tan_yi_xuan@schools.gov.sg)|
 |4 Resilience|Mr Tan Zuo Hou|[tan_zuo_hou@schools.gov.sg](mailto:tan_zuo_hou@schools.gov.sg)|
+
 #### Primary 5
 |  |  |  |
 |---|---|---|
@@ -88,6 +94,7 @@ variant: markdown
 |5 Resilience|Mrs Rena Phang-Yong Geok Ping|[yong_geok_ping@schools.gov.sg](mailto:yong_geok_ping@schools.gov.sg)|
 |5 Respect|Mdm Amy Ang Lay Hon|[amy_ang_lay_hon@schools.gov.sg](mailto:amy_ang_lay_hon@schools.gov.sg)|
 |5 Respect|Mr Mohammad Haslam Rahmat|[mohd_haslam@schools.gov.sg](mailto:mohd_haslam@schools.gov.sg)|
+
 #### Primary 6
 |  |  |  |
 |---|---|---|
@@ -108,6 +115,7 @@ variant: markdown
 |6 Responsibility|Mdm Sharmila Singh|[sharmila_singh@schools.gov.sg](mailto:sharmila_singh@schools.gov.sg)|
 |6 Responsibility|Mr Ng Wei Da|[ng_wei_da@schools.gov.sg](mailto:ng_wei_da@schools.gov.sg)|
 |6 Responsibility|Mdm Dahalia Bte Abbas|[Dahalia_Abbas_A@schools.gov.sg](mailto:Dahalia_Abbas_A@schools.gov.sg)|
+
 #### Other Teaching Staff
 | Teacher   | Email     |
 |---|---|
