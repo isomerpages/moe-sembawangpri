@@ -24,4 +24,4 @@ variant: markdown
 | **Science Laboratory Assistant** | Mdm Janet Ang Bee Leng<br>[ang\_bee\_leng@schools.gov.sg](mailto:ang_bee_leng@schools.gov.sg) |
 | **Gardener** | Mr Lim Keng Leong  |
 
-Last updated: 28/01/2022
+Last updated: 03/01/2024
