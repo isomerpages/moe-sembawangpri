@@ -2,6 +2,7 @@
 title: Admin & Support Staff
 permalink: /our-staff/adminandsupportteam/
 description: ""
+variant: markdown
 ---
 ### Admin &amp; Support Staff
 
@@ -16,11 +17,11 @@ description: ""
 | **Operations Support Officers** | Mdm Lim Bee Nak<br>Mdm Ang Lay Eng<br>Mdm Ang Soo Ching<br>Mdm Norliza Bte Bahari<br>Mdm Norizah Binte Selamat |
 | **<br>Librarian** | Mdm Normala Binte Amir<br>[normala.amir@staff.spydus.com.sg](mailto:normala.amir@staff.spydus.com.sg)   |
 | **<br>School Counsellor** | Ms Jennifer Fong Lai See<br>[fong\_lai\_see@schools.gov.sg](mailto:fong_lai_see@schools.gov.sg)  |
-| **Allied Educators (Learning and Behavioural Support)** | Ms Farah Syahirah Bte Abdul Wahab <br>[farah\_syahirah\_abdul\_wahab@schools.gov.sg](mailto:farah_syahirah_abdul_wahab@moe.edu.sg)<br><br>Mrs Cynthia Chong <br>[lim\_mei\_poh\_cynthia@schools.gov.sg](mailto:lim_mei_poh_cynthia@schools.gov.sg)<br> <br>Ms Yeo May Lynn Melissa<br>[yeo\_may\_lynn\_melissa@schools.gov.sg](mailto:yeo_may_lynn_melissa@schools.gov.sg)<br> <br>Ms Maizatul Husna Binte Ishak<br>[maizatul\_husna\_ishak@moe.edu.sg](mailto:maizatul_husna_ishak@moe.edu.sg) |
+| **Special Educational Needs Officer** | Ms Farah Syahirah Bte Abdul Wahab <br>[farah\_syahirah\_abdul\_wahab@schools.gov.sg](mailto:farah_syahirah_abdul_wahab@moe.edu.sg)<br><br>Mrs Cynthia Chong <br>[lim\_mei\_poh\_cynthia@schools.gov.sg](mailto:lim_mei_poh_cynthia@schools.gov.sg)<br> <br>Ms Yeo May Lynn Melissa<br>[yeo\_may\_lynn\_melissa@schools.gov.sg](mailto:yeo_may_lynn_melissa@schools.gov.sg)<br> <br>Ms Maizatul Husna Binte Ishak<br>[maizatul\_husna\_ishak@moe.edu.sg](mailto:maizatul_husna_ishak@moe.edu.sg) |
 | **Desktop Engineers** | Ms Nurul Jannah<br>[nurul.jannah.bm@ncs.com.sg](mailto:nurul.jannah.bm@ncs.com.sg)<br><br>Ms Chua Xin Yi, Jolyn<br>[chua.xin.yi.jolyn@ncs.com.sg](mailto:chua.xin.yi.jolyn@ncs.com.sg)<br>          |
 | **Dental Nurse** | Mdm Lin Liang Chen<br><!--[nurarianah\_armaya@sch.hpb.gov.sg](mailto:nurarianah_armaya@sch.hpb.gov.sg)--> |
 | **Administrative Assistant** | Ms Surastri Bte Katimin<br>[surastri\_katimin@schools.gov.sg](mailto:surastri_katimin@schools.gov.sg) |
-| **Science Laboratory Assistant** | Mdm Janet Ang Bee Leng<br>[ang\_bee\_leng@schools.gov.sg](mailto:ang_bee_leng@schools.gov.sg) |
+| **Science Laboratory Assistant** | Mdm Manisah Binte Zainal<br> |
 | **Gardener** | Mr Lim Keng Leong  |
 
-Last updated: 28/01/2022
+Last updated: 03/01/2024
