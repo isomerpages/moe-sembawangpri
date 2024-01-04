@@ -21,7 +21,7 @@ variant: markdown
 | **Desktop Engineers** | Ms Nurul Jannah<br>[nurul.jannah.bm@ncs.com.sg](mailto:nurul.jannah.bm@ncs.com.sg)<br><br>Ms Chua Xin Yi, Jolyn<br>[chua.xin.yi.jolyn@ncs.com.sg](mailto:chua.xin.yi.jolyn@ncs.com.sg)<br>          |
 | **Dental Nurse** | Mdm Lin Liang Chen<br><!--[nurarianah\_armaya@sch.hpb.gov.sg](mailto:nurarianah_armaya@sch.hpb.gov.sg)--> |
 | **Administrative Assistant** | Ms Surastri Bte Katimin<br>[surastri\_katimin@schools.gov.sg](mailto:surastri_katimin@schools.gov.sg) |
-| **Science Laboratory Assistant** | Mdm Janet Ang Bee Leng<br>[ang\_bee\_leng@schools.gov.sg](mailto:ang_bee_leng@schools.gov.sg) |
+| **Science Laboratory Assistant** | Mdm Manisah Binte Zainal<br> |
 | **Gardener** | Mr Lim Keng Leong  |
 
 Last updated: 03/01/2024
