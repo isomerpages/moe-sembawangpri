@@ -13,7 +13,7 @@ variant: markdown
 |1 Care|Mdm Nur Syafiqah Binte Eddie Yusof|[nur_syafiqah_eddie_yusof@schools.gov.sg](mailto:nur_syafiqah_eddie_yusof@schools.gov.sg)|
 |1 Care|Mdm Lillian Tan Li Noi|[tan_li_noi_lillian@schools.gov.sg](mailto:tan_li_noi_lillian@schools.gov.sg)|
 |1 Empathy|Mdm Jamaliah Binte Ismail|[jamaliah_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg)|
-|1 Empathy|Mdm Chionh Siew Chern|[chionh_siew_chern@schools.edu.sg](mailto:chionh_siew_chern@schools.edu.sg)|
+|1 Empathy|Mdm Chionh Siew Chern|[chionh_siew_chern@schools.gov.sg](mailto:chionh_siew_chern@schools.gov.sg)|
 |1 Gratitude|Mr Kelvin Toh Chong Han|[toh_chong_han_kelvin@schools.gov.sg](mailto:toh_chong_han_kelvin@schools.gov.sg)|
 |1 Gratitude|Mdm Insyirah Binti Mohamad Ali|[insyirah_mohamad_ali@schools.gov.sg](mailto:insyirah_mohamad_ali@schools.gov.sg)|
 |1 Integrity|Ms Khalisah Bte Kamisan|[khalisah_kamisan@schools.gov.sg](mailto:khalisah_kamisan@schools.gov.sg)|
@@ -106,7 +106,7 @@ variant: markdown
 |6 Gratitude|Mdm Norlin Binte Mansor|[norlin_mansor@schools.gov.sg](mailto:norlin_mansor@schools.gov.sg)|
 |6 Integrity|Mr Lim Jeen Perng|[lim_jeen_perng@schools.gov.sg](mailto:lim_jeen_perng@schools.gov.sg)|
 |6 Integrity|Mdm Shadidah Bte Mokhtar|[shadidah_mokhtar@schools.gov.sg](mailto:shadidah_mokhtar@schools.gov.sg)|
-|6 Integrity|Ms Chitra Pillay Chua|[chitra_pillay_chua@moe.edu.sg](mailto:chitra_pillay_chua@moe.edu.sg)|
+|6 Integrity|Ms Chitra Pillay Chua|[Chitra_Pillay_Chua@schools.gov.sg](mailto:Chitra_Pillay_Chua@schools.gov.sg)|
 |6 Resilience|Ms Ruhaida Bte Hashim|[ruhaida_hashim@schools.gov.sg](mailto:ruhaida_hashim@schools.gov.sg)|
 |6 Resilience|Ms Lian Wei Qi, Jenell|[lian_wei_qi_jenell@schools.gov.sg](mailto:lian_wei_qi_jenell@schools.gov.sg)|
 |6 Respect|Ms Chan Hui Yu Sharon|[chan_hui_yu_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg)|
@@ -135,4 +135,4 @@ variant: markdown
 |Mdm Shamsiah Bte Md Shariff|[](mailto:)|
 
 
-Last updated : 02 January 2024
+Last updated : 03 January 2024
