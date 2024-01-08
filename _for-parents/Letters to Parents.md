@@ -2,7 +2,15 @@
 title: Letters to Parents
 permalink: /for-parents/Letters-to-parents/
 description: ""
+variant: markdown
 ---
+## 2024
+
+| | | |
+|---|---|---|
+| Reference No. | Date | Title |
+| [SBPS/24/001](/files/Open_Letter_from_SLs_01_2024.pdf)| 4 January 2024 | Open Letter from School Leaders
+
 ## 2023
 
 | | | |
@@ -18,4 +26,4 @@ description: ""
 | [SBPS/23/008](/files/open%20letter%20from%20sls_08-2023.pdf)| 26 October 2023 | Open Letter from School Leaders |
 
 
-Last updated: 26/10/2023
+Last updated: 05/01/2024
