@@ -3,6 +3,7 @@ title: Science Club
 permalink: /cca/Clubs-and-Societies/scienceclub/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### Science Club
 
@@ -10,7 +11,7 @@ Science and Green Club aspires to groom budding scientists who are curious and h
 
 |  |  |
 |---|---|
-| Time | <br>2.15 p.m - 4.15 p.m. |
+| Time | 2.15 p.m - 4.15 p.m. |
 |  Teachers-in-charge |<br>Ms Long Shi Hui<br> Ms Pearlyn Seow Pei Yi <br>Mr Zhao Zhiyang<br> |
 | Venue <br> | Science Rooms &amp; Level 1 Classrooms |
 
