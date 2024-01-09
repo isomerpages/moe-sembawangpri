@@ -28,6 +28,7 @@ The prefects take part in the following milestone programs:
 | Positive Minutes | All prefects | Prefects are provided with the opportunity to advocate and make a positive difference to the school community via the Positive Minutes platform - short sharing sessions conducted in the mornings before lesson begins.<br><br>Coached by teachers, prefects share key messages to the school population that promote positive school culture and create awareness to others. |
 | Head Prefect Campaign | Selected P6s | Selected prefects go through a selection panel to identify 3 candidates to run for the Head Prefect campaign. These Head Prefect candidates develop greater leadership skills such as critical thinking, communication and problem-solving skills as they prepare their campaign manifesto and materials under the guidance of teachers. These selected Prefects demonstrate outstanding leadership and personal qualities and were nominated by their peers, supported by teachers.<br>Prefects who did not get selected at the panel will form the executive committee (EXCO) consisting of the following roles. |
 
-
+![](/images/pb1.png)
+![](/images/pb2.png)
 
 Last updated: 25/04/2022
