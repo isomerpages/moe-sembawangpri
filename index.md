@@ -14,5 +14,5 @@ sections:
           url: /announcements
         - title: Quick Links
           description: ""
-          url: /quick-links/general
+          url: /quick-links/for-students
 ---
