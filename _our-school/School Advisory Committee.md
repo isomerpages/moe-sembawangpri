@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-school/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 ### School Advisory Committee
 
@@ -13,15 +14,19 @@ School Advisory Committee (SAC):
 
 | Chairman |
 |:---:|
-| Mr Bhupinder Singh |
+| Mr Prem Methani |
+
+| Vice-Chairman |
+|:---:|
+| Mr Thinesh Rajan |
 
 | Honorary Secretary |
 |:---:|
-| Mrs Grace Chua |
+| Mr Ng Aik Boon |
 
 | Members |
 |:---:|
-| Mr Prem Methani<br>Mr Poopal Rajan Thinesh Rajan<br>Mr Peter Chew Choon Hai<br>Mr Sean Ang Kang Lin |
+| Mr Peter Chew Choon Hai<br>Mr Sean Ang Kang Lin<br>Mr Mohammad Herman Bin Hood<br>Capt Prathap Govindan Raghavan |
 
 In 2006 the SAC instituted two new awards namely 'SAC Book Prize' and 'SAC Gold Medal'. The introduction of these two SAC awards is to recognize and reward outstanding pupils in the academic and non-academic areas.
  
