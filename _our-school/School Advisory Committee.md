@@ -26,7 +26,9 @@ School Advisory Committee (SAC):
 
 | Members |
 |:---:|
-| Mr Peter Chew Choon Hai<br>Mr Sean Ang Kang Lin<br>Mr Mohammad Herman Bin Hood<br>Capt Prathap Govindan Raghavan |
+| Mr Peter Chew Choon Hai<br> Mr Sean Ang Kang Lin <br> Mr Mohammad Herman Bin Hood <br> Capt Prathap Govindan Raghavan
+|
+
 
 In 2006 the SAC instituted two new awards namely 'SAC Book Prize' and 'SAC Gold Medal'. The introduction of these two SAC awards is to recognize and reward outstanding pupils in the academic and non-academic areas.
  
