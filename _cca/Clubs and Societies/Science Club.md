@@ -3,46 +3,6 @@ title: Science Club
 permalink: /cca/Clubs-and-Societies/scienceclub/
 description: ""
 third_nav_title: Clubs and Societies
-variant: markdown
+variant: tiptap
 ---
-### Science Club
-
-Science and Green Club aspires to groom budding scientists who are curious and have an insatiable thirst to learn. Our young scientists will learn more about the world around us and have opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry.
-
-|  |  |
-|---|---|
-| Time | 2.15 p.m - 4.15 p.m. |
-|  Teachers-in-charge |<br>Ms Long Shi Hui<br> Ms Pearlyn Seow Pei Yi <br>Mr Zhao Zhiyang<br> |
-| Venue <br> | Science Rooms &amp; Level 1 Classrooms |
-
-![](/images/2023%20science%20club%20schedule%202.PNG)
-
-**Other photos**
-
-<img src="/images/sci1-2023.jpg" style="width:100%">Learning journey to Gardens By The Bay
-										 
-<img src="/images/sci2-2023.jpg" style="width:90%">Exploring and discovering various bird and butterfly species in our school as part of the *Every Singaporean A Naturalist* (ESN) programme (Nature Society Singapore; NSS)
-
-<img src="/images/sci3-2023.jpg" style="width:90%">Congratulations to our Novice Naturalists (Birds) who were 
-awarded under the NSS ESN Skills Achievement Programme!
-
-![](/images/2023%20science%20club%20update%201.jpg)![](/images/2023%20science%20club%20update%202.jpg)
-
-
-Congratulations to our teams for their outstanding performance at the NSS ESN 2nd Biodiversity Race 2023!
-We are thrilled to announce their well-deserved awards:<br><br>
-2nd Place: Most Unique Observation<br>
-3rd Place: Best Photographed Observation<br>
-3rd Place: Highest Number of Species with Research-grade Observations
-
-<img src="/images/sci4-2023.jpg" style="width:90%">Urban Farming Experience at Nature’s International Commodity (Tampines)
-
-<img src="/images/sci5-2023.jpg" style="width:100%">Learning more about local marine organisms through an enriching talk conducted by National Parks Board (Coastal and Marine Branch, National Biodiversity Centre)
-
-![](/images/2023%20science%20club%20update%203.jpg)
-
-Congratulations to our team for their remarkable performance at the 21st Elementz Science Project Competition! <br><br>
-We are proud to announce that they have secured the prestigious Bronze Award.
-
-
-Last updated : 17/10/2023
+<h3>Science Club</h3><p>Science and Green Club aspires to groom budding scientists who are curious and have an insatiable thirst to learn. Our young scientists will learn more about the world around us and have opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry.</p><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Time</p></td><td rowspan="1" colspan="1"><p>2.15 p.m - 4.15 p.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Teachers-in-charge</p></td><td rowspan="1" colspan="1"><p>Ms Chan Hui Yu Sharon<br>Ms Long Shi Hui<br>Mr Zhao Zhiyang<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Venue <br></p></td><td rowspan="1" colspan="1"><p>Science Rooms &amp; Level 1 Classrooms</p></td></tr></tbody></table><p></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_sem_1_CCA_schedule_Science_Club.png"></div><p><strong>Other photos</strong></p><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/sci1-2023.jpg"></div><p>Learning journey to Gardens By The Bay</p><div class="isomer-image-wrapper"><img style="width:90%" height="auto" width="100%" src="/images/sci2-2023.jpg"></div><p>Exploring and discovering various bird and butterfly species in our school as part of the <em>Every Singaporean A Naturalist</em> (ESN) programme (Nature Society Singapore; NSS)</p><div class="isomer-image-wrapper"><img style="width:90%" height="auto" width="100%" src="/images/sci3-2023.jpg"></div><p>Congratulations to our Novice Naturalists (Birds) who were awarded under the NSS ESN Skills Achievement Programme!</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%201.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%202.jpg"></div><p>Congratulations to our teams for their outstanding performance at the NSS ESN 2nd Biodiversity Race 2023! We are thrilled to announce their well-deserved awards:<br><br>2nd Place: Most Unique Observation<br>3rd Place: Best Photographed Observation<br>3rd Place: Highest Number of Species with Research-grade Observations</p><div class="isomer-image-wrapper"><img style="width:90%" height="auto" width="100%" src="/images/sci4-2023.jpg"></div><p>Urban Farming Experience at Nature’s International Commodity (Tampines)</p><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/sci5-2023.jpg"></div><p>Learning more about local marine organisms through an enriching talk conducted by National Parks Board (Coastal and Marine Branch, National Biodiversity Centre)</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%203.jpg"></div><p>Congratulations to our team for their remarkable performance at the 21st Elementz Science Project Competition! <br><br>We are proud to announce that they have secured the prestigious Bronze Award.</p><p>Last updated : 12/01/2024</p>
