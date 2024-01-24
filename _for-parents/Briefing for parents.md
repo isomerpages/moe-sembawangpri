@@ -12,7 +12,9 @@ variant: markdown
 | Primary 1 |[SBPS P1 Briefing For Parents -  Mother Tongue 2024](/files/Briefing_for_P1_Parents_2024_Mother_Tongue_Languages.pdf)
 | Primary 1 | [SBPS P1 Briefing For Parents -  Student Management 2024](/files/Briefing_for_P1_Parents_2024_Student_Management_Matters.pdf)
 | Primary 2|[SBPS P2 Briefing For Parents 2024](/files/P2_Breakfast_with_Principal_2024.pdf)|
-| Primary 3 |[SBPS P3 Briefing For Parents 2024](/files/2024_P3_Briefing_For_Parents_12_Jan.pdf) |
+| Primary 3 |[SBPS P3 Briefing For Parents 2024](/files/2024_P3_Briefing_For_Parents_11_Jan.pdf) |
 | Primary 4 |[SBPS P4 Briefing For Parents 2024](/files/2024_P4_Briefing_For_Parents_12_Jan.pdf) |
+| Primary 5 |[SBPS P5 Briefing For Parents 2024](/files/P5_Breakfast_with_Principal_2024.pdf) |
+| Primary 6 |[SBPS P6 Briefing For Parents 2024](/files/P6_Breakfast_with_Principal_2024.pdf) |
 
-Last updated : 18/01/2024
+Last updated : 24/01/2024
