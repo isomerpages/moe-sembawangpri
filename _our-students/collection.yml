@@ -1,0 +1,15 @@
+collections:
+  our-students:
+    output: true
+    order:
+      - Academic Achievements/.keep
+      - Academic Achievements/Destination Imagination.md
+      - Academic Achievements/Mathematics.md
+      - Academic Achievements/Science.md
+      - Academic Achievements/Chinese Language.md
+      - Academic Achievements/Tamil Language.md
+      - Non Academic Achievements/.keep
+      - Non Academic Achievements/Aesthetics.md
+      - Non Academic Achievements/Clubs & Societies.md
+      - Non Academic Achievements/Sports & Games.md
+      - Speech Day 2021.md
