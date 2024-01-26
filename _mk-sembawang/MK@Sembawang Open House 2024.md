@@ -21,10 +21,10 @@ variant: markdown
      style="width:40%">
 -->
 
-##### MOE Kindergarten@Sembawang’s Open House 2024
+##### MOE Kindergarten @ Sembawang’s Open House 2024
 
 Please find the details of our open house in the poster below. 
-**To register for the open house, you may scan the qr code or access via this link:**
+**To register for the open house, you may scan the QR code or access via this link:**
 [https://go.gov.sg/mkoh2024](https://go.gov.sg/mkoh2024)
 
 ![2024 MK Open House Poster](/images/MKSembawang_2024_Open_House_Poster.png)
