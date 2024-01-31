@@ -27,7 +27,9 @@ Please find the details of our open house in the poster below.
 **To register for the open house, you may scan the QR code or access via this link:**
 [https://go.gov.sg/mkoh2024](https://go.gov.sg/mkoh2024)
 
-![2024 MK Open House Poster](/images/MKSembawang_2024_Open_House_Poster.png)
+
+
+![2024 MK Open House Poster](/images/MKSembawang_2024_Open_House_Poster2.png)
 
 We look forward to seeing you and your child.
 
