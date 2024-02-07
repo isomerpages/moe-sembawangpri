@@ -35,10 +35,6 @@ We look forward to seeing you and your child.
 
 Thank You.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m1ED5IUgc4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="true" height="605" width="1024" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTN44xlfHL5YulGp9sENAdtk1IJ9x8QURhWd05gNv3FVeAJj_KbY_fU-cDHeyyeSg/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
-For enquiries, please contact us at:<br>
-Tel: 6235 7588<br>
-Email: mk_sembawang@moe.edu.sg
-
-Last updated : 25/01/2024
+Last updated :07/02/2024
