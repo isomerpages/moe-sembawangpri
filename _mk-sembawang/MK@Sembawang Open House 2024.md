@@ -39,4 +39,4 @@ For enquiries, please contact us at:<br>
 Tel: 6235 7588<br>
 Email: mk_sembawang@moe.edu.sg
 
-Last updated : 25/01/2024
+Last updated :07/02/2024
