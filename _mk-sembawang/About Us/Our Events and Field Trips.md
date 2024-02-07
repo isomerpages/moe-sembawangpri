@@ -26,3 +26,5 @@ third_nav_title: About Us
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
 <p></p>
+<p></p>
+<p>Last updated :07/02/2024</p>
