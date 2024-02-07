@@ -2,5 +2,4 @@ collections:
   mk-sembawang:
     output: true
     order:
-      - About Us.md
       - MK@Sembawang Open House 2024.md
