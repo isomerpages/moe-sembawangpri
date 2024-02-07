@@ -2,7 +2,7 @@ collections:
   mk-sembawang:
     output: true
     order:
-      - About Us/Our Events and Field Trips.md
-      - About Us/A Day in MK@Sembawang.md
       - About Us/.keep
+      - About Us/A Day in MK@Sembawang.md
+      - About Us/Our Events and Field Trips.md
       - MK@Sembawang Open House 2024.md
