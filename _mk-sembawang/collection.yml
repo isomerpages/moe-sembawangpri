@@ -2,6 +2,5 @@ collections:
   mk-sembawang:
     output: true
     order:
-      - A Day in MK@Sembawang/About Us.md
       - A Day in MK@Sembawang/.keep
       - MK@Sembawang Open House 2024.md
