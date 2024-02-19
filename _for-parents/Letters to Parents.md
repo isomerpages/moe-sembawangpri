@@ -9,7 +9,9 @@ variant: markdown
 | | | |
 |---|---|---|
 | Reference No. | Date | Title |
-| [SBPS/24/001](/files/Open_Letter_from_SLs_01_2024.pdf)| 4 January 2024 | Open Letter from School Leaders
+| [SBPS/24/001](/files/Open_Letter_from_SLs_01_2024.pdf)| 4 January 2024 | Open Letter from School Leaders |
+| [SBPS/24/002](/files/Open_Letter_from_SLs_02_2024.pdf)| 19 February 2024 | Open Letter from School Leaders |
+
 
 ## 2023
 
@@ -26,4 +28,4 @@ variant: markdown
 | [SBPS/23/008](/files/open%20letter%20from%20sls_08-2023.pdf)| 26 October 2023 | Open Letter from School Leaders |
 
 
-Last updated: 05/01/2024
+Last updated: 19/02/2024
