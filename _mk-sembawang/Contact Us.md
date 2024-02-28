@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /mk-sembawang/permalink/
+permalink: /mk-sembawang/contact-us/
 variant: tiptap
 description: ""
 ---
