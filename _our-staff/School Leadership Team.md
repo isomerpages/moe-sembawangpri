@@ -12,9 +12,7 @@ variant: markdown
 | **Vice-Principal** | Mr Zafilin Bin Abdul Hamid<br>[Zafilin\_Abdul\_Hamid@schools.gov.sg](mailto:Zafilin_Abdul_Hamid@schools.gov.sg) |
 | **Vice-Principal<br>(Administration)** | Mr Shawn Tan<br>[TAN\_Thiam\_Siong@schools.gov.sg](mailto:TAN_Thiam_Siong@schools.gov.sg) |
 
-<!--| Student Management | Ms Zalina Bte Abdul Malik<br>[zalina\_bt\_ab\_malik@schools.gov.sg](mailto:zalina_bt_ab_malik@schools.gov.sg) |
-| Physical Education and Co-Curricular Activities | Mr Toh Chong Han Kelvin<br>[toh\_chong\_han\_kelvin@schools.gov.sg](mailto:toh_chong_han_kelvin@schools.gov.sg) |
--->
+
 #### Department Heads
 
 |  |  |
@@ -40,7 +38,7 @@ variant: markdown
 | Mathematics 	| Mrs Crystal Lee-Cai Wan Qin <br>[cai\_wanqin\_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg) <br> 	|
 |  Science 	|  Ms Pearlyn Seow Pei Yi<br>[Seow\_Pei\_Yi\_Pearlyn@schools.gov.sg](mailto:Seow_Pei_Yi_Pearlyn@schools.gov.sg)   <br> 	|
 | Mother Tongue Languages           	| Ms Ganda Sari Binte Chokri <br>[ganda\_sari\_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg)    <br> 	|
-| Citizenship Education 	| Mdm Jamaliah Ismail <br>[jamaliah\_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg)    <br> 	|
+| Citizenship Education 	| Mdm Jamaliah Ismail <br>[jamaliah\_ismail\_b@schools.gov.sg](mailto:jamaliah_ismail_b@schools.gov.sg)    <br> 	|
 | Character Education 	|Ms Joey Tan Siew Bing<br>[tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) <br>         	|
 | Physical Education and Co-Curricular Activities | Mr Mohamad Iskandar B Ishak<br>[mohamad\_iskandar\_b\_ishak@schools.gov.sg](mailto:mohamad_iskandar_b_ishak@schools.gov.sg) |
 | Student Well-Being	| Ms Sharon Chan Hui Yu<br>[chan\_hui\_yu\_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg) 	|
