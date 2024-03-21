@@ -26,6 +26,14 @@ variant: markdown
 
 [Click Here for Uniform Sale Dates](/files/school%20uniforms%20sales%20dates.pdf)
 
-**Please take note that strictly no trying of&nbsp;&nbsp;uniform.&nbsp;&nbsp;Thank you!**
+**Please take note that strictly no trying of&nbsp;&nbsp;uniform.&nbsp;&nbsp;Thank you!**    
 
-Last updated : 03/11/2023
+**School Name Tag Order Form**
+
+Dear Parents,
+
+Please kindly fill up the following form for name tag orders. Your child will need to submit the form and make payment at the school bookshop.
+
+[Application form](/files/School_Name_Tag_Application_Form.pdf)
+
+Last updated : 22/03/2024
