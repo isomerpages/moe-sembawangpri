@@ -13,7 +13,7 @@ variant: markdown
 |1 Care|Mdm Nur Syafiqah Binte Eddie Yusof|[nur_syafiqah_eddie_yusof@schools.gov.sg](mailto:nur_syafiqah_eddie_yusof@schools.gov.sg)|
 |1 Care|Mdm Lillian Tan Li Noi|[tan_li_noi_lillian@schools.gov.sg](mailto:tan_li_noi_lillian@schools.gov.sg)|
 |1 Empathy|Mdm Jamaliah Binte Ismail|[jamaliah_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg)|
-|1 Empathy|Mdm Chionh Siew Chern|[chionh_siew_chern@schools.gov.sg](mailto:chionh_siew_chern@schools.gov.sg)|
+|1 Empathy|Ms Yvonne Elizabeth Pok Yin Fong|[Yvonne_Pok_Yin_Fong@schools.gov.sg](mailto:Yvonne_Pok_Yin_Fong@schools.gov.sg)|
 |1 Gratitude|Mr Kelvin Toh Chong Han|[toh_chong_han_kelvin@schools.gov.sg](mailto:toh_chong_han_kelvin@schools.gov.sg)|
 |1 Gratitude|Mdm Insyirah Binti Mohamad Ali|[insyirah_mohamad_ali@schools.gov.sg](mailto:insyirah_mohamad_ali@schools.gov.sg)|
 |1 Integrity|Ms Khalisah Bte Kamisan|[khalisah_kamisan@schools.gov.sg](mailto:khalisah_kamisan@schools.gov.sg)|
@@ -50,7 +50,6 @@ variant: markdown
 |---|---|---|
 |3 Care|Mr Lee Meng Chee, Alvin|[lee_meng_chee_alvin@schools.gov.sg](mailto:lee_meng_chee_alvin@schools.gov.sg)|
 |3 Care|Mdm Liu Hongyan|[liu_hongyan@schools.gov.sg](mailto:liu_hongyan@schools.gov.sg)|
-|3 Care|Mdm Koh Lee Seng (Mrs Ang)|[koh_lee_seng@schools.gov.sg](mailto:koh_lee_seng@schools.gov.sg)|
 |3 Empathy|Mr Zhao Zhiyang|[zhao_zhiyang@schools.gov.sg](mailto:zhao_zhiyang@schools.gov.sg)|
 |3 Empathy|Mrs Prakash-Malarvizhi R.|[malarvizhi_ramasamy@schools.gov.sg](mailto:malarvizhi_ramasamy@schools.gov.sg)|
 |3 Gratitude|Ms Awyong Yun Ting|[awyong_yun_ting@schools.gov.sg](mailto:awyong_yun_ting@schools.gov.sg)|
@@ -129,10 +128,11 @@ variant: markdown
 |Mdm Lediana Bte Mohamed Said|[lediana_mohamed_said@schools.gov.sg](mailto:lediana_mohamed_said@schools.gov.sg)|
 |Mr Cheah Boon Teck Janssen|[cheah_boon_teck_janssen@schools.gov.sg](mailto:cheah_boon_teck_janssen@schools.gov.sg)|
 |Mdm Chan Bee Bee, May|[](mailto:)|
-|Mdm Chin Shu Fei|[](mailto:)|
-|Mr Lim Sok Kung (Jackie)|[](mailto:)|
+|Mdm Chin Shu Fei|[chin_shu_fei_a@schools.gov.sg](mailto:chin_shu_fei_a@schools.gov.sg)|
+|Mdm Chionh Siew Chern|[chionh_siew_chern@schools.gov.sg](mailto:chionh_siew_chern@schools.gov.sg)|
+|Mr Lim Sok Kung (Jackie)|[lim_sok_kung_a@schools.gov.sg](mailto:lim_sok_kung_a@schools.gov.sg)|
 |Mdm Oh Keng Hong|[Oh_Keng_Hong@schools.gov.sg](mailto:Oh_Keng_Hong@schools.gov.sg)|
-|Mdm Shamsiah Bte Md Shariff|[](mailto:)|
+|Mdm Shamsiah Bte Md Shariff|[shamsiah_md_shariff_a@schools.gov.sg](mailto:shamsiah_md_shariff_a@schools.gov.sg)|
 
 
-Last updated : 03 January 2024
+Last updated : 22/03/2024
