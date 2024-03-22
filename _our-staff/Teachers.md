@@ -12,7 +12,7 @@ variant: markdown
 |---|---|---|
 |1 Care|Mdm Nur Syafiqah Binte Eddie Yusof|[nur_syafiqah_eddie_yusof@schools.gov.sg](mailto:nur_syafiqah_eddie_yusof@schools.gov.sg)|
 |1 Care|Mdm Lillian Tan Li Noi|[tan_li_noi_lillian@schools.gov.sg](mailto:tan_li_noi_lillian@schools.gov.sg)|
-|1 Empathy|Mdm Jamaliah Binte Ismail|[jamaliah_ismail@schools.gov.sg](mailto:jamaliah_ismail@schools.gov.sg)|
+|1 Empathy|Mdm Jamaliah Binte Ismail|[jamaliah_ismail_b@schools.gov.sg](mailto:jamaliah_ismail_b@schools.gov.sg)|
 |1 Empathy|Ms Yvonne Elizabeth Pok Yin Fong|[Yvonne_Pok_Yin_Fong@schools.gov.sg](mailto:Yvonne_Pok_Yin_Fong@schools.gov.sg)|
 |1 Gratitude|Mr Kelvin Toh Chong Han|[toh_chong_han_kelvin@schools.gov.sg](mailto:toh_chong_han_kelvin@schools.gov.sg)|
 |1 Gratitude|Mdm Insyirah Binti Mohamad Ali|[insyirah_mohamad_ali@schools.gov.sg](mailto:insyirah_mohamad_ali@schools.gov.sg)|
