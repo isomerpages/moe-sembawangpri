@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Kindergarten Visit.md
       - "Applied Learning Programme (ALP): Environmental Studies.md"
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning for Life Programme.md
@@ -10,3 +9,4 @@ collections:
       - Learning for Life Programme/Class Committee.md
       - Learning for Life Programme/SBPS Pal (Peer Support Leader).md
       - Learning for Life Programme/CCA Leaders.md
+      - Kindergarten Visit.md
