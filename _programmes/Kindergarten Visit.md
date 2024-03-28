@@ -1,6 +1,6 @@
 ---
 title: Kindergarten Visit
-permalink: /kindergarten-visit/
+permalink: /programmes/kindergarten-visit/
 variant: tiptap
 description: ""
 ---
