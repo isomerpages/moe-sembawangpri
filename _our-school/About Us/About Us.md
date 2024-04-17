@@ -3,6 +3,7 @@ title: About Us
 permalink: /our-school/About-Us/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 ### About Us
 
@@ -24,7 +25,7 @@ Nurturing Innovators signifies a continuous process. We nurture innovators in a 
 
 * Cultivating a growth mindset in our students and staff
 * Designing learning experiences and spaces that encourage exploration and empower learners’ voices
-* Providing holistic education with innovative & effective pedagogies
+* Providing holistic education with innovative &amp; effective pedagogies
 * Building quality relationships with our students, staff, stakeholders and communities
 
 **SCHOOL MOTTO**
@@ -34,18 +35,16 @@ THE BEST FROM ME.
 **SCHOOL VALUES**
   
 Relational values are needed to build quality relationships with others; Functional values help us to be effective individuals . Together, they nurture the whole being.
-  !
+  
 	
 **Relational**
 
 ![](/images/mural1.png)
-<!--<img src="images/mural1.png" 
-     style="width:85%">-->
+
 
 **Functional**
 
 ![](/images/mural2.png)
-<!--<img src="images/mural2.png" 
-     style="width:85%">-->
 
-Last updated :29/12/2022
+
+Last updated :17/04/2024
