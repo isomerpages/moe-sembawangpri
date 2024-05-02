@@ -6,6 +6,7 @@ description: ""
 ---
 <p><strong>Student Management Department</strong>
 </p>
+<p></p>
 <p><strong><u>Guiding Principles</u></strong>
 </p>
 <p>The Student Management Department envisions for Sembawang Primary School
@@ -14,6 +15,7 @@ to be a <strong>Safe, Conducive, and Inclusive Learning Environment for all Stud
 positive behaviours, accompanied with respectful and caring relationship
 with their peers – as portrayed by the relational school values of <strong>Care, Gratitude, and Integrity.</strong>
 </p>
+<p></p>
 <p><strong><u>Discipline in SBPS</u></strong>
 </p>
 <p>The department believes in the enactment of a positive and proactive approach
@@ -32,6 +34,7 @@ and must be meted out fairly, firmly, and appropriately.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SM_1.png">
 </div>
+<p></p>
 <p><strong><u>Support for Students</u></strong>
 </p>
 <p>The school believes in the provision of an inclusive education system
