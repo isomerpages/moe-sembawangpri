@@ -53,7 +53,7 @@ variant: tiptap
 from the School’s Security Guard Post/ General Office.</p>
 </li>
 </ol>
-<p><a href="/files/2023%20canteen%20stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a> Application
+<p><a href="/files/Application_Form_for_School_Canteen_Fruits___Cold_Drinks.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> Application
 form for Canteen Stall</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
