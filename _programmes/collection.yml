@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Open House.md
       - "Applied Learning Programme (ALP): Environmental Studies.md"
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning for Life Programme.md
