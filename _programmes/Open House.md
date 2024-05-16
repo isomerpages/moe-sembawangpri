@@ -1,6 +1,6 @@
 ---
 title: Open House
-permalink: /open-house/
+permalink: /programmes/open-house/
 variant: tiptap
 description: ""
 ---
