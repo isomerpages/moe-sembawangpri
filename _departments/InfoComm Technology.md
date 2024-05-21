@@ -24,6 +24,12 @@ These are the key messages which students will understand:
 
 
 
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| Text     | Text     | Text     |
+
+
+
 
 **2) Code @ SBPS**  
   
