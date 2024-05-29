@@ -15,4 +15,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/for-students
+        - title: Social Media
+          description: ""
+          url: /contact-us
 ---
