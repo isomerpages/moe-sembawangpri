@@ -25,6 +25,7 @@ socio-cultural factors. Students learn to read critically through Curriculum
 Innovation lessons where inquiry through dialogue takes place and metacognitive
 skills are practised. Below are some photos taken during these lessons:</p>
 <p></p>
+<p></p>
 <p><strong><u>Authentic Learning Experiences Beyond the Classroom</u></strong>
 </p>
 <p><strong>1)&nbsp;&nbsp;&nbsp; Sensory Path</strong>
