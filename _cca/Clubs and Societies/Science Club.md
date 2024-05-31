@@ -5,4 +5,122 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h3>Science Club</h3><p>Science and Green Club aspires to groom budding scientists who are curious and have an insatiable thirst to learn. Our young scientists will learn more about the world around us and have opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry.</p><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Time</p></td><td rowspan="1" colspan="1"><p>2.15 p.m - 4.15 p.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Teachers-in-charge</p></td><td rowspan="1" colspan="1"><p>Ms Chan Hui Yu Sharon<br>Ms Long Shi Hui<br>Mr Zhao Zhiyang<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Venue <br></p></td><td rowspan="1" colspan="1"><p>Science Rooms &amp; Level 1 Classrooms</p></td></tr></tbody></table><p></p><p></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_sem_1_CCA_schedule_Science_Club_2.png"></div><p><strong>Other photos</strong></p><p>Learning journey to Gardens By The Bay</p><div class="isomer-image-wrapper"><img style="width:90%" height="auto" width="100%" src="/images/sci2-2023.jpg"></div><p>Exploring and discovering various bird and butterfly species in our school as part of the <em>Every Singaporean A Naturalist</em> (ESN) programme (Nature Society Singapore; NSS)</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_1.jpg"></div><p>Congratulations to our Novice Naturalists (Birds) who were awarded under the NSS ESN Skills Achievement Programme!</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_2.jpg"></div><p>Congratulations to our first batch of Novice Naturalists (Butterflies) who were <br>awarded under the NSS ESN Skills Achievement Programme!</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%201.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%202.jpg"></div><p>Congratulations to our teams for their outstanding performance at the NSS ESN 2nd Biodiversity Race 2023! We are thrilled to announce their well-deserved awards:<br><br>2nd Place: Most Unique Observation<br>3rd Place: Best Photographed Observation<br>3rd Place: Highest Number of Species with Research-grade Observations</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_3.jpg"></div><p>Congratulations to our teams for their excellent performance at the NSS 39th Singapore Bird Race 2023! Both Team Phoenix and Team Falcon were awarded the consolation prize for their commendable efforts.</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_4.jpg"></div><p>Experiencing urban farming on a rooftop carpark in Tampines, hosted by Nature’s International Commodity.</p><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/sci5-2023.jpg"></div><p>Learning more about local marine organisms through an enriching talk conducted by National Parks Board (Coastal and Marine Branch, National Biodiversity Centre)</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%203.jpg"></div><p>Congratulations to our team for their remarkable performance at the 21st Elementz Science Project Competition! <br><br>We are proud to announce that they have secured the prestigious Bronze Award.</p><p>Last updated : 15/01/2024</p>
+<h3>Science Club</h3>
+<p>Science and Green Club aspires to groom budding scientists who are curious
+and have an insatiable thirst to learn. Our young scientists will learn
+more about the world around us and have opportunities to develop skills,
+habits of mind and attitudes necessary for scientific inquiry.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 p.m - 4.15 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Hui Yu Sharon
+<br>Ms Long Shi Hui
+<br>Mr Zhao Zhiyang
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Rooms &amp; Level 1 Classrooms</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sem2_Schedule.png">
+</div>
+<p></p>
+<p><strong>Other photos</strong>
+</p>
+<p>Learning journey to Gardens By The Bay</p>
+<div class="isomer-image-wrapper">
+<img style="width:90%" height="auto" width="100%" src="/images/sci2-2023.jpg">
+</div>
+<p>Exploring and discovering various bird and butterfly species in our school
+as part of the <em>Every Singaporean A Naturalist</em> (ESN) programme (Nature
+Society Singapore; NSS)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_1.jpg">
+</div>
+<p>Congratulations to our Novice Naturalists (Birds) who were awarded under
+the NSS ESN Skills Achievement Programme!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_2.jpg">
+</div>
+<p>Congratulations to our first batch of Novice Naturalists (Butterflies)
+who were
+<br>awarded under the NSS ESN Skills Achievement Programme!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%201.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%202.jpg">
+</div>
+<p>Congratulations to our teams for their outstanding performance at the
+NSS ESN 2nd Biodiversity Race 2023! We are thrilled to announce their well-deserved
+awards:
+<br>
+<br>2nd Place: Most Unique Observation
+<br>3rd Place: Best Photographed Observation
+<br>3rd Place: Highest Number of Species with Research-grade Observations</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_3.jpg">
+</div>
+<p>Congratulations to our teams for their excellent performance at the NSS
+39th Singapore Bird Race 2023! Both Team Phoenix and Team Falcon were awarded
+the consolation prize for their commendable efforts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_4.jpg">
+</div>
+<p>Experiencing urban farming on a rooftop carpark in Tampines, hosted by
+Nature’s International Commodity.</p>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/sci5-2023.jpg">
+</div>
+<p>Learning more about local marine organisms through an enriching talk conducted
+by National Parks Board (Coastal and Marine Branch, National Biodiversity
+Centre)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%203.jpg">
+</div>
+<p>Congratulations to our team for their remarkable performance at the 21st
+Elementz Science Project Competition!
+<br>
+<br>We are proud to announce that they have secured the prestigious Bronze
+Award.</p>
+<p>Last updated : 31/05/2024</p>
