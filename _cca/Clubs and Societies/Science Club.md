@@ -85,38 +85,41 @@ who were
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_1.jpg">
 </div>
+<p>Learning more about what other schools and organisations like the Mandai
+Wildlife Group are doing for biodiversity conservation at the annual NSS
+ESN Symposium. We are honoured to receive the award for one of the “Most
+Improved Schools from 2022 to 2023” in terms of the number of species observed
+within transects in our school premise!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_2.jpg">
+</div>
+<p>Participating in an exclusive behind-the-scenes tour at Fragile Forest
+in the Singapore Zoo.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_3.jpg">
+</div>
+<p>Exploring avian diversity in a workshop conducted by Bird Paradise!</p>
+<p></p>
 <p>Congratulations to our teams for their outstanding performance at the
-NSS ESN 2nd Biodiversity Race 2023! We are thrilled to announce their well-deserved
-awards:
-<br>
-<br>2nd Place: Most Unique Observation
-<br>3rd Place: Best Photographed Observation
-<br>3rd Place: Highest Number of Species with Research-grade Observations</p>
+NSS ESN 3rd Biodiversity Race 2024! We are thrilled to announce their well-deserved
+awards:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc_4.png">
 </div>
-<p>Congratulations to our teams for their excellent performance at the NSS
-39th Singapore Bird Race 2023! Both Team Phoenix and Team Falcon were awarded
-the consolation prize for their commendable efforts.</p>
+<p></p>
+<p>1st Place: Most Unique Observation</p>
+<p>(Sumatran Flying Dragon; common gliding lizard)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_5.png">
 </div>
-<p>Experiencing urban farming on a rooftop carpark in Tampines, hosted by
-Nature’s International Commodity.</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/sci5-2023.jpg">
-</div>
-<p>Learning more about local marine organisms through an enriching talk conducted
-by National Parks Board (Coastal and Marine Branch, National Biodiversity
-Centre)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%203.jpg">
-</div>
-<p>Congratulations to our team for their remarkable performance at the 21st
-Elementz Science Project Competition!
-<br>
-<br>We are proud to announce that they have secured the prestigious Bronze
-Award.</p>
-<p>Last updated : 31/05/2024</p>
+<p>2nd Place: Most Unique Observation</p>
+<p>(Palm King; brush-footed butterfly)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Last updated : 03/06/2024</p>
