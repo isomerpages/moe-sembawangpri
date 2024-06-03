@@ -62,9 +62,7 @@ habits of mind and attitudes necessary for scientific inquiry.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sem2_Schedule.png">
 </div>
 <p></p>
-<p><strong>Other photos</strong>
-</p>
-<p>Learning journey to Gardens By The Bay</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" src="/images/sci2-2023.jpg">
 </div>
@@ -75,19 +73,17 @@ Society Singapore; NSS)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_1.jpg">
 </div>
-<p>Congratulations to our Novice Naturalists (Birds) who were awarded under
-the NSS ESN Skills Achievement Programme!</p>
+<p>Congratulations to our second batch of Novice Naturalists (Birds) who
+were awarded under the NSS ESN Skills Achievement Programme!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_2.jpg">
 </div>
 <p>Congratulations to our first batch of Novice Naturalists (Butterflies)
 who were
 <br>awarded under the NSS ESN Skills Achievement Programme!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%201.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20science%20club%20update%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_1.jpg">
 </div>
 <p>Congratulations to our teams for their outstanding performance at the
 NSS ESN 2nd Biodiversity Race 2023! We are thrilled to announce their well-deserved
