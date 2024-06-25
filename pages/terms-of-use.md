@@ -15,17 +15,14 @@ Thank you for visiting https://www.sembawangpri.moe.edu.sg/. By accessing and us
 3. This Web Site is maintained by Sembawang Primary School. It is owned by Sembawang Primary School.
 4. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Sembawang Primary School.
 
-### Security
+### Privacy Policy
 
-1.  Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.
-2.  Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
+5. Click here to review this Web Site Privacy Statement.
 
-### Hyperlinks
+### Restrictions on Use of Materials
 
-1.  We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.
-2.  If you create a link or frame to The Website you do so at your own risk.
-3.  We reserve the right to object to, or disable any link or frame to or from The Website.
-4.  We reserve the right to change the URL of The Website.
+6. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Sembawang Primary School.  To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient. 
+7. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Sembawang Primary School’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Sembawang Primary School.
 
 ### Intellectual Property
 
