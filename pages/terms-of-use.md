@@ -10,10 +10,10 @@ Thank you for visiting https://www.sembawangpri.moe.edu.sg/. By accessing and us
 
 2. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
-### Relying on Information
+### Proprietary Rights
 
-1.  The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.
-2.  The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MOE.
+3. This Web Site is maintained by Sembawang Primary School. It is owned by Sembawang Primary School.
+4. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Sembawang Primary School.
 
 ### Security
 
