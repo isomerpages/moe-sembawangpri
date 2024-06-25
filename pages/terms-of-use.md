@@ -24,10 +24,9 @@ Thank you for visiting https://www.sembawangpri.moe.edu.sg/. By accessing and us
 6. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Sembawang Primary School.  To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient. 
 7. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Sembawang Primary School’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Sembawang Primary School.
 
-### Intellectual Property
+### Right of Access
 
-1.  Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (© Ministry of Education, Government of Singapore)
-2.  Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.
+8. Sembawang Primary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.
 
 ### Disclaimer of Warranties and Liability
 
