@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 variant: markdown
 ---
-### **Sembwang Primary School Privacy Statement**
+### **Sembawang Primary School Privacy Statement**
 
 1.    This is a Sembawang Primary School website. Thank you for examining our privacy statement.
 
