@@ -78,7 +78,6 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |---|---|---|
-|5 Care|Mdm Suraya Bte Mohamed Iqbal  |[suraya_mohamed_iqbal@schools.gov.sg](mailto:suraya_mohamed_iqbal@schools.gov.sg)|
 |5 Care|Ms Heow Tsuey Yan|[heow_tsuey_yan@schools.gov.sg](mailto:heow_tsuey_yan@schools.gov.sg)|
 |5 Care|Mr Choo Kian Guan Ryan|[choo_kian_guan@schools.gov.sg](mailto:choo_kian_guan@schools.gov.sg)|
 |5 Empathy|Ms Seow Pei Yi, Pearlyn|[seow_pei_yi_pearlyn@schools.gov.sg](mailto:seow_pei_yi_pearlyn@schools.gov.sg)|
@@ -135,4 +134,4 @@ variant: markdown
 |Mdm Shamsiah Bte Md Shariff|[shamsiah_md_shariff_a@schools.gov.sg](mailto:shamsiah_md_shariff_a@schools.gov.sg)|
 
 
-Last updated : 22/03/2024
+Last updated : 04/07/2024
