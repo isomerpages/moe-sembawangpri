@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/animated-banner (updated).gif
+      background: /images/Banner_SBPS_Open_House_2024.png
       key_highlights:
         - title: Announcements
           description: ""
