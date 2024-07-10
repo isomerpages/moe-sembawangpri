@@ -1,13 +1,14 @@
 ---
-title: School Newsletter
-permalink: /for-parents/school-newsletter/
+title: Sembawang Buzz
+permalink: /for-parents/sembawang-buzz/
 description: ""
+variant: markdown
 ---
-### School Newsletter
+### Sembawang Buzz
 
 | Year | Issue |
 |---|---|
-| 2023 |  [2022 School Newsletter 1](https://go.gov.sg/2023sembawangbuzz1)  |
+| 2023 |  [2023 School Newsletter 1](https://go.gov.sg/2023sembawangbuzz1)  |
 
 | Year | Issue |
 |---|---|
