@@ -2,8 +2,9 @@
 title: School Newsletter
 permalink: /for-parents/school-newsletter/
 description: ""
+variant: markdown
 ---
-### School Newsletter
+### Sembawang Buzz
 
 | Year | Issue |
 |---|---|
