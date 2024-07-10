@@ -20,7 +20,7 @@ variant: markdown
 			<td><a href="https://raw.githubusercontent.com/isomerpages/moe-sembawangpri/staging/images/zoom.png)"> <img src="/images/zoom.png"><br>Student Zoom</a></td>
 		</tr>
 		<tr>			
-			<td><a href="https://www.sembawangpri.moe.edu.sg/for-parents/school-newsletter/"> <img src="/images/Sembawang_Buzz_Icon.png">Sembawang Buzz</a></td>
+			<td><a href="https://www.sembawangpri.moe.edu.sg/for-parents/sembawang-buzz/"> <img src="/images/Sembawang_Buzz_Icon.png">Sembawang Buzz</a></td>
 			<td><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/RecommendedReads/ForChildren.aspx"> <img src="/images/NLB_Icon.png">NLB Reading</a></td>
 			<td><a href="https://sites.google.com/moe.edu.sg/sbpshidear/home"> <img src="/images/HiDear_Icon.png">Hi Dear</a></td>
 			<td><a href="https://schoolibrary.moe.edu.sg/sembawangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> <img src="/images/OPAC_Icon.png">School Library</a></td>
