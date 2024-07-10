@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Banner_SBPS_Open_House_2024.png
       key_highlights:
-        - title: Announcements
+        - title: Open House
           description: ""
-          url: /announcements
+          url: /programmes/open-house/
         - title: Quick Links
           description: ""
           url: /quick-links/for-students
