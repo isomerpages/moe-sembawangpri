@@ -26,7 +26,7 @@ variant: markdown
 | School Staff Developer | Mr Tan Zuo Hou<br>[tan\_zuo\_hou@schools.gov.sg](mailto:tan_zuo_hou@schools.gov.sg) |
 | Student Management 	| Mr Calvin Chia Chin Ooi<br>[chia\_chin\_ooi\_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg)
 | Year Head (Upper Primary) | Mr Yang Binglin<br>[yang\_binglin@schools.gov.sg](mailto:yang_binglin@schools.gov.sg) |
-| Year Head (Middle Primary) | Ms Venice Soh Bee Peng<br>[soh\_bee\_peng@schools.gov.sg](mailto:soh_bee_peng@schools.gov.sg) |
+| Year Head (Middle Primary) | Ms Soh Bee Peng Vernice<br>[soh\_bee\_peng@schools.gov.sg](mailto:soh_bee_peng@schools.gov.sg) |
 | Year Head (Lower Primary) | Ms Ratna Dewi<br>[ratna\_dewi@schools.gov.sg](mailto:ratna_dewi@schools.gov.sg) |
 
 
@@ -48,4 +48,4 @@ variant: markdown
 
 
 
-Last updated : 02/01/2024
+Last updated : 15/07/2024
