@@ -211,7 +211,8 @@ coaches during the respective PE periods at an external venue.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_8.jpg">
 </div>
-<p>Students at Singapore Sports School (SSS)</p>
+<p><em>Students at Singapore Sports School (SSS)</em>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -230,14 +231,6 @@ coaches during the respective PE periods at an external venue.&nbsp;</p>
 </div>
 <p><em>Students are self-motivated to learn</em>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -267,6 +260,44 @@ games taught in school.&nbsp;</p>
 </table>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_11.jpg">
+</div>
+<p><em> P5 Basic Archery</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_12.jpg">
+</div>
+<p><em>P3 Safe Cycling</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_13.jpg">
+</div>
+<p><em>P2 Mixed Martial Arts (MMA)</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_14.jpg">
+</div>
+<p><em>P3 Safe Cycling</em>
+</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -291,6 +322,39 @@ as they continue to independently take strides forward in their learning.&nbsp;<
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/2024_PE_16.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_15.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_17.jpg">
+</div>
+<p><em>Junior Kin-Ball Championship</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_18.jpg">
+</div>
+<p><em>Bouldering Experience @ Sembawang SC</em>
+</p>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -316,3 +380,58 @@ and Dodgeball.&nbsp;</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_19.jpg">
+</div>
+<p><em>Dodgeball @ Indoor Sports Hall (ISH)</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_20.jpg">
+</div>
+<p><em>Friday Morning Runs</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_21.jpg">
+</div>
+<p><em>Piloxing Workout led by HPB Trainers</em>
+</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_22.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_23.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PE_24.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><em>AYP Activity Booklet (Designed by Ms Chan, PE Dept)</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Last updated : 24/07/2024</p>
