@@ -59,12 +59,14 @@ to become more resilient, disciplined and confident.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Rugby_1.jpg">
 </div>
-<p><em>Junior Team </em>
+<p><em>Junior Team</em>
 </p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Rugby_2.jpg">
 </div>
-<p><em>Senior Team </em>
+<p><em>Senior Team</em>
 </p>
 <p>Last updated: 27/07/2024</p>
