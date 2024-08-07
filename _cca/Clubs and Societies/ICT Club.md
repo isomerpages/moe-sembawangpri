@@ -79,7 +79,4 @@ the CCA sessions on a rotational basis.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9A0NdnVeoJ0"></iframe>
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D2SZL11kgWg?si=mWDw5YV-FpeF5O-h"></iframe>
-</div>
 <p>Last updated: 31/05/2024</p>
