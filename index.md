@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_SBPS_Open_House_Programme_3.jpg
+      background: /images/animated-banner_updated.gif
       key_highlights:
         - title: Open House
           description: ""
