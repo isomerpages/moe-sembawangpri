@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/animated-banner_updated.gif
       key_highlights:
-        - title: Open House
-          description: ""
-          url: /programmes/open-house/
         - title: Quick Links
           description: ""
           url: /quick-links/for-students
