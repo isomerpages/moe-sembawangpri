@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/25_anniversary_banner.jpg
+      background: /images/animated-banner_updated.gif
       key_highlights:
         - title: Quick Links
           description: ""
