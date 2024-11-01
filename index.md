@@ -17,5 +17,5 @@ sections:
           url: /contact-us
         - title: 25th Anniversary
           description: ""
-          url: ""
+          url: /25th-anniversary
 ---
