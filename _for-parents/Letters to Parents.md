@@ -16,7 +16,7 @@ variant: markdown
 | [SBPS/24/005](/files/Open_Letter_from_SLs_05_2024.pdf)| 4 July 2024 | Open Letter from School Leaders |
 | [SBPS/24/006](/files/Open_Letter_from_SLs_06_2024.pdf)| 13 Aug 2024 | Open Letter from School Leaders |
 | [SBPS/24/007](/files/Open_Letter_from_SLs_07_2024.pdf)| 23 Sep 2024 | Open Letter from School Leaders |
+|[SBPS/24/008](/files/Open_Letter_from_SLs_08_2024_.pdf)|25 Oct 2024| Open Letter from School Leaders |
 
 
-
-Last updated:24/09/2024
+Last updated:01/11/2024
