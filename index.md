@@ -15,4 +15,7 @@ sections:
         - title: Social Media
           description: ""
           url: /contact-us
+        - title: 25th Anniversary
+          description: ""
+          url: /programmes/25th-anniversary/
 ---
