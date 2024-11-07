@@ -26,7 +26,7 @@ School Advisory Committee (SAC):
 
 | Members |
 |:---:|
-| Mr Peter Chew Choon Hai<br> Mr Sean Ang Kang Lin <br> Mr Mohammad Herman Bin Hood <br> Capt Prathap Govindan Raghavan
+| Mr Peter Chew Choon Hai<br> Mr Sean Ang Kang Lin <br> Mr Mohammad Herman Bin Hood <br> Capt Prathap Govindan Raghavan <br> Dr Vicpearly Wong
 |
 
 
