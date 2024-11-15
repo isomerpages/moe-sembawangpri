@@ -18,4 +18,4 @@ description: ""
 <p><a href="/files/2024_Speech_Day_Programme_Booklet.pdf" rel="noopener nofollow" target="_blank">2024 Speech Day Booklet</a>
 </p>
 <p></p>
-<p>Last updated : 08/11/2024</p>
+<p>Last updated : 15/11/2024</p>
