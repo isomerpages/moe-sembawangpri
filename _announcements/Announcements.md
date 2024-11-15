@@ -35,6 +35,22 @@ QR codes below.</p>
 </div>
 <p></p>
 <p></p>
+<p><strong>Outstanding Youth in Education Award (OYEA) 2025</strong>
+</p>
+<p></p>
+<p>The Outstanding Youth in Education Award (OYEA) gives national recognition
+to young teachers who are role models for the teaching profession. These
+teachers embody youthful idealism, energy and enthusiasm, and inspire both
+their students and peers through their words and deeds.</p>
+<p></p>
+<p>Nomination for OYEA 2025 is<strong> now open </strong>and will<strong> close on 10 January 2025.&nbsp;&nbsp;</strong>
+</p>
+<p>Submit your nominations online by clicking on the URLs or scanning the
+QR codes below</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_OYEA.jpg">
+</div>
 <p></p>
 <p></p>
 <p><strong>Sembawang Buzz</strong>
