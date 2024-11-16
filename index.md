@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/2025_PAT_OYEA_Banner.gif
       key_highlights:
-        - title: 25th Anniversary
+        - title: Announcement
           description: ""
           url: /programmes/25th-anniversary/
         - title: Quick Links
