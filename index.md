@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_25_Anniversary_Banner.jpg
+      background: /images/2025_PAT_OYEA_Banner.gif
       key_highlights:
         - title: Quick Links
           description: ""
