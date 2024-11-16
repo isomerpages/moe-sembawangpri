@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /programmes/25th-anniversary/
+          url: /announcements/
         - title: Quick Links
           description: ""
           url: /quick-links/for-students
