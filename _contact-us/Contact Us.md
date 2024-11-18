@@ -17,7 +17,7 @@ variant: markdown
 |  |  |
 |---|---|
 | Address | 10 Sembawang Drive S(757715) |
-| Operating Hours of General Office | Mondays to Fridays (excluding Public Holidays)<br><br> 7am to 6pm |
+| Operating Hours of General Office | Mondays to Fridays (excluding Public Holidays)<br>7am to 6pm<br>8am to 5pm (During School Holidays)|
 | Tel: | 67567330 |
 | Fax: | 67560367 |
 | Email: | sembawang_ps@moe.edu.sg |
@@ -25,11 +25,4 @@ variant: markdown
 | Nearest MRT Station: | Sembawang MRT |
 
 
-
-
-
-
-
-
-
-Last updated : 29/05/2024
+Last updated : 18/11/2024
