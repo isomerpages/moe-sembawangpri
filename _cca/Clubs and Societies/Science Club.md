@@ -57,39 +57,12 @@ habits of mind and attitudes necessary for scientific inquiry.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sem2_Schedule.png">
-</div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" src="/images/sci2-2023.jpg">
 </div>
 <p>Exploring and discovering various bird and butterfly species in our school
 as part of the <em>Every Singaporean A Naturalist</em> (ESN) programme (Nature
 Society Singapore; NSS)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_1.jpg">
-</div>
-<p>Congratulations to our second batch of Novice Naturalists (Birds) who
-were awarded under the NSS ESN Skills Achievement Programme!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Science_Club_2.jpg">
-</div>
-<p>Congratulations to our first batch of Novice Naturalists (Butterflies)
-who were
-<br>awarded under the NSS ESN Skills Achievement Programme!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_1.jpg">
-</div>
-<p>Learning more about what other schools and organisations like the Mandai
-Wildlife Group are doing for biodiversity conservation at the annual NSS
-ESN Symposium. We are honoured to receive the award for one of the “Most
-Improved Schools from 2022 to 2023” in terms of the number of species observed
-within transects in our school premise!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_2.jpg">
@@ -119,7 +92,70 @@ awards:</p>
 <p>2nd Place: Most Unique Observation</p>
 <p>(Palm King; brush-footed butterfly)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_1.jpg">
+</div>
+<p>Congratulations to our team for their remarkable performance at the 22nd
+Elementz Science Project Competition! We are proud to announce that they
+have secured the prestigious Gold Award.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_2.png">
+</div>
+<p>Three of our teams showcased their passion for wildlife and nature during
+the 40th Singapore Bird Race 2024. We are proud of their efforts and the
+spirit of curiosity they brought to the event!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_3.png">
+</div>
+<p>Congratulations to our third batch of Novice Naturalists (Birds) who were
+awarded under the NSS ESN Skills Achievement Programme!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_4.jpg">
+</div>
+<p>Congratulations to our second batch of Novice Naturalists (Butterflies)
+who were
+<br>awarded under the NSS ESN Skills Achievement Programme!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_5.jpg">
+</div>
+<p>We are honoured to receive the awards for 'Highest Number of Research-grade
+Observations in 2024' and 'Most Improved Schools from 2023 to 2024' under
+the NSS ESN programme. These achievements highlight our students’ dedication,
+growth, and commitment to citizen science research!</p>
+<p></p>
+<p>Students diving into nature journaling, capturing and documenting various
+bird species through sketches and observations in our school premise!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_6.jpg">
+</div>
+<p>Some sketches of the <strong>Javan Myna</strong> created through nature
+journaling.</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_7.jpg">
+</div>
+<p>Some sketches of the <strong>Rock Pigeon</strong> created through nature
+journaling.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_8.jpg">
+</div>
+<p>(L) Primatologist Dr Andie Ang engaged our students with an insightful
+talk on primates, sparking their curiosity about wildlife research and
+conservation.
+<br>(R) A digitally drawn card presented to Dr Ang in appreciation of her
+inspiring talk.</p>
 <p></p>
 <p>Last updated : 03/06/2024</p>

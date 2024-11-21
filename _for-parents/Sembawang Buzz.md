@@ -8,6 +8,10 @@ variant: markdown
 
 | Year | Issue |
 |---|---|
+| 2024 |  [2024 School Newsletter](https://go.gov.sg/2024sembawangbuzz)  |
+
+| Year | Issue |
+|---|---|
 | 2023 |  [2023 School Newsletter 1](https://go.gov.sg/2023sembawangbuzz1)  |
 | 2023 |  [2023 School Newsletter 2](https://go.gov.sg/2023sembawangbuzz2)  |
 
@@ -36,4 +40,4 @@ variant: markdown
 | 2017 |  [2017 School Newsletter 2](https://go.gov.sg/2017sembawangbuzz2)  |
 
 
-Last Updated : 09/07/2023
+Last Updated : 21/11/2024
