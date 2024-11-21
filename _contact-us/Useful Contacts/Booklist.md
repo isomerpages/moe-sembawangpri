@@ -73,5 +73,4 @@ variant: tiptap
 </p>
 <p><a href="/files/P6__FDN__2025.pdf" rel="noopener nofollow" target="_blank">SBPS 2025 Booklist P6 Foundation</a>
 </p>
-<p></p>
-<p>Last updated : 18/11/2024</p>
+<p>Last updated : 21/11/2024</p>
