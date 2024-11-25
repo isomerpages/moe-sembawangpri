@@ -37,4 +37,4 @@ Please kindly fill up the following form for name tag orders. Your child will ne
 
 [Application form](/files/School_Name_Tag_Application_Form.pdf)
 
-Last updated : 22/03/2024
+Last updated : 26/11/2024
