@@ -10,7 +10,7 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |---|---|---|
-|1 Care|Mdm Nur Syafiqah Binte Eddie Yusof|[nur_syafiqah_eddie_yusof@schools.gov.sg](mailto:nur_syafiqah_eddie_yusof@schools.gov.sg)|
+|1 Care|Mr Tay Eng Wee Mike|[tay_eng_wee@schools.gov.sg](mailto:tay_eng_wee@schools.gov.sg)|
 |1 Care|Mdm Lillian Tan Li Noi|[tan_li_noi_lillian@schools.gov.sg](mailto:tan_li_noi_lillian@schools.gov.sg)|
 |1 Empathy|Mdm Jamaliah Binte Ismail|[jamaliah_ismail_b@schools.gov.sg](mailto:jamaliah_ismail_b@schools.gov.sg)|
 |1 Empathy|Ms Yvonne Elizabeth Pok Yin Fong|[Yvonne_Pok_Yin_Fong@schools.gov.sg](mailto:Yvonne_Pok_Yin_Fong@schools.gov.sg)|
