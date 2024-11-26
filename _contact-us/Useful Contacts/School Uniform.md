@@ -24,7 +24,8 @@ variant: markdown
 | Time | 2.00p.m. to 4.00p.m. |
 | Payment Mode | Cash and PayNow only |
 
-[Click Here for Uniform Sale Dates](/files/school%20uniforms%20sales%20dates.pdf)
+[Click Here for Uniform Sale Dates](/files/2024_Sales_Dates_for_SBW___Nov_to_Dec.pdf)
+
 
 **Please take note that strictly no trying of&nbsp;&nbsp;uniform.&nbsp;&nbsp;Thank you!**    
 
@@ -36,4 +37,4 @@ Please kindly fill up the following form for name tag orders. Your child will ne
 
 [Application form](/files/School_Name_Tag_Application_Form.pdf)
 
-Last updated : 22/03/2024
+Last updated : 26/11/2024
