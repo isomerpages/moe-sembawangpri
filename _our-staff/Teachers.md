@@ -50,31 +50,33 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |---|---|---|
-|3 Care|Mr Lee Meng Chee, Alvin|[lee_meng_chee_alvin@schools.gov.sg](mailto:lee_meng_chee_alvin@schools.gov.sg)|
-|3 Care|Mdm Liu Hongyan|[liu_hongyan@schools.gov.sg](mailto:liu_hongyan@schools.gov.sg)|
-|3 Empathy|Mr Zhao Zhiyang|[zhao_zhiyang@schools.gov.sg](mailto:zhao_zhiyang@schools.gov.sg)|
-|3 Empathy|Mrs Prakash-Malarvizhi R.|[malarvizhi_ramasamy@schools.gov.sg](mailto:malarvizhi_ramasamy@schools.gov.sg)|
-|3 Gratitude|Ms Awyong Yun Ting|[awyong_yun_ting@schools.gov.sg](mailto:awyong_yun_ting@schools.gov.sg)|
-|3 Gratitude|Mr Tay Kuok Liang Winston |[tay_kuok_liang_winston@schools.gov.sg](mailto:tay_kuok_liang_winston@schools.gov.sg)|
-|3 Integrity|Mdm Srimarlina Bte Mohamed Esa|[srimarlina_mohd_esa@schools.gov.sg](mailto:srimarlina_mohd_esa@schools.gov.sg)|
-|3 Integrity|Ms Tung Bee Geok|[tung_bee_geok@schools.gov.sg](mailto:tung_bee_geok@schools.gov.sg)|
-|3 Resilience|Mr Andi Fatahillah|[andi_fatahillah@schools.gov.sg](mailto:andi_fatahillah@schools.gov.sg)|
-|3 Resilience|Ms Kong Jia Yee|[kong_jia_yee@schools.gov.sg](mailto:kong_jia_yee@schools.gov.sg)|
+|3 Care| Mdm Kalaiyarasi d/o Kalidasan|[kalaiyarasi_kalidasan@schools.gov.sg](mailto:kalaiyarasi_kalidasan@schools.gov.sg)|
+|3 Care| Mdm Goh Lee Huay|[ Goh_Lee_Huay@schools.gov.sg](mailto: Goh_Lee_Huay@schools.gov.sg)|
+|3 Curiosity | Mrs Hazel Boo-Lim Peck Joo|[lim_peck_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg)|
+|3 Curiosity |Ms Loh Marianne Karen||
+|3 Excellence | Ms Jacintha Devi d/o Tamilveeran|[jacintha_devi@schools.gov.sg](mailto:jacintha_devi@schools.gov.sg)|
+|3 Excellence | Ms Kong Jia Yee|[kong_jia_yee@schools.gov.sg](mailto:kong_jia_yee@schools.gov.sg)|
+|3 Gratitude| Ms Mahalakshmi |[mahalakshmi_panneerselvam@schools.gov.sg](mailto:mahalakshmi_panneerselvam@schools.gov.sg)|
+|3 Gratitude| Mr Tan Zuo Hou|[tan_zuo_hou@schools.gov.sg](mailto:tan_zuo_hou@schools.gov.sg)|
+|3 Integrity| Ms Tan Yi Xuan|[tan_yi_xuan@schools.gov.sg](mailto:tan_yi_xuan@schools.gov.sg)|
+|3 Integrity| Mrs Sujith-Subashini G.|[subashini_gopalakrishnan@schools.gov.sg](mailto:subashini_gopalakrishnan@schools.gov.sg)|
+
 
 #### Primary 4
 
 | Class | Form Teachers | Email |
 |---|---|---|
-|4 Care|Ms Tan Siew Bing Joey|[tan_siew_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg)|
-|4 Care|Ms Wang Xinlin|[wang_xinlin@schools.gov.sg](mailto:wang_xinlin@schools.gov.sg)|
-|4 Empathy|Ms Mahalakshmi |[mahalakshmi_panneerselvam@schools.gov.sg](mailto:mahalakshmi_panneerselvam@schools.gov.sg)|
-|4 Empathy|Ms Long Shi Hui|[long_shi_hui@schools.gov.sg](mailto:long_shi_hui@schools.gov.sg)|
-|4 Gratitude|Mr Mohd Noorkhuzaifah Bin Hishamuddin|[Mohammad_Noorkhuzaifah_Hishamuddin@schools.gov.sg](mailto:Mohammad_Noorkhuzaifah_Hishamuddin@schools.gov.sg)|
-|4 Gratitude|Mrs Hazel Boo-Lim Peck Joo|[lim_peck_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg)|
-|4 Integrity|Ms Jacintha Devi d/o Tamilveeran|[jacintha_devi@schools.gov.sg](mailto:jacintha_devi@schools.gov.sg)|
-|4 Integrity|Ms Carine Oh Chew Hoon|[carine_oh_chew_hoon@schools.gov.sg](mailto:carine_oh_chew_hoon@schools.gov.sg)|
-|4 Resilience|Ms Tan Yi Xuan|[tan_yi_xuan@schools.gov.sg](mailto:tan_yi_xuan@schools.gov.sg)|
-|4 Resilience|Mr Tan Zuo Hou|[tan_zuo_hou@schools.gov.sg](mailto:tan_zuo_hou@schools.gov.sg)|
+|4 Care|Mr Lee Meng Chee, Alvin|[lee_meng_chee_alvin@schools.gov.sg](mailto:lee_meng_chee_alvin@schools.gov.sg)|
+|4 Care|Mdm Liu Hongyan|[liu_hongyan@schools.gov.sg](mailto:liu_hongyan@schools.gov.sg)|
+|4 Curiosity |Mr Andi Fatahillah|[andi_fatahillah@schools.gov.sg](mailto:andi_fatahillah@schools.gov.sg)|
+|4 Curiosity | Ms Lian Wei Qi, Jenell|[lian_wei_qi_jenell@schools.gov.sg](mailto:lian_wei_qi_jenell@schools.gov.sg)|
+|4 Excellence |Mr Zhao Zhiyang|[zhao_zhiyang@schools.gov.sg](mailto:zhao_zhiyang@schools.gov.sg)|
+|4 Excellence |Ms M Buvaneswari | [m\_buvaneswari@schools.gov.sg](mailto:m_buvaneswari@schools.gov.sg) |
+|4 Gratitude| Mr Mohd Noorkhuzaifah Bin Hishamuddin|[Mohammad_Noorkhuzaifah_Hishamuddin@schools.gov.sg](mailto:Mohammad_Noorkhuzaifah_Hishamuddin@schools.gov.sg)|
+|4 Gratitude|Mr Tay Kuok Liang Winston |[tay_kuok_liang_winston@schools.gov.sg](mailto:tay_kuok_liang_winston@schools.gov.sg)|
+|4 Integrity|Mdm Srimarlina Bte Mohamed Esa|[srimarlina_mohd_esa@schools.gov.sg](mailto:srimarlina_mohd_esa@schools.gov.sg)|
+|4 Integrity| Mdm Wu Yongyun | [wu\_yongyun@schools.gov.sg](mailto:wu_yongyun@schools.gov.sg) |
+
 
 #### Primary 5
 
