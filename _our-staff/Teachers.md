@@ -82,40 +82,40 @@ variant: markdown
 
 | Class | Form Teachers | Email |
 |---|---|---|
-|5 Care|Ms Heow Tsuey Yan|[heow_tsuey_yan@schools.gov.sg](mailto:heow_tsuey_yan@schools.gov.sg)|
-|5 Care|Mr Choo Kian Guan Ryan|[choo_kian_guan@schools.gov.sg](mailto:choo_kian_guan@schools.gov.sg)|
-|5 Empathy|Ms Seow Pei Yi, Pearlyn|[seow_pei_yi_pearlyn@schools.gov.sg](mailto:seow_pei_yi_pearlyn@schools.gov.sg)|
-|5 Empathy|Ms Nursahila Bte Roszelan|[nursahila_roszelan@schools.gov.sg](mailto:nursahila_roszelan@schools.gov.sg)|
-|5 Empathy|Mdm Wong Mei Fong Shelley|[Wong_Mei_Fong_A@schools.gov.sg](mailto:Wong_Mei_Fong_A@schools.gov.sg)|
-|5 Gratitude|Ms Shaalini d/o Gejendhiran|[shaalini_gejendhiran@schools.gov.sg](mailto:shaalini_gejendhiran@schools.gov.sg)|
-|5 Gratitude|Mr Mohd Saidali B Ali|[mohd_saidali_b_ali@schools.gov.sg](mailto:mohd_saidali_b_ali@schools.gov.sg)|
-|5 Integrity|Mdm Kalaiyarasi d/o Kalidasan|[kalaiyarasi_kalidasan@schools.gov.sg](mailto:kalaiyarasi_kalidasan@schools.gov.sg)|
-|5 Integrity|Mrs Crystal Lee-Cai Wanqin|[cai_wanqin_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg)|
-|5 Resilience|Mr Mohamad Iskandar B Ishak|[mohamad_iskandar_b_ishak@schools.gov.sg](mailto:mohamad_iskandar_b_ishak@schools.gov.sg)|
-|5 Resilience|Mrs Rena Phang-Yong Geok Ping|[yong_geok_ping@schools.gov.sg](mailto:yong_geok_ping@schools.gov.sg)|
-|5 Respect|Mdm Amy Ang Lay Hon|[amy_ang_lay_hon@schools.gov.sg](mailto:amy_ang_lay_hon@schools.gov.sg)|
-|5 Respect|Mr Mohammad Haslam Rahmat|[mohd_haslam@schools.gov.sg](mailto:mohd_haslam@schools.gov.sg)|
+|5 Care| Mr Lim Jeen Perng|[lim_jeen_perng@schools.gov.sg](mailto:lim_jeen_perng@schools.gov.sg)|
+|5 Care| Mdm Dahalia Bte Abbas|[Dahalia_Abbas_A@schools.gov.sg](mailto:Dahalia_Abbas_A@schools.gov.sg)|
+|5 Curiosity | Ms Ruhaida Bte Hashim|[ruhaida_hashim@schools.gov.sg](mailto:ruhaida_hashim@schools.gov.sg)|
+|5 Curiosity | Ms Wang Xinlin | [wang\_xinlin@schools.gov.sg](mailto:wang_xinlin@schools.gov.sg) |
+|5 Excellence | Ms Lee Weiqin | [lee\_weiqin@schools.gov.sg](mailto:lee_weiqin@schools.gov.sg) |
+|5 Excellence | Dr Lai Sze Yee||
+|5 Gratitude|Ms Leong Wei Yee Tracy|[leong_wei_yee@schools.gov.sg](mailto:leong_wei_yee@schools.gov.sg)|
+|5 Gratitude|Mdm Norlin Binte Mansor|[norlin_mansor@schools.gov.sg](mailto:norlin_mansor@schools.gov.sg)|
+|5 Integrity| Ms Long Shi Hui | [long\_shi\_hui@schools.gov.sg](mailto:long_shi_hui@schools.gov.sg) |
+|5 Integrity|Mdm Shadidah Bte Mokhtar|[shadidah_mokhtar@schools.gov.sg](mailto:shadidah_mokhtar@schools.gov.sg)|
+|5 Integrity| Ms Tan Siew Bing Joey | [tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) |
+|5 Resilience |Mdm Sharmila Singh|[sharmila_singh@schools.gov.sg](mailto:sharmila_singh@schools.gov.sg)|
+|5 Resilience |Mr Ng Wei Da|[ng_wei_da@schools.gov.sg](mailto:ng_wei_da@schools.gov.sg)|
+|5 Resilience | Mrs Chitra Pillay Chua | [chitra\_pillay\_chua@moe.edu.sg](mailto:chitra_pillay_chua@moe.edu.sg) |
+
 
 #### Primary 6
 
 | Class | Form Teachers | Email |
 |---|---|---|
-|6 Care|Mrs Vivien Seah-Zee Chung Lah|[zee_chung_lah@schools.gov.sg](mailto:zee_chung_lah@schools.gov.sg)|
-|6 Care|Mr Xie Meng Hui|[xie_meng_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg)|
-|6 Empathy|Mr Lim Teck Huat|[lim_teck_huat_a@schools.gov.sg](mailto:lim_teck_huat_a@schools.gov.sg)|
-|6 Empathy|Ms Ganda Sari Binte Chokri|[ganda_sari_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg)|
-|6 Gratitude|Ms Leong Wei Yee Tracy|[leong_wei_yee@schools.gov.sg](mailto:leong_wei_yee@schools.gov.sg)|
-|6 Gratitude|Mdm Norlin Binte Mansor|[norlin_mansor@schools.gov.sg](mailto:norlin_mansor@schools.gov.sg)|
-|6 Integrity|Mr Lim Jeen Perng|[lim_jeen_perng@schools.gov.sg](mailto:lim_jeen_perng@schools.gov.sg)|
-|6 Integrity|Mdm Shadidah Bte Mokhtar|[shadidah_mokhtar@schools.gov.sg](mailto:shadidah_mokhtar@schools.gov.sg)|
-|6 Integrity|Ms Chitra Pillay Chua|[Chitra_Pillay_Chua@schools.gov.sg](mailto:Chitra_Pillay_Chua@schools.gov.sg)|
-|6 Resilience|Ms Ruhaida Bte Hashim|[ruhaida_hashim@schools.gov.sg](mailto:ruhaida_hashim@schools.gov.sg)|
-|6 Resilience|Ms Lian Wei Qi, Jenell|[lian_wei_qi_jenell@schools.gov.sg](mailto:lian_wei_qi_jenell@schools.gov.sg)|
-|6 Respect|Ms Chan Hui Yu Sharon|[chan_hui_yu_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg)|
-|6 Respect|Mrs Sujith-Subashini G.|[subashini_gopalakrishnan@schools.gov.sg](mailto:subashini_gopalakrishnan@schools.gov.sg)|
-|6 Responsibility|Mdm Sharmila Singh|[sharmila_singh@schools.gov.sg](mailto:sharmila_singh@schools.gov.sg)|
-|6 Responsibility|Mr Ng Wei Da|[ng_wei_da@schools.gov.sg](mailto:ng_wei_da@schools.gov.sg)|
-|6 Responsibility|Mdm Dahalia Bte Abbas|[Dahalia_Abbas_A@schools.gov.sg](mailto:Dahalia_Abbas_A@schools.gov.sg)|
+|6 Care| Mrs Vivien Seah-Zee Chung Lah|[zee_chung_lah@schools.gov.sg](mailto:zee_chung_lah@schools.gov.sg)|
+|6 Care|Ms Heow Tsuey Yan|[heow_tsuey_yan@schools.gov.sg](mailto:heow_tsuey_yan@schools.gov.sg)|
+|6 Curiosity | Ms Chan Hui Yu Sharon|[chan_hui_yu_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg)|
+|6 Curiosity |Mr Mohammad Haslam Rahmat|[mohd_haslam@schools.gov.sg](mailto:mohd_haslam@schools.gov.sg)|
+|6 Curiosity |Mr Yang Binglin |[yang_binglin@schools.gov.sg](mailto:yang_binglin@schools.gov.sg)|
+|6 Excellence | Mr Lim Teck Huat|[lim_teck_huat_a@schools.gov.sg](mailto:lim_teck_huat_a@schools.gov.sg)|
+|6 Excellence |Ms Nursahila Bte Roszelan|[nursahila_roszelan@schools.gov.sg](mailto:nursahila_roszelan@schools.gov.sg)|
+|6 Gratitude| Ms Seow Pei Yi, Pearlyn|[seow_pei_yi_pearlyn@schools.gov.sg](mailto:seow_pei_yi_pearlyn@schools.gov.sg)|
+|6 Gratitude|Mr Mohd Saidali B Ali|[mohd_saidali_b_ali@schools.gov.sg](mailto:mohd_saidali_b_ali@schools.gov.sg)|
+|6 Integrity|Mrs Crystal Lee-Cai Wanqin|[cai_wanqin_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg)|
+|6 Integrity| Mr Xie Meng Hui | [xie\_meng\_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg) |
+|6 Resilience|Mr Mohamad Iskandar B Ishak|[mohamad_iskandar_b_ishak@schools.gov.sg](mailto:mohamad_iskandar_b_ishak@schools.gov.sg)|
+|6 Resilience|Mrs Rena Phang-Yong Geok Ping|[yong_geok_ping@schools.gov.sg](mailto:yong_geok_ping@schools.gov.sg)|
+
 
 #### Other Teaching Staff
 
