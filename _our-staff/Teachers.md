@@ -11,19 +11,20 @@ variant: markdown
 | Class | Form Teachers | Email |
 |---|---|---|
 |1 Care|Mr Tay Eng Wee Mike|[tay_eng_wee@schools.gov.sg](mailto:tay_eng_wee@schools.gov.sg)|
-|1 Care|Mdm Lillian Tan Li Noi|[tan_li_noi_lillian@schools.gov.sg](mailto:tan_li_noi_lillian@schools.gov.sg)|
-|1 Empathy|Mdm Jamaliah Binte Ismail|[jamaliah_ismail_b@schools.gov.sg](mailto:jamaliah_ismail_b@schools.gov.sg)|
-|1 Empathy|Ms Yvonne Elizabeth Pok Yin Fong|[Yvonne_Pok_Yin_Fong@schools.gov.sg](mailto:Yvonne_Pok_Yin_Fong@schools.gov.sg)|
-|1 Gratitude|Mr Kelvin Toh Chong Han|[toh_chong_han_kelvin@schools.gov.sg](mailto:toh_chong_han_kelvin@schools.gov.sg)|
-|1 Gratitude|Mdm Insyirah Binti Mohamad Ali|[insyirah_mohamad_ali@schools.gov.sg](mailto:insyirah_mohamad_ali@schools.gov.sg)|
-|1 Integrity|Ms Khalisah Bte Kamisan|[khalisah_kamisan@schools.gov.sg](mailto:khalisah_kamisan@schools.gov.sg)|
-|1 Integrity|Mdm Zheng Hongyu|[zheng_hongyu@schools.gov.sg](mailto:zheng_hongyu@schools.gov.sg)|
-|1 Resilience|Mdm Nor Afidah Binte Jaafar|[nor_afidah_jaafar@schools.gov.sg](mailto:nor_afidah_jaafar@schools.gov.sg)|
-|1 Resilience|Ms Chan Mun Jeeng Dana|[chan_mun_jeeng_dana@schools.gov.sg](mailto:chan_mun_jeeng_dana@schools.gov.sg)|
-|1 Respect|Mdm Khadijah Bte Ahmad|[khadijah_ahmad_a@schools.gov.sg](mailto:khadijah_ahmad_a@schools.gov.sg)|
-|1 Respect|Mr Tay Eng Wee Mike|[tay_eng_wee@schools.gov.sg](mailto:tay_eng_wee@schools.gov.sg)|
-|1 Responsibility|Mdm Siti Fatihah Bte Yazid Khan S Surattee|[siti_fatihah_yazid_khan@schools.gov.sg](mailto:siti_fatihah_yazid_khan@schools.gov.sg)|
-|1 Responsibility|Ms M Buvaneswari|[m_buvaneswari@schools.gov.sg](mailto:m_buvaneswari@schools.gov.sg)|
+|1 Care|Mdm Suritha Banu d/o Mohd Shah||
+|1 Curiosity | Ms Nur Qistina Binte Abdul Wahid|[nur_qistina_abdul_wahid@schools.gov.sg](mailto:nur_qistina_abdul_wahid@schools.gov.sg)|
+|1 Curiosity | Mr Adrian Chong Yew Chin|[chong_yew_chin_adrian@schools.gov.sg](mailto:chong_yew_chin_adrian@schools.gov.sg)|
+|1 Excellence | Mdm Tan Lee Kiang Diane|[tan_lee_kiang_a@schools.gov.sg](mailto:tan_lee_kiang_a@schools.gov.sg)|
+|1 Excellence | Mdm Nor Aslinda Bte Mohd Saleh||
+|1 Gratitude | Mdm Michelle Tamarai d/o Joseph|[tamarai_joseph@schools.gov.sg](mailto:tamarai_joseph@schools.gov.sg)|
+|1 Gratitude | Ms Ganda Sari Binte Chokri|[ganda_sari_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg)|
+|1 Integrity | Ms Nurul Syahidah Binte Bahari|[nurul_syahidah_bahari@schools.gov.sg](mailto:nurul_syahidah_bahari@schools.gov.sg)|
+|1 Integrity | Mdm Low Lay Hang Theophania (Fanny)|[Low_Lay_Hang_Theophania@schools.gov.sg](mailto:Low_Lay_Hang_Theophania@schools.gov.sg)|
+|1 Resilience | Ms Noorhuda Amalina Binte Ab Rahman|[noorhuda_amalina_ab_rahman@schools.gov.sg](mailto:noorhuda_amalina_ab_rahman@schools.gov.sg)|
+|1 Resilience | Ms Yvonne Elizabeth Pok Yin Fong|[Yvonne_Pok_Yin_Fong@schools.gov.sg](mailto:Yvonne_Pok_Yin_Fong@schools.gov.sg)|
+|1 Respect | Mrs Sundram-R Megala|[r_megala@schools.gov.sg](mailto:r_megala@schools.gov.sg)|
+|1 Respect |Mdm Lediana Bte Mohamed Said|[lediana_mohamed_said@schools.gov.sg](mailto:lediana_mohamed_said@schools.gov.sg)|
+
 
 #### Primary 2
 
