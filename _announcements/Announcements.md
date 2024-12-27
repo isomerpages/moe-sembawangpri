@@ -55,6 +55,6 @@ QR codes below</p>
 <p></p>
 <p><strong>Sembawang Buzz</strong>
 </p>
-<p>Click <a href="https://www.sembawangpri.moe.edu.sg/for-parents/school-newsletter/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="https://www.sembawangpri.moe.edu.sg/for-parents/sembawang-buzz/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the latest edition of Sembawang Buzz.</p>
 <p>Last Updated : 15/11/2024</p>
