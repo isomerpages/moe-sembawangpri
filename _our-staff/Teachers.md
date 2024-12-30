@@ -23,7 +23,7 @@ variant: markdown
 |1 Resilience | Ms Noorhuda Amalina Binte Ab Rahman|[noorhuda_amalina_ab_rahman@schools.gov.sg](mailto:noorhuda_amalina_ab_rahman@schools.gov.sg)|
 |1 Resilience | Ms Yvonne Elizabeth Pok Yin Fong|[Yvonne_Pok_Yin_Fong@schools.gov.sg](mailto:Yvonne_Pok_Yin_Fong@schools.gov.sg)|
 |1 Respect | Mrs Sundram-R Megala|[r_megala@schools.gov.sg](mailto:r_megala@schools.gov.sg)|
-|1 Respect |[lediana_mohamed_said@schools.gov.sg](mailto:lediana_mohamed_said@schools.gov.sg)|
+|1 Respect |Mdm Lediana Bte Mohamed Said|[lediana_mohamed_said@schools.gov.sg](mailto:lediana_mohamed_said@schools.gov.sg)|
 
 
 #### Primary 2
@@ -121,17 +121,10 @@ variant: markdown
 
 | Teacher   | Email     |
 |---|---|
-|Mr Chia Chin Ooi Calvin|[chia_chin_ooi_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg)|
-|Mdm Noraida Binte Wagimin|[noraida_wagimin@schools.gov.sg](mailto:noraida_wagimin@schools.gov.sg)|
-|Mdm Ratna Dewi A K Magnus|[ratna_dewi@schools.gov.sg](mailto:ratna_dewi@schools.gov.sg)|
-|Ms Soh Bee Peng Vernice|[soh_bee_peng@schools.gov.sg](mailto:soh_bee_peng@schools.gov.sg)|
-Ms Nuremiliyana Suhaidi | [nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg) |
 | Ms Afiqah Binte Abdul Samad | [afiqah\_binte\_abdul\_samad@schools.gov.sg](mailto:afiqah_binte_abdul_samad@schools.gov.sg) |
 Ms Awyong Yun Ting | [awyong\_yun\_ting@schools.gov.sg](mailto:awyong_yun_ting@schools.gov.sg) |
-|Mdm Chan Bee Bee, May|[](mailto:)|
 |Mdm Chin Shu Fei|[chin_shu_fei_a@schools.gov.sg](mailto:chin_shu_fei_a@schools.gov.sg)|
 |Mr Lim Sok Kung (Jackie)|[lim_sok_kung_a@schools.gov.sg](mailto:lim_sok_kung_a@schools.gov.sg)|
-|Mr Ong Jin Cheng||
 |Ms Tan Lay Huay||
 |Mr Felix Tiong Ing Shui||
 |Mdm Vikneshwari d/o Kunusegaran||
@@ -139,4 +132,4 @@ Ms Awyong Yun Ting | [awyong\_yun\_ting@schools.gov.sg](mailto:awyong_yun_ting@s
 
 
 
-Last updated : 27/12/2024
+Last updated : 30/12/2024
