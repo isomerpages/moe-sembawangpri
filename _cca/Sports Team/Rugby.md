@@ -38,11 +38,9 @@ to become more resilient, disciplined and confident.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Mr Mohammad Haslam Rahmat
-<br>Mr Kelvin Toh Chong Han
-<br>Mdm Kalaiyarasi d/o Kalidasan
-<br>Ms Chan Mun Jeeng Dana</p>
+<p>Mr Mohammad Haslam Rahmat</p>
+<p>Mr Kelvin Toh Chong Han</p>
+<p>Mr Mohamad Iskandar B Ishak</p>
 </td>
 </tr>
 <tr>
@@ -63,10 +61,9 @@ to become more resilient, disciplined and confident.</p>
 </p>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Rugby_2.jpg">
 </div>
 <p><em>Senior Team</em>
 </p>
-<p>Last updated: 27/07/2024</p>
+<p>Last updated: 03/01/2025</p>
