@@ -56,10 +56,10 @@ the CCA sessions on a rotational basis.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andi Fatahillah
-<br>Ms Ong Jia Hui
-<br>Ms Awyong Yunting
-<br>Ms Carine Oh Chew Hoon</p>
+<p>Mr Andi Fatahillah</p>
+<p>Ms Carine Oh Chew Hoon</p>
+<p>Ms Mahalakshmi</p>
+<p>Ms Chan Hui Yu Sharon</p>
 </td>
 </tr>
 <tr>
@@ -79,4 +79,4 @@ the CCA sessions on a rotational basis.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9A0NdnVeoJ0"></iframe>
 </div>
 <p></p>
-<p>Last updated: 31/05/2024</p>
+<p>Last updated: 03/01/2025</p>

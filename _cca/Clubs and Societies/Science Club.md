@@ -37,11 +37,9 @@ habits of mind and attitudes necessary for scientific inquiry.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Hui Yu Sharon
+<p>Mr Zhao Zhiyang
 <br>Ms Long Shi Hui
-<br>Mr Zhao Zhiyang
-<br>
-</p>
+<br>Ms Seow Pei Yi, Pearlyn</p>
 </td>
 </tr>
 <tr>
@@ -158,4 +156,4 @@ conservation.
 <br>(R) A digitally drawn card presented to Dr Ang in appreciation of her
 inspiring talk.</p>
 <p></p>
-<p>Last updated : 03/06/2024</p>
+<p>Last updated : 03/01/2025</p>
