@@ -10,7 +10,11 @@ variant: tiptap
 not only dancing but also the movements specific to the Chinese dance and
 culture. These budding dancers will have opportunities to perform their
 talent in public.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -34,8 +38,7 @@ talent in public.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kong Jia Yee
-<br>Ms Lian Wei Qi, Jenell
-<br>Mdm Zheng Hongyu</p>
+<br>Ms Lian Wei Qi, Jenell</p>
 </td>
 </tr>
 <tr>
@@ -78,4 +81,4 @@ to cherish every little moment!</p>
 </div>
 <p></p>
 <p></p>
-<p>Last updated : 02/05/2024</p>
+<p>Last updated : 03/01/2025</p>
