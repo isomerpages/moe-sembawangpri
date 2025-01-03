@@ -87,7 +87,7 @@ variant: markdown
 |5 Curiosity | Ms Ruhaida Bte Hashim|[ruhaida_hashim@schools.gov.sg](mailto:ruhaida_hashim@schools.gov.sg)|
 |5 Curiosity | Ms Wang Xinlin | [wang\_xinlin@schools.gov.sg](mailto:wang_xinlin@schools.gov.sg) |
 |5 Excellence | Ms Lee Weiqin | [lee\_weiqin@schools.gov.sg](mailto:lee_weiqin@schools.gov.sg) |
-|5 Excellence | Dr Lai Sze Yee|[lye_sze_yee@schools.gov.sg](mailto:lye_sze_yee@schools.gov.sg)|
+|5 Excellence | Dr Lye Sze Yee|[lye_sze_yee@schools.gov.sg](mailto:lye_sze_yee@schools.gov.sg)|
 |5 Gratitude|Ms Leong Wei Yee Tracy|[leong_wei_yee@schools.gov.sg](mailto:leong_wei_yee@schools.gov.sg)|
 |5 Gratitude|Mdm Norlin Binte Mansor|[norlin_mansor@schools.gov.sg](mailto:norlin_mansor@schools.gov.sg)|
 |5 Integrity| Ms Long Shi Hui | [long\_shi\_hui@schools.gov.sg](mailto:long_shi_hui@schools.gov.sg) |
@@ -132,4 +132,4 @@ Ms Awyong Yun Ting | [awyong\_yun\_ting@schools.gov.sg](mailto:awyong_yun_ting@s
 
 
 
-Last updated : 30/12/2024
+Last updated : 03/01/2025
