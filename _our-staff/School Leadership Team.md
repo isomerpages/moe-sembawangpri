@@ -23,7 +23,7 @@ variant: markdown
 | Science | Mr Ng Wei Da<br>[Ng\_WEI\_DA@schools.gov.sg](mailto:Ng_WEI_DA@schools.gov.sg) |
 | Mother Tongue Languages |  Mr Xie Meng Hui<br>[xie\_meng\_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg) |
 | Character and Citizenship Education  | Ms Ganda Sari Binte Chokri <br>[ganda\_sari\_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg) 	|
-| Information and Communications Technology | Dr Lai Sze Yee<br> [lye_sze_yee@schools.gov.sg](mailto:lye_sze_yee@schools.gov.sg)|
+| Information and Communications Technology | Dr Lye Sze Yee<br> [lye_sze_yee@schools.gov.sg](mailto:lye_sze_yee@schools.gov.sg)|
 | School Staff Developer | Mr Tan Zuo Hou<br>[tan\_zuo\_hou@schools.gov.sg](mailto:tan_zuo_hou@schools.gov.sg) |
 | Student Management 	| Mr Calvin Chia Chin Ooi<br>[chia\_chin\_ooi\_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg)
 | Year Head (Upper Primary) | Mr Yang Binglin<br>[yang\_binglin@schools.gov.sg](mailto:yang_binglin@schools.gov.sg) |
@@ -46,4 +46,4 @@ variant: markdown
 | Assistant Year Head (Middle Primary) 	| Mrs Hazel Boo-Lim Peck Joo<br>[lim\_peck\_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg)<br> 	|
 | Assistant Year Head (Lower Primary) 	| Ms Nuremiliyana Suhaidi<br>[nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg)<br> 	|
 
-Last updated : 30/12/2024
+Last updated : 06/01/2024
