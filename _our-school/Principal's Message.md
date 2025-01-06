@@ -2,24 +2,37 @@
 title: Principal's Message
 permalink: /our-school/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Dear Parents and Students,
-
-Welcome to Sembawang Primary School. We are dedicated to creating a nurturing learning environment that cultivates innovative thinkers and instills strong values in our students.
-
-Our vision of "Innovative Learners, Rooted in Values" serves as the foundation of our educational approach. We are committed to nurturing students who excel in critical and creative thinking, while also embodying principles of care, gratitude, integrity, curiosity, excellence, and resilience.
-
-Our mission of "Nurturing Innovators in a Vibrant Community" underscores our dedication to providing a dynamic and inclusive space for our students to explore, innovate, and collaborate. The motto "The Best from Me" encapsulates our belief in empowering each student to strive for excellence and contribute their best to the community.
-
-At Sembawang Primary, we are guided by the philosophy of providing a holistic education that fosters the joy of learning in a safe and caring environment. We believe in nurturing the whole child, ensuring that every student has the opportunity to thrive academically, socially, and emotionally.
-
-This year, our focus will be on continuing to develop student agency. We want to empower our students to take ownership of their learning journey, fostering independence, and instilling a sense of responsibility and initiative. Together, let us continue to build a community where every student can reach their full potential and contribute positively to the world.
-
-Yours in education,
-
-Mr. Ng Aik Boon
-
-
-
-Last updated : 11/03/2024
+<p>Welcome to Sembawang Primary School!</p>
+<p>In 2024, we reviewed our school's strategic directions and goals, incorporating
+feedback from staff, students and parents, and aligning with MOE's key
+direction to prepare students for the future of learning.</p>
+<p>Our revised vision, "<strong><em>Future-Ready Learners, Rooted in Values</em></strong>",
+is the cornerstone of our educational approach. We aim to nurture reflective
+contributors and compassionate leaders who are confident, self-directed,
+and able to thrive in a rapidly changing, interconnected world. Our students
+are grounded in our school values: care, gratitude, integrity, curiosity,
+excellence and resilience.</p>
+<p>Our revised mission, "<strong><em>Nurturing Future-Ready Learners in a Vibrant Community</em></strong>",
+reflects our commitment to holistic education through a dynamic and enabling
+environment. Our motto, "The Best from Me", embodies our belief in empowering
+each student to strive for excellence and contribute meaningfully to society.</p>
+<p>We bring these to life through innovative teaching methods, a rich curriculum,
+and diverse co-curricular activities. Our dedicated educators employ student-centric
+approaches, leveraging technology and real-world experiences to cultivate
+critical thinking, creativity, and collaboration skills. We also emphasise
+character development and values education, ensuring our students are well-prepared
+for the challenges and opportunities of the future</p>
+<p>In Sembawang Primary, we provide a holistic education that fosters the
+joy of learning in a safe, caring environment. We nurture the whole child,
+ensuring every student thrives academically, socially and emotionally.
+Our focus remains on developing student agency, empowering learners to
+take ownership of their journey and cultivate independence, responsibility
+and initiative.</p>
+<p>We invite you to explore our website to discover our programmes, initiatives
+and student achievements. Together, let's build a community where every
+student is inspired to reach their full potential and make a positive impact
+on the world.</p>
+<p>Yours in education,</p>
+<p>Mr Ng Aik Boon</p>
