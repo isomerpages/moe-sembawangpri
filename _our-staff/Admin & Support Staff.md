@@ -10,7 +10,7 @@ variant: markdown
 |:---:|---|
 | **Administration Manager** | Ms Lim Siew Hwa, Agnes<br>[LIM\_Siew\_Hwa@schools.gov.sg](mailto:LIM_Siew_Hwa@schools.gov.sg) |
 | **Operations Manager** | Mr Muhammed Yusry Bin Ahmad<br>[muhammed\_yusry\_ahmad@schools.gov.sg](mailto:muhammed_yusry_ahmad@schools.gov.sg) |
-| **ICT Manager** | Mr Zairee Bin Sallai<br>[zairee\_sallai@schools.gov.sg](mailto:zairee_sallai@schools.gov.sg) |
+| **ICT Manager** | Mr Zairee Bin Sallai<br>[zairee\_sallai@moe.edu.sg](mailto:zairee_sallai@schools.gov.sg) |
 | **Adjunct Administrative Executives** | Ms Nurmasrifa Binte Shukor<br>[nurmasrifa\_shukor@schools.gov.sg](mailto:nurmasrifa_shukor@schools.gov.sg) <br> <br>Mdm Ong Lay Tin Helen<br>[ong\_lay\_tin@schools.gov.sg](mailto:ong_lay_tin@schools.gov.sg)  |
 | **Administrative Executive<br>(MOE Kindergarten)** | Mdm Chu Poh Hoon Jenny<br>[chu\_poh\_hoon@schools.gov.sg](mailto:chu_poh_hoon@schools.gov.sg)<br>  |
 | **Corporate Support Officers** | Mdm Nor'Asikin Abrahim<br>[Nor\_Asikin\_ABRAHIM@schools.gov.sg](mailto:Nor_Asikin_ABRAHIM@schools.gov.sg)<br>         <br>Ms Emily Tang Li Peng<br>[tang\_li\_peng@schools.gov.sg](mailto:tang_li_peng@schools.gov.sg)<br>  |
