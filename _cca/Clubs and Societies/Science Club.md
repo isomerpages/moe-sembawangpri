@@ -55,6 +55,13 @@ habits of mind and attitudes necessary for scientific inquiry.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>Science &amp; Green Club CCA Schedule</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sem1_Schedule.png">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" src="/images/sci2-2023.jpg">
 </div>
@@ -156,4 +163,4 @@ conservation.
 <br>(R) A digitally drawn card presented to Dr Ang in appreciation of her
 inspiring talk.</p>
 <p></p>
-<p>Last updated : 03/01/2025</p>
+<p>Last updated : 10/01/2025</p>
