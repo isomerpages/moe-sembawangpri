@@ -17,11 +17,12 @@ Competition which requires them to make use of logical thinking.</p>
 </p>
 <p>Due to the safety management measures in place, students will be attending
 the CCA sessions on a rotational basis.</p>
-<p><strong>2024 ICT Club CCA Schedule</strong>
+<p></p>
+<p><strong>2025 ICT Club CCA Schedule</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Sem2_Schedule.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sem1_Schedule.png">
 </div>
 <table style="width: 0px">
 <colgroup></colgroup>
@@ -79,4 +80,4 @@ the CCA sessions on a rotational basis.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9A0NdnVeoJ0"></iframe>
 </div>
 <p></p>
-<p>Last updated: 03/01/2025</p>
+<p>Last updated: 10/01/2025</p>
