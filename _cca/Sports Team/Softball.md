@@ -47,9 +47,9 @@ their best to help you develop to the best softballer that you can be.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday: 2.15 p.m. – 4.15 p.m.
+<p>Tuesday: 2.15 p.m. – 4.45 p.m.
 <br>
-<br>Friday: 2.15 p.m. – 5.15 p.m.</p>
+<br>Thursday: 2.15 p.m. – 4.45 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -95,4 +95,4 @@ their best to help you develop to the best softballer that you can be.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HRqVf1_mKmw"></iframe>
 </div>
-<p>Last updated: 03/01/2025</p>
+<p>Last updated: 16/01/2025</p>
