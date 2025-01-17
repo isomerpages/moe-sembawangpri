@@ -83,14 +83,15 @@ themselves safe from sexuality-related risks.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20Logo%20Black%20and%20White.jpg">
 </div>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_CCE_Sed.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Growing_Years_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_CCE_SED_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Growing_Years_2.png">
 </div>
 <p></p>
 <p><strong>INFORMATION FOR PARENTS</strong>
