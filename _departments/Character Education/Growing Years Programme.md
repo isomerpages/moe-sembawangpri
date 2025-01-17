@@ -92,17 +92,17 @@ themselves safe from sexuality-related risks.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_CCE_SED_3.png">
 </div>
-<p><strong>Information for Parents</strong>
+<p></p>
+<p><strong>INFORMATION FOR PARENTS</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents may opt their
-children out of Sexuality Education lessons, and/or supplementary Sexuality
-Education programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to
-opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by 31/01/2024.</p>
-<p>10.&nbsp; &nbsp;Parents can contact the school at <a href="mailto:sembawang_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sembawang_ps@moe.edu.sg</a> or 67567330
-for discussion or to seek clarification about the school’s Sexuality Education
+<p>8. Parents may opt their children out of Sexuality Education lessons,
+and/or supplementary Sexuality Education programmes by MOE-approved external
+providers.</p>
+<p>9. Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and can be accessed <a href="https://go.gov.sg/3yxpgd" rel="noopener nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 24/01/2025.</p>
+<p>10. Parents can contact the school at Tel No: 67567330 or email: <a href="mailto:sembawang_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sembawang_ps@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 <p>Last updated : 17/01/2025</p>
