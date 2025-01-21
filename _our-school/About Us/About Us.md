@@ -13,24 +13,20 @@ We believe in providing a holistic education to help every child discover joy of
   
 **SCHOOL VISION**
 
-***Innovative Learners, Rooted in Values*** 
+*Future-Ready Learners, Rooted in Values*
 
-We define innovative learners as students and staff who are proactive, and dare to take risks to solve problems and add value to self, others and community. Rooted in values means to embrace and live out the core values in our daily lives. The school desires to see all learners rooted in relational and functional values. 
+Future-ready learners are reflective contributors and compassionate leaders. They are confident and self-directed individuals who are able to thrive in a rapidly changing and highly interconnected world. Learners who are rooted in values embrace and live out the school values in their daily lives. School desires to see all our learners being steadfast and unwavering in demonstrating these values
 
 **SCHOOL MISSION**
 
-***Nurturing Innovators in a Vibrant Community***
+*Nurturing Future-Ready Learners in a Vibrant Community*
 
-Nurturing Innovators signifies a continuous process. We nurture innovators in a Vibrant Community through 
+We nurture future-ready learners by providing holistic education with innovative, effective pedagogies and cultivating a Growth Mindset in our students. A vibrant community makes learning an adventure and promotes student agency. We achieve this through designing, creating, and building (a) a caring and enabling environment,  (b) engaging learning experiences and spaces, and  (c) meaningful collaboration with key stakeholders and partners.
 
-* Cultivating a growth mindset in our students and staff
-* Designing learning experiences and spaces that encourage exploration and empower learners’ voices
-* Providing holistic education with innovative &amp; effective pedagogies
-* Building quality relationships with our students, staff, stakeholders and communities
 
 **SCHOOL MOTTO**
 
-THE BEST FROM ME.
+The best from me
 
 **SCHOOL VALUES**
   
@@ -47,4 +43,4 @@ Relational values are needed to build quality relationships with others; Functio
 ![](/images/mural2.png)
 
 
-Last updated :17/04/2024
+Last updated :21/01/2025
