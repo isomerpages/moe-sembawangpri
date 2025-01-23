@@ -78,13 +78,9 @@ in their growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.&nbsp;</p>
-<p><strong>At Sembawang Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE%20Logo%20Black%20and%20White.jpg">
-</div>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
+<p>At Sembawang Primary School, the following Sexuality Education lessons
+will be taught in 2025:</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Growing_Years_1.png">
@@ -101,9 +97,8 @@ and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and can be accessed <a href="https://go.gov.sg/3yxpgd" rel="noopener nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by 24/01/2025.</p>
+to parents at the start of the year and can be accessed <a href="https://go.gov.sg/3yxpgd" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>10. Parents can contact the school at Tel No: 67567330 or email: <a href="mailto:sembawang_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sembawang_ps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p>Last updated : 17/01/2025</p>
+<p>Last updated : 23/01/2025</p>
