@@ -1,6 +1,6 @@
 ---
 title: Growing Years Programme
-permalink: /departments/Character-Education/growing-years-programme/
+permalink: /for-parents/growing-years-programme/
 description: ""
 variant: tiptap
 ---
