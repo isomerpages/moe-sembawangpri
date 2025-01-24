@@ -2,8 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Student Care Services.md
-      - Growing Years Programme.md
       - 2024 Speech Day.md
       - Briefing for parents.md
       - Letters to Parents.md
@@ -12,8 +10,10 @@ collections:
       - Parents Support Group/Join Us!.md
       - Parents Support Group/Primary 3 Learning Journey.md
       - Parenting Programme.md
+      - Student Care Services.md
       - Parents Gateway.md
       - Photography and Videography.md
       - Safe Management Measures.md
       - Sembawang Buzz.md
       - Student Learning Space.md
+      - Growing Years Programme.md
