@@ -40,7 +40,7 @@ yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best
 protection against STIs/HIV and unintended pregnancies. Casual sex can
 harm and hurt you and your loved ones.</p>
-<p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on MOE Sexuality Education.</p>
 <p></p>
 <p><strong>OVERVIEW OF SEMBAWANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
