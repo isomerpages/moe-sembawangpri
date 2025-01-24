@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Growing Years Programme.md
       - 2024 Speech Day.md
       - Briefing for parents.md
       - Letters to Parents.md
