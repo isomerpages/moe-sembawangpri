@@ -6,15 +6,11 @@ variant: markdown
 ---
 | Level | Slides | 
 | -------- | -------- | 
-| Primary 1 |[SBPS P1 Mass Briefing For Parents 2024](/files/P_s_Address_and_Mass_Briefing_to_P1_Parents_2024.pdf) |
-| Primary 1 | [SBPS P1 Briefing For Parents -  English 2024](/files/Briefing_for_P1_Parents_2024_English_Language.pdf)
-| Primary 1 |[SBPS P1 Briefing For Parents -  Mathematics 2024](/files/Briefing_for_P1_Parents_2024_Mathematics.pdf) |
-| Primary 1 |[SBPS P1 Briefing For Parents -  Mother Tongue 2024](/files/Briefing_for_P1_Parents_2024_Mother_Tongue_Languages.pdf)
-| Primary 1 | [SBPS P1 Briefing For Parents -  Student Management 2024](/files/Briefing_for_P1_Parents_2024_Student_Management_Matters.pdf)
-| Primary 2|[SBPS P2 Briefing For Parents 2024](/files/P2_Breakfast_with_Principal_2024.pdf)|
-| Primary 3 |[SBPS P3 Briefing For Parents 2024](/files/2024_P3_Briefing_For_Parents_11_Jan.pdf) |
-| Primary 4 |[SBPS P4 Briefing For Parents 2024](/files/2024_P4_Briefing_For_Parents_12_Jan.pdf) |
-| Primary 5 |[SBPS P5 Briefing For Parents 2024](/files/P5_Breakfast_with_Principal_2024.pdf) |
-| Primary 6 |[SBPS P6 Briefing For Parents 2024](/files/P6_Breakfast_with_Principal_2024.pdf) |
+| Primary 1 | [2025 SBPS Parents Briefing (P1)]([](/files/2025_SBPS_Parents_Briefing__P1_.pdf))
+| Primary 2|[2025 SBPS Parents Briefing (P2)]([](/files/2025_SBPS_Parents_Briefing__P2_.pdf))|
+| Primary 3 |[2025 SBPS Parents Briefing (P3)]([](/files/2025_SBPS_Parents_Briefing__P3__.pdf)) |
+| Primary 4 |[2025 SBPS Parents Briefing (P4)]([](/files/2025_SBPS_Parents_Briefing__P4__.pdf)) |
+| Primary 5 |[2025 SBPS Parents Briefing (P5)]([](/files/2025_SBPS_Parents_Briefing__P5_.pdf)) |
+| Primary 6 |[2025 SBPS Parents Briefing (P6)]([](/files/2025_SBPS_Parents_Briefing__P6_.pdf)) |
 
-Last updated : 24/01/2024
+Last updated : 28/01/2025
