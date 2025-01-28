@@ -2,19 +2,19 @@ collections:
   for-parents:
     output: true
     order:
-      - Supporting Your Child at Home.md
       - 2024 Speech Day.md
       - Briefing for parents.md
+      - Growing Years Programme.md
       - Letters to Parents.md
+      - Parents Gateway.md
       - Parents Support Group/.keep
       - Parents Support Group/PSG exco members.md
       - Parents Support Group/Join Us!.md
       - Parents Support Group/Primary 3 Learning Journey.md
       - Parenting Programme.md
-      - Student Care Services.md
-      - Parents Gateway.md
       - Photography and Videography.md
       - Safe Management Measures.md
       - Sembawang Buzz.md
+      - Student Care Services.md
       - Student Learning Space.md
-      - Growing Years Programme.md
+      - Supporting Your Child at Home.md
