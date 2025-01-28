@@ -57,7 +57,7 @@ to let them carry out their life mission.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Red_cross_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Red_Cross.png">
 </div>
 <p><strong>Other photos</strong>
 </p>
@@ -67,4 +67,4 @@ to let them carry out their life mission.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AlEF0oLrgHw"></iframe>
 </div>
-<p>Last updated: 03/01/2025</p>
+<p>Last updated: 28/01/2025</p>
