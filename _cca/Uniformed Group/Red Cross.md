@@ -50,7 +50,7 @@ to let them carry out their life mission.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science Rooms &amp; Level 1 Classrooms</p>
+<p>3 Integrity classroom</p>
 </td>
 </tr>
 </tbody>
@@ -67,4 +67,4 @@ to let them carry out their life mission.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AlEF0oLrgHw"></iframe>
 </div>
-<p>Last updated: 28/01/2025</p>
+<p>Last updated: 31/01/2025</p>
