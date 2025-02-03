@@ -36,4 +36,4 @@ binte Hazali</p>
 <p>For more information on QSF The Enablers, please visit: <a href="https://qsfte.qsfirst.sg/" rel="noopener nofollow" target="_blank">https://qsfte.qsfirst.sg</a>
 </p>
 <p></p>
-<p>Last updated :24/01/2025</p>
+<p>Last updated :03/02/2025</p>
