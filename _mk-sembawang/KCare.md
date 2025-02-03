@@ -18,7 +18,7 @@ description: ""
 <p>Assistant KCare Supervisor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Ms Nur Hidayah
 binte Hazali</p>
 <p>Centre Contact No.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 80312948</p>
-<p>Center Email Address&nbsp; : <a href="spscc@qsfirst.sg" rel="noopener nofollow" target="_blank">spscc@qsfirst.sg</a>
+<p>Center Email Address&nbsp; : <a href="spkcare@qsfirst.sg" rel="noopener nofollow" target="_blank">spkcare@qsfirst.sg</a>
 </p>
 <p></p>
 <p>Operating Hours</p>
