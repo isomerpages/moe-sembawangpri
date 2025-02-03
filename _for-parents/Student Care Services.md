@@ -12,7 +12,7 @@ description: ""
 : Miss Hemalatha Palanivelu</p>
 <p></p>
 <p>Centre Contact No.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 93496306</p>
-<p>Center Email Address&nbsp; : <a rel="noopener noreferrer nofollow" target="_blank">spscc@qsfirst.sg</a>
+<p>Center Email Address&nbsp; : <a href="spscc@qsfirst.sg" rel="noopener nofollow" target="_blank">spscc@qsfirst.sg</a>
 </p>
 <p></p>
 <p>Operating Hours</p>
@@ -26,5 +26,5 @@ description: ""
 :7.30am to 7.00pm (Monday to Friday)</p>
 </li>
 </ul>
-<p>For more information on QSF The Enablers, please visit: <a rel="noopener noreferrer nofollow" target="_blank">https://qsfte.qsfirst.sg/</a>
+<p>For more information on QSF The Enablers, please visit: <a href="https://qsfte.qsfirst.sg/" rel="noopener nofollow" target="_blank">https://qsfte.qsfirst.sg/</a>
 </p>
