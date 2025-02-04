@@ -23,7 +23,7 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_SBPS_Parents_Briefing__P1_.pdf" rel="noopener nofollow" target="_blank">2025 SBPS Parents Briefing (P1)</a>
+<p><a href="/files/2025_SBPS_Parents_Briefing_P1__Updated.pdf" rel="noopener nofollow" target="_blank">2025 SBPS Parents Briefing (P1)</a>
 </p>
 </td>
 </tr>
@@ -32,7 +32,7 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_SBPS_Parents_Briefing__P2_.pdf" rel="noopener nofollow" target="_blank">2025 SBPS Parents Briefing (P2)</a>
+<p><a href="/files/2025_SBPS_Parents_Briefing__P2__Updated.pdf" rel="noopener nofollow" target="_blank">2025 SBPS Parents Briefing (P2)</a>
 </p>
 </td>
 </tr>
@@ -74,4 +74,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Last updated : 31/01/2025</p>
+<p>Last updated : 04/02/2025</p>
