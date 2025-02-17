@@ -14,6 +14,9 @@ description: MK Open House 2025
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <p></p>
+<p><a href="/files/MKSB_OH_2025.pdf" rel="noopener nofollow" target="_blank">Click here for our Open House slides! </a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sign up here: https://go.gov.sg/mkoh2025" src="/images/Open_House_2025__1_.jpg">
 </div>
