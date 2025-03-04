@@ -28,7 +28,7 @@ budding singers will have opportunities to perform their talent in public.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday : 2.15 p.m. – 4.15 p.m.</p>
+<p>Tuesday : 2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -57,4 +57,4 @@ budding singers will have opportunities to perform their talent in public.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pIp9CL5aGew"></iframe>
 </div>
-<p>Last updated: 03/01/2025</p>
+<p>Last updated: 03/03/2025</p>
