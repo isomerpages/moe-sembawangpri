@@ -1,0 +1,8 @@
+collections:
+  our-staff:
+    output: true
+    order:
+      - School Leadership Team.md
+      - Teacher Leaders Council.md
+      - Teachers.md
+      - Admin & Support Staff.md

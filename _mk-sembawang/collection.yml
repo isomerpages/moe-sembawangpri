@@ -1,0 +1,10 @@
+collections:
+  mk-sembawang:
+    output: true
+    order:
+      - MK Open House 2025.md
+      - About Us/.keep
+      - About Us/A Day in MK@Sembawang.md
+      - About Us/Our Events and Field Trips.md
+      - KCare.md
+      - Contact Us.md
