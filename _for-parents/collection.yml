@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - School Calendar.md
       - 2024 Speech Day.md
       - Briefing for parents.md
       - Growing Years Programme.md
@@ -15,6 +14,7 @@ collections:
       - Parenting Programme.md
       - Photography and Videography.md
       - Safe Management Measures.md
+      - School Calendar.md
       - Sembawang Buzz.md
       - Student Care Services.md
       - Student Learning Space.md
