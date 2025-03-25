@@ -17,7 +17,6 @@ variant: markdown
 			<td><a href="https://go.gov.sg/sbps-cca-change"> <img src="/images/Google_Form_Icon.png"><br>Change CCA Form</a></td>
 			<td><a href="https://www.office.com/"> <img src="/images/office_Icon.png"><br>Office 365</a></td>
 			<td><a href="https://workspace.google.com/dashboard"> <img src="/images/ICON_icon.png"><br>Student ICON</a></td>
-			<td><a href="https://raw.githubusercontent.com/isomerpages/moe-sembawangpri/staging/images/zoom.png)"> <img src="/images/zoom.png"><br>Student Zoom</a></td>
 		</tr>
 		<tr>			
 			<td><a href="https://www.sembawangpri.moe.edu.sg/for-parents/sembawang-buzz/"> <img src="/images/Sembawang_Buzz_Icon.png">Sembawang Buzz</a></td>
@@ -29,11 +28,10 @@ variant: markdown
 			<td><a href="https://go.gov.sg/sbpscleclass"> <img src="/images/CL_Icon.png"><br>SBPS CL Class</a></td>
 			<td><a href="https://www.zbschools.sg/"> <img src="/images/ZB_Schools_Icon.png"><br>ZB Schools</a></td>
 			<td><a href="https://www.ezhishi.net/Contents/"> <img src="/images/Ezhishi_Icon.png"><br>EZhishi</a></td>
-			<td><a href="http://www.tuvideos.sg/cos/o.x?c=/ca7_tuvid/user&amp;func=login"> <img src="/images/Thumbs_Up_Icon.png"><br>Thumbs Up</a></td>
 		</tr>		
 	</tbody>
 	</table>
 
 
 	
-	Last updated : 10/07/2024
+	Last updated : 25/03/2025
