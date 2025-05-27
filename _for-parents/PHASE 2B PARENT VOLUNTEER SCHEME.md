@@ -30,4 +30,4 @@ by ballot.</p>
 is now open for children born between 2 January 2020 and 1 January 2021
 (both dates inclusive). The last day of registration is 30 June 2025.</p>
 <p></p>
-<p>last update : 27/05/25</p>
+<p>last updated : 27/05/25</p>
