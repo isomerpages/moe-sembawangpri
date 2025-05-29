@@ -1,5 +1,5 @@
 ---
-title: PHASE 2B PARENT VOLUNTEER SCHEME
+title: PHASE 2B PARENT VOLUNTEER
 permalink: /for-parents/phase-2b-parent-volunteer-scheme/
 variant: tiptap
 description: ""
