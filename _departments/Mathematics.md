@@ -28,9 +28,9 @@ skills through a mathematical approach to problem solving;</p>
 <p>build confidence and foster joy of learning in mathematics.</p>
 </li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In addition to the Mathematics
-curriculum, the department administers the following programmes to help
-all students achieve success in learning mathematics.</p>
+<p>In addition to the Mathematics curriculum, the department administers
+the following programmes to help all students achieve success in learning
+mathematics.</p>
 <p></p>
 <p><strong>Learning Support for Mathematics Programme</strong>
 </p>
