@@ -9,12 +9,12 @@ description: ""
 <p></p>
 <p><strong><u>Guiding Principles</u></strong>
 </p>
-<p>The Student Management Department envisions for Sembawang Primary School
-to be a <strong>Safe, Conducive, and Inclusive Learning Environment for all Students</strong>.</p>
-<p>For learning to be maximised, it is important for students to portray
-positive behaviours, accompanied with respectful and caring relationship
-with their peers – as portrayed by the relational school values of <strong>Care, Gratitude, and Integrity.</strong>
+<p>At Sembawang Primary School, we are committed to fostering a <strong>Safe, Conducive and Inclusive learning environment for all students.</strong> 
 </p>
+<p>We believe that effective learning flourishes when students demonstrate
+positive behaviour and build meaningful relationships with their peers.
+These relationships are anchored in our core school values of <strong>Care, Gratitude and Integrity</strong>,
+which guide our students in their daily interactions and personal growth.</p>
 <p></p>
 <p><strong><u>Discipline in SBPS</u></strong>
 </p>
@@ -82,7 +82,11 @@ kindly contact: <a rel="noopener noreferrer nofollow" target="_blank">sembawang_
 <p><strong>1.&nbsp;&nbsp;&nbsp; CNB Anti-Drug Ambassador</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -109,7 +113,11 @@ primary 5 levels.</p>
 <p>Working closely with Singapore Police Force, the school educate our students
 on the importance of road safety and the role they have to play.</p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -138,7 +146,11 @@ on the importance of road safety and the role they have to play.</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
