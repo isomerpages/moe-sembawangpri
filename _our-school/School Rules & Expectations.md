@@ -49,9 +49,9 @@ be provided for students if required during lessons.</p>
 respective stalls.</p>
 <p>• request for permission from their teachers / produce a doctor’s memo
 to take the lift.</p>
-<p><strong><u>Classroom Conduct </u></strong>
+<p><strong><u>Classroom Conduct</u></strong>
 </p>
-<p><strong><em>All students are to… </em></strong>
+<p><strong><em>All students are to…</em></strong>
 </p>
 <p>• treat one another with respect and care and not hurt one another in
 any way – physically, emotionally or through online platforms.</p>
@@ -59,9 +59,9 @@ any way – physically, emotionally or through online platforms.</p>
 <p>• take pride in their work and submit their homework in time.</p>
 <p>• take ownership of their personal belongings and valuables.</p>
 <p>• wear the exit pass when leaving the classroom during lessons.</p>
-<p><strong><u>Attire &amp; Appearance </u></strong>
+<p><strong><u>Attire &amp; Appearance</u></strong>
 </p>
-<p><strong><em>All students are to… </em></strong>
+<p><strong><em>All students are to…</em></strong>
 </p>
 <p>• wear the prescribed school uniform and modification to the uniform is
 not allowed.</p>
@@ -69,7 +69,7 @@ not allowed.</p>
 in.</p>
 <p>• wear PE T-shirts and shorts during PE and PAL lessons. Primary 1 students
 are allowed to wear their PE attire daily.</p>
-<p><strong><em>All students must… </em></strong>
+<p><strong><em>All students must…</em></strong>
 </p>
 <p>• wear shoes, shoelaces and socks that are white in colour. The socks
 must be above the ankle - No ankle socks are allowed.</p>
