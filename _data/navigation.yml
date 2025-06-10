@@ -7,6 +7,8 @@ links:
         url: /our-school/principals-message
       - title: About Us
         url: /our-school/About-Us/
+      - title: School Rules & Expectations
+        url: /our-school/school-rules-expectations/
       - title: School Advisory Committee
         url: /our-school/school-advisory-committee
       - title: School Operating Hours
@@ -15,8 +17,6 @@ links:
         url: /our-school/school-building
       - title: Security & Emergency measures
         url: /our-school/securityandemergencymeasures
-      - title: School Rules & Expectations
-        url: /permalink
   - title: Our Staff
     url: /our-staff/school-leadership-team
     sublinks:
