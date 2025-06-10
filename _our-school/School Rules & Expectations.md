@@ -98,7 +98,9 @@ or fanciful hairstyles permitted.</p>
 <p>• wear only plain black or blue ribbons, hair bands and/or hair clips.
 No fanciful hair adornments allowed.</p>
 <p>• wear only a pair of simple ear studs. Earrings are strongly discouraged
-due to safety concerns. Use of Electronic Devices</p>
+due to safety concerns.</p>
+<p><strong><u>Use of Electronic Devices</u></strong>
+</p>
 <p>• Students who bring such devices are to put them in their school bags
 before school start time. Note: Except for POSB Smart Buddy watch.</p>
 <p>• Devices are to be switched off at all times. Students are not to use
