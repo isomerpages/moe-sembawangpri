@@ -83,6 +83,50 @@ if necessary.</p>
 must be kept hidden from view if worn.</p>
 <p>• not sport outlandish hairstyles, streaking, tinting or colouring of
 their hair.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Location of Name Tags</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Location of Leaders' Badges</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badge1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badge2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badge3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badge4.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><em>All male students must…</em></strong>
 </p>
 <p>• be clean-shaven at all times. Moustache and beards are not allowed.</p>
