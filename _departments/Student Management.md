@@ -9,7 +9,7 @@ description: ""
 <p></p>
 <p><strong><u>Guiding Principles</u></strong>
 </p>
-<p>At Sembawang Primary School, we are committed to fostering a <strong>Safe, Conducive and Inclusive learning environment for all students.</strong> 
+<p>At Sembawang Primary School, we are committed to fostering a <strong>Safe, Conducive and Inclusive learning environment for all students.</strong>
 </p>
 <p>We believe that effective learning flourishes when students demonstrate
 positive behaviour and build meaningful relationships with their peers.
@@ -18,9 +18,8 @@ which guide our students in their daily interactions and personal growth.</p>
 <p></p>
 <p><strong><u>Discipline in SBPS</u></strong>
 </p>
-<p>The department believes in the enactment of a positive and proactive approach
-to discipline in school. The school adopts a whole school approach to ensuring
-discipline in our students, taking guidance from the following:</p>
+<p>The Student Management Department embraces a positive, whole-school approach
+to discipline. We believe that:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stude​nts learn well
 when there is order and discipline. At the same time, they need care, encouragement,
 and space to learn from mistakes and improve.</p>
