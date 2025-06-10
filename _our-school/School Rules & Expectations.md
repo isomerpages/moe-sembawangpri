@@ -83,14 +83,16 @@ if necessary.</p>
 must be kept hidden from view if worn.</p>
 <p>• not sport outlandish hairstyles, streaking, tinting or colouring of
 their hair.</p>
-<p>All male students must…</p>
+<p><strong><em>All male students must…</em></strong>
+</p>
 <p>• be clean-shaven at all times. Moustache and beards are not allowed.</p>
 <p>• keep their hair short and neat, not touching the shirt collar OR covering
 the ears/eyebrows/ forehead.</p>
 <p>• have a hairstyle that shows a slope at the back of the head - no undercut
 or fanciful hairstyles permitted.</p>
 <p>• not wear ear studs or any form of body piercings.</p>
-<p>All female students must…</p>
+<p><strong><em>All female students must…</em></strong>
+</p>
 <p>• tie up their long hair neatly once it touches the collar.</p>
 <p>• keep their fringe away from their eyebrows.</p>
 <p>• wear only plain black or blue ribbons, hair bands and/or hair clips.
@@ -110,8 +112,8 @@ enrichment/ remedial lessons &amp; learning journeys).</p>
 phone located within the General Office.</p>
 <p>• Any students found using their devices irresponsibly within the school
 compound will have the device confiscated without exception. Confiscated
-smartphones or smartwatches can only be retrieved by the student's parents.
-Discipline is fundamental to character development and a safe learning
+smartphones or smartwatches can only be retrieved by the student's parents.</p>
+<p>Discipline is fundamental to character development and a safe learning
 environment. The success of our students' journey depends greatly on the
 strong partnership between school and home. The school value parents and
 guardians as key partners and look forward to working closely to support
