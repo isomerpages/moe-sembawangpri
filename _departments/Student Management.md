@@ -33,9 +33,15 @@ as learning opportunities rather than punishment</p>
 <p></p>
 <p><strong><u>Support for Students</u></strong>
 </p>
-<p>The school believes in the provision of an inclusive education system
-with opportunities for all, recognizing that our students have different
-needs and a plethora of needs or issues that they face.</p>
+<p>At Sembawang Primary School, we champion inclusive education, recognising
+that each student has unique needs and challenges.</p>
+<p>We understand that each child's journey is unique - even students with
+similar diagnoses may have different learning needs and progress at their
+own pace. We provide specialised support through dedicated personnel and
+tailored programmes. Our counselling team provides professional support
+for students' emotional well-being and personal development. We work closely
+with parents to implement targeted interventions that enhance students'
+social and emotional growth.</p>
 <p></p>
 <p><strong>1.&nbsp;&nbsp;&nbsp; Students with SEN</strong>
 </p>
