@@ -42,42 +42,17 @@ tailored programmes. Our counselling team provides professional support
 for students' emotional well-being and personal development. We work closely
 with parents to implement targeted interventions that enhance students'
 social and emotional growth.</p>
-<p></p>
-<p><strong>1.&nbsp;&nbsp;&nbsp; Students with SEN</strong>
+<p>For more information:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SEN Support: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/special-educational-needs</a>
 </p>
-<p>The student may have learning and behavioural difficulties, compared to
-their peers in the respective areas:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Completion of schoolwork</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading and writing</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicating with others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Making friends</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Behaving appropriately
-in the presence of others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning in school due
-to limitations in sight, hearing, or physical mobility</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TRANSIT Program for
-Primary 1 students</p>
-<p>We believe that every child is different. Two students with the same diagnosis
-may be very different in terms of learning and support needs and may progress
-at a different pace.</p>
-<p>At Sembawang Primary SChool, we have specialized personnel and programmes
-to provide the following special support catering to different levels and
-learning needs.</p>
-<p>For more information, kindly refer to: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/special-educational-needs</a>
+</li>
+<li>
+<p>General queries: <a rel="noopener noreferrer nofollow" target="_blank">sembawang_ps@moe.edu.sg</a>
 </p>
-<p></p>
-<p><strong>2.&nbsp;&nbsp;&nbsp; Counselling</strong>
-</p>
-<p>Our school counselling team will seek to engage and support students with
-emotional difficulties, enabling them to make positive changes in their
-personal development.</p>
-<p>Together with the partnership of parents, planned and targeted intervention
-will be implemented for the students in the domain of social emotional
-development.</p>
-<p>For more queries on support for students with SEN or counselling support,
-kindly contact: <a rel="noopener noreferrer nofollow" target="_blank">sembawang_ps@moe.edu.sg</a>
-</p>
-<p></p>
+</li>
+</ul>
 <p></p>
 <p><strong><u>Signature Programs</u></strong>
 </p>
