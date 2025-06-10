@@ -20,15 +20,12 @@ which guide our students in their daily interactions and personal growth.</p>
 </p>
 <p>The Student Management Department embraces a positive, whole-school approach
 to discipline. We believe that:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stude​nts learn well
-when there is order and discipline. At the same time, they need care, encouragement,
-and space to learn from mistakes and improve.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discipline is an educative
-process, and the goal is to instil self-discipline and good character in
-students.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disciplinary measures
-serve as a proxy for consequences of the poor choices made. It is not punishment,
-and must be meted out fairly, firmly, and appropriately.</p>
+<p>• Students thrive in an orderly environment, whilst needing support and
+space to learn from mistakes</p>
+<p>• Discipline is an educational journey that builds self-discipline and
+shapes character</p>
+<p>• Consequences for poor choices must be fair, firm and appropriate, serving
+as learning opportunities rather than punishment</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SM_1.png">
