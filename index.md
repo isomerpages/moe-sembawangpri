@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025_PAT_OYEA_Banner.gif
+      background: /images/Website_Collateral.jpg
       key_highlights:
         - title: Announcement
           description: ""
