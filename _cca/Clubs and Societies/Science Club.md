@@ -6,10 +6,14 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <h3>Science Club</h3>
-<p>Science and Green Club aspires to groom budding scientists who are curious
-and have an insatiable thirst to learn. Our young scientists will learn
-more about the world around us and have opportunities to develop skills,
-habits of mind and attitudes necessary for scientific inquiry.</p>
+<p>The Science &amp; Green Club gives students a fun and hands-on way to
+explore nature and learn how to care for the environment. Members go on
+nature walks, record their observations in journals, and take part in exciting
+projects like bird and butterfly watching. They also upload their sightings
+on iNaturalist to contribute to real scientific research. Through these
+activities, students develop a love for nature, learn important science
+skills, and are encouraged to take action to protect the Earth and support
+green efforts in school and at home.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -58,8 +62,9 @@ habits of mind and attitudes necessary for scientific inquiry.</p>
 <p><strong>Science &amp; Green Club CCA Schedule</strong>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Sem1_Schedule.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_Schedule_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -70,63 +75,30 @@ as part of the <em>Every Singaporean A Naturalist</em> (ESN) programme (Nature
 Society Singapore; NSS)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_2.jpg">
-</div>
-<p>Participating in an exclusive behind-the-scenes tour at Fragile Forest
-in the Singapore Zoo.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_3.jpg">
-</div>
-<p>Exploring avian diversity in a workshop conducted by Bird Paradise!</p>
-<p></p>
-<p>Congratulations to our teams for their outstanding performance at the
-NSS ESN 3rd Biodiversity Race 2024! We are thrilled to announce their well-deserved
-awards:</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sc_4.png">
-</div>
-<p></p>
-<p>1st Place: Most Unique Observation</p>
-<p>(Sumatran Flying Dragon; common gliding lizard)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sci_5.png">
-</div>
-<p>2nd Place: Most Unique Observation</p>
-<p>(Palm King; brush-footed butterfly)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_9.jpg">
 </div>
 <p>Congratulations to our team for their remarkable performance at the 22nd
 Elementz Science Project Competition! We are proud to announce that they
 have secured the prestigious Gold Award.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_10.png">
 </div>
 <p>Three of our teams showcased their passion for wildlife and nature during
-the 40th Singapore Bird Race 2024. We are proud of their efforts and the
-spirit of curiosity they brought to the event!</p>
-<p></p>
+the 40<sup>th</sup> Singapore Bird Race 2024. We are proud of their efforts
+and the spirit of curiosity they brought to the event!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_11.png">
 </div>
 <p>Congratulations to our third batch of Novice Naturalists (Birds) who were
 awarded under the NSS ESN Skills Achievement Programme!</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_12.jpg">
 </div>
 <p>Congratulations to our second batch of Novice Naturalists (Butterflies)
-who were
-<br>awarded under the NSS ESN Skills Achievement Programme!</p>
-<p></p>
+who were awarded under the NSS ESN Skills Achievement Programme!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_5.jpg">
@@ -145,14 +117,20 @@ bird species through sketches and observations in our school premise!</p>
 <p>Some sketches of the <strong>Javan Myna</strong> created through nature
 journaling.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_13.jpg">
+</div>
+<p>Some sketches of the <strong>Eurasian Tree Sparrow</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_14.jpg">
 </div>
-<p>Some sketches of the <strong>Rock Pigeon</strong> created through nature
-journaling.</p>
+<p>Some sketches of the <strong>Julia Heliconian</strong>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_15.jpg">
+</div>
+<p>Some sketches of the <strong>Painted Jezebel</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_8.jpg">
@@ -163,4 +141,30 @@ conservation.
 <br>(R) A digitally drawn card presented to Dr Ang in appreciation of her
 inspiring talk.</p>
 <p></p>
-<p>Last updated : 10/01/2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_16.jpg">
+</div>
+<p>We explored our neighbourhood to learn more about litter and its impact
+on our environment. With guidance by facilitators from Stridy, we identified
+common types of litter and discovered how simple actions, like picking
+up trash, can help protect nature and keep our shared spaces clean.</p>
+<p></p>
+<p>Well done to our two teams for their enthusiastic participation in the
+NSS ESN 4th Biodiversity Race 2025!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_17.jpg">
+</div>
+<p>Team <em>Cool Koels</em>
+</p>
+<p></p>
+<p>Congratulations to <em>The Jezebellas</em> team on earning a well-deserved
+award!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_18.jpg">
+</div>
+<p>2nd Place: Most Unique Observation
+<br>(Pin-striped Tit-Babbler, a species of bird)</p>
+<p></p>
+<p>Last updated : 26/06/2025</p>
