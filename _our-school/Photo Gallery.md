@@ -20,10 +20,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>28th May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 2 Week 10: Celebration of Success</p>
 </td>
 </tr>
 <tr>
