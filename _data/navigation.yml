@@ -17,6 +17,8 @@ links:
         url: /our-school/school-building
       - title: Security & Emergency measures
         url: /our-school/securityandemergencymeasures
+      - title: Photo Gallery
+        url: /our-school/photo-gallery/
   - title: Our Staff
     url: /our-staff/school-leadership-team
     sublinks:
@@ -33,11 +35,11 @@ links:
     sublinks:
       - title: Departments
         url: /programmes/departments/english
-      - title: Applied Learning Programmes
+      - title: Applied Learning Programme
         url: /programmes/applied-learning-programme
       - title: CCA Programmes
         url: /CCAprogrammes/whycca
-      - title: Learning for Life Programmes
+      - title: Learning for Life Programme
         url: /programmes/Learning-for-Life-Programme/lflp
       - title: Kindergarten Visit
         url: /programmes/kindergarten-visit/
