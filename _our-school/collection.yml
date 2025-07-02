@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Photo Gallery.md
       - Our School.md
       - Principal's Message.md
       - School Rules & Expectations.md
@@ -10,6 +9,7 @@ collections:
       - About Us/About Us.md
       - About Us/Our School Song.md
       - About Us/Our Corporate Video.md
+      - Photo Gallery.md
       - School Advisory Committee.md
       - School Operating Hours.md
       - School Building.md
