@@ -215,5 +215,32 @@ and a Zero Waste Hub featuring furniture upcycled from pallet wood.</p>
 </tr>
 </tbody>
 </table>
+<p><strong><u>Achievements</u></strong>
+</p>
+<p>Our commitment to environmental education has earned recognition through
+the Yellow Flame Award in the Singapore Environment Council's School Green
+Awards since 2022. We were also honoured with the Bronze Award in North
+West CDC's Green Living Awards 2024, acknowledging our sustained efforts
+in environmental programmes and activities</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/16alp16.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Receiving the Bronze Award from Mr Alex Yam, Mayor of North West District</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Last updated : 09/07/2025</p>
