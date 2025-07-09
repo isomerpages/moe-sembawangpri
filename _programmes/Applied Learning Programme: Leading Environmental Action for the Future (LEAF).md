@@ -27,7 +27,41 @@ Clean Plate Campaign that teaches students about reducing food waste. During
 Experiential Learning Week, students engage in innovative activities, such
 as our Primary 5 'Building a Smart Home' STEM project where they apply
 coding skills to create sustainable living solutions.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1alp1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2alp2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3alp3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><em>World Water Day and Biodiversity Week activities</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/framwork.png">
 </div>
