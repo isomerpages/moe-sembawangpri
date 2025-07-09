@@ -158,45 +158,62 @@ activities</p>
 </tr>
 </tbody>
 </table>
-<p><em>Enrichment workshops and training sessions conducted for Green Leaders</em>
+<p></p>
+<p><strong>Green Learning Spaces</strong>
 </p>
-<p><em>Selected Green Leaders conduct sharing sessions with the school population</em>
+<p>Our school features purpose-built green learning spaces that bring environmental
+education to life. These include an eco-pond with an inverted aquarium,
+solar-powered water feature, habitat tanks, sustainable gardening plots
+and a Zero Waste Hub featuring furniture upcycled from pallet wood.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11alp11.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12alp12.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13alp13.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/14alp14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/15alp15.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Various green learning spaces in our school</em>
 </p>
-<p><strong>Learning Spaces</strong>
-</p>
-<p>Several green learning spaces have been set up around the school to support
-students’ learning in Environmental Studies. These include an eco-pond
-with an inverted aquarium, solar-powered water feature, habitat tanks,
-various gardening plots and a Zero Waste Hub where usual tables have been
-replaced with customised ones made from pallet wood gathered from discarded
-furniture.</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp9.jpg">
-</div>
-<p><em>Eco-ponds with an inverted aquarium in the school garden (Top) and a solar-powered water feature at the school foyer (Bottom)</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/alp10.png">
-</div>
-<p><em>Habitat tanks to showcase mangrove, marine and forest habitats</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp11.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp12.jpg">
-</div>
-<p><em>Garden plots around the school</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp14.jpg">
-</div>
-<p><em>Zero Waste Hub in our school</em>
-</p>
-<p>Last updated : 30/01/2023</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Last updated : 09/07/2025</p>
