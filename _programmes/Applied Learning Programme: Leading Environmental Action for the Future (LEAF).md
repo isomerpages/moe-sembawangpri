@@ -92,7 +92,7 @@ coding skills to create sustainable living solutions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>'Building a Smart Home' STEM project'</em>
+<p><em>Building a Smart Home' STEM project</em>
 </p>
 </td>
 </tr>
