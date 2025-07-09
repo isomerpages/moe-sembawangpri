@@ -62,51 +62,104 @@ coding skills to create sustainable living solutions.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/framwork.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4alp4.jpg">
 </div>
-<p>The school’s ALP in Environmental Studies is offered to all students to
-enrich their educational experience and support content mastery in Science.
-Through partnerships with external agencies and collaboration with various
-departments, students are provided with avenues to learn outside of the
-classroom and apply their understanding to tackle real-life environmental
-issues.</p>
+</th>
+<th rowspan="2" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6alp6.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5alp5.png">
 </div>
-<p><em>P5 students on a learning journey to Lower Seletar Reservoir to learn about the importance of water conservation</em>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>'Building a Smart Home' STEM project'</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp4.jpg">
-</div>
-<p><em>Students viewing informative display panels by Singapore Botanic Gardens to learn about biodiversity in Singapore, as part of Biodiversity Week</em>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Tier 2 (Enrich)</strong>
 </p>
-<p><strong>Green Leaders</strong>
+<p>Our Tier 2 programmes offer selected students opportunities to deepen
+their environmental learning and develop leadership skills. Through our
+Green Leaders programme, students advocate environmental conservation in
+school and the community by leading recycling initiatives and conducting
+peer sharing sessions. They enhance their knowledge and presentation skills
+through targeted workshops. Our Science &amp; Green Club members also participate
+in citizen science, contributing to Nature Society Singapore's Every Singaporean
+a Naturalist programme through biodiversity studies of local birds and
+butterflies.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7alp7.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8alp8.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Our Green Leaders in action</em>
 </p>
-<p>The Green Leaders are a group of student leaders who have been selected
-to advocate environmental conservation efforts within the school and the
-community. They drive recycling efforts within the school and selected
-Green Leaders also conduct sharing sessions with the school population
-on environmental issues. Enrichment workshops and trainings are conducted
-for these students to deepen their knowledge of environmental issues and
-hone their presentation skills.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9alp9.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/alp6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10alp10.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Science &amp; Green Club students engaging in biodiversity monitoring
+activities</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><em>Enrichment workshops and training sessions conducted for Green Leaders</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/alp7.jpg">
-</div>
 <p><em>Selected Green Leaders conduct sharing sessions with the school population</em>
 </p>
 <p><strong>Learning Spaces</strong>
