@@ -179,13 +179,97 @@ combining real-world experiences with creative writing.</p>
 the learning journey in Term 2. The learning journey to Singapore Science
 Centre was about ‘The Unusual plants’ which was linked to both the English
 language Stellar unit and Science subject topic.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_01.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_02.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_03.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>The students had engaging and experiential learning led by the workshop
+facilitators. They recalled knowledge that they had learnt for their topics
+and did hands-on activity related to unusual plants.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_04.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_05.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_06.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>It was indeed an enjoyable and enriching experience for the students to
+have their learning take place outdoors!</p>
 <p><strong><u>Developing Student Voice</u></strong>
 </p>
 <p></p>
 <p><strong>1)&nbsp;&nbsp;&nbsp; ‘Good Morning, Sembawang!’ Radio Show</strong>
 </p>
+<p>Now in its 4th successful season, <em>Good Morning, Sembawang!</em> continues
+to be a much-loved feature of school life since its launch in 2022.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -617,3 +701,46 @@ outstanding effort and work!</p>
 </div>
 <p></p>
 <p>Last updated : 29/05/2024</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
