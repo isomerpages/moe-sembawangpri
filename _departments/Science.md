@@ -34,7 +34,17 @@ work.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Our department's vision is to nurture every child into a scientific thinker
+who:</p>
+<p>• Demonstrates natural curiosity about the world around them</p>
+<p>• Understands and applies scientific concepts to real-life situations</p>
+<p>• Engages confidently in the Practices of Science (such as questioning,
+data analysis and evidence-based reasoning)</p>
+<p>• Appreciates the impact of Science on people and the environment</p>
+<p>We recognise that children are naturally inquisitive about their surroundings.
+Our STEM education programme aims to harness this innate curiosity, developing
+crucial inquiry and problem-solving skills through hands-on, experiential
+learning opportunities that reflect real-world situations.</p>
 <p><strong>Field-based Learning via Learning Journeys</strong>
 </p>
 <p>Students from P3 to P6 enjoy opportunities to attend learning journeys
@@ -121,4 +131,13 @@ principles inductively.&nbsp;</p>
 </div>
 <p><em>E2K Science Programme activities</em>
 </p>
-<p>Last updated : 30/01/2023</p>
+<p>Last updated : 30/01/2023Our department's vision is to nurture every child
+into a scientific thinker who: • Demonstrates natural curiosity about the
+world around them • Understands and applies scientific concepts to real-life
+situations • Engages confidently in the Practices of Science (such as questioning,
+data analysis and evidence-based reasoning) • Appreciates the impact of
+Science on people and the environment We recognise that children are naturally
+inquisitive about their surroundings. Our STEM education programme aims
+to harness this innate curiosity, developing crucial inquiry and problem-solving
+skills through hands-on, experiential learning opportunities that reflect
+real-world situations.</p>
