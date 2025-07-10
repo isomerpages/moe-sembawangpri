@@ -258,18 +258,38 @@ to be a much-loved feature of school life since its launch in 2022.</p>
 <tr>
 <th rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_07.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_08.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+<h3><strong>What’s New in Season 4?</strong></h3>
+<p>This year’s season brings fresh updates to further amplify student voice
+and agency:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Presenter Training</strong> – Equipping
+students with oracy and presentation skills</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Local &amp; Global News</strong> –
+Helping students connect to the world around them</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Interactive Quizzes</strong> – Encouraging
+attentive listening and audience engagement</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>More Student Dedications</strong> –
+Giving everyone a voice</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -277,67 +297,44 @@ to be a much-loved feature of school life since its launch in 2022.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_11.jpg">
 </div>
-</td>
+</th>
 </tr>
-</tbody>
-</table>
-<p>“Good Morning, Sembawang!” is into its successful 3<sup>rd</sup> season
-this year. Keeping our school’s objective and English Department’s plan
-in mind, our very own radio show was conceptualised and rolled out in the
-year 2022.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_12.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_13.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Over the years, our radio show has become a platform to showcase student
-dedications and achievements. In allowing our students to present the radio
-show to their schoolmates, “Good Morning Sembawang!” has allowed for the
-development of our students’ voices and promoted active student agency.</p>
-<p>Season 3 of “Good Morning, Sembawang!” is slightly different from the
-earlier seasons, with the following considerations in mind:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DJ/Presenters’
-training</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nurturing confident
-and fluent speakers</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognising students’
-efforts and achievements&nbsp;</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interviews with
-students who had done well for any external competition</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More airtime for
-students’ dedications</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quiz based on
-interview session to engage attentive listening</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Local and foreign
-news and current affairs</p>
+<p>In previous seasons, we had resident DJs who hosted the entire season.
+But this year, the team is grooming a wider pool of student presenters
+from across different levels. This inclusive approach ensures more students
+get the chance to try their hand at presenting to the entire school — building
+confidence and showcasing talent.</p>
+<p>It’s not just a radio show — it’s a platform where young voices grow stronger
+every season.</p>
+<p><strong>2)&nbsp;&nbsp;&nbsp; Faces of Sembawang</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -349,28 +346,37 @@ news and current affairs</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_14.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_15.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_17.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_16.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>In previous seasons, we had resident DJs who hosted the complete season.
-This year, the “Good Morning, Sembawang!” team wanted to train more students
-from different levels so that a wider range of students could be given
-the opportunity to try their hand at presenting to the entire school.</p>
+<p><em>Faces of Sembawang</em> is a monthly showcase that gives our students
+a voice and platform to share their passions, interests, and talents with
+the school community.</p>
+<p><strong>What Do Students Share?</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hobbies and talents</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New skills they’re learning</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fun facts or personal discoveries</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Book recommendations</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creative project</p>
+<p>Held at the ISH and MPH, this programme is specially designed to include
+Lower Primary students, who participate enthusiastically as both presenters
+and audience members.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -381,28 +387,75 @@ the opportunity to try their hand at presenting to the entire school.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_18.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_17.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_18.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Some of our DJs are also roped in to brainstorm ideas for certain segments
-of the show which allows them to work on their script writing skills. We
-are proud to say that “Good Morning, Sembawang!” is ‘that’ show everyone
-looks forward to and is one of the main highlights of the English Department.</p>
+<h3><strong>Building Skills and Confidence</strong></h3>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students craft their own scripts and presentation
+slides</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They practise public speaking and oracy
+skills with guidance from teachers</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers review scripts to support clarity
+and accuracy in communication</p>
+<p>Even our youngest students have shown remarkable enthusiasm and courage
+in stepping up to present — a true testament to the supportive, student-led
+culture we strive to build.</p>
+<p><strong><u>Literacy Programmes</u></strong>
+</p>
+<p><strong>1)&nbsp;&nbsp;&nbsp; Buddy Reading Programme</strong>
+</p>
+<p>At Sembawang Primary, we believe that every child can become a confident
+reader. Our Buddy Reading Programme nurtures this belief by pairing strong
+P2 readers with P1 students who need a little extra support in their reading
+journey.</p>
+<p><strong>When &amp; Where:<br></strong>&nbsp;Tuesdays, Thursdays, and Fridays
+<br>&nbsp;7.15am – 7.30am @ Indoor Sports Hall (ISH)</p>
+<p><strong>How It Works:</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 buddies are specially trained by our
+teachers to read patiently and supportively</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1 students benefit from peer encouragement
+in a relaxed, low-pressure setting</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Together, they build reading confidence,
+fluency, and joy</p>
+<p>This meaningful morning programme fosters not just literacy, but also
+empathy, responsibility, and collaboration — values that go far beyond
+the page.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_20.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_19.jpg">
 </div>
-<p><strong>&nbsp;Faces of Sembawang</strong>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;2)&nbsp;&nbsp;&nbsp; Writer’s Toolbox</strong>
 </p>
+<p>As part of an ongoing partnership with <em>The Writer's Toolbox</em>, upper
+primary students at Sembawang Primary embarked on this journey to strengthen
+their writing skills through structured strategies and creative expression.
+This collaboration with <em>The Writer's Toolbox </em>aims to equip our
+learners with essential tools to plan, draft, and refine their writing
+with greater clarity and confidence. Through engaging lessons and hands-on
+activities, students are guided to become more effective communicators
+and critical thinkers. The Writer's Toolbox continues to support our vision
+of nurturing articulate, thoughtful, and expressive writers in every classroom.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_22.jpg">
