@@ -87,60 +87,38 @@ learning opportunities that reflect real-world situations.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Field-based Learning via Learning Journeys</strong>
+<p><strong><u>Learning Beyond the Classroom</u></strong>
 </p>
-<p>Students from P3 to P6 enjoy opportunities to attend learning journeys
-for rich field-based learning on identified Science topics:</p>
-<table style="minWidth: 75px">
+<p>&nbsp;</p>
+<p>We believe that some of the most valuable learning experiences happen
+outside traditional classroom settings. Our students participate in experiential
+activities such as exploring our school's Green Trail to study plant and
+animal diversity, and engaging in interactive, cross-disciplinary learning
+journeys that bring Science concepts to life.</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Learning Journey</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Topic</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5sci.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guided Tour at Singapore Botanic Gardens</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Diversity of Plants</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6sci.jpg">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Primary 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Diversity of Cells Workshop at Science Centre Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Unit of Life</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adaptations Workshop and Guided Tour at Lee Kong Chian Natural History
-Museum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adaptations, Man’s Impact on the Environment</p>
+<td rowspan="1" colspan="2">
+<p><em>Students engaging in learning opportunities beyond the classroom</em>
+</p>
 </td>
 </tr>
 </tbody>
