@@ -4,8 +4,19 @@ permalink: /programmes/departments/english/
 description: ""
 variant: tiptap
 ---
+<h3><strong>English Language Programmes: At a Glance</strong></h3>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Our Focus</strong>:
+<br>&nbsp;Nurturing confident, empathetic communicators through multiliteracies</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>How We Teach</strong>:
+<br>&nbsp;Critical reading, inquiry dialogue, and multimodal texts</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Signature Programmes</strong>:
+<br>&nbsp;▫ Good Morning, Sembawang!
+<br>&nbsp;▫ Faces of Sembawang
+<br>&nbsp;▫ Writer’s Toolbox</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Student Achievements</strong>:
+<br>&nbsp;▫ Active student DJs &amp; presenters
+<br>&nbsp;▫ Vactors Reading Stars Competition 2025</p>
 <h4><strong><u>English Language Department Processes</u></strong></h4>
-<p></p>
 <p>Vision: Every Child an Effective, Empathetic and Confident Communicator</p>
 <p>Proficiency in the English Language is necessary in today’s increasingly
 connected and global environment. It is important to be able to communicate
@@ -62,20 +73,9 @@ skills are practised. Below are some photos taken during these lessons:</p>
 </p>
 <p><strong>1)&nbsp;&nbsp;&nbsp; Sensory Path</strong>
 </p>
-<p>The sensory path began as an inter-departmental initiative between the
-English Language and Physical Education departments. It is a vibrant amalgamation
-of engaging stations and walkways designed to stimulate both the physical
-and cognitive abilities of our learners. Lower Primary teachers, as well
-as MK teachers, conduct lessons with their students as they explore the
-interactive Sensory Path for enriched learning experiences. As they journey
-through this dynamic space, our young learners are encouraged to harness
-their kinesthetic instincts while also engaging with visual, auditory,
-and tactile stimuli.</p>
-<p>By immersing students in this multi-sensory environment, the English Department
-aims to enhance their acquisition of linguistic and fundamental psychomotor
-skills. Through hands-on activities and immersive experiences, the collaborative
-effort between departments and the kindergarten promises to create a rich
-educational tapestry that nurtures holistic development.</p>
+<p>The Sensory Path is a creative collaboration between the English Language
+and Physical Education departments — a vibrant, interactive space designed
+to stimulate both body and mind.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -92,47 +92,163 @@ educational tapestry that nurtures holistic development.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_6.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_7.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_8.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>2)&nbsp;&nbsp;&nbsp; Learning Journey to the Singapore Zoo</strong>
+<p>Through a series of colourful stations and walkways, our Lower Primary
+and MOE Kindergarten (MK) students explore language in a multi-sensory
+environment. As they walk, jump, and engage with tactile, visual, and auditory
+elements, they’re not just moving — they’re learning.</p>
+<p><strong>What It Supports:</strong>
 </p>
-<p>The school organised a learning journey to the Singapore Zoo for the Primary
-1 students. The students watched a performance by Tiago the Sealion at
-the Splash Safari Show. After watching the show, they walked around the
-zoo where they were introduced to different wild animals. Once they returned
-to school, they were tasked to do a writing reflection based on their learning
-experience. They enjoyed the outdoor learning experience at the Singapore
-Zoo!</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Language acquisition through interactive
+word play and instructions</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Development of motor skills and spatial
+awareness</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Critical thinking through hands-on tasks
+and exploration</p>
+<p>By merging movement with literacy, the Sensory Path transforms traditional
+lessons into dynamic, joyful experiences — helping students grow as confident
+learners in every sense.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_7.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2)&nbsp;&nbsp;&nbsp; Learning Journey</strong>
+</p>
+<p><strong>Primary 1 - Singapore Zoo</strong>
+</p>
+<p>Our Primary 1 students had an exciting day of discovery at the Singapore
+Zoo! They were thrilled to watch Tiago the Sea Lion perform at the Splash
+Safari Show, followed by a fun exploration of the zoo’s many animal exhibits.
+Back in school, they turned their adventure into thoughtful reflections,
+combining real-world experiences with creative writing.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_9.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_10.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>“I liked going to the zoo because I saw the sea lion jump!” – Alden, P1 Care</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Primary 3 - Singapore Science Centre</strong>
+</p>
+<p>The English department had collaborated with the Science department for
+the learning journey in Term 2. The learning journey to Singapore Science
+Centre was about ‘The Unusual plants’ which was linked to both the English
+language Stellar unit and Science subject topic.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_01.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_02.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_03.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>The students had engaging and experiential learning led by the workshop
+facilitators. They recalled knowledge that they had learnt for their topics
+and did hands-on activity related to unusual plants.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_04.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_05.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_06.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>It was indeed an enjoyable and enriching experience for the students to
+have their learning take place outdoors!</p>
 <p><strong><u>Developing Student Voice</u></strong>
 </p>
 <p></p>
 <p><strong>1)&nbsp;&nbsp;&nbsp; ‘Good Morning, Sembawang!’ Radio Show</strong>
 </p>
+<p>Now in its 4th successful season, <em>Good Morning, Sembawang!</em> continues
+to be a much-loved feature of school life since its launch in 2022.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -140,25 +256,40 @@ Zoo!</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_07.jpg">
+</div>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_08.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>“Good Morning, Sembawang!” is into its successful 3<sup>rd</sup> season
-this year. Keeping our school’s objective and English Department’s plan
-in mind, our very own radio show was conceptualised and rolled out in the
-year 2022.</p>
+<h3><strong>What’s New in Season 4?</strong></h3>
+<p>This year’s season brings fresh updates to further amplify student voice
+and agency:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Presenter Training</strong> – Equipping
+students with oracy and presentation skills</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Local &amp; Global News</strong> –
+Helping students connect to the world around them</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Interactive Quizzes</strong> – Encouraging
+attentive listening and audience engagement</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>More Student Dedications</strong> –
+Giving everyone a voice</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -166,41 +297,44 @@ year 2022.</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_11.jpg">
+</div>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_12.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_13.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Over the years, our radio show has become a platform to showcase student
-dedications and achievements. In allowing our students to present the radio
-show to their schoolmates, “Good Morning Sembawang!” has allowed for the
-development of our students’ voices and promoted active student agency.</p>
-<p>Season 3 of “Good Morning, Sembawang!” is slightly different from the
-earlier seasons, with the following considerations in mind:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DJ/Presenters’
-training</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nurturing confident
-and fluent speakers</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognising students’
-efforts and achievements&nbsp;</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interviews with
-students who had done well for any external competition</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More airtime for
-students’ dedications</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quiz based on
-interview session to engage attentive listening</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Local and foreign
-news and current affairs</p>
+<p>In previous seasons, we had resident DJs who hosted the entire season.
+But this year, the team is grooming a wider pool of student presenters
+from across different levels. This inclusive approach ensures more students
+get the chance to try their hand at presenting to the entire school — building
+confidence and showcasing talent.</p>
+<p>It’s not just a radio show — it’s a platform where young voices grow stronger
+every season.</p>
+<p><strong>2)&nbsp;&nbsp;&nbsp; Faces of Sembawang</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -212,28 +346,37 @@ news and current affairs</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_14.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_15.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_17.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_16.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>In previous seasons, we had resident DJs who hosted the complete season.
-This year, the “Good Morning, Sembawang!” team wanted to train more students
-from different levels so that a wider range of students could be given
-the opportunity to try their hand at presenting to the entire school.</p>
+<p><em>Faces of Sembawang</em> is a monthly showcase that gives our students
+a voice and platform to share their passions, interests, and talents with
+the school community.</p>
+<p><strong>What Do Students Share?</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hobbies and talents</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New skills they’re learning</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fun facts or personal discoveries</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Book recommendations</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creative project</p>
+<p>Held at the ISH and MPH, this programme is specially designed to include
+Lower Primary students, who participate enthusiastically as both presenters
+and audience members.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -244,185 +387,49 @@ the opportunity to try their hand at presenting to the entire school.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_18.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_17.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_18.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Some of our DJs are also roped in to brainstorm ideas for certain segments
-of the show which allows them to work on their script writing skills. We
-are proud to say that “Good Morning, Sembawang!” is ‘that’ show everyone
-looks forward to and is one of the main highlights of the English Department.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_20.jpg">
-</div>
-<p><strong>&nbsp;Faces of Sembawang</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_22.jpg">
-</div>
-<p>The programme “Faces of Sembawang” was created to promote students’ voices
-and student agency. It serves as a platform for students to share about
-their interests to the entire school. Some examples include:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hobbies</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skill that the
-student had learnt / is learning</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fun facts</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Book recommendations</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Something that
-the student had created</p>
-<p>Not only can the students learn from each other, they also get to learn
-more things about each other! This programme is conducted monthly at the
-ISH &amp; MPH catering to the lower primary students as well. The English
-Language teachers work closely with the “Faces of Sembawang” team to nominate
-potential students for the programmes.</p>
-<p>The student presenters prepare their own script and deck of slides to
-showcase in front of the audience. Through this programme, students are
-exposed to writing draft scripts for their presentation to the cohort.
-They also get to hone their oracy skills by speaking confidently with appropriate
-pronunciation and fluency. Teachers assist the selected student presenters
-by checking their content and language in their scripts and slides.</p>
-<p>&nbsp;The success of the show is evident when even lower primary students
-have shown great enthusiasm and volunteered to come forward to present
-for “Faces of Sembawang”!&nbsp;</p>
-<p>Moving forward, the “Faces of Sembawang” team will be collaborating with
-other departments like Science, Art and MTL to identify students who have
-an interest in niche areas to present for the programme.
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_EL_23.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 69%;" height="auto" width="100%" alt="" src="/images/2024_EL_24.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+<h3><strong>Building Skills and Confidence</strong></h3>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students craft their own scripts and presentation
+slides</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They practise public speaking and oracy
+skills with guidance from teachers</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers review scripts to support clarity
+and accuracy in communication</p>
+<p>Even our youngest students have shown remarkable enthusiasm and courage
+in stepping up to present — a true testament to the supportive, student-led
+culture we strive to build.</p>
 <p><strong><u>Literacy Programmes</u></strong>
 </p>
-<p>Reading plays an important part in language development and is key to
-understanding the world at large. In Sembawang Primary, we believe that
-all students are capable of learning to read and understand what they are
-reading. To aid students in their reading journey, the English Department
-has outlined several programmes to supplement their learning.</p>
-<p><strong>1)&nbsp;&nbsp;&nbsp; P2 KidsRead</strong>
+<p><strong>1)&nbsp;&nbsp;&nbsp; Buddy Reading Programme</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_25.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_26.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Since 2022, Sembawang Primary School has been collaborating with the National
-Library Board (NLB) to conduct a nationwide reading programme called KidsRead.
-This programme promotes the love of reading and cultivates good reading
-habits among young children. The KidsRead Club is conducted by volunteers
-trained by NLB and coordinated by our teachers-in-charge from SBPS. The
-students enjoy listening to the books read by volunteers and doing hands-on
-activities that spark their imagination and creativity based on the theme
-of the books.&nbsp;</p>
-<p><strong>2)&nbsp;&nbsp;&nbsp; P1 Reading Mum</strong>
+<p>At Sembawang Primary, we believe that every child can become a confident
+reader. Our Buddy Reading Programme nurtures this belief by pairing strong
+P2 readers with P1 students who need a little extra support in their reading
+journey.</p>
+<p><strong>When &amp; Where:<br></strong>&nbsp;Tuesdays, Thursdays, and Fridays
+<br>&nbsp;7.15am – 7.30am @ Indoor Sports Hall (ISH)</p>
+<p><strong>How It Works:</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_27.png">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_28.jpg">
-</div>
-<p>Volunteers from our Parents’ Support Group read with a select group of
-students every Thursday from 7.45 am - 8.30 am. In small groups, parent
-volunteers read to and with weaker readers to instil the joy of reading
-and encourage reluctant readers to read along.</p>
-<p>&nbsp;<strong>3)&nbsp;&nbsp;&nbsp; P2 and P1 Buddy Reading Programme</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024_EL_29.jpg">
-</div>
-<p>The Buddy Reading Programme pairs P2 strong readers with P1 weaker readers
-to provide support and encouragement in developing their reading skills.
-The reading sessions take place from 7.15am to 7.30am at the Indoor Sports
-Hall (ISH) on Tuesdays, Wednesdays, Thursdays and Fridays. Our P2 buddies
-have been trained by teachers from SBPS to effectively support their peers
-in improving their reading skills.</p>
-<p></p>
-<p><strong><u>Experiential Learning Week</u></strong>
-</p>
-<p>&nbsp;During the Experiential Learning Week in Week 10 of Term 1, students
-were immersed in a series of enriching experiences that transcended the
-boundaries of conventional curriculum. This unique opportunity enabled
-them to acquire skills essential for navigating the complexities of the
-21st century. Our carefully curated activities integrated both traditional
-and contemporary elements, along with interdisciplinary programs, fostering
-a holistic approach to learning. Through hands-on engagement, students
-not only gained knowledge but also applied it across diverse subject areas.
-The Experiential Learning Week was truly a catalyst for igniting the joy
-of learning among our students!</p>
-<p>Here are some memorable photos that capture the highlights of the week
-this year.</p>
-<p>&nbsp;<strong>P1 - Book Cover Design</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_30.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_31.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;<strong>&nbsp;&nbsp;P2 - Reader’s Theatre</strong>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 buddies are specially trained by our
+teachers to read patiently and supportively</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1 students benefit from peer encouragement
+in a relaxed, low-pressure setting</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Together, they build reading confidence,
+fluency, and joy</p>
+<p>This meaningful morning programme fosters not just literacy, but also
+empathy, responsibility, and collaboration — values that go far beyond
+the page.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -430,54 +437,161 @@ this year.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_32.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_33.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_19.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>P3 – Upcycling Project Presentation&nbsp;</strong>
+<p><strong>&nbsp;2)&nbsp;&nbsp;&nbsp; Writer’s Toolbox</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_34_35.png">
-</div>
-<p></p>
-<p></p>
-<p><strong>P4 – Gracious Commuting</strong>
+<p>As part of an ongoing partnership with <em>The Writer's Toolbox</em>, upper
+primary students at Sembawang Primary embarked on this journey to strengthen
+their writing skills through structured strategies and creative expression.
+This collaboration with <em>The Writer's Toolbox </em>aims to equip our
+learners with essential tools to plan, draft, and refine their writing
+with greater clarity and confidence. Through engaging lessons and hands-on
+activities, students are guided to become more effective communicators
+and critical thinkers. The Writer's Toolbox continues to support our vision
+of nurturing articulate, thoughtful, and expressive writers in every classroom.</p>
+<p><strong><u>Experiential Learning Week</u></strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_36.jpg">
-</div>
-<p><strong>&nbsp;P5 – Building A Smart Home</strong>
+<p>During the Experiential Learning Week held in Week 9 of Term 1, our students
+engage in experiential and interdisciplinary learning beyond the usual
+curriculum. Below are some memorable photos that capture the highlights
+of the week this year.</p>
+<p><strong>P1 - Designed Creative Book Covers</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_37.jpg">
-</div>
+<p>Our Primary 1 students designed their own book covers using recycled materials
+to promote the 3Rs — Reduce, Reuse, and Recycle. They learnt about the
+parts of a book cover, such as the title, spine, and blurb, and created
+covers for Earth Day or World Water Day. Through this hands-on project,
+students used their creativity while learning how to care for the environment!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_38.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_20.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p><strong>P6 – Visual Text Representation</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_21.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_22.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_23.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>P2 - Performed Reader’s Theatre</strong>
 </p>
+<p>Our Primary 2 students took part in Reader’s Theatre. They learned to
+read with expression using Power, Pitch, Pace, and Pause. Students worked
+in groups to practise scripts, make character crowns, and perform in front
+of their classmates. It was a fun way to build confidence, teamwork, and
+reading skills!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_39.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_24.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_40.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_25.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_26.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_27.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>P5 - Created Smart Home Prototypes</strong>
+</p>
+<p>Our Primary 5 students learned coding with micro:bit to create smart home
+prototypes aimed at conserving electricity. Collaborating in small teams,
+they developed innovative solutions and designed eye-catching posters to
+showcase their ideas. To top it off, pupils sharpened their presentation
+skills by confidently sharing their prototypes and posters with their classmates,
+making the learning experience both creative and interactive!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_28.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_29.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_30.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_31.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Media Resource Library (MRL) Programmes</u></strong>
 </p>
 <p>Every month, our library introduces an Author of the Month and a Thematic
@@ -486,12 +600,130 @@ in monthly quizzes and activities to earn their Hi DEAR badges. We also
 encourage students to read regularly by borrowing books from the school
 library and acknowledge the top borrowers from each class and level at
 the end of each term under the Class of Avid Readers Award.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_41_44.png">
-</div>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_32.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_33.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_34.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_35.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Library Fiesta</u></strong>
+</p>
+<p>Our inaugural Library Fiesta took place in July 2024. Students and teachers
+came clad in their favourite book characters for the day, making the school
+come alive with characters from various stories!</p>
+<p>Other activities that day include Book Buzz - an assembly talk by an NLB
+librarian as well as recess activities for students to learn more about
+various genres of storybooks.</p>
+<p>Stay tuned for Library Fiesta 2025 in September this year!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_36.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_37.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_38.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_39.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_40.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_41.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_42.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>School e-Resource Repository (SERR)</u></strong>
+</p>
+<p>SERR is a website for students to enjoy a wide range of curated Storytime
+videos and e-books. While most of the e-resources on SERR are available
+for free, some e-books will require students to log in to their NLB accounts
+before they can access them. As such, we highly encourage all students
+to sign up as a member of NLB to enjoy the full-range of NLB services.</p>
+<p>Click <a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">here</a> to
+access the SERR website!</p>
+<h4><strong><u>Developing Student Talents through Competitions</u></strong></h4>
+<p><strong>Vactors Reading Stars Competition 2025</strong>
+</p>
+<p>The following students participated in the Vactors Reading Stars Competition
+2025 organised by Teevers Pte Ltd and supported by Speak Good English Movement.
+In this competition, participants used the Vactors app to produce digital
+video stories. These Primary 3 students have proven that storytelling isn’t
+just about reading - it's about feeling the story and sharing that magic
+with others. The students received a certificate of participation in recognition
+of their efforts. Good work, students!</p>
+<table style="minWidth: 75px">
+<colgroup>
 <col>
 <col>
 <col>
@@ -501,66 +733,35 @@ the end of each term under the Class of Avid Readers Award.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_45.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_43.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_46.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_44.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_47.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_45.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_48.jpg">
-</div>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><em>Zahra Husna (3 Excellence), Lewin Soh (3 Curiosity) &amp; Clara Wong Jia Wei (3 Curiosity)</em>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>For more updates or questions, feel free to contact the English Language
+Department.</p>
+<p>Together, we nurture readers, writers, and confident communicators.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_49.jpg">
-</div>
-<p><strong><u>School e-Resource Repository (SERR)</u></strong>
-</p>
-<p>SERR is a website for students to enjoy a wide range of curated Storytime
-videos and e-books. While most of the e-resources on SERR are available
-for free, some e-books will require students to log in to their NLB accounts
-before they can access them. As such, we highly encourage all students
-to sign up as a member of NLB to enjoy the full-range of NLB services.</p>
-<p>Click <a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access the SERR website!</p>
 <p></p>
-<h4><strong><u>Developing Student Talents through Competitions</u></strong></h4>
-<p><strong>1)&nbsp;&nbsp;&nbsp; Singapore Moo-O Awards 2024</strong>
-</p>
-<p>&nbsp;Our Primary 3 students, namely, Chee Kai Ting (3RE), Vincci Cheng
-(3G), Rainie Yong (3G) and Valerine Chuah (3E) participated in the annual
-Moo-O Awards Digital Storytelling Competition on 17 April 2024.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_50.jpg">
-</div>
-<p>&nbsp;This competition is supported by the Speak Good English Movement
-and the students did our school proud by clinching the Gold Award. The
-students exhibited positive speaking dispositions, demonstrated good oral
-communication skills and spoke with accurate pronunciation, articulation
-and intonation. Kudos to all participants and teacher mentors for their
-outstanding effort and work!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_51.jpg">
-</div>
+<p>Last updated : 10/07/2025</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_52.jpg">
-</div>
-<p></p>
-<p>Last updated : 29/05/2024</p>

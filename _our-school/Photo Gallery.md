@@ -23,7 +23,7 @@ description: ""
 <p>28th May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://lightroom.adobe.com/shares/18432b0877d145c288ee2ac8e7c2a61e" rel="noopener nofollow" target="_blank">Term 2 Week 10: Celebration of Success</a>
+<p><a href="https://drive.google.com/drive/folders/1NSdPqcSGwdDTpUev3ABhB2VGts7_Dc6L?usp=sharing" rel="noopener nofollow" target="_blank">Term 2 Week 10: Celebration of Success</a>
 </p>
 </td>
 </tr>
@@ -37,4 +37,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Last Updated : 02/07/2025</p>
+<p>Last Updated : 09/07/2025</p>
