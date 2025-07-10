@@ -45,6 +45,48 @@ data analysis and evidence-based reasoning)</p>
 Our STEM education programme aims to harness this innate curiosity, developing
 crucial inquiry and problem-solving skills through hands-on, experiential
 learning opportunities that reflect real-world situations.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2sci.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>STEM Education in Sembawang Primary School</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3sci.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4sci.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Students develop scientific knowledge and literacy skills through hands-on activities</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Field-based Learning via Learning Journeys</strong>
 </p>
 <p>Students from P3 to P6 enjoy opportunities to attend learning journeys
