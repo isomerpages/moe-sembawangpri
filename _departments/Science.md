@@ -123,41 +123,46 @@ journeys that bring Science concepts to life.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Picture2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Picture3.jpg">
-</div>
-<p><em>Guided tour at Lee Kong Chian Natural History Museum</em>
+<p><strong><u>E2K Science Programme</u></strong>
 </p>
-<p><strong>E2K Science Programme</strong>
-</p>
-<p>The E2K Science Programme is an enrichment programme for Upper Primary
-students who demonstrate interest and ability in Science. It aims to foster
-independence and confidence in scientific inquiry, as well as develop Science
-process skills and 21st century competencies such as resilience, resourcefulness,
-communications skills, and critical and inventive thinking.</p>
-<p>During the weekly sessions, stories, role-play and challenges are used
-to replicate the process that scientists go through to generate knowledge
-in Science. Students will be engaged in higher order thinking through effective
-questioning and experimentation that will allow them to discover scientific
-principles inductively.&nbsp;</p>
+<p>The E2K Science Programme is an enrichment programme for selected Primary
+4 and 5 students who demonstrate interest and aptitude in Science. This
+programme:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nurtures independent scientific
+inquiry skills</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develops 21CC including resilience,
+resourcefulness and communication</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engages students in higher order
+thinking through creative challenges and experimentation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Simulates real scientific discovery
+processes through storytelling and role-play</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Picture4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7sci.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Picture5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8sci.png">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p><em>E2K Science Programme activities</em>
 </p>
-<p>Last updated : 30/01/2023Our department's vision is to nurture every child
-into a scientific thinker who: • Demonstrates natural curiosity about the
-world around them • Understands and applies scientific concepts to real-life
-situations • Engages confidently in the Practices of Science (such as questioning,
-data analysis and evidence-based reasoning) • Appreciates the impact of
-Science on people and the environment We recognise that children are naturally
-inquisitive about their surroundings. Our STEM education programme aims
-to harness this innate curiosity, developing crucial inquiry and problem-solving
-skills through hands-on, experiential learning opportunities that reflect
-real-world situations.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Last updated : 10/07/2025</p>
