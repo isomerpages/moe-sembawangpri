@@ -4,8 +4,19 @@ permalink: /programmes/departments/english/
 description: ""
 variant: tiptap
 ---
+<h3><strong>English Language Programmes: At a Glance</strong></h3>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Our Focus</strong>:
+<br>&nbsp;Nurturing confident, empathetic communicators through multiliteracies</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>How We Teach</strong>:
+<br>&nbsp;Critical reading, inquiry dialogue, and multimodal texts</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Signature Programmes</strong>:
+<br>&nbsp;▫ Good Morning, Sembawang!
+<br>&nbsp;▫ Faces of Sembawang
+<br>&nbsp;▫ Writer’s Toolbox</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Student Achievements</strong>:
+<br>&nbsp;▫ Active student DJs &amp; presenters
+<br>&nbsp;▫ Vactors Reading Stars Competition 2025</p>
 <h4><strong><u>English Language Department Processes</u></strong></h4>
-<p></p>
 <p>Vision: Every Child an Effective, Empathetic and Confident Communicator</p>
 <p>Proficiency in the English Language is necessary in today’s increasingly
 connected and global environment. It is important to be able to communicate
@@ -62,20 +73,9 @@ skills are practised. Below are some photos taken during these lessons:</p>
 </p>
 <p><strong>1)&nbsp;&nbsp;&nbsp; Sensory Path</strong>
 </p>
-<p>The sensory path began as an inter-departmental initiative between the
-English Language and Physical Education departments. It is a vibrant amalgamation
-of engaging stations and walkways designed to stimulate both the physical
-and cognitive abilities of our learners. Lower Primary teachers, as well
-as MK teachers, conduct lessons with their students as they explore the
-interactive Sensory Path for enriched learning experiences. As they journey
-through this dynamic space, our young learners are encouraged to harness
-their kinesthetic instincts while also engaging with visual, auditory,
-and tactile stimuli.</p>
-<p>By immersing students in this multi-sensory environment, the English Department
-aims to enhance their acquisition of linguistic and fundamental psychomotor
-skills. Through hands-on activities and immersive experiences, the collaborative
-effort between departments and the kindergarten promises to create a rich
-educational tapestry that nurtures holistic development.</p>
+<p>The Sensory Path is a creative collaboration between the English Language
+and Physical Education departments — a vibrant, interactive space designed
+to stimulate both body and mind.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -92,19 +92,45 @@ educational tapestry that nurtures holistic development.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_8.png">
 </div>
 </td>
 </tr>
+</tbody>
+</table>
+<p>Through a series of colourful stations and walkways, our Lower Primary
+and MOE Kindergarten (MK) students explore language in a multi-sensory
+environment. As they walk, jump, and engage with tactile, visual, and auditory
+elements, they’re not just moving — they’re learning.</p>
+<p><strong>What It Supports:</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Language acquisition through interactive
+word play and instructions</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Development of motor skills and spatial
+awareness</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Critical thinking through hands-on tasks
+and exploration</p>
+<p>By merging movement with literacy, the Sensory Path transforms traditional
+lessons into dynamic, joyful experiences — helping students grow as confident
+learners in every sense.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_6.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_7.jpg">
 </div>
 </td>
 </tr>
