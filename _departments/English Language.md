@@ -136,23 +136,50 @@ learners in every sense.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2)&nbsp;&nbsp;&nbsp; Learning Journey to the Singapore Zoo</strong>
+<p><strong>2)&nbsp;&nbsp;&nbsp; Learning Journey</strong>
 </p>
-<p>The school organised a learning journey to the Singapore Zoo for the Primary
-1 students. The students watched a performance by Tiago the Sealion at
-the Splash Safari Show. After watching the show, they walked around the
-zoo where they were introduced to different wild animals. Once they returned
-to school, they were tasked to do a writing reflection based on their learning
-experience. They enjoyed the outdoor learning experience at the Singapore
-Zoo!</p>
+<p><strong>Primary 1 - Singapore Zoo</strong>
+</p>
+<p>Our Primary 1 students had an exciting day of discovery at the Singapore
+Zoo! They were thrilled to watch Tiago the Sea Lion perform at the Splash
+Safari Show, followed by a fun exploration of the zoo’s many animal exhibits.
+Back in school, they turned their adventure into thoughtful reflections,
+combining real-world experiences with creative writing.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_9.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_EL_10.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>“I liked going to the zoo because I saw the sea lion jump!” – Alden, P1 Care</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Primary 3 - Singapore Science Centre</strong>
+</p>
+<p>The English department had collaborated with the Science department for
+the learning journey in Term 2. The learning journey to Singapore Science
+Centre was about ‘The Unusual plants’ which was linked to both the English
+language Stellar unit and Science subject topic.</p>
+<p></p>
 <p></p>
 <p><strong><u>Developing Student Voice</u></strong>
 </p>
