@@ -92,7 +92,7 @@ coding skills to create sustainable living solutions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><em>Building a Smart Home' STEM project</em>
+<p><em>'Building a Smart Home' STEM project</em>
 </p>
 </td>
 </tr>
@@ -215,13 +215,13 @@ and a Zero Waste Hub featuring furniture upcycled from pallet wood.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Achievements</u></strong>
+<p><strong>Achievements</strong>
 </p>
 <p>Our commitment to environmental education has earned recognition through
 the Yellow Flame Award in the Singapore Environment Council's School Green
 Awards since 2022. We were also honoured with the Bronze Award in North
 West CDC's Green Living Awards 2024, acknowledging our sustained efforts
-in environmental programmes and activities</p>
+in environmental programmes and activities.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -243,4 +243,4 @@ in environmental programmes and activities</p>
 </tr>
 </tbody>
 </table>
-<p>Last updated : 09/07/2025</p>
+<p>Last updated : 11/07/2025</p>
