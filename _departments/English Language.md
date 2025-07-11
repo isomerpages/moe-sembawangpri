@@ -430,21 +430,6 @@ fluency, and joy</p>
 <p>This meaningful morning programme fosters not just literacy, but also
 empathy, responsibility, and collaboration — values that go far beyond
 the page.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_19.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>&nbsp;2)&nbsp;&nbsp;&nbsp; Writer’s Toolbox</strong>
 </p>
 <p>As part of an ongoing partnership with <em>The Writer's Toolbox</em>, upper
@@ -761,7 +746,5 @@ of their efforts. Good work, students!</p>
 Department.</p>
 <p>Together, we nurture readers, writers, and confident communicators.</p>
 <p></p>
-<p></p>
-<p></p>
-<p>Last updated : 10/07/2025</p>
+<p>Last updated : 11/07/2025</p>
 <p></p>
