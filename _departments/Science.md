@@ -22,7 +22,7 @@ work.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1sci.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/1sci.png">
 </div>
 </th>
 </tr>
@@ -89,8 +89,7 @@ learning opportunities that reflect real-world situations.</p>
 </table>
 <p><strong><u>Learning Beyond the Classroom</u></strong>
 </p>
-<p>&nbsp;</p>
-<p>We believe that some of the most valuable learning experiences happen
+<p>&nbsp;We believe that some of the most valuable learning experiences happen
 outside traditional classroom settings. Our students participate in experiential
 activities such as exploring our school's Green Trail to study plant and
 animal diversity, and engaging in interactive, cross-disciplinary learning
@@ -136,7 +135,6 @@ resourcefulness and communication</p>
 thinking through creative challenges and experimentation</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Simulates real scientific discovery
 processes through storytelling and role-play</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -165,4 +163,5 @@ processes through storytelling and role-play</p>
 </tr>
 </tbody>
 </table>
-<p>Last updated : 10/07/2025</p>
+<p></p>
+<p>Last updated : 11/07/2025</p>
