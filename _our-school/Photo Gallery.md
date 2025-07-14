@@ -23,7 +23,7 @@ description: ""
 <p>28th May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1NSdPqcSGwdDTpUev3ABhB2VGts7_Dc6L?usp=sharing" rel="noopener nofollow" target="_blank">Term 2 Week 10: Celebration of Success</a>
+<p><a href="https://photos.app.goo.gl/DFS3Q66jrJEeMY6K8" rel="noopener nofollow" target="_blank">Term 2 Week 10: Celebration of Success</a>
 </p>
 </td>
 </tr>
