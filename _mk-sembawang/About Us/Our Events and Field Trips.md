@@ -37,7 +37,7 @@ third_nav_title: About Us
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Website__2_.png">
 </div>
-<p></p>
+<p>Last updated :14/07/2025</p>
 <p></p>
 <p></p>
 <p></p>
