@@ -2,4 +2,5 @@ collections:
   general-information:
     output: true
     order:
+      - Dental Clinic.md
       - Booklist.md
