@@ -5,42 +5,36 @@ description: ""
 variant: tiptap
 ---
 <h3>School Canteen Advertisement</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Type of Stall</p>
+<p><strong>Type of Stall</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fruits &amp; Cold Drinks Stall</p>
+<p><strong>Closing Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operational Date</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Closing Date</p>
+<p>Chinese Mixed Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 May 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>31 Jul 2025 before 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 Sep 2025 (preferably)</p>
 </td>
 </tr>
 </tbody>
