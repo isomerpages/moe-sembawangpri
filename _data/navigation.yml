@@ -86,16 +86,16 @@ links:
     url: /general-information/
     sublinks:
       - title: Booklist
-        url: /permalink
+        url: /general-information/booklist/
       - title: Dental Clinic
-        url: /permalink
+        url: /general-information/dental-clinic/
       - title: School Bus
-        url: /permalink
+        url: /general-information/school-bus/
       - title: School Canteen Advertisement
-        url: /permalink
+        url: /general-information/school-canteen-advertisement/
       - title: School Uniform
-        url: /permalink
+        url: /general-information/school-uniform/
       - title: Student Care Centre
-        url: /permalink
+        url: /general-information/student-care-centre/
   - title: Contact Us
     url: /contact-us
