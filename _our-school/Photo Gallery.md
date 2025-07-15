@@ -29,12 +29,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12th July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://photos.app.goo.gl/exJhmc18mGZE11Ht9" rel="noopener nofollow" target="_blank">Term 3 Week 2: Open House</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Last Updated : 14/07/2025</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Last Updated : 15/07/2025</p>
