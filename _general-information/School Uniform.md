@@ -1,8 +1,7 @@
 ---
 title: School Uniform
-permalink: /for-parents/useful-contacts/schooluniform/
+permalink: /general-information/school-uniform/
 description: ""
-third_nav_title: Useful Contacts
 variant: markdown
 ---
 **School Uniform Vendor - Chop Kong Chong**

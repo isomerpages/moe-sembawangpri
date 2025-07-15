@@ -1,10 +1,9 @@
 ---
 title: Dental Clinic
-permalink: /for-parents/Useful-contacts/dentalclinic/
+permalink: /general-information/dental-clinic/
 description: ""
-third_nav_title: Useful Contacts
+variant: tiptap
 ---
-
 | Dental Clinic |
 |---|
 | Address: Sembawang Primary School |

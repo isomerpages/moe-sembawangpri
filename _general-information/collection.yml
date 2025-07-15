@@ -1,0 +1,10 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - Booklist.md
+      - Dental Clinic.md
+      - School Bus.md
+      - School Canteen Advertisement.md
+      - School Uniform.md
+      - Student Care Centre.md

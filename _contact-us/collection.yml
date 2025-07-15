@@ -3,10 +3,3 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - Useful Contacts/.keep
-      - Useful Contacts/Booklist.md
-      - Useful Contacts/Dental Clinic.md
-      - Useful Contacts/School Bus.md
-      - Useful Contacts/School Canteen Advertisement.md
-      - Useful Contacts/School Uniform.md
-      - Useful Contacts/Student Care Centre.md

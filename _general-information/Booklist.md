@@ -1,8 +1,7 @@
 ---
 title: Booklist
-permalink: /for-parents/useful-contacts/booklist/
+permalink: /general-information/booklist/
 description: ""
-third_nav_title: Useful Contacts
 variant: tiptap
 ---
 <p><strong>School Bookshop Vendor - Pacific Bookstores Pte Ltd</strong>

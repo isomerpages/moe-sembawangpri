@@ -1,47 +1,40 @@
 ---
 title: School Canteen Advertisement
-permalink: /contact-us/useful-contacts/school-canteen-advertisement/
+permalink: /general-information/school-canteen-advertisement/
 description: ""
-third_nav_title: Useful Contacts
 variant: tiptap
 ---
 <h3>School Canteen Advertisement</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Type of Stall</p>
+<p><strong>Type of Stall</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fruits &amp; Cold Drinks Stall</p>
+<p><strong>Closing Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operational Date</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Closing Date</p>
+<p>Chinese Mixed Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 May 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>31 Jul 2025 before 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 Sep 2025 (preferably)</p>
 </td>
 </tr>
 </tbody>
@@ -53,7 +46,7 @@ variant: tiptap
 from the School’s Security Guard Post/ General Office.</p>
 </li>
 </ol>
-<p><a href="/files/Application_Form_for_School_Canteen_Fruits___Cold_Drinks.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> Application
+<p><a href="https://www.sembawangpri.moe.edu.sg/files/Application_Form_for_School_Canteen_Fruits___Cold_Drinks.pdf" rel="noopener nofollow" target="_blank">Click Here</a> Application
 form for Canteen Stall</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -116,7 +109,7 @@ consultation with the school.</p>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
-Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">link</a>).</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>

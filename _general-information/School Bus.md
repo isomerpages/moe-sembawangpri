@@ -1,8 +1,7 @@
 ---
 title: School Bus
-permalink: /for-parents/Useful-contacts/schoobus/
+permalink: /general-information/school-bus/
 description: ""
-third_nav_title: Useful Contacts
 variant: markdown
 ---
 | School Bus Operator - L&amp;W Transport Services Pte Ltd |
