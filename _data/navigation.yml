@@ -84,3 +84,6 @@ links:
     collection: mk-sembawang
   - title: Contact Us
     url: /contact-us
+  - title: General Information
+    url: /general-information/
+    sublinks: []
