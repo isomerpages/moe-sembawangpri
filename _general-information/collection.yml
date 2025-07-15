@@ -2,5 +2,6 @@ collections:
   general-information:
     output: true
     order:
+      - School Bus.md
       - Dental Clinic.md
       - Booklist.md
