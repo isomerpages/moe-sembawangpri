@@ -83,7 +83,7 @@ links:
   - title: MOE Kindergarten
     collection: mk-sembawang
   - title: General Information
-    url: /general-information/
+    url: /general-information/booklist/
     sublinks:
       - title: Booklist
         url: /general-information/booklist/
