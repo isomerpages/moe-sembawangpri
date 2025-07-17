@@ -1108,10 +1108,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Afiqah Binte Abdul Samad</p>
+<p>Ms Chitra Pillay Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:afiqah_binte_abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">afiqah_binte_abdul_samad@schools.gov.sg</a>
+<p><a href="chitra_pillay_chua@schools.gov.sg" rel="noopener nofollow" target="_blank">chitra_pillay_chua@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1126,10 +1126,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chin Shu Fei</p>
+<p>Chan Bee Bee, May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_shu_fei_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_shu_fei_a@schools.gov.sg</a>
+<p><a href="chan_bee_bee_may_b@schools.gov.sg" rel="noopener nofollow" target="_blank">chan_bee_bee_may_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1157,7 +1157,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="vikneshwari_kunusegaran@schools.gov.sg" rel="noopener nofollow" target="_blank">vikneshwari_kunusegaran@schools.gov.sg</a>
-<a href="wong_mei_fong_a@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_mei_fong_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1166,7 +1165,8 @@ variant: tiptap
 <p>Mdm Wong Mei Fong Shelley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="wong_mei_fong_a@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_mei_fong_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
