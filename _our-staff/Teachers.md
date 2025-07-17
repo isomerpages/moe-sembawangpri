@@ -278,7 +278,7 @@ variant: tiptap
 <p>2 Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Janelle Yap Jia Hui</p>
+<p>Miss Janelle Yap Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="janelle_yap_jia_hui_a@schools.gov.sg" rel="noopener nofollow" target="_blank">janelle_yap_jia_hui_a@schools.gov.sg</a>
@@ -362,7 +362,7 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oh Shi Ying</p>
+<p>Miss Oh Shi Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="Oh_Shi_Ying_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Oh_Shi_Ying_A@schools.gov.sg</a>
@@ -398,7 +398,7 @@ variant: tiptap
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diyanah Abdul Karim</p>
+<p>Miss Diyanah Abdul Karim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="Diyanah_Abdul_Karim@schools.gov.sg" rel="noopener nofollow" target="_blank">Diyanah_Abdul_Karim@schools.gov.sg</a>
@@ -410,7 +410,7 @@ variant: tiptap
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nuremiliyana Suhaidi</p>
+<p>Ms Nuremiliyana Suhaidi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="nuremiliyana_suhaidi@schools.gov.sg" rel="noopener nofollow" target="_blank">nuremiliyana_suhaidi@schools.gov.sg</a>
