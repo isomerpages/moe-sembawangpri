@@ -467,10 +467,11 @@ variant: tiptap
 <p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Zeng Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Zeng_Jing_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Zeng_Jing_A@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -490,10 +491,11 @@ variant: tiptap
 <p>3 Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Marianne Karen</p>
+<p>Miss Shirin Irfana Binte Iskander Shah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="shirin_irfana_iskander_shah_b@schools.gov.sg" rel="noopener nofollow" target="_blank">shirin_irfana_iskander_shah_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -610,6 +612,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_hongyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_hongyan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Tze Shuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lee_Tze_Shuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Tze_Shuen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
