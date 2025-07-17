@@ -881,10 +881,10 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Siew Bing Joey</p>
+<p>Mdm Lim Mie Sie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_siew_bing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_bing@schools.gov.sg</a>
+<p><a href="Lim_Mie_Sie@schools.gov.sg" rel="noopener nofollow" target="_blank">Lim_Mie_Sie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -990,18 +990,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohd_haslam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_haslam@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Curiosity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yang Binglin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yang_binglin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_binglin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1159,15 +1147,8 @@ variant: tiptap
 <p>Ms Tan Lay Huay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Felix Tiong Ing Shui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="tan_lay_huay_b@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_lay_huay_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1175,7 +1156,9 @@ variant: tiptap
 <p>Mdm Vikneshwari d/o Kunusegaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="vikneshwari_kunusegaran@schools.gov.sg" rel="noopener nofollow" target="_blank">vikneshwari_kunusegaran@schools.gov.sg</a>
+<a href="wong_mei_fong_a@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_mei_fong_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
