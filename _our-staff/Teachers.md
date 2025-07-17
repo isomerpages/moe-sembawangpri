@@ -1169,6 +1169,42 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Jin Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ong_jin_cheng@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_jin_cheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Oh Keng Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="oh_keng_hong@schools.gov.sg" rel="noopener nofollow" target="_blank">oh_keng_hong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kong Yit Sim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="kong_yit_sim@schools.gov.sg" rel="noopener nofollow" target="_blank">kong_yit_sim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shamsiah Binte Md Shariff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="shamsiah_md_shariff_a@schools.gov.sg" rel="noopener nofollow" target="_blank">shamsiah_md_shariff_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
