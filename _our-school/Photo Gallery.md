@@ -23,7 +23,7 @@ description: ""
 <p>28th May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://photos.app.goo.gl/DFS3Q66jrJEeMY6K8" rel="noopener nofollow" target="_blank">Term 2 Week 10: Celebration of Success</a>
+<p><a href="https://photos.app.goo.gl/DFS3Q66jrJEeMY6K8" rel="noopener nofollow" target="_blank">Celebration of Success</a>
 </p>
 </td>
 </tr>
@@ -32,7 +32,16 @@ description: ""
 <p>12th July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://photos.app.goo.gl/exJhmc18mGZE11Ht9" rel="noopener nofollow" target="_blank">Term 3 Week 2: Open House</a>
+<p><a href="https://photos.app.goo.gl/exJhmc18mGZE11Ht9" rel="noopener nofollow" target="_blank">Open House</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23rd July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/z7TvedN9xFQ7HTUv5" rel="noopener nofollow" target="_blank">Racial Harmony Day and Hosting of Foshan Experimental School</a>
 </p>
 </td>
 </tr>
@@ -41,4 +50,4 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
-<p>Last Updated : 15/07/2025</p>
+<p>Last Updated : 24/07/2025</p>
