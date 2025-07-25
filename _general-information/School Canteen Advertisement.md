@@ -31,7 +31,7 @@ variant: tiptap
 <p>Chinese Mixed Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Jul 2025 before 5pm</p>
+<p>15 Aug 2025 before 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 Sep 2025 (preferably)</p>
