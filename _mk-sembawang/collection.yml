@@ -2,11 +2,11 @@ collections:
   mk-sembawang:
     output: true
     order:
-      - MK Teachers/MK Teachers.md
-      - MK Teachers/Contact Us.md
-      - MK Teachers/.keep
       - About Us/.keep
       - About Us/A Day in MK@Sembawang.md
       - About Us/Our Events and Field Trips.md
       - Media Highlights.md
       - KCare.md
+      - MK Teachers/.keep
+      - MK Teachers/MK Teachers.md
+      - MK Teachers/Contact Us.md
