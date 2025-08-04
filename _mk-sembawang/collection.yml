@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MK Teachers/.keep
-      - Contact Us.md
       - About Us/.keep
       - About Us/A Day in MK@Sembawang.md
       - About Us/Our Events and Field Trips.md
