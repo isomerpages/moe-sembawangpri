@@ -14,7 +14,8 @@ third_nav_title: Contact Us
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Centre Head</p>
+<p><strong>Centre Head</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Nursyafiqah binte Mohamad Ramlee</p>
@@ -25,7 +26,8 @@ third_nav_title: Contact Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>K1 Level Head</p>
+<p><strong>K1 Level Head</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Norain binte Nordin</p>
@@ -36,7 +38,8 @@ third_nav_title: Contact Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>K2 Level Head</p>
+<p><strong>K2 Level Head</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wee Yu Qian, Regina</p>
