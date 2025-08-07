@@ -13,6 +13,11 @@ third_nav_title: Contact Us
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<h4>Leaders</h4>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Centre Head</strong>
 </p>
@@ -61,6 +66,11 @@ third_nav_title: Contact Us
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h4>Our Educators</h4>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Class</p>
