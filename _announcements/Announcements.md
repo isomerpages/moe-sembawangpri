@@ -4,6 +4,33 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong>Caring Teacher Award 2026</strong>
+</p>
+<p></p>
+<p>The <strong>Caring Teacher Award (CTA)</strong> celebrates educators who
+exemplify care and compassion in their teaching, going beyond the call
+of duty to nurture the holistic development of their students. At Sembawang
+Primary, we believe such teachers leave a lasting impact not just through
+lessons, but through the relationships they build and the lives they touch.</p>
+<p></p>
+<p>If you know a teacher who has made a meaningful difference in your life
+or your child's learning journey, we invite you to <strong>submit a nomination</strong> and
+share your appreciation!</p>
+<p></p>
+<p>📝 <strong>Who can nominate?</strong>
+<br>Students, parents, and guardians are all welcome to nominate.</p>
+<p>📅 <strong>Nomination deadline:</strong> 31 December 2025</p>
+<p>🔗 <strong>Submit your nomination here:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://cta.nie.edu.sg/</a>
+</p>
+<p></p>
+<p>Let’s come together to celebrate the heart of education — our caring teachers.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_CTA.png">
+</div>
+<p></p>
+<p></p>
 <p><strong>Say It From Your Heart @SBPS [for Teachers' Day 2025]</strong>
 </p>
 <p><strong>&nbsp;</strong>Dear Parents/Guardians &amp; Students,</p>
