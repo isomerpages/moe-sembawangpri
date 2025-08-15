@@ -11,9 +11,9 @@ Procedure below.</p>
 </p>
 <p><a href="/files/1proposal.pdf" rel="noopener nofollow" target="_blank">1. Call for Proposal</a>
 </p>
-<p><a href="/files/2tc.pdf" rel="noopener nofollow" target="_blank">2. Terms and Conditions for School Bus Operator to Provide School Bus Services </a>
+<p><a href="/files/2tc.pdf" rel="noopener nofollow" target="_blank">2. Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
 </p>
-<p><a href="/files/3request.pdf" rel="noopener nofollow" target="_blank">3. Request for School Bus Services </a>
+<p><a href="/files/3request.pdf" rel="noopener nofollow" target="_blank">3. Request for School Bus Services</a>
 </p>
 <p></p>
 <p><strong>Application Procedure</strong>
