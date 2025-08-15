@@ -24,7 +24,7 @@ Procedure below.</p>
 Aug 2025, 1pm to the School’s General Office.</p>
 <p>• Address: 10 Sembawang Drive S757715</p>
 <p>• Contract Number: 6756 7330</p>
-<p>• Email: <a rel="noopener noreferrer nofollow" target="_blank">sembawang_ps@moe.edu.sg</a>
+<p>• Email: <a href="sembawang_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">sembawang_ps@moe.edu.sg</a>
 </p>
 <p>• Contact Person: Ms Lim Siew Hwa Agnes</p>
 <p>&nbsp;</p>
