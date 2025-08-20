@@ -45,9 +45,18 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8th Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/x2rt5oPtxQqV9vP2A" rel="noopener nofollow" target="_blank">National Day Celebration</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
 <p></p>
-<p>Last Updated : 24/07/2025</p>
+<p>Last Updated : 20/08/2025</p>
