@@ -2,8 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - 25th Anniversary.md
-      - Open House.md
       - "Applied Learning Programme: Leading Environmental Action for the Future
         (LEAF).md"
       - Learning for Life Programme/.keep
