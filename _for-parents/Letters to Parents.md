@@ -1,6 +1,6 @@
 ---
 title: Letters to Parents
-permalink: /for-parents/Letters-to-parents/
+permalink: /for-parents/letters-to-parents/
 description: ""
 variant: markdown
 ---

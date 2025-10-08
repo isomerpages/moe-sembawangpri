@@ -62,4 +62,4 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5QVzz9S7aEo"></iframe>
 </div>
-<p>Last updated : 04/02/2022</p>
+<p>Last updated : 08/10/2025</p>
