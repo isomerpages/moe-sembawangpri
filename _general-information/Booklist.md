@@ -25,7 +25,7 @@ variant: tiptap
 <p>TEL:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6482 3423</p>
+<p>9048 0532</p>
 </td>
 </tr>
 <tr>
@@ -72,4 +72,4 @@ variant: tiptap
 </p>
 <p><a href="/files/P6__FDN__2025.pdf" rel="noopener nofollow" target="_blank">SBPS 2025 Booklist P6 Foundation</a>
 </p>
-<p>Last updated : 21/11/2024</p>
+<p>Last updated : 14/10/2025</p>
