@@ -11,12 +11,6 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Sembawang Primary School</strong>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><strong>Current School Bus Operator - L&amp;W Transport Services Pte Ltd</strong>
 </p>
 </th>
