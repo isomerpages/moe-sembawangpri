@@ -11,12 +11,6 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Sembawang Primary School</strong>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><strong>Current School Bus Operator - L&amp;W Transport Services Pte Ltd</strong>
 </p>
 </th>
@@ -175,6 +169,6 @@ programmes, supplementary classes, CCAs and so on.</p>
 </tbody>
 </table>
 <p></p>
-<p><a href="/files/Sembawang_Primary_School_Bus_Enrolment_Poster_2026.pdf" rel="noopener nofollow" target="_blank">Sembawang Primary School Bus Enrollment</a>
+<p><a href="/files/Sembawang_Primary_School_Bus_Enrolment_Poster_2026.pdf" rel="noopener nofollow" target="_blank">Sembawang Primary School Bus Enrolment</a>
 </p>
 <p>Last updated : 14/10/2025</p>
