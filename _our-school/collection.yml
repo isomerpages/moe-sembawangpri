@@ -2,9 +2,9 @@ collections:
   our-school:
     output: true
     order:
+      - Our School.md
       - School Rules & Expectations.md
       - Guidelines for Consequences/.keep
-      - Our School.md
       - Principal's Message.md
       - About Us/.keep
       - About Us/About Us.md
