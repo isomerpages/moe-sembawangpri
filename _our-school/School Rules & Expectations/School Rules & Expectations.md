@@ -1,8 +1,9 @@
 ---
 title: School Rules & Expectations
-permalink: /our-school/school-rules-expectations/
+permalink: /our-school/school-rules-expectations/school-rules-expectations/
 variant: tiptap
 description: ""
+third_nav_title: School Rules & Expectations
 ---
 <p>The following are general standards of good behaviour expected of all
 students that apply in any setting and mode of interaction, both online

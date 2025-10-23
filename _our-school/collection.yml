@@ -3,12 +3,14 @@ collections:
     output: true
     order:
       - Our School.md
-      - Principal's Message.md
-      - School Rules & Expectations.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Our School Song.md
       - About Us/Our Corporate Video.md
+      - Principal's Message.md
+      - School Rules & Expectations/School Rules & Expectations.md
+      - School Rules & Expectations/.keep
+      - School Rules & Expectations/Guidelines for Consequences.md
       - Photo Gallery.md
       - School Advisory Committee.md
       - School Operating Hours.md

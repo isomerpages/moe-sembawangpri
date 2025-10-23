@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /our-school/About-Us/
+permalink: /our-school/about-us/
 description: ""
 third_nav_title: About Us
 variant: markdown

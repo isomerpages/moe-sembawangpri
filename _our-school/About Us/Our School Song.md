@@ -1,12 +1,13 @@
 ---
 title: Our School Song
-permalink: /our-school/About-Us/our-school-song/
+permalink: /our-school/about-us/our-school-song/
 description: ""
 third_nav_title: About Us
+variant: tiptap
 ---
 ### Our School Song
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VCkVs6eK5NU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VCkVs6eK5NU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Learning is an adventure.
 
