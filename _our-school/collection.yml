@@ -2,14 +2,14 @@ collections:
   our-school:
     output: true
     order:
-      - Guidelines for Consequences.md
-      - Our School.md
-      - School Rules & Expectations.md
-      - Principal's Message.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Our School Song.md
       - About Us/Our Corporate Video.md
+      - Our School.md
+      - Principal's Message.md
+      - School Rules & Expectations.md
+      - Guidelines for Consequences.md
       - Photo Gallery.md
       - School Advisory Committee.md
       - School Operating Hours.md
