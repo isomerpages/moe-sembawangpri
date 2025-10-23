@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Guidelines for Consequences.md
       - Our School.md
       - School Rules & Expectations.md
       - Principal's Message.md
