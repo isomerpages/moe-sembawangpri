@@ -4,6 +4,46 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong>President’s Award for Teachers (PAT) 2026</strong>
+</p>
+<p></p>
+<p>The President’s Award for Teachers (PAT) gives national recognition to
+experienced teachers who are role models for the teaching profession. These
+teachers embody deep passion for teaching and inspire both their students
+and peers through their words and deeds.&nbsp;</p>
+<p>Nomination for PAT 2025 is <strong>now open</strong> and will close on<strong> 9 January 2026.</strong> &nbsp;</p>
+<p>&nbsp;Submit your nominations online by clicking on the URLs or scanning
+the QR codes below.&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://go.gov.sg/pat2026" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/pat2026</u></a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/pat2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT_2026.jpg"></a>
+<p></p>
+<p><strong>Outstanding Youth in Education Award (OYEA) 2025</strong>
+</p>
+<p>The Outstanding Youth in Education Award (OYEA) gives national recognition
+to young teachers who are role models for the teaching profession. These
+teachers embody youthful idealism, energy and enthusiasm, and inspire both
+their students and peers through their words and deeds.&nbsp;</p>
+<p>Nomination for OYEA 2025 is<strong> now open </strong>and will<strong> close on 9 January 2026.&nbsp;&nbsp;</strong>
+</p>
+<p>&nbsp;Submit your nominations online by clicking on the URLs or scanning
+the QR codes below.</p>
+<p><a href="https://go.gov.sg/oyea2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/oyea2026</a>
+</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/oyea2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA_2026.jpg"></a>
+<p></p>
+<p></p>
 <p><strong>Caring Teacher Award 2026</strong>
 </p>
 <p></p>
@@ -45,58 +85,10 @@ for our teachers/staff!</p>
 <p><a href="https://form.gov.sg/6882cf6ab3cc6768412895e7" rel="noopener nofollow" target="_blank">Link to FormSg</a>
 </p>
 <p></p>
-<p><strong>President’s Award for Teachers (PAT) 2025</strong>
-</p>
-<p></p>
-<p>The President’s Award for Teachers (PAT) gives national recognition to
-experienced teachers who are role models for the teaching profession. These
-teachers embody deep passion for teaching and inspire both their students
-and peers through their words and deeds.</p>
-<p></p>
-<p>Nomination for PAT 2025 is <strong>now open </strong>and will <strong>close on 10 January 2025</strong>.
-&nbsp;</p>
-<p>Submit your nominations online by clicking on the URLs or scanning the
-QR codes below.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/pat2025</u></a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_PAT.jpg">
-</div>
-<p></p>
-<p></p>
-<p><strong>Outstanding Youth in Education Award (OYEA) 2025</strong>
-</p>
-<p></p>
-<p>The Outstanding Youth in Education Award (OYEA) gives national recognition
-to young teachers who are role models for the teaching profession. These
-teachers embody youthful idealism, energy and enthusiasm, and inspire both
-their students and peers through their words and deeds.</p>
-<p></p>
-<p>Nomination for OYEA 2025 is<strong> now open </strong>and will<strong> close on 10 January 2025.&nbsp;&nbsp;</strong>
-</p>
-<p>Submit your nominations online by clicking on the URLs or scanning the
-QR codes below</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_OYEA.jpg">
-</div>
-<p></p>
 <p></p>
 <p><strong>Sembawang Buzz</strong>
 </p>
 <p>Click <a href="https://www.sembawangpri.moe.edu.sg/for-parents/sembawang-buzz/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the latest edition of Sembawang Buzz.</p>
 <p></p>
-<p>Last Updated : 01/08/2025</p>
+<p>Last Updated : 30/10/2025</p>
