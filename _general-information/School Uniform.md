@@ -23,17 +23,17 @@ variant: markdown
 | Time | 2.00p.m. to 4.00p.m. |
 | Payment Mode | Cash and PayNow only |
 
-[Click Here for Uniform Sale Dates](/files/2024_Sales_Dates_for_SBW___Nov_to_Dec.pdf)
+[Click here for Uniform Sale Date](/files/P1_School_Uniforms_Schedule.pdf)
 
 
 **Please take note that strictly no trying of&nbsp;&nbsp;uniform.&nbsp;&nbsp;Thank you!**    
 
 **School Name Tag Order Form**
-
+     
 Dear Parents,
 
 Please kindly fill up the following form for name tag orders. Your child will need to submit the form and make payment at the school bookshop.
 
-[Application form](/files/School_Name_Tag_Application_Form.pdf)
+[Application Form](https://www.sembawangpri.moe.edu.sg/files/School_Name_Tag_Application_Form.pdf)
 
-Last updated : 26/11/2024
+Last updated : 13/11/2025
