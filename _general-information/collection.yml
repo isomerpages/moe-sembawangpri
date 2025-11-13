@@ -2,7 +2,7 @@ collections:
   general-information:
     output: true
     order:
-      - Booklist.md
+      - School Bookshop.md
       - Dental Clinic.md
       - School Bus.md
       - School Bus Advertisement.md
