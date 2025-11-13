@@ -31,9 +31,9 @@ variant: markdown
 **School Name Tag Order Form**
      
 Dear Parents,
+    
+Please complete the attached form to order name tags for your child. Once completed, your child should submit the form along with payment to the school bookshop.
 
-Please kindly fill up the following form for name tag orders. Your child will need to submit the form and make payment at the school bookshop.
-
-[Application Form](https://www.sembawangpri.moe.edu.sg/files/School_Name_Tag_Application_Form.pdf)
+[Name Tag Form](/files/NAME_TAG_FORM_2026.pdf)
 
 Last updated : 13/11/2025
