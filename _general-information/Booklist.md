@@ -56,20 +56,20 @@ variant: tiptap
 </table>
 <p><strong>Booklist</strong>
 </p>
-<p><a href="/files/P1_2025.pdf" rel="noopener nofollow" target="_blank">SBPS 2025 Booklist P1</a>
+<p><a href="/files/P1_2026.pdf" rel="noopener nofollow" target="_blank">SBPS 2026 Booklist P1</a>
 </p>
-<p><a href="/files/P2_2025.pdf" rel="noopener nofollow" target="_blank">SBPS 2025 Booklist P2</a>
+<p><a href="/files/P2_2026.pdf" rel="noopener nofollow" target="_blank">SBPS 2026 Booklist P2</a>
 </p>
-<p><a href="/files/P3_2025.pdf" rel="noopener nofollow" target="_blank">SBPS 2025 Booklist P3</a>
+<p><a href="/files/P3_2026.pdf" rel="noopener nofollow" target="_blank">SBPS 2026 Booklist P3</a>
 </p>
-<p><a href="/files/P4_2025.pdf" rel="noopener nofollow" target="_blank">SBPS 2025 Booklist P4</a>
+<p><a href="/files/P4_2026.pdf" rel="noopener nofollow" target="_blank">SBPS 2026 Booklist P4</a>
 </p>
-<p><a href="/files/P5_2025.pdf" rel="noopener nofollow" target="_blank">SBPS 2025 Booklist P5</a>
+<p><a href="/files/P5_2026.pdf" rel="noopener nofollow" target="_blank">SBPS 2026 Booklist P5</a>
 </p>
-<p><a href="/files/P5__FDN__2025.pdf" rel="noopener nofollow" target="_blank">SBPS 2025 Booklist P5 Foundation</a>
+<p><a href="/files/P5__FDN__2026.pdf" rel="noopener nofollow" target="_blank">SBPS 2026 Booklist P5 Foundation</a>
 </p>
-<p><a href="/files/P6_2025.pdf" rel="noopener nofollow" target="_blank">SBPS 2025 Booklist P6</a>
+<p><a href="/files/P6_2026.pdf" rel="noopener nofollow" target="_blank">SBPS 2026 Booklist P6</a>
 </p>
-<p><a href="/files/P6__FDN__2025.pdf" rel="noopener nofollow" target="_blank">SBPS 2025 Booklist P6 Foundation</a>
+<p><a href="/files/P6__FDN__2026.pdf" rel="noopener nofollow" target="_blank">SBPS 2026 Booklist P6 Foundation</a>
 </p>
-<p>Last updated : 14/10/2025</p>
+<p>Last updated : 13/11/2025</p>
