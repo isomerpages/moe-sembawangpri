@@ -171,4 +171,9 @@ programmes, supplementary classes, CCAs and so on.</p>
 <p></p>
 <p><a href="/files/Sembawang_Primary_School_Bus_Enrolment_Poster_2026.pdf" rel="noopener nofollow" target="_blank">Sembawang Primary School Bus Enrolment</a>
 </p>
-<p>Last updated : 14/10/2025</p>
+<p></p>
+<p><a href="/files/Guide_to_Register_for_School_Bus_Service.pdf" rel="noopener nofollow" target="_blank">Guide to Register for School Bus Service</a>
+<br>
+<br>
+</p>
+<p>Last updated : 13/11/2025</p>
