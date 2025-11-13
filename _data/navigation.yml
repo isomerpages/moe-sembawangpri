@@ -81,10 +81,10 @@ links:
   - title: MOE Kindergarten
     collection: mk-sembawang
   - title: General Information
-    url: /general-information/booklist/
+    url: /general-information/school-bookshop/
     sublinks:
-      - title: Booklist
-        url: /general-information/booklist/
+      - title: School Bookshop
+        url: /general-information/school-bookshop/
       - title: Dental Clinic
         url: /general-information/dental-clinic/
       - title: School Bus
