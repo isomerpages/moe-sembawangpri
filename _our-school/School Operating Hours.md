@@ -32,13 +32,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P1</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p>7.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00am - 9.30am</p>
@@ -58,6 +56,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>P3 &amp; P4</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>7.30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.00am - 10.30am</p>
