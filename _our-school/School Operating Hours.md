@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>School Operating Hours</h3>
+<p><strong><u>School Operating and Recess Hours (Wef 2 Jan 2026</u></strong>)</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -75,6 +76,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>NB: Students who are not with their classes for the Flag Raising Ceremony
-at 7.30am will be considered late for school.</p>
+<p>NB: Students who are <u>not with their classes for the Flag Raising Ceremony at 7.30am </u>will
+be considered late for school.</p>
 <p>Last updated : 19/11/2025</p>
