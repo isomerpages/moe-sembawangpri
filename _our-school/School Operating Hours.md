@@ -2,14 +2,79 @@
 title: School Operating Hours
 permalink: /our-school/school-operating-hours/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### School Operating Hours
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#EFEFEF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#323232;background-color:#EFEFEF">Level</span></th><th style="background-color:#EFEFEF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#323232;background-color:#EFEFEF">Report by</span></th><th style="background-color:#EFEFEF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#323232;background-color:#EFEFEF">Recess</span></th><th style="background-color:#EFEFEF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#323232;background-color:#EFEFEF">Dismissal</span></th></tr></thead><tbody><tr><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="6">7.30am</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">9.00am - 9.30am</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="6">1.30pm</td></tr><tr><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P2</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">9.30am - 10.00am</td></tr><tr><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3 &amp; P4</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">10.00am - 10.30am</td></tr><tr><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P5 &amp; P6</td><td style="border-color:#c0c0c0;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">10.30am - 11.00am</td></tr></tbody></table>
-
-<b>Operating Hours during School Holidays:</b><br>
-Monday to Friday: 8.00am to 5.00pm.<br>
-Closed on Public Holidays
-
-Last updated : 18/11/2024
+<h3>School Operating Hours</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Report By</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recess</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dismissal</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+<td rowspan="4" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>7.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00am -9.30am</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>1.20 pm (Side Gate 1 only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.30am - 10.00am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 &amp; P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00am -10.30am</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>1.30pm ( Main and Side Gate 2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 &amp; P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30am-11.00am</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>NB: Students who are not with their classes for the Flag Raising Ceremony
+at 7.30am will be considered late for school.</p>
+<p>Last updated : 19/11/2025</p>
