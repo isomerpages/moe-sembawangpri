@@ -46,10 +46,14 @@ links:
   - title: For Parents
     url: /for-parents/Briefing-for-parents/
     sublinks:
+      - title: 2025 Speech Day
+        url: /for-parents/speech-day/
       - title: Briefing for parents
         url: /for-parents/Briefing-for-parents/
       - title: Growing Years Programme
         url: /for-parents/growing-years-programme/
+      - title: Homework Policy
+        url: /for-parents/homework-policy/
       - title: Letters to Parents
         url: /for-parents/letters-to-parents/
       - title: Parent Support Group
@@ -76,8 +80,6 @@ links:
         url: /for-parents/supporting-your-child-at-home/
       - title: Triple P Parent Consultation
         url: /triple-p-one-to-one-parenting-consultation/
-      - title: Homework Policy
-        url: /for-parents/homework-policy/
   - title: MOE Kindergarten
     collection: mk-sembawang
   - title: General Information
