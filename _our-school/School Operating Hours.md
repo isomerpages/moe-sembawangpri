@@ -32,16 +32,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P1</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p>7.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00am -9.30am</p>
+<p>9.00am - 9.30am</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>1.20 pm (Side Gate 1 only)</p>
@@ -59,11 +57,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P3 &amp; P4</p>
 </td>
+<td rowspan="2" colspan="1">
+<p>7.30am</p>
+</td>
 <td rowspan="1" colspan="1">
-<p>10.00am -10.30am</p>
+<p>10.00am - 10.30am</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>1.30pm ( Main and Side Gate 2)</p>
+<p>1.30 pm ( Main and Side Gate 2)</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +72,7 @@ variant: tiptap
 <p>P5 &amp; P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.30am-11.00am</p>
+<p>10.30am - 11.00am</p>
 </td>
 </tr>
 </tbody>
