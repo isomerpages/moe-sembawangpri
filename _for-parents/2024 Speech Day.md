@@ -4,8 +4,7 @@ permalink: /for-parents/2024-speech-day/
 description: ""
 variant: markdown
 ---
-![](/images/coming_soon_under_construction.jpg)
+![](/images/2025_Speech_Day__PDF__Programme_Booklet_QR_Code.png)
+Program booklet QR code
 
-
-
-Last updated : 26/03/2024
+Last updated : 21/11/2025
