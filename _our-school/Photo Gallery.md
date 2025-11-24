@@ -54,9 +54,36 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17th Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/wnDHiNRhnETWetoU8" rel="noopener nofollow" target="_blank">Celebration of Success Part 1</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18th Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/Z5QVziLdqngo2TXK8" rel="noopener nofollow" target="_blank">Celebration of Success Part 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21st Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/mvUxDoEyvLLVUhzH8" rel="noopener nofollow" target="_blank">Speech Day</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
 <p></p>
-<p>Last Updated : 20/08/2025</p>
+<p>Last Updated : 25/11/2025</p>
