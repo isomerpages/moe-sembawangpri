@@ -41,9 +41,9 @@ green efforts in school and at home.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zhao Zhiyang
-<br>Ms Long Shi Hui
-<br>Ms Seow Pei Yi, Pearlyn</p>
+<p>Ms Lee Tze Shuen</p>
+<p>Ms Long Shi Hui</p>
+<p>Mr Zhao Zhiyang</p>
 </td>
 </tr>
 <tr>
@@ -62,9 +62,8 @@ green efforts in school and at home.</p>
 <p><strong>Science &amp; Green Club CCA Schedule</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_Schedule_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_science_club.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -73,20 +72,6 @@ green efforts in school and at home.</p>
 <p>Exploring and discovering various bird and butterfly species in our school
 as part of the <em>Every Singaporean A Naturalist</em> (ESN) programme (Nature
 Society Singapore; NSS)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_9.jpg">
-</div>
-<p>Congratulations to our team for their remarkable performance at the 22nd
-Elementz Science Project Competition! We are proud to announce that they
-have secured the prestigious Gold Award.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_10.png">
-</div>
-<p>Three of our teams showcased their passion for wildlife and nature during
-the 40<sup>th</sup> Singapore Bird Race 2024. We are proud of their efforts
-and the spirit of curiosity they brought to the event!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_11.png">
@@ -99,17 +84,6 @@ awarded under the NSS ESN Skills Achievement Programme!</p>
 </div>
 <p>Congratulations to our second batch of Novice Naturalists (Butterflies)
 who were awarded under the NSS ESN Skills Achievement Programme!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_5.jpg">
-</div>
-<p>We are honoured to receive the awards for 'Highest Number of Research-grade
-Observations in 2024' and 'Most Improved Schools from 2023 to 2024' under
-the NSS ESN programme. These achievements highlight our students’ dedication,
-growth, and commitment to citizen science research!</p>
-<p></p>
-<p>Students diving into nature journaling, capturing and documenting various
-bird species through sketches and observations in our school premise!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_6.jpg">
@@ -133,38 +107,46 @@ journaling.</p>
 <p>Some sketches of the <strong>Painted Jezebel</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_8.jpg">
-</div>
-<p>(L) Primatologist Dr Andie Ang engaged our students with an insightful
-talk on primates, sparking their curiosity about wildlife research and
-conservation.
-<br>(R) A digitally drawn card presented to Dr Ang in appreciation of her
-inspiring talk.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_16.jpg">
-</div>
-<p>We explored our neighbourhood to learn more about litter and its impact
-on our environment. With guidance by facilitators from Stridy, we identified
-common types of litter and discovered how simple actions, like picking
-up trash, can help protect nature and keep our shared spaces clean.</p>
-<p></p>
-<p>Well done to our two teams for their enthusiastic participation in the
-NSS ESN 4th Biodiversity Race 2025!</p>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_17.jpg">
 </div>
 <p>Team <em>Cool Koels</em>
 </p>
-<p></p>
 <p>Congratulations to <em>The Jezebellas</em> team on earning a well-deserved
 award!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_18.jpg">
 </div>
 <p>2nd Place: Most Unique Observation
 <br>(Pin-striped Tit-Babbler, a species of bird)</p>
 <p></p>
-<p>Last updated : 26/06/2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_2a.png">
+</div>
+<p>Shoutout to our team at the 23rd Elementz Science Project Competition!
+They exemplified our school values of curiosity, resilience, and excellence
+throughout the competition. Well done!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_3a.png">
+</div>
+<p>Congratulations to our two teams for their strong showing at the 41st
+Singapore Bird Race 2025! We are proud to share that The Flame Bird Observatory
+team clinched Second Runner-Up. Well done, teams!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_4a.png">
+</div>
+<p>Our upper primary members joined Waterways Clean-up Day @ North West,
+helping to clean up Pang Sua Pond and learning the importance of water
+conservation and clean waterways. We are honoured to be recognised as a
+valued partner for five years of contributions to Singapore’s SG60 and
+sustainability efforts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_5a.png">
+</div>
+<p>Our members engaged in an enriching NParks’ horticultural session, taking
+a guided walk around our school grounds, learning about plant propagation,
+and having fun planning their own garden layouts.</p>
+<p></p>
+<p>Last updated : 27/11/2025</p>
