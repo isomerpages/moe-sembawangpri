@@ -13,16 +13,15 @@ third_nav_title: Contact Us
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<h4>Leaders</h4>
+<td rowspan="1" colspan="2">
+<h4>Name of Centre Heads</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Email addresses</h4>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Centre Head</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Miss Nursyafiqah binte Mohamad Ramlee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,32 +29,51 @@ third_nav_title: Contact Us
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>K1 Level Head</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Miss Norain binte Nordin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>norain_nordin@schools.gov.sg</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4>Name of Level Coordinators (Internal)</h4>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>K2 Level Head</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wee Yu Qian, Regina</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee_YU_QIAN_REGINA@schools.gov.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
