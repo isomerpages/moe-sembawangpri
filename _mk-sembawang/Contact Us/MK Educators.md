@@ -203,8 +203,7 @@ third_nav_title: Contact Us
 <p>K1 Edelweiss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Miss Raden Ayu Nurizzati R Sudarmajir</p>
+<p>Miss Raden Ayu Nurizzati R Sudarmajir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Raden_Ayu_Nurizzati_Raden@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Raden_Ayu_Nurizzati_Raden@schools.gov.sg</u></a>
@@ -216,8 +215,7 @@ third_nav_title: Contact Us
 <p>K1 Edelweiss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Miss Putri Nurshahira binte Jaafar</p>
+<p>Miss Putri Nurshahira binte Jaafar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:putri_nurshahira_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>putri_nurshahira_jaafar@schools.gov.sg</u></a>
@@ -265,8 +263,7 @@ third_nav_title: Contact Us
 <p>K2 Brownie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Miss Nur Raeesha binte Sarip</p>
+<p>Miss Nur Raeesha binte Sarip</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nur_Raeesha_Sarip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Nur_Raeesha_Sarip@schools.gov.sg</u></a>
@@ -338,8 +335,7 @@ third_nav_title: Contact Us
 <p>K2 Egg Tart</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Ms Dong Wenwei</p>
+<p>Ms Dong Wenwei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dong_wenwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dong_wenwei@schools.gov.sg</u></a>
