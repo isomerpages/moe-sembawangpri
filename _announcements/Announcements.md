@@ -4,6 +4,18 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong>Closure of General Office on 28 November 2025 (8am to 2pm)</strong>
+</p>
+<p>Please be informed that the General Office will be closed from 8am to
+2pm on 28 November 2025 for a staff event. We will resume operations from
+2pm onwards.</p>
+<p></p>
+<p>For urgent matters, please contact 8025 6335.</p>
+<p></p>
+<p>Thank you.</p>
+<p>Admin Office
+<br>Sembawang Primary School</p>
+<p></p>
 <p><strong>President’s Award for Teachers (PAT) 2026</strong>
 </p>
 <p></p>
@@ -91,4 +103,4 @@ for our teachers/staff!</p>
 <p>Click <a href="https://www.sembawangpri.moe.edu.sg/for-parents/sembawang-buzz/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the latest edition of Sembawang Buzz.</p>
 <p></p>
-<p>Last Updated : 30/10/2025</p>
+<p>Last Updated : 9/12/2025</p>
