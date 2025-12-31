@@ -28,7 +28,7 @@ variant: markdown
 | Student Management 	| Mr Calvin Chia Chin Ooi<br>[chia\_chin\_ooi\_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg)
 | Physical Education and Co-Curricular Activities | Mr Teo Yeow Hwee<br>[mohamad\_iskandar\_b\_ishak@schools.gov.sg](mailto:mohamad_iskandar_b_ishak@schools.gov.sg) |
 | Year Head (Upper Primary) | Ms Sharon Chan Hui Yu<br>[chan\_hui\_yu\_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg) 	|
-| Year Head (Middle Primary) | Mr Wong Yew Kuan<br>[soh\_bee\_peng@schools.gov.sg](mailto:soh_bee_peng@schools.gov.sg) |
+| Year Head (Middle Primary) | Mr Wong Yew Kuan<br>[Wong\_Yew\_Kuan@schools.gov.sg](mailto:Wong_Yew_Kuan@schools.gov.sg) |
 | Year Head (Lower Primary) | Ms Ratna Dewi<br>[ratna\_dewi@schools.gov.sg](mailto:ratna_dewi@schools.gov.sg) |
 
 
