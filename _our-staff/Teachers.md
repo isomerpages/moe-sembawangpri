@@ -192,131 +192,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Li Shuying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="li_shuying@schools.gov.sg" rel="noopener nofollow" target="_blank">li_shuying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nuremiliyana Suhaidi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="nuremiliyana_suhaidi@schools.gov.sg" rel="noopener nofollow" target="_blank">nuremiliyana_suhaidi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Carine Oh Chew Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:carine_oh_chew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Oh Shi Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Oh_Shi_Ying_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Oh_Shi_Ying_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Primary 2</h4>
@@ -724,7 +599,7 @@ variant: tiptap
 <p>Ms Carine Oh Chew Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:carine_oh_chew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">carine_oh_chew_hoon@schools.go</a>
+<p><a href="mailto:carine_oh_chew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">carine_oh_chew_hoon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -805,11 +680,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chitra Pillay Chua</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chitra_pillay_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chitra_pillay_chua@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -877,7 +751,8 @@ variant: tiptap
 <p>Ms Tan Siew Bing (Joey)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="tan_siew_bing@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_siew_bing@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -888,7 +763,8 @@ variant: tiptap
 <p>Mdm Seah Lee Chean (Sarah)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="seah_lee_chean@schools.gov.sg" rel="noopener nofollow" target="_blank">seah_lee_chean@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -970,7 +846,8 @@ variant: tiptap
 <p>Ms Vinotheni d/o Vatatheeswaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Vinotheni_vatatheeswaran@schools.gov.sg" rel="noopener nofollow" target="_blank">Vinotheni_vatatheeswaran@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1005,7 +882,8 @@ variant: tiptap
 <p>Miss Soh Bee Peng (Vernice)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="soh_bee_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">soh_bee_peng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1028,7 +906,8 @@ variant: tiptap
 <p>Miss Nur Syafiqa Lubna Binte Ab Lateb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Nur_Syafiqa_Lubna_Ab@schools.gov.sg" rel="noopener nofollow" target="_blank">Nur_Syafiqa_Lubna_Ab@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1208,74 +1087,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chan Hui Yu Sharon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_hui_yu_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_hui_yu_sharon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wang Xinlin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wang_xinlin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_xinlin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Other Teaching Staff</h4>
@@ -1300,14 +1111,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="chitra_pillay_chua@schools.gov.sg" rel="noopener nofollow" target="_blank">chitra_pillay_chua@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1391,8 +1194,17 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Chitra Pillay Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chitra_pillay_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chitra_pillay_chua@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<p>Last updated : 31/12/202</p>
+<p>Last updated : 31/12/2025</p>
