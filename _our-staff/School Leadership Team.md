@@ -38,7 +38,7 @@ variant: markdown
 |---|---|
 |English |Ms Noorhuda Amalina Binte Ab Rahman<br>[noorhuda_amalina_ab_rahman@schools.gov.sg](mailto:noorhuda_amalina_ab_rahman@schools.gov.sg)
 | Mathematics 	| Mrs Crystal Lee-Cai Wan Qin <br>[cai\_wanqin\_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg) <br> 	|
-|  Science 	|  Ms Vinotheni d/o Vatatheeswaran<br>[Seow\_Pei\_Yi\_Pearlyn@schools.gov.sg](mailto:Seow_Pei_Yi_Pearlyn@schools.gov.sg)   <br> 	|
+|  Science 	|  Ms Vinotheni d/o Vatatheeswaran<br>[Vinotheni\_Vatatheeswaran@schools.gov.sg](mailto:Vinotheni_Vatatheeswaran@schools.gov.sg)   <br> 	|
 | Citizenship Education 	|Ms Joey Tan Siew Bing<br>[tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) <br>    |
 | Physical Education and Co-Curricular Activities | Mr Mohamad Iskandar B Ishak<br>[mohamad\_iskandar\_b\_ishak@schools.gov.sg](mailto:mohamad_iskandar_b_ishak@schools.gov.sg) |
 |Student Leadership Development 	| Ms Lee Weiqin<br>[lee\_weiqin@schools.gov.sg](mailto:lee_weiqin@schools.gov.sg)<br> 	|
