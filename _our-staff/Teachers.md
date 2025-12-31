@@ -246,7 +246,7 @@ variant: tiptap
 <p>Ms Carine Oh Chew Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:carine_oh_chew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">carine_oh_chew_hoon@schools.gov.sg</a>
+<p><a href="mailto:carine_oh_chew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v.sg</a>
 </p>
 </td>
 </tr>
@@ -659,6 +659,30 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan-Tham Mei Theng (Rachel)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tham_mei_theng@schools.gov.sg" rel="noopener nofollow" target="_blank">tham_mei_theng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Hongyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_hongyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_hongyan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Primary 4</h4>
@@ -697,21 +721,10 @@ variant: tiptap
 <p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan-Tham Mei Theng (Rachel)</p>
+<p>Ms Carine Oh Chew Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Tze Shuen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_Tze_Shuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Tze_Shuen@schools.gov.sg</a>
+<p><a href="mailto:carine_oh_chew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">carine_oh_chew_hoon@schools.go</a>
 </p>
 </td>
 </tr>
@@ -1211,11 +1224,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Hongyan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_hongyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_hongyan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
