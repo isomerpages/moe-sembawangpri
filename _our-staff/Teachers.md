@@ -205,7 +205,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Integrity</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Shuying</p>
@@ -217,14 +217,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Integrity</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Lay Hang Theophania (Fanny)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Low_Lay_Hang_Theophania@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Lay_Hang_Theophania@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -253,17 +252,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Karen Ten Wai Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -304,6 +292,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Oh Shi Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Oh_Shi_Ying_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Oh_Shi_Ying_A@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -388,17 +388,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -429,7 +418,8 @@ variant: tiptap
 <p>Mr Lin Chieh (Jack)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="lin_chieh@schools.gov.sg" rel="noopener nofollow" target="_blank">lin_chieh@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -441,18 +431,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ganda_sari_chokri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganda_sari_chokri@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Janelle Yap Jia Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="janelle_yap_jia_hui_a@schools.gov.sg" rel="noopener nofollow" target="_blank">janelle_yap_jia_hui_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -473,22 +451,22 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lillian Tan Li Noi</p>
+<p>Mdm Low Lay Hang Theophania (Fanny)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_noi_lillian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_noi_lillian@schools.gov.sg</a>
+<p><a href="mailto:Low_Lay_Hang_Theophania@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Lay_Hang_Theophania@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Oh Shi Ying</p>
+<p>Mdm Lillian Tan Li Noi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Oh_Shi_Ying_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Oh_Shi_Ying_A@schools.gov.sg</a>
+<p><a href="mailto:tan_li_noi_lillian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_noi_lillian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -513,18 +491,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Yvonne_Pok_Yin_Fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yvonne_Pok_Yin_Fong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Diyanah Abdul Karim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Diyanah_Abdul_Karim@schools.gov.sg" rel="noopener nofollow" target="_blank">Diyanah_Abdul_Karim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -617,18 +583,8 @@ variant: tiptap
 <p>Miss Lee Tze Shuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Lee_Tze_Shuen@schools.gov.sg" rel="noopener nofollow" target="_blank">Lee_Tze_Shuen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -960,10 +916,11 @@ variant: tiptap
 <p>5 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Diyanah Binte Abdul Karim</p>
+<p>Miss Diyanah Abdul Karim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Diyanah_Abdul_Karim@schools.gov.sg" rel="noopener nofollow" target="_blank">Diyanah_Abdul_Karim@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
