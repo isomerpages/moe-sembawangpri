@@ -46,4 +46,4 @@ variant: markdown
 | Assistant Year Head (Middle Primary) 	| Mrs Hazel Boo-Lim Peck Joo<br>[lim\_peck\_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg)<br> 	|
 | Assistant Year Head (Lower Primary) 	| Ms Nuremiliyana Suhaidi<br>[nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg)<br> 	|
 
-Last updated : 06/01/2024
+Last updated : 31/12/2025
