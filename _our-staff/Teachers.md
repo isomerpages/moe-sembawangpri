@@ -619,7 +619,8 @@ variant: tiptap
 <p>Mr Andi Fatahillah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="andi_fatahillah@schools.gov.sg" rel="noopener nofollow" target="_blank">andi_fatahillah@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -654,7 +655,8 @@ variant: tiptap
 <p>Ms Peng Xinyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="peng_xinyu@schools.gov.sg" rel="noopener nofollow" target="_blank">peng_xinyu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
