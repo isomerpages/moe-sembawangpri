@@ -20,7 +20,7 @@ variant: markdown
 |---|---|
 | English   	| Mdm Noraida Binte Wagimin <br>[noraida\_wagimin@schools.gov.sg](mailto:noraida_wagimin@schools.gov.sg)   <br> 	|
 | Mathematics | Mrs Phang-Yong Geok Ping Rena<br>[yong\_geok\_ping@schools.gov.sg](mailto:yong_geok_ping@schools.gov.sg) |
-| Science | Mr Ng Wei Da<br>[Ng\_WEI\_DA@schools.gov.sg](mailto:Ng_WEI_DA@schools.gov.sg) |
+|  Science 	|  Ms Vinotheni d/o Vatatheeswaran<br>[Seow\_Pei\_Yi\_Pearlyn@schools.gov.sg](mailto:Seow_Pei_Yi_Pearlyn@schools.gov.sg)   <br> 	|
 | Mother Tongue Languages |  Mr Xie Meng Hui<br>[xie\_meng\_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg) |
 | Character and Citizenship Education  | Ms Ganda Sari Binte Chokri <br>[ganda\_sari\_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg)|
 | Information and Communications Technology | Dr Lye Sze Yee<br> [lye_sze_yee@schools.gov.sg](mailto:lye_sze_yee@schools.gov.sg)|
