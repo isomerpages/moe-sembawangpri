@@ -26,6 +26,7 @@ variant: markdown
 | Information and Communications Technology | Dr Lye Sze Yee<br> [lye_sze_yee@schools.gov.sg](mailto:lye_sze_yee@schools.gov.sg)|
 | School Staff Developer | Mdm Seah Lee Chean (Sarah)<br>[tan\_zuo\_hou@schools.gov.sg](mailto:tan_zuo_hou@schools.gov.sg) |
 | Student Management 	| Mr Calvin Chia Chin Ooi<br>[chia\_chin\_ooi\_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg)
+| Physical Education and Co-Curricular Activities | Mr Teo Yeow Hwee<br>[mohamad\_iskandar\_b\_ishak@schools.gov.sg](mailto:mohamad_iskandar_b_ishak@schools.gov.sg) |
 | Year Head (Upper Primary) | Mr Yang Binglin<br>[yang\_binglin@schools.gov.sg](mailto:yang_binglin@schools.gov.sg) |
 | Year Head (Middle Primary) | Mr Wong Yew Kuan<br>[soh\_bee\_peng@schools.gov.sg](mailto:soh_bee_peng@schools.gov.sg) |
 | Year Head (Lower Primary) | Ms Ratna Dewi<br>[ratna\_dewi@schools.gov.sg](mailto:ratna_dewi@schools.gov.sg) |
