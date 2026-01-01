@@ -852,18 +852,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Lye Sze Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lye_sze_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lye_sze_yee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
