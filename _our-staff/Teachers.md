@@ -1136,15 +1136,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vikneshwari d/o Kunusegaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="vikneshwari_kunusegaran@schools.gov.sg" rel="noopener nofollow" target="_blank">vikneshwari_kunusegaran@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Wong Mei Fong Shelley</p>
 </td>
 <td rowspan="1" colspan="1">
