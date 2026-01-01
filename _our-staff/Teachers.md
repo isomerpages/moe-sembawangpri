@@ -335,18 +335,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lillian Tan Li Noi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_noi_lillian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_noi_lillian@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
