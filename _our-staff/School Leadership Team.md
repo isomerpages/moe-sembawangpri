@@ -26,10 +26,11 @@ variant: markdown
 | Information and Communications Technology | Dr Lye Sze Yee<br> [lye_sze_yee@schools.gov.sg](mailto:lye_sze_yee@schools.gov.sg)|
 | School Staff Developer | Mdm Seah Lee Chean (Sarah)<br>[Seah\_Lee\_Chean@schools.gov.sg](mailto:Seah_Lee_Chean@schools.gov.sg) |
 | Student Management 	| Mr Calvin Chia Chin Ooi<br>[chia\_chin\_ooi\_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg)
-| Physical Education and Co-Curricular Activities | Mr Teo Yeow Hwee<br>[mohamad\_iskandar\_b\_ishak@schools.gov.sg](mailto:mohamad_iskandar_b_ishak@schools.gov.sg) |
+| Physical Education and Co-Curricular Activities | Mr Teo Yeow Hwee<br> |
 | Year Head (Upper Primary) | Ms Sharon Chan Hui Yu<br>[chan\_hui\_yu\_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg) 	|
 | Year Head (Middle Primary) | Mr Wong Yew Kuan<br>[Wong\_Yew\_Kuan@schools.gov.sg](mailto:Wong_Yew_Kuan@schools.gov.sg) |
-| Year Head (Lower Primary) | Ms Ratna Dewi<br>[ratna\_dewi@schools.gov.sg](mailto:ratna_dewi@schools.gov.sg) |
+| Year Head (Lower Primary) 	| Ms Nuremiliyana Suhaidi<br>[nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg)<br> 	|
+
 
 
 #### Level Heads/Subject Heads
@@ -44,6 +45,5 @@ variant: markdown
 |Student Leadership Development 	| Ms Lee Weiqin<br>[lee\_weiqin@schools.gov.sg](mailto:lee_weiqin@schools.gov.sg)<br> 	|
 | Assistant Year Head (Upper Primary) 	| Mdm Norlin Binte Mansor<br>[norlin\_mansor@schools.gov.sg](mailto:norlin_mansor@schools.gov.sg)<br> 	|
 | Assistant Year Head (Middle Primary) 	| Mrs Hazel Boo-Lim Peck Joo<br>[lim\_peck\_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg)<br> 	|
-| Assistant Year Head (Lower Primary) 	| Ms Nuremiliyana Suhaidi<br>[nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg)<br> 	|
 
 Last updated : 31/12/2025
