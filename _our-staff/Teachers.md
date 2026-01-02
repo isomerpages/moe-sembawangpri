@@ -787,7 +787,8 @@ variant: tiptap
 <p>Mr Teo Yeow Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Teo_Yeow_Hwee@schools.gov.sg" rel="noopener nofollow" target="_blank">Teo_Yeow_Hwee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
