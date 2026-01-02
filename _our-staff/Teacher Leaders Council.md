@@ -13,7 +13,7 @@ variant: markdown
 |  |  |
 |---|---|
 | LT English Language | Mdm Sharmila Singh<br>[sharmila\_singh@schools.gov.sg](mailto:sharmila_singh@schools.gov.sg)|
-| LT High Ability Learning | Mdm Shadidah Bte Mokhtar<br>[shadidah\_mokhtar@schools.gov.sg](mailto:shadidah_mokhtar@schools.gov.sg) |
+| LT High-Ability Learners | Mdm Shadidah Bte Mokhtar<br>[shadidah\_mokhtar@schools.gov.sg](mailto:shadidah_mokhtar@schools.gov.sg) |
 | ST Science |Mr Zhao Zhiyang<br>[zhao\_zhiyang@schools.gov.sg](mailto:zhao_zhiyang@schools.gov.sg) |
 | ST Chinese Language | Mdm Zheng Hongyu<br>[zheng\_hongyu@schools.gov.sg](mailto:zheng_hongyu@schools.gov.sg) |
 | ST Malay Language | Mr Mohd Saidali B Ali<br>[mohd\_saidali\_b\_ali@schools.gov.sg](mailto:mohd_saidali_b_ali@schools.gov.sg) |
