@@ -158,7 +158,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Calvin Chia Chin Ooi
-<br>[chia_chin_ooi_calvin@schools.gov.sg (mailto:chia_chin_ooi_calvin@schools.gov.sg)</p>
+<br><a href="chia_chin_ooi_calvin@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_chin_ooi_calvin@schools.gov.sg </a>
+</p>
 </td>
 </tr>
 <tr>
