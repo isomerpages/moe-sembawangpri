@@ -2,48 +2,309 @@
 title: School Leadership Team
 permalink: /our-staff/school-leadership-team/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### School Leadership Team
-
-|  |  |
-|---|---|
-| **Principal** | Mr Ng Aik Boon<br>[ng\_aik\_boon@schools.gov.sg](mailto:ng_aik_boon@schools.gov.sg) |
-| **Vice-Principal** |Mr See Kok Kiong<br>[SEE\_Kok\_Kiong@schools.gov.sg](mailto:SEE_Kok_Kiong@schools.gov.sg) |
-| **Vice-Principal** | Ms Chong Lay Ting Tiffany<br>[Chong\_LAY\_TING@schools.gov.sg](mailto:Chong_LAY_TING@schools.gov.sg) |
-| **Vice-Principal<br>(Administration)** | Mr Shawn Tan<br>[TAN\_Thiam\_Siong@schools.gov.sg](mailto:TAN_Thiam_Siong@schools.gov.sg) |
-
-
-#### Department Heads
-
-|  |  |
-|---|---|
-| English   	| Mdm Noraida Binte Wagimin <br>[noraida\_wagimin@schools.gov.sg](mailto:noraida_wagimin@schools.gov.sg)   <br> 	|
-| Mathematics | Mrs Phang-Yong Geok Ping Rena<br>[yong\_geok\_ping@schools.gov.sg](mailto:yong_geok_ping@schools.gov.sg) |
-|  Science 	|  Ms Seow Pei Yi, Pearlyn<br>[Seow\_Pei\_Yi\_Pearlyn@schools.gov.sg](mailto:Seow_Pei_Yi_Pearlyn@schools.gov.sg)   <br> 	|
-| Mother Tongue Languages |  Mr Xie Meng Hui<br>[xie\_meng\_hui@schools.gov.sg](mailto:xie_meng_hui@schools.gov.sg) |
-| Character and Citizenship Education  | Ms Ganda Sari Binte Chokri <br>[ganda\_sari\_chokri@schools.gov.sg](mailto:ganda_sari_chokri@schools.gov.sg)|
-| Information and Communications Technology | Dr Lye Sze Yee<br> [lye_sze_yee@schools.gov.sg](mailto:lye_sze_yee@schools.gov.sg)|
-| School Staff Developer | Mdm Seah Lee Chean (Sarah)<br>[Seah\_Lee\_Chean@schools.gov.sg](mailto:Seah_Lee_Chean@schools.gov.sg) |
-| Student Management 	| Mr Calvin Chia Chin Ooi<br>[chia\_chin\_ooi\_calvin@schools.gov.sg](mailto:chia_chin_ooi_calvin@schools.gov.sg)
-| Physical Education and Co-Curricular Activities | Mr Teo Yeow Hwee<br> |
-| Year Head (Upper Primary) | Ms Sharon Chan Hui Yu<br>[chan\_hui\_yu\_sharon@schools.gov.sg](mailto:chan_hui_yu_sharon@schools.gov.sg) 	|
-| Year Head (Middle Primary) | Mr Wong Yew Kuan<br>[Wong\_Yew\_Kuan@schools.gov.sg](mailto:Wong_Yew_Kuan@schools.gov.sg) |
-| Year Head (Lower Primary) 	| Ms Nuremiliyana Suhaidi<br>[nuremiliyana\_suhaidi@schools.gov.sg](mailto:nuremiliyana_suhaidi@schools.gov.sg)<br> 	|
-
-
-
-#### Level Heads/Subject Heads
-
-|  |  |
-|---|---|
-|English |Ms Noorhuda Amalina Binte Ab Rahman<br>[noorhuda_amalina_ab_rahman@schools.gov.sg](mailto:noorhuda_amalina_ab_rahman@schools.gov.sg)
-| Mathematics 	| Mrs Crystal Lee-Cai Wan Qin <br>[cai\_wanqin\_crystal@schools.gov.sg](mailto:cai_wanqin_crystal@schools.gov.sg) <br> 	|
-|  Science 	|  Ms Vinotheni d/o Vatatheeswaran<br>[Vinotheni\_Vatatheeswaran@schools.gov.sg](mailto:Vinotheni_Vatatheeswaran@schools.gov.sg)   <br> 	|
-| Citizenship Education 	|Ms Joey Tan Siew Bing<br>[tan\_siew\_bing@schools.gov.sg](mailto:tan_siew_bing@schools.gov.sg) <br>    |
-| Physical Education and Co-Curricular Activities | Mr Mohamad Iskandar B Ishak<br>[mohamad\_iskandar\_b\_ishak@schools.gov.sg](mailto:mohamad_iskandar_b_ishak@schools.gov.sg) |
-|Student Leadership Development 	| Ms Lee Weiqin<br>[lee\_weiqin@schools.gov.sg](mailto:lee_weiqin@schools.gov.sg)<br> 	|
-| Assistant Year Head (Upper Primary) 	| Mdm Norlin Binte Mansor<br>[norlin\_mansor@schools.gov.sg](mailto:norlin_mansor@schools.gov.sg)<br> 	|
-| Assistant Year Head (Middle Primary) 	| Mrs Hazel Boo-Lim Peck Joo<br>[lim\_peck\_joo@schools.gov.sg](mailto:lim_peck_joo@schools.gov.sg)<br> 	|
-
-Last updated : 31/12/2025
+<h3>School Leadership Team</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Principal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Aik Boon
+<br><a href="mailto:ng_aik_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_aik_boon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-Principal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr See Kok Kiong
+<br><a href="mailto:SEE_Kok_Kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEE_Kok_Kiong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-Principal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Lay Ting Tiffany
+<br><a href="mailto:Chong_LAY_TING@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chong_LAY_TING@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-Principal<br>(Administration)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shawn Tan
+<br><a href="mailto:TAN_Thiam_Siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_Thiam_Siong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Department Heads</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noraida Binte Wagimin
+<br><a href="mailto:noraida_wagimin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noraida_wagimin@schools.gov.sg</a> 
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Phang-Yong Geok Ping Rena
+<br><a href="mailto:yong_geok_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_geok_ping@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Seow Pei Yi, Pearlyn
+<br><a href="mailto:Seow_Pei_Yi_Pearlyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Seow_Pei_Yi_Pearlyn@schools.gov.sg</a> 
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Xie Meng Hui
+<br><a href="mailto:xie_meng_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xie_meng_hui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ganda Sari Binte Chokri
+<br><a href="mailto:ganda_sari_chokri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganda_sari_chokri@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information and Communications Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Lye Sze Yee
+<br><a href="mailto:lye_sze_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lye_sze_yee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Seah Lee Chean (Sarah)
+<br><a href="mailto:Seah_Lee_Chean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Seah_Lee_Chean@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Calvin Chia Chin Ooi
+<br>[chia_chin_ooi_calvin@schools.gov.sg (mailto:chia_chin_ooi_calvin@schools.gov.sg)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education and Co-Curricular Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Yeow Hwee
+<br><a href="Teo_Yeow_Hwee@schools.gov.sg" rel="noopener nofollow" target="_blank">Teo_Yeow_Hwee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharon Chan Hui Yu
+<br><a href="mailto:chan_hui_yu_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_hui_yu_sharon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Middle Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Yew Kuan
+<br><a href="mailto:Wong_Yew_Kuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Yew_Kuan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nuremiliyana Suhaidi
+<br><a href="mailto:nuremiliyana_suhaidi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuremiliyana_suhaidi@schools.gov.sg</a>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Level Heads/Subject Heads</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Noorhuda Amalina Binte Ab Rahman
+<br><a href="mailto:noorhuda_amalina_ab_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorhuda_amalina_ab_rahman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Crystal Lee-Cai Wan Qin
+<br><a href="mailto:cai_wanqin_crystal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_wanqin_crystal@schools.gov.sg</a> 
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vinotheni d/o Vatatheeswaran
+<br><a href="mailto:Vinotheni_Vatatheeswaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Vinotheni_Vatatheeswaran@schools.gov.sg</a> 
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joey Tan Siew Bing
+<br><a href="mailto:tan_siew_bing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_bing@schools.gov.sg</a> 
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education and Co-Curricular Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Iskandar B Ishak
+<br><a href="mailto:mohamad_iskandar_b_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_iskandar_b_ishak@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Leadership Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Weiqin
+<br><a href="mailto:lee_weiqin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_weiqin@schools.gov.sg</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Upper Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norlin Binte Mansor
+<br><a href="mailto:norlin_mansor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norlin_mansor@schools.gov.sg</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Middle Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Hazel Boo-Lim Peck Joo
+<br><a href="mailto:lim_peck_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_peck_joo@schools.gov.sg</a>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Last updated : 31/12/2025</p>
