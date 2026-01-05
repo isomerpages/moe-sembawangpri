@@ -30,6 +30,14 @@ green efforts in school and at home.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,8 +49,9 @@ green efforts in school and at home.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Tze Shuen</p>
-<p>Ms Long Shi Hui</p>
+<p>Mr Andi Fatahillah</p>
+<p>Mr Lee Meng Chee, Alvin</p>
+<p>Mdm Shamsiah Binte Md Shariff</p>
 <p>Mr Zhao Zhiyang</p>
 </td>
 </tr>
@@ -62,9 +71,6 @@ green efforts in school and at home.</p>
 <p><strong>Science &amp; Green Club CCA Schedule</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_science_club.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" src="/images/sci2-2023.jpg">
@@ -85,6 +91,9 @@ awarded under the NSS ESN Skills Achievement Programme!</p>
 <p>Congratulations to our second batch of Novice Naturalists (Butterflies)
 who were awarded under the NSS ESN Skills Achievement Programme!</p>
 <p></p>
+<p>Students diving into nature journaling, capturing and documenting various
+bird and butterfly species through sketches and observations in our school
+premise!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_6.jpg">
 </div>
@@ -149,4 +158,4 @@ sustainability efforts.</p>
 a guided walk around our school grounds, learning about plant propagation,
 and having fun planning their own garden layouts.</p>
 <p></p>
-<p>Last updated : 27/11/2025</p>
+<p>Last updated : 05/01/2026</p>
