@@ -34,8 +34,8 @@ can improve their skills and form lasting camaraderie.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays : 2.00 p.m. – 4.00 p.m.</p>
-<p>Thursday: 2.00 p.m. – 4.00 p.m.</p>
+<p>Tuesdays : 2.15 – 5.15 p.m.</p>
+<p>Thursday: 3.15 – 5.15 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -44,8 +44,8 @@ can improve their skills and form lasting camaraderie.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Mun Jeeng Dana</p>
-<p>Mr Felix Tiong</p>
 <p>Ms Leong Wei Yee Tracy</p>
+<p>Mdm Nur Syafiqah Binte Eddie Yusof</p>
 </td>
 </tr>
 <tr>
@@ -106,5 +106,10 @@ can improve their skills and form lasting camaraderie.</p>
 <p>Station drills allow students practice the different technical skills
 in badminton during training.</p>
 <p></p>
-<p>Last updated : 24/03/2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_2026_1.jpg">
+</div>
+<p>NSG Junior Team 2025</p>
+<p></p>
+<p>Last updated : 05/01/2026</p>
 <p></p>
