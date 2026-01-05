@@ -71,6 +71,13 @@ green efforts in school and at home.</p>
 <p><strong>Science &amp; Green Club CCA Schedule</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_2.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" src="/images/sci2-2023.jpg">
