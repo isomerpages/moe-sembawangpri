@@ -29,7 +29,7 @@ disciplined and confident.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday and Thursday, 4pm to 5.30pm</p>
+<p>Monday and Thursday, 3.30 pm to 5 pm</p>
 </td>
 </tr>
 <tr>
@@ -37,11 +37,10 @@ disciplined and confident.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mike Tay Eng Wee</p>
-<p>Ms Insyirah Binti Mohamad Ali</p>
-<p>Mr Lee Meng Chee, Alvin</p>
+<p>Mr Kelvin Toh Chong Han</p>
 <p>Ms Tan Yi Xuan</p>
-<p>Ms Joey Tan Siew Bing</p>
+<p>Mdm Insyirah Binti Mohamad Ali</p>
+<p>Mrs Tan-Tham Mei Theng (Rachel)</p>
 </td>
 </tr>
 <tr>
@@ -75,4 +74,4 @@ disciplined and confident.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/tf7.jpg">
 </div>
-<p>Last updated: 03/01/2025</p>
+<p>Last updated: 08/01/2026</p>

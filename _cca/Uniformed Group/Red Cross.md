@@ -6,10 +6,11 @@ third_nav_title: Uniformed Group
 variant: tiptap
 ---
 <h3>Red Cross</h3>
-<p>Red Cross CCA aspires to groom little humanitarians who have big hearts
-and never find it a chore to help others. Through training, our little
-humanitarians will be equipped with basic first aid skills and knowledge
-to let them carry out their life mission.</p>
+<p>Red Cross CCA aims to nurture young humanitarians with big hearts and
+a strong willingness to help others. Through structured training, our members
+are equipped with essential first aid skills and knowledge, empowering
+them to grow into confident, compassionate individuals who are always ready
+to make a positive difference in the lives of others.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,11 +27,19 @@ to let them carry out their life mission.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>Fridays, 2.15 p.m - 4.15 p.m.</p>
+<br>2.15 p.m - 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -39,8 +48,8 @@ to let them carry out their life mission.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nursahila Bte Roszelan
-<br>Ms Ruhaida Bte Hashim
-<br>Mrs Prakash-Malarvizhi R.</p>
+<br>Ms Ruhaida Bte Hashim</p>
+<p>Mr Putera Muhammad Faiez Bin Yazli</p>
 </td>
 </tr>
 <tr>
@@ -50,14 +59,19 @@ to let them carry out their life mission.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Integrity classroom</p>
+<p>Classroom C04-02 (3 Resilience classroom)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>Red Cross CCA Schedule 2026</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Red_Cross.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_2.png">
 </div>
 <p><strong>Other photos</strong>
 </p>
@@ -67,4 +81,4 @@ to let them carry out their life mission.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AlEF0oLrgHw"></iframe>
 </div>
-<p>Last updated: 31/01/2025</p>
+<p>Last updated: 08/01/2026</p>
