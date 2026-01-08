@@ -27,11 +27,19 @@ to make a positive difference in the lives of others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>Fridays, 2.15 p.m - 4.15 p.m.</p>
+<br>2.15 p.m - 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
