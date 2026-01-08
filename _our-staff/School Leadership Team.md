@@ -158,7 +158,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Calvin Chia Chin Ooi
-<br><a href="chia_chin_ooi_calvin@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_chin_ooi_calvin@schools.gov.sg </a>
+<br><a href="chia_chin_ooi_calvin@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_chin_ooi_calvin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -174,7 +174,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
+<p>YH (Upper Primary)(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharon Chan Hui Yu
@@ -184,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Middle Primary)</p>
+<p>YH (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Yew Kuan
@@ -194,12 +194,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary)</p>
+<p>YH (Lower Primary) (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nuremiliyana Suhaidi
 <br><a href="mailto:nuremiliyana_suhaidi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nuremiliyana_suhaidi@schools.gov.sg</a>
-<br>
 </p>
 </td>
 </tr>
@@ -236,8 +235,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Crystal Lee-Cai Wan Qin
-<br><a href="mailto:cai_wanqin_crystal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_wanqin_crystal@schools.gov.sg</a> 
-<br>
+<br><a href="mailto:cai_wanqin_crystal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_wanqin_crystal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -247,8 +245,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Vinotheni d/o Vatatheeswaran
-<br><a href="mailto:Vinotheni_Vatatheeswaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Vinotheni_Vatatheeswaran@schools.gov.sg</a> 
-<br>
+<br><a href="mailto:Vinotheni_Vatatheeswaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Vinotheni_Vatatheeswaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -258,8 +255,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joey Tan Siew Bing
-<br><a href="mailto:tan_siew_bing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_bing@schools.gov.sg</a> 
-<br>
+<br><a href="mailto:tan_siew_bing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_bing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -280,24 +276,42 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Lee Weiqin
 <br><a href="mailto:lee_weiqin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_weiqin@schools.gov.sg</a>
-<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Primary)</p>
+<p>21st Century Competencies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Peng Xinyu</p>
+<p><a href="peng_xinyu@schools.gov.sg" rel="noopener nofollow" target="_blank">peng_xinyu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information &amp; Communication Technology (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Long Shi Hui</p>
+<p><a href="long_shi_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">long_shi_hui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYH (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norlin Binte Mansor
 <br><a href="mailto:norlin_mansor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norlin_mansor@schools.gov.sg</a>
-<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Middle Primary)</p>
+<p>AYH (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Hazel Boo-Lim Peck Joo
@@ -308,4 +322,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Last updated : 31/12/2025</p>
+<p>Last updated : 8/1/2025</p>
