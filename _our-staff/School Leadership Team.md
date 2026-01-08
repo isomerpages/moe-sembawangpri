@@ -235,7 +235,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Crystal Lee-Cai Wan Qin
-<br><a href="mailto:cai_wanqin_crystal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_wanqin_crystal@schools.gov.sg</a> 
+<br><a href="mailto:cai_wanqin_crystal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_wanqin_crystal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -245,7 +245,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Vinotheni d/o Vatatheeswaran
-<br><a href="mailto:Vinotheni_Vatatheeswaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Vinotheni_Vatatheeswaran@schools.gov.sg</a> 
+<br><a href="mailto:Vinotheni_Vatatheeswaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Vinotheni_Vatatheeswaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -255,7 +255,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joey Tan Siew Bing
-<br><a href="mailto:tan_siew_bing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_bing@schools.gov.sg</a> 
+<br><a href="mailto:tan_siew_bing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_bing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -291,10 +291,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information &amp; Communication Technology</p>
+<p>Information &amp; Communication Technology (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Long Shi Hui</p>
+<p><a href="long_shi_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">long_shi_hui@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -320,4 +322,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Last updated : 31/12/2025</p>
+<p>Last updated : 8/1/2025</p>
