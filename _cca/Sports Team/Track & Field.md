@@ -74,4 +74,4 @@ disciplined and confident.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/tf7.jpg">
 </div>
-<p>Last updated: 03/01/2025</p>
+<p>Last updated: 08/01/2026</p>
