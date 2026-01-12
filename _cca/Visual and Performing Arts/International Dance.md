@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-<table style="minWidth: 75px">
+<p></p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -19,16 +19,10 @@ third_nav_title: Visual and Performing Arts
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -36,10 +30,17 @@ third_nav_title: Visual and Performing Arts
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nurul Syahidah Binte Bahari</p>
+<p>Ms M Buvaneswari</p>
+<p>Mrs Sundram-R Megala</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -48,3 +49,4 @@ third_nav_title: Visual and Performing Arts
 </tbody>
 </table>
 <p></p>
+<p>Last updated : 12/01/2026</p>
