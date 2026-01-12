@@ -29,7 +29,9 @@ talent in public.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday : 2.15 p.m. – 4.15 p.m.</p>
+<p>Monday :</p>
+<p>2.15 p.m. – 3.15 p.m. (for non SYF students)</p>
+<p>2.15 p.m. to 5.15 p.m. (for SYF students)</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +40,9 @@ talent in public.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kong Jia Yee
-<br>Ms Lian Wei Qi, Jenell</p>
+<br>
+</p>
+<p>Ms Lian Wei Qi, Jenell</p>
 <p>Ms Karen Ten Wai Yun</p>
 </td>
 </tr>
