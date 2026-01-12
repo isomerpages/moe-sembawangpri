@@ -48,7 +48,7 @@ will have opportunities to perform their talent in public.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday : </strong>Music Rm 2, Learning Lab, 3C, 3Cu, 3E Classrooms</p>
-<p><strong>Friday :  </strong>Band Rm</p>
+<p><strong>Friday : </strong>Band Rm</p>
 </td>
 </tr>
 </tbody>
