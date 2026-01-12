@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/About Us.md
+      - About Us/A Day in MK@Sembawang.md
       - About Us/Our Events and Field Trips.md
       - Media Highlights.md
       - KCare.md
