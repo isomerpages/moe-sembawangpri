@@ -1,6 +1,6 @@
 ---
 title: A Day in MK@Sembawang
-permalink: /mk-sembawang/about-us/adayinmksembawang/
+permalink: /mk-sembawang/about-us/
 variant: tiptap
 description: ""
 third_nav_title: About Us

@@ -48,7 +48,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zairee Bin Sallai
-<br><a href="mailto:zairee_sallai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zairee_sallai@moe.edu.sg</a>
+<br><a href="mailto:zairee_sallai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zairee_sallai@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Raja Muhamad Fadhlin
-<br><a href="mailto:raja_muhamad_fadhlin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raja_muhamad_fadhlin@moe.edu.sg</a>
+<br><a href="mailto:raja_muhamad_fadhlin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raja_muhamad_fadhlin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
