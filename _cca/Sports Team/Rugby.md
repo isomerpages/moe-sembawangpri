@@ -26,11 +26,21 @@ to become more resilient, disciplined and confident.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Days</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday and Thursday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday: 2.00 – 4.00 p.m.
-<br>Thursday: 2.00 – 4.00 p.m.</p>
+<p>2pm – 3pm <strong>(P3)</strong>
+</p>
+<p>2pm – 4pm <strong>(P4-P6)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -39,8 +49,8 @@ to become more resilient, disciplined and confident.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Haslam Rahmat</p>
-<p>Mr Kelvin Toh Chong Han</p>
-<p>Mr Mohamad Iskandar B Ishak</p>
+<p>Mdm Kalaiyarasi d/o Kalidasan</p>
+<p>Ms Chan Pei Kee</p>
 </td>
 </tr>
 <tr>
@@ -66,4 +76,4 @@ to become more resilient, disciplined and confident.</p>
 </div>
 <p><em>Senior Team</em>
 </p>
-<p>Last updated: 03/01/2025</p>
+<p>Last updated: 12/01/2026</p>
