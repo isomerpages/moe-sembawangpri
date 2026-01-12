@@ -29,7 +29,7 @@ talent in public.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday : 2.15 p.m. – 4.15 p.m.</p>
+<p>Monday : 2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
