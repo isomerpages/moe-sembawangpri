@@ -28,7 +28,7 @@ budding singers will have opportunities to perform their talent in public.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday : 2.15 p.m. – 4.15 p.m.</p>
+<p>Tuesday and Thursday : 2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
