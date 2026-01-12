@@ -25,7 +25,7 @@ variant: tiptap
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday : 2.15 p.m. – 4.15 p.m.</p>
+<p>Tuesday: 2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -33,8 +33,11 @@ variant: tiptap
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Miss Soh Bee Peng</p>
 <p>Mr Tay Kuok Liang Winston
-<br>Mdm Nor Aslinda Bte Mohd Saleh</p>
+<br>
+</p>
+<p>Miss Nur Syafiqa Lubna Binte Ab Lateb</p>
 </td>
 </tr>
 <tr>
@@ -115,4 +118,4 @@ included in:</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K1QGjF4bFgY"></iframe>
 </div>
-<p>Last updated : 03/01/2025</p>
+<p>Last updated : 12/01/2026</p>
