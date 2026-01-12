@@ -27,8 +27,8 @@ will have opportunities to perform their talent in public.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday, 2.15pm – 5.15pm</p>
-<p>Thursday, 3.15pm – 5.15pm</p>
+<p>Tuesday: 2.15pm – 5.15pm</p>
+<p>Thursday: 3.15pm – 5.15pm</p>
 </td>
 </tr>
 <tr>
