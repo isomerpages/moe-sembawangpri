@@ -29,7 +29,9 @@ talent in public.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Friday : 2.15 p.m. – 4.15 p.m.</p>
+<p>Monday :</p>
+<p>2.15 p.m. – 3.15 p.m. (for non SYF students)</p>
+<p>2.15 p.m. to 5.15 p.m. (for SYF students)</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +40,10 @@ talent in public.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kong Jia Yee
-<br>Ms Lian Wei Qi, Jenell</p>
+<br>
+</p>
+<p>Ms Lian Wei Qi, Jenell</p>
+<p>Ms Karen Ten Wai Yun</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +51,7 @@ talent in public.</p>
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MPH/ PAL Room</p>
+<p>PAL Room (level 3)</p>
 </td>
 </tr>
 </tbody>
@@ -81,4 +86,4 @@ to cherish every little moment!</p>
 </div>
 <p></p>
 <p></p>
-<p>Last updated : 03/01/2025</p>
+<p>Last updated : 12/01/2026</p>

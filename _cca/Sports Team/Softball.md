@@ -58,7 +58,8 @@ their best to help you develop to the best softballer that you can be.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Jeen Perng</p>
-<p>Mr Mohamad Iskandar B Ishak</p>
+<p>Miss Zeng Jing</p>
+<p>Mr Lim Sok Kung</p>
 </td>
 </tr>
 <tr>
@@ -95,4 +96,4 @@ their best to help you develop to the best softballer that you can be.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HRqVf1_mKmw"></iframe>
 </div>
-<p>Last updated: 16/01/2025</p>
+<p>Last updated: 12/01/2026</p>

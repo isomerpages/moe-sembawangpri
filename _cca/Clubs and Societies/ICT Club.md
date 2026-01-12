@@ -46,10 +46,10 @@ the CCA sessions on a rotational basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Time</p>
+<p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 pm tp 4.15pm</p>
+<p>Tuesday : 2.15 pm to 4.15pm</p>
 </td>
 </tr>
 <tr>
@@ -57,10 +57,10 @@ the CCA sessions on a rotational basis.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andi Fatahillah</p>
-<p>Ms Carine Oh Chew Hoon</p>
 <p>Ms Mahalakshmi</p>
-<p>Ms Chan Hui Yu Sharon</p>
+<p>Ms Carine Oh Chew Hoon</p>
+<p>Mdm Siti Fatihah Bte Yazid Khan S Surattee</p>
+<p>Miss Lee Tze Shuen</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ the CCA sessions on a rotational basis.</p>
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Media Room, Computer Labs</p>
+<p>Computer Labs 1 and 2</p>
 </td>
 </tr>
 </tbody>
@@ -80,4 +80,4 @@ the CCA sessions on a rotational basis.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9A0NdnVeoJ0"></iframe>
 </div>
 <p></p>
-<p>Last updated: 26/06/2025</p>
+<p>Last updated: 12/01/2026</p>

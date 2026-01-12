@@ -50,7 +50,7 @@ happy again.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday : 2.15 p.m. – 4.15 p.m.</p>
+<p>Tuesday: 2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -58,9 +58,10 @@ happy again.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Qistina Binte Abdul Wahid</p>
-<p>Ms Lee Weiqin</p>
 <p>Ms Heow Tsuey Yan</p>
+<p>Ms Awyong Yun ting</p>
+<p>Ms Kong Yit Sim</p>
+<p>Ms Lee Weiqin</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +69,7 @@ happy again.</p>
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRL</p>
+<p>Library</p>
 </td>
 </tr>
 </tbody>
@@ -76,4 +77,4 @@ happy again.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/13tdzh-HbZ0"></iframe>
 </div>
-<p>Last updated 03/01/2025</p>
+<p>Last updated 12/01/2026</p>
