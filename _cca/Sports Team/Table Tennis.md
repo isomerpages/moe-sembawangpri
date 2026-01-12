@@ -36,9 +36,7 @@ for students to experience the sport at a competitive level.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday : 2.15 p.m. – 4.15 p .m. (All)
-<br>
-<br>4.15 p.m. – 5.15 p.m. (Selected students)</p>
+<p>Tuesday and Thursday, 2.15 p.m. – 4.15 p .m.</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +45,8 @@ for students to experience the sport at a competitive level.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adrian Chong Yew Chin
-<br>Mdm Nor Afidah Binte Jaafar</p>
+<br>Ms Siti Zulaika Binte Salleh</p>
+<p>Miss Diyanah Abdul Karim</p>
 </td>
 </tr>
 <tr>
@@ -90,4 +89,4 @@ for students to experience the sport at a competitive level.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pkwsHUACXuA"></iframe>
 </div>
-<p>Last updated: 03/01/2025</p>
+<p>Last updated: 12/01/2026</p>
