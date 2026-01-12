@@ -25,7 +25,7 @@ third_nav_title: Visual and Performing Arts
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tuesday, 2.15 pm - 4.15 pm</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ third_nav_title: Visual and Performing Arts
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>PAL Room</p>
 </td>
 </tr>
 </tbody>
