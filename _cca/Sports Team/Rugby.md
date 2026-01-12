@@ -58,7 +58,7 @@ to become more resilient, disciplined and confident.</p>
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH / MPH / School Field</p>
+<p>School Field / Basketball Court</p>
 </td>
 </tr>
 </tbody>
