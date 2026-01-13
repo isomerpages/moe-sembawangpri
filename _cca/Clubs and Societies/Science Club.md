@@ -143,11 +143,11 @@ They exemplified our school values of curiosity, resilience, and excellence
 throughout the competition. Well done!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_3a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_3.jpg">
 </div>
 <p>Congratulations to our two teams for their strong showing at the 41st
 Singapore Bird Race 2025! We are proud to share that The Flame Bird Observatory
-team clinched Second Runner-Up. Well done, teams!</p>
+team clinched Third Runner-Up. Well done, teams!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_4a.png">
@@ -165,4 +165,4 @@ sustainability efforts.</p>
 a guided walk around our school grounds, learning about plant propagation,
 and having fun planning their own garden layouts.</p>
 <p></p>
-<p>Last updated : 05/01/2026</p>
+<p>Last updated : 13/01/2026</p>
