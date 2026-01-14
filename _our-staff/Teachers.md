@@ -1193,4 +1193,4 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<p>Last updated : 14/01/2025</p>
+<p>Last updated : 14/01/2026</p>
