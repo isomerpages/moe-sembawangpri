@@ -103,7 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Seow Pei Yi, Pearlyn
@@ -124,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Character and Citizenship Education</p>
+<p>Character and Citizenship Education (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ganda Sari Binte Chokri
@@ -174,7 +174,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH (Upper Primary)(Internal)</p>
+<p>YH (Upper Primary)(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharon Chan Hui Yu
@@ -194,7 +194,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH (Lower Primary) (Internal)</p>
+<p>YH (Lower Primary) (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nuremiliyana Suhaidi
@@ -291,7 +291,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information &amp; Communication Technology (Internal)</p>
+<p>Information &amp; Communication Technology (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Long Shi Hui</p>
@@ -322,4 +322,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Last updated : 8/1/2025</p>
+<p>Last updated : 14/1/2025</p>
