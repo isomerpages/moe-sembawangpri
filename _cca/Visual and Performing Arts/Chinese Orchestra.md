@@ -28,7 +28,7 @@ will have opportunities to perform their talent in public.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday: 2.15pm – 5.15pm</p>
-<p>Thursday: 3.15pm – 5.15pm</p>
+<p>Thursday: 3 pm – 5 pm</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ will have opportunities to perform their talent in public.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Tuesday : </strong>Music Rm 2, Learning Lab, 3C, 3Cu, 3E Classrooms</p>
-<p><strong>Friday : </strong>Band Rm</p>
+<p><strong>Thursday: </strong>Band Rm</p>
 </td>
 </tr>
 </tbody>
@@ -59,4 +59,4 @@ will have opportunities to perform their talent in public.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dCxxlWkXhS0"></iframe>
 </div>
-<p>Last updated : 12/01/2026</p>
+<p>Last updated : 14/01/2026</p>
