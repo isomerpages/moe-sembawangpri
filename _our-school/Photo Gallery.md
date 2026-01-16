@@ -81,9 +81,27 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd January 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/RAeqnpzkeRxUvf9T8" rel="noopener nofollow" target="_blank">Primary 1 first day of school</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5th to 7th January 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/rL2TyCLLEECrQnhFA" rel="noopener nofollow" target="_blank">Start it Right!</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
 <p></p>
-<p>Last Updated : 25/11/2025</p>
+<p>Last Updated : 16/01/2026</p>
