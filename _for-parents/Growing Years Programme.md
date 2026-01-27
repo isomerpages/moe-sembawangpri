@@ -82,9 +82,17 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_2.png">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6.png">
+</div>
 <p><strong>Information for Parents</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -96,7 +104,7 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <a href="https://go.gov.sg/sbps-sed-opt-out26" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out
+of the year and is also available <a href="https://go.gov.sg/sbps-sed-opt-out26" rel="noopener nofollow" target="_blank">here.</a> The completed opt-out
 form is to be submitted by 27/02/2026.</p>
 <p>&nbsp;</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at &nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">sembawang_ps@moe.edu.sg</a></strong> for
