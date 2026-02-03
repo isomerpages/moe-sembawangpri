@@ -14,12 +14,15 @@ You can play an important role in providing the pupils in Sembawang Primary Scho
 
 Please watch the video below where our dedicated PSG members work hand-in-hand with the school staff during the various school recesses and other school events and learn their invaluable experiences.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sioNX0AXAuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+PSG Video :
+
+[https://drive.google.com/file/d/1ASnk-Sjs6353BQlKgTG9laXxJr-y3W0k/view?usp=drivesdk](https://drive.google.com/file/d/1ASnk-Sjs6353BQlKgTG9laXxJr-y3W0k/view?usp=drivesdk)
 
 **More PSG involvement in school events, in picture!**
 
 <img src="/images/smb.png" style="width:70%">
-<img src="/images/smbqr.png" style="width:70%">
+
+![](/images/2026_PSG_QR.png)
 
 
-Last updated : 01/01/2022
+Last updated : 03/02/2026
