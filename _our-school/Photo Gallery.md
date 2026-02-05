@@ -99,9 +99,18 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> February 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/critLhJQTzMERVSU9" rel="noopener nofollow" target="_blank">Prefect Investiture 2026</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
 <p></p>
-<p>Last Updated : 16/01/2026</p>
+<p>Last Updated : 05/02/2026</p>
