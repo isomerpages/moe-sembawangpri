@@ -23,7 +23,7 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_SBPS_Parents_Briefing_P1__Updated.pdf" rel="noopener nofollow" target="_blank">2025 SBPS Parents Briefing (P1)</a>
+<p><a href="/files/2026_SBPS_P1_Parents__Briefing.pdf" rel="noopener nofollow" target="_blank">2026 SBPS P1 Parents Briefing</a>
 </p>
 </td>
 </tr>
@@ -32,7 +32,7 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_SBPS_Parents_Briefing__P2__Updated.pdf" rel="noopener nofollow" target="_blank">2025 SBPS Parents Briefing (P2)</a>
+<p><a href="/files/2026_SBPS_P2_Parents__Briefing.pdf" rel="noopener nofollow" target="_blank">2026 SBPS P2 Parents Briefing</a>
 </p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_SBPS_Parents_Briefing__P3__.pdf" rel="noopener nofollow" target="_blank">2025 SBPS Parents Briefing (P3)</a>
+<p><a href="/files/2026_SBPS_P3_Parents__Briefing.pdf" rel="noopener nofollow" target="_blank">2026 SBPS P3 Parents Briefing</a>
 </p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_SBPS_Parents_Briefing__P4__.pdf" rel="noopener nofollow" target="_blank">2025 SBPS Parents Briefing (P4)</a>
+<p><a href="/files/2026_SBPS_P4_Parents__Briefing.pdf" rel="noopener nofollow" target="_blank">2026 SBPS P4 Parents Briefing</a>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ variant: tiptap
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_SBPS_Parents_Briefing__P5_.pdf" rel="noopener nofollow" target="_blank">2025 SBPS Parents Briefing (P5)</a>
+<p><a href="/files/2026_SBPS_P5_Parents__Briefing.pdf" rel="noopener nofollow" target="_blank">2026 SBPS P5 Parents Briefing</a>
 </p>
 </td>
 </tr>
@@ -68,10 +68,10 @@ variant: tiptap
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_SBPS_Parents_Briefing__P6_.pdf" rel="noopener nofollow" target="_blank">2025 SBPS Parents Briefing (P6)</a>
+<p><a href="/files/2026_SBPS_P6_Parents__Briefing.pdf" rel="noopener nofollow" target="_blank">2026 SBPS P6 Parents Briefing</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Last updated : 04/02/2025</p>
+<p>Last updated : 10/02/2026</p>
