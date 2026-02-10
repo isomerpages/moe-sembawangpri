@@ -8,14 +8,14 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Website_Poster_2026__3_.png">
 </div>
-<p><em>Interested in attending our Open House? Please register using the link below. </em>
+<p><em>Interested in attending our Open House? Please register using the link below.</em>
 </p>
 <p><a href="https://mksb-openhouse2026.app.entry.gov.sg/form/09a7000f-5bd3-40b0-ab33-7e19fb6117fe" rel="noopener noreferrer nofollow" target="_blank">https://mksb-openhouse2026.app.entry.gov.sg/form/09a7000f-5bd3-40b0-ab33-7e19fb6117fe</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MKSB_Registration_Link.jpg">
 </div>
-<p><strong>Getting Here </strong>
+<p><strong>Getting Here</strong>
 </p>
 <p>📍 Entrance Information</p>
 <div class="isomer-image-wrapper">
