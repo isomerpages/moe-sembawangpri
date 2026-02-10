@@ -12,9 +12,7 @@ description: ""
 <p></p>
 <p><strong>QSF The Enablers’ KCare @ Sembawang Primary School</strong>
 </p>
-<p>KCare Supervisor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Mdm
-Nortijah Begum</p>
+<p>KCare Supervisor : Mdm Nortijah Begum</p>
 <p>Centre Contact No.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 8830 3941</p>
 <p>Center Email Address&nbsp; : <a href="spkcare@qsfirst.sg" rel="noopener nofollow" target="_blank">spkcare@qsfirst.sg</a>
 </p>
