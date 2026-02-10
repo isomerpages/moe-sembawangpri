@@ -7,16 +7,14 @@ description: ""
 <p><strong>A Day in KCare @ Sembawang</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K4dFs-jK_YM?si=voHZm3tH6XL-QgQy"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K4dFs-jK_YM?si=voHZm3tH6XL-QgQy"></iframe>
 </div>
 <p></p>
 <p><strong>QSF The Enablers’ KCare @ Sembawang Primary School</strong>
 </p>
 <p>KCare Supervisor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Mdm
-Nooraishah binte Ali</p>
-<p>Assistant KCare Supervisor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Mdm Nur Hidayah
-binte Hazali</p>
+Nortijah Begum</p>
 <p>Centre Contact No.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 8830 3941</p>
 <p>Center Email Address&nbsp; : <a href="spkcare@qsfirst.sg" rel="noopener nofollow" target="_blank">spkcare@qsfirst.sg</a>
 </p>
