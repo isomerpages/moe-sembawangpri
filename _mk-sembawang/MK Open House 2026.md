@@ -15,8 +15,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MKSB_Registration_Link.jpg">
 </div>
-<p><strong>Getting Here</strong>
-</p>
+<h4><strong>Getting Here</strong></h4>
 <p>📍 Entrance Information</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Side_Gate_1.jpg">
