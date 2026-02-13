@@ -20,9 +20,32 @@ PSG Video :
 
 **More PSG involvement in school events, in picture!**
 
-<img src="/images/smb.png" style="width:70%">
+
+![](/images/2026_PSG_1.jpg)
+
+![](/images/2026_PSG_2.jpg)
+
+![](/images/2026_PSG_3.jpg)
+
+![](/images/2026_PSG_4.jpg)
+
+![](/images/2026_PSG_5.jpg)
+
+![](/images/2026_PSG_6.jpg)
+
+![](/images/2026_PSG_7.jpg)
+
+![](/images/2026_PSG_8.jpg)
+
+![](/images/2026_PSG_9.jpg)
+
+![](/images/2026_PSG_10.jpg)
+
+![](/images/2026_PSG_11.jpg)
+
+![](/images/2026_PSG_12.jpg)
 
 ![](/images/2026_PSG_QR.png)
 
 
-Last updated : 03/02/2026
+Last updated : 13/12/2026
