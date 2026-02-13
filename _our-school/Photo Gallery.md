@@ -110,7 +110,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11<sup>th</sup> February 2026</p>
+<p>11th February 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/Q4JHRsLQVpsNAWHp6" rel="noopener nofollow" target="_blank">Commemoration of Total Defence Day</a>
