@@ -117,9 +117,18 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16th February 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/4EpWgSMqZYirFw7G6" rel="noopener nofollow" target="_blank">Chinese New Year Celebration</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
 <p></p>
-<p>Last Updated : 13/02/2026</p>
+<p>Last Updated : 23/02/2026</p>
