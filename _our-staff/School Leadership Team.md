@@ -291,7 +291,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information &amp; Communication Technology (Covering)</p>
+<p>Educational Technology (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Long Shi Hui</p>
