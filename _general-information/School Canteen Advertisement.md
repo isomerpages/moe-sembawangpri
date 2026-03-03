@@ -4,6 +4,52 @@ permalink: /general-information/school-canteen-advertisement/
 description: ""
 variant: tiptap
 ---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Type of Stall</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Operational Date</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fruits and Drinks Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02<sup>nd</sup> March 2026 &nbsp;to 13<sup>th</sup> March 2026 before 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> May 2026 (preferably)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
