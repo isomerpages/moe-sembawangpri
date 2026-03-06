@@ -85,7 +85,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Chu Poh Hoon Jenny
 <br><a href="mailto:chu_poh_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chu_poh_hoon@schools.gov.sg</a>
-<br>
 </p>
 </td>
 </tr>
@@ -98,9 +97,8 @@ variant: tiptap
 <p>Mdm Nor'Asikin Abrahim
 <br><a href="mailto:Nor_Asikin_ABRAHIM@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nor_Asikin_ABRAHIM@schools.gov.sg</a>
 <br>
-<br>Ms Emily Tang Li Peng
-<br><a href="mailto:tang_li_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_li_peng@schools.gov.sg</a>
-<br>
+<br>Mdm Norhaslinda Binte Suba'at
+<br><a href="norhaslinda_subaat@schools.gov.sg" rel="noopener nofollow" target="_blank">norhaslinda_subaat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -170,7 +168,6 @@ variant: tiptap
 <br>
 <br>Mr Rhubban Ravi
 <br><a href="mailto:%5Brhubban.ravi@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">rhubban.ravi@ncs.com.sg</a>
-<br>
 </p>
 </td>
 </tr>
@@ -218,4 +215,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Last updated: 08/01/2026</p>
+<p>Last updated: 06/03/2026</p>
