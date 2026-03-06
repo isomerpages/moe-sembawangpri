@@ -163,7 +163,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nanama D/O Rathakrina</p>
+<p>Ms Nanama D/O Rathakrisna</p>
 <p></p>
 </td>
 </tr>
