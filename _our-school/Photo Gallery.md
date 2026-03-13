@@ -20,6 +20,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>11th March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/FwDbJhGs1U5wndmy5" rel="noopener nofollow" target="_blank">NSG Oath Taking by our SBPS student-athletes</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>16th February 2026</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,4 +140,4 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
-<p>Last Updated : 06/03/2026</p>
+<p>Last Updated : 13/03/2026</p>
