@@ -20,6 +20,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>25th March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/o7k4kkEGTkmRJVk49" rel="noopener nofollow" target="_blank">Hari Raya Celebration</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>11th March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
