@@ -5,9 +5,8 @@ description: ""
 third_nav_title: About Us
 variant: tiptap
 ---
-### Our Corporate Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nuXEQFL8dbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
- 
-Last updated: 01/01/2022
+<h3>Our Corporate Video</h3>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FzuhE9rXr7U?si=BZO7grhR5vVbIQMN"></iframe>
+</div>
+<p>Last updated: 17/04/2026</p>
