@@ -13,11 +13,11 @@ must meet these criteria:</p>
 </li>
 <li>
 <p>Parent(s) must register as a parent volunteer (PV) no later than 1 July
-2025</p>
+2026</p>
 </li>
 <li>
 <p>Parent(s) must complete a minimum of 40 hours of voluntary service during
-the designated service period (1 July 2025 to 30 June 2026)</p>
+the designated service period (1 July 2026 to 30 June 2027)</p>
 </li>
 </ul>
 <p></p>
@@ -27,7 +27,7 @@ applicants exceeds available vacancies in Phase 2B, placement will be determined
 by ballot.</p>
 <p></p>
 <p>Online Registration (click <a href="https://go.gov.sg/sbpspvphase2b" rel="noopener nofollow" target="_blank">link</a>)
-is now open for children born between 2 January 2020 and 1 January 2021
-(both dates inclusive). The last day of registration is 30 June 2025.</p>
+is now open for children born between 02 January 2021 and 01 January 2022
+(both dates inclusive). The last day of registration is 30 June 2026.</p>
 <p></p>
-<p>Last updated : 27/05/2025</p>
+<p>Last updated : 17/04/2026</p>
