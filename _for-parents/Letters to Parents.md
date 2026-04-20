@@ -46,6 +46,18 @@ variant: tiptap
 <p>Open Letter from School Leaders</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Open_Letter_from_SLs_03_of_2026.pdf" rel="noopener nofollow" target="_blank">SBPS/26/003</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 April 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open Letter from School Leaders</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -168,4 +180,4 @@ variant: tiptap
 <p>The Income Product Fact Sheet for Year 2025 can be found below:</p>
 <p><a href="/files/Income_Product_Fact_Sheet__Year_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Product Fact Sheet</a>
 </p>
-<p>Last updated:27/01/2026</p>
+<p>Last updated:20/04/2026</p>
