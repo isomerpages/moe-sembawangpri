@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Consent for Photography & Videos.md
       - For Parents/.keep
       - For Students/.keep
       - School Calendar.md
