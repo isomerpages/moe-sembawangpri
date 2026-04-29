@@ -1,8 +1,9 @@
 ---
-title: School Canteen Advertisement
-permalink: /general-information/school-canteen-advertisement/
+title: School Canteen
+permalink: /general-information/service-providers/school-canteen/
 description: ""
 variant: tiptap
+third_nav_title: Service Providers
 ---
 <table style="minWidth: 75px">
 <colgroup>

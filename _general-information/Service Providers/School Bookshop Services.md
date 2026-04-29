@@ -1,8 +1,9 @@
 ---
-title: School Bookshop
-permalink: /general-information/school-bookshop/
+title: School Bookshop Services
+permalink: /general-information/service-providers/school-bookshop-services/
 description: ""
 variant: tiptap
+third_nav_title: Service Providers
 ---
 <p><strong>School Bookshop Vendor - Pacific Bookstores Pte Ltd</strong>
 </p>

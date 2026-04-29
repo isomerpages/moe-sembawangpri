@@ -1,8 +1,9 @@
 ---
 title: School Bus
-permalink: /general-information/school-bus/
+permalink: /general-information/service-providers/school-bus/
 description: ""
 variant: tiptap
+third_nav_title: Service Providers
 ---
 <table style="minWidth: 25px">
 <colgroup>

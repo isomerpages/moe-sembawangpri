@@ -1,6 +1,6 @@
 ---
 title: Teachers
-permalink: /our-staff/teachers/
+permalink: /our-people/teachers/
 description: ""
 variant: tiptap
 ---

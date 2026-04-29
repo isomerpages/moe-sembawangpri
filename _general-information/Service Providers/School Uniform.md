@@ -1,8 +1,9 @@
 ---
 title: School Uniform
-permalink: /general-information/school-uniform/
+permalink: /general-information/service-providers/school-uniform/
 description: ""
 variant: markdown
+third_nav_title: Service Providers
 ---
 **School Uniform Vendor - Chop Kong Chong**
 

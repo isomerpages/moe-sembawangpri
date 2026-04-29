@@ -1,6 +1,6 @@
 ---
 title: School Leadership Team
-permalink: /our-staff/school-leadership-team/
+permalink: /our-people/school-leadership-team/
 description: ""
 variant: tiptap
 ---

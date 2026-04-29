@@ -1,8 +1,9 @@
 ---
-title: Dental Clinic
-permalink: /general-information/dental-clinic/
+title: School Dental Services
+permalink: /general-information/service-providers/school-dental-services/
 description: ""
 variant: tiptap
+third_nav_title: Service Providers
 ---
 <table style="minWidth: 25px">
 <colgroup>

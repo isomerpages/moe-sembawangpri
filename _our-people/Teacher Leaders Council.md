@@ -1,6 +1,6 @@
 ---
 title: Teacher Leaders Council
-permalink: /our-staff/teacher-leader-council/
+permalink: /our-people/teacher-leader-council/
 description: ""
 variant: markdown
 ---

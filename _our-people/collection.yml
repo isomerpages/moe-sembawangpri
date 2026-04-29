@@ -1,8 +1,9 @@
 collections:
-  our-staff:
+  our-people:
     output: true
     order:
+      - School Advisory Committee.md
       - School Leadership Team.md
       - Teacher Leaders Council.md
       - Teachers.md
-      - Admin & Support Staff.md
+      - Non Teaching Staff.md

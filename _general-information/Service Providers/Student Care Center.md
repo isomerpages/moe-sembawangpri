@@ -1,8 +1,9 @@
 ---
-title: Student Care Centre
-permalink: /general-information/student-care-centre/
+title: Student Care Center
+permalink: /general-information/service-providers/student-care-center/
 description: ""
 variant: tiptap
+third_nav_title: Service Providers
 ---
 <p><strong>QFS - The Enablers Pte Ltd</strong>
 </p>
