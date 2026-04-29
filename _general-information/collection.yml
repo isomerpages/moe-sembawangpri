@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - For Students/.keep
       - School Calendar.md
       - Service Providers/.keep
       - Service Providers/School Bookshop Services.md
