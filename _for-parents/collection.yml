@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Homework Policy.md
       - Speech Day.md
       - Briefing for parents.md
       - Growing Years Programme.md
