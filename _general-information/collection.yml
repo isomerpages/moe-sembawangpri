@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Service Providers/School Uniform.md
       - Service Providers/School Bus.md
       - Service Providers/Dental Clinic.md
       - Service Providers/School Bookshop.md
