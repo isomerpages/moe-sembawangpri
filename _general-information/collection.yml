@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Rules & Expectations.md
       - School Operating Hours.md
       - Consent for Photography & Videos.md
       - For Parents/.keep
