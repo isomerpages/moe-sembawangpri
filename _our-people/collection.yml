@@ -1,5 +1,5 @@
 collections:
-  our-staff:
+  our-people:
     output: true
     order:
       - School Leadership Team.md
