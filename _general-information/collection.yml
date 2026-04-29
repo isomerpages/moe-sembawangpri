@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Homework Policy.md
       - Guidelines for Consequences.md
       - School Rules & Expectations.md
       - School Operating Hours.md
