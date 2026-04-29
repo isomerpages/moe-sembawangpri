@@ -21,7 +21,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Closure of General Office on 28 November 2025 (8am to 2pm)
           date: 28 November 2025
