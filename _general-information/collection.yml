@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Calendar.md
       - Photography and Videography.md
       - Homework Policy.md
       - Guidelines for Consequences.md
