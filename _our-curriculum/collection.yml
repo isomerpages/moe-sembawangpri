@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - E21CC.md
       - Mathematics.md
       - Science.md
       - Mother Tongue Languages/.keep
@@ -20,4 +19,5 @@ collections:
       - Character Education/Character Education.md
       - Character Education/Citizenship Education.md
       - Character Education/Programme for Active Learning.md
+      - E21CC.md
       - Student Management.md
