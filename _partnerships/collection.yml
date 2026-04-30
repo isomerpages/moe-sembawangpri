@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Parent Volunteer Scheme.md
       - Parents Support Group/.keep
       - Parents Support Group/PSG exco members.md
       - Parents Support Group/Join Us!.md
