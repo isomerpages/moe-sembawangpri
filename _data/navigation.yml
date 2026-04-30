@@ -34,8 +34,8 @@ links:
         url: /our-people/teachers
       - title: Non Teaching Staff
         url: /our-people/non-teaching-staff
-  - title: Programmes
-    url: /programmes/departments/english
+  - title: Our Curriculum
+    url: /our-curriculum/english-language
     sublinks:
       - title: Departments
         url: /programmes/departments/english
@@ -47,6 +47,28 @@ links:
         url: /programmes/Learning-for-Life-Programme/lflp
       - title: Kindergarten Visit
         url: /programmes/kindergarten-visit/
+      - title: English Language
+        url: /our-curriculum/english-language
+      - title: Mathematics
+        url: /our-curriculum/mathematics
+      - title: Science
+        url: /our-curriculum/science
+      - title: Mother Tongue Languages
+        url: /our-curriculum/mother-tongue-languages
+      - title: Physical Education
+        url: /our-curriculum/physical-education
+      - title: Art
+        url: /our-curriculum/art
+      - title: Music
+        url: /our-curriculum/music
+      - title: CCE
+        url: /our-curriculum/cce
+      - title: ICT
+        url: /our-curriculum/ict
+      - title: E21CC
+        url: /our-curriculum/e21cc
+      - title: Student Management
+        url: /our-curriculum/student-management
   - title: For Parents
     url: /for-parents/Briefing-for-parents/
     sublinks:
