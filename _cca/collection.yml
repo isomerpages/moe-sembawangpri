@@ -3,22 +3,22 @@ collections:
     output: true
     order:
       - Overview.md
-      - Sports & Games/Badminton.md
-      - Sports & Games/.keep
-      - Sports & Games/Rugby.md
-      - Sports & Games/Softball.md
-      - Sports & Games/Table Tennis.md
-      - Sports & Games/Track & Field.md
-      - Performing Arts/.keep
-      - Performing Arts/Chinese Dance.md
-      - Performing Arts/Chinese Orchestra.md
-      - Performing Arts/Choir.md
-      - Performing Arts/International Dance.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Art Club.md
       - Clubs and Societies/Chess Club.md
       - Clubs and Societies/English Drama Club.md
       - Clubs and Societies/ICT Club.md
       - Clubs and Societies/Science Club.md
-      - Uniformed Group/Red Cross.md
+      - Performing Arts/.keep
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/International Dance.md
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Rugby.md
+      - Sports & Games/Softball.md
+      - Sports & Games/Table Tennis.md
+      - Sports & Games/Track & Field.md
       - Uniformed Group/.keep
+      - Uniformed Group/Red Cross.md
