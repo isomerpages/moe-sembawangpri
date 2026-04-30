@@ -93,6 +93,17 @@ links:
         url: /special-programmes/tie
       - title: ELW
         url: /special-programmes/ELW
+  - title: Partnerships
+    url: /partnerships/parent-support-group
+    sublinks:
+      - title: Parent Support Group
+        url: /partnerships/parent-support-group
+      - title: Parent Volunteer Scheme
+        url: /partnerships/parent-volunteer-scheme
+      - title: Positive Parenting Programme
+        url: /partnerships/parent-parenting-programme
+      - title: School Alumni
+        url: /partnerships/school-alumni
   - title: For Parents
     url: /for-parents/Briefing-for-parents/
     sublinks:
