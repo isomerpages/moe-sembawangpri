@@ -2,10 +2,10 @@ collections:
   partnerships:
     output: true
     order:
-      - Parents Support Group/.keep
-      - Parents Support Group/PSG exco members.md
-      - Parents Support Group/Join Us!.md
-      - Parents Support Group/Primary 3 Learning Journey.md
+      - Parents Support Group (PSG)/.keep
+      - Parents Support Group (PSG)/PSG exco members.md
+      - Parents Support Group (PSG)/Join Us!.md
+      - Parents Support Group (PSG)/Primary 3 Learning Journey.md
       - Positive Parenting Programme (Triple P).md
       - Parent Volunteer Scheme.md
       - School Alumni.md
