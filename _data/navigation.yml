@@ -69,6 +69,19 @@ links:
         url: /our-curriculum/e21cc
       - title: Student Management
         url: /our-curriculum/student-management
+  - title: CCA
+    url: /cca/overview
+    sublinks:
+      - title: Overview
+        url: /cca/overview
+      - title: Clubs and Societies
+        url: /cca/clubs-and-societies
+      - title: Performing Arts
+        url: /cca/performing-arts
+      - title: Sports and Games
+        url: /cca/sports-and-games
+      - title: Unifromed Groups
+        url: /cca/uniformed-groups
   - title: For Parents
     url: /for-parents/Briefing-for-parents/
     sublinks:
