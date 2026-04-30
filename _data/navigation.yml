@@ -27,13 +27,13 @@ links:
     url: /our-people/school-leadership-team
     sublinks:
       - title: School Leadership Team
-        url: /our-staff/school-leadership-team
+        url: /our-people/school-leadership-team
       - title: Teacher Leaders Council
-        url: /our-staff/teacher-leader-council/
+        url: /our-people/teacher-leader-council/
       - title: Teachers
-        url: /our-staff/teachers
+        url: /our-people/teachers
       - title: Non Teaching Staff
-        url: /our-staff/non-teaching-staff
+        url: /our-people/non-teaching-staff
   - title: Programmes
     url: /programmes/departments/english
     sublinks:
