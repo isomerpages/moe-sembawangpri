@@ -4,7 +4,8 @@ permalink: /our-school/about-us/our-school-song/
 description: ""
 variant: tiptap
 ---
-<h3>Our School Song</h3>
+<h3>School Song</h3>
+<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Kgh1R_j5FUA?si=G-2761k_dPAjyE4f"></iframe>
 </div>
