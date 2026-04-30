@@ -51,17 +51,7 @@ links:
         url: /our-curriculum/e21cc
   - title: CCA
     url: /cca/overview
-    sublinks:
-      - title: Overview
-        url: /cca/overview
-      - title: Clubs and Societies
-        url: /cca/clubs-and-societies
-      - title: Performing Arts
-        url: /cca/performing-arts
-      - title: Sports and Games
-        url: /cca/sports-and-games
-      - title: Unifromed Groups
-        url: /cca/uniformed-groups
+    sublinks: []
   - title: Special Programmes
     url: /special-programmes/llp
     sublinks:
