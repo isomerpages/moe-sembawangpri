@@ -87,6 +87,12 @@ links:
     sublinks:
       - title: LLP
         url: /special-programmes/llp
+      - title: ALP
+        url: /special-programmes/alp
+      - title: TIE
+        url: /special-programmes/tie
+      - title: ELW
+        url: /special-programmes/ELW
   - title: For Parents
     url: /for-parents/Briefing-for-parents/
     sublinks:
