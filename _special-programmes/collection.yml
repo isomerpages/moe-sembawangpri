@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  special-programmes:
     output: true
     order:
       - English Language.md
