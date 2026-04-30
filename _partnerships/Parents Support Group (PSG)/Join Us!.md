@@ -1,8 +1,8 @@
 ---
 title: Join Us!
-permalink: /for-parents/parents-support-group/join-us/
+permalink: /partnerships/parents-support-group/join-us/
 description: ""
-third_nav_title: Parents Support Group
+third_nav_title: Parents Support Group (PSG)
 variant: markdown
 ---
 Hi Parents!

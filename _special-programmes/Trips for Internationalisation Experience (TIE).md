@@ -1,0 +1,7 @@
+---
+title: Trips for Internationalisation Experience (TIE)
+permalink: /special-programmes/trips-for-internationalisation-experience-tie/
+variant: tiptap
+description: ""
+---
+<p>coming soon..</p>

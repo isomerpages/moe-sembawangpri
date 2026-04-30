@@ -1,7 +1,6 @@
 ---
-title: "Applied Learning Programme: Leading Environmental Action for the Future
-  (LEAF)"
-permalink: /programmes/applied-learning-programme/
+title: Applied Learning Programme (ALP)
+permalink: /special-programmes/applied-learning-programme/
 description: ""
 variant: tiptap
 ---

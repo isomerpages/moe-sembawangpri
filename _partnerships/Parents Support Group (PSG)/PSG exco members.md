@@ -1,9 +1,9 @@
 ---
 title: PSG exco members
-permalink: /for-parents/parents-support-group/psg-exco-members/
+permalink: /partnerships/parents-support-group/psg-exco-members/
 variant: markdown
 description: ""
-third_nav_title: Parents Support Group
+third_nav_title: Parents Support Group (PSG)
 ---
 Parents, being key stakeholders, are an important link between the school and our children. In our journey to provide our children with a holistic education, we believe in forging a strong working relationship with parents.
 

@@ -1,8 +1,8 @@
 ---
 title: Primary 3 Learning Journey
-permalink: /for-parents/letters-to-parents/p3-learningjourney/
+permalink: /partnerships/parents-support-group/p3-learningjourney/
 description: ""
-third_nav_title: Parents Support Group
+third_nav_title: Parents Support Group (PSG)
 variant: markdown
 ---
 #####  PRIMARY 3 LEARNING JOURNEY - EVOLUTION GARDEN TOUR @ BOTANIC GARDEN![](/images/p3jouney.png)

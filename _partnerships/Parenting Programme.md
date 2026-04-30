@@ -1,7 +1,8 @@
 ---
 title: Parenting Programme
-permalink: /for-parents/parenting-programme/
+permalink: /partnerships/parenting-programme/
 description: ""
+variant: tiptap
 ---
 **Parenting Program by ‘Care Corner’**
  

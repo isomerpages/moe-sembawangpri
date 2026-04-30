@@ -1,8 +1,8 @@
 ---
-title: "Triple P: One to One Parenting Consultation"
-permalink: /triple-p-one-to-one-parenting-consultation/
-variant: tiptap
+title: Positive Parenting Programme (Triple P)
+permalink: /partnerships/positive-parenting-programme/
 description: ""
+variant: tiptap
 ---
 <p>Dear Parents,</p>
 <p></p>

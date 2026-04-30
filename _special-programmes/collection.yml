@@ -1,12 +1,12 @@
 collections:
-  programmes:
+  special-programmes:
     output: true
     order:
-      - English Language.md
-      - "Applied Learning Programme: Leading Environmental Action for the Future
-        (LEAF).md"
+      - Learning for Life Programme (LFP).md
+      - Applied Learning Programme (ALP).md
+      - Trips for Internationalisation Experience (TIE).md
+      - Experiential Learning Week (ELW).md
       - Learning for Life Programme/.keep
-      - Learning for Life Programme/Learning for Life Programme.md
       - Learning for Life Programme/Prefectorial Board.md
       - Learning for Life Programme/Class Committee.md
       - Learning for Life Programme/SBPS Pal (Peer Support Leader).md
