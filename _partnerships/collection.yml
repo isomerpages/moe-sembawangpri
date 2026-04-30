@@ -1,5 +1,5 @@
 collections:
-  for-parents:
+  partnerships:
     output: true
     order:
       - Speech Day.md
