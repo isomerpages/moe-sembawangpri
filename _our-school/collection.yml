@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our School Song.md
       - About Us.md
       - Our School.md
       - About Us/.keep
