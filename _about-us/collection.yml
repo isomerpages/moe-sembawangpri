@@ -2,14 +2,14 @@ collections:
   about-us:
     output: true
     order:
+      - About Us.md
       - Principal's Message.md
       - Our School.md
-      - Our Corporate Video.md
       - Our School Song.md
-      - About Us.md
+      - Our Corporate Video.md
+      - Photo Gallery.md
       - About Us/.keep
       - School Rules & Expectations/.keep
-      - Photo Gallery.md
       - School Advisory Committee.md
       - School Building.md
       - Security & Emergency Measures.md
