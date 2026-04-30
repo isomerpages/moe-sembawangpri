@@ -1,12 +1,18 @@
 logo: /images/school_banner_updated.svg
 links:
-  - title: Our School
-    url: /our-school/
+  - title: About Us
+    url: /about-us/about-us/
     sublinks:
       - title: Principal's Message
-        url: /our-school/principals-message
-      - title: About Us
-        url: /our-school/about-us/
+        url: /about-us/principals-message/
+      - title: School Crest
+        url: /about-us/school-crest/
+      - title: School Song
+        url: /about-us/school-song/
+      - title: School Corporate Video
+        url: /about-us/school-corporate-video/
+      - title: Photo Gallery
+        url: /about-us/photo-gallery/
       - title: School Rules & Expectations
         url: /our-school/school-rules-expectations/school-rules-expectations/
       - title: School Advisory Committee
@@ -17,8 +23,6 @@ links:
         url: /our-school/school-building
       - title: Security & Emergency measures
         url: /our-school/securityandemergencymeasures
-      - title: Photo Gallery
-        url: /our-school/photo-gallery/
   - title: Our People
     url: /our-people/school-leadership-team
     sublinks:
