@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Experiential Learning Week (ELW).md
       - Trips for Internationalisation Experience (TIE).md
       - Learning for Life Programme (LFP).md
       - Applied Learning Programme (ALP).md
