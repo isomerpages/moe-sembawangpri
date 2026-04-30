@@ -2,12 +2,12 @@ collections:
   our-school:
     output: true
     order:
+      - Principal's Message.md
+      - Our School.md
       - Our Corporate Video.md
       - Our School Song.md
       - About Us.md
-      - Our School.md
       - About Us/.keep
-      - Principal's Message.md
       - School Rules & Expectations/.keep
       - Photo Gallery.md
       - School Advisory Committee.md
