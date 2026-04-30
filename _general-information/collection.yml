@@ -2,16 +2,9 @@ collections:
   general-information:
     output: true
     order:
-      - Student Care Services.md
       - School Calendar.md
-      - Photography and Videography.md
-      - Homework Policy.md
-      - Guidelines for Consequences.md
       - School Rules & Expectations.md
-      - School Operating Hours.md
-      - Consent for Photography & Videos.md
-      - For Parents/.keep
-      - For Students/.keep
+      - Homework Guidelines.md
       - Service Providers/.keep
       - Service Providers/School Bookshop Services.md
       - Service Providers/School Bus.md
@@ -20,3 +13,10 @@ collections:
       - Service Providers/School Dental Services.md
       - Service Providers/School Uniform.md
       - Service Providers/Student Care Center.md
+      - School Hours.md
+      - For Parents/Student Care Services.md
+      - For Parents/.keep
+      - For Students/.keep
+      - Consent for Photography & Videos.md
+      - Photography and Videography.md
+      - Guidelines for Consequences.md

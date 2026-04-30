@@ -1,8 +1,8 @@
 ---
 title: Softball
-permalink: /cca/sports-team/softball/
+permalink: /cca/sports-games/softball/
 description: ""
-third_nav_title: Sports Team
+third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h3>Softball</h3>

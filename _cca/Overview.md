@@ -1,7 +1,8 @@
 ---
-title: Why CCA?
-permalink: /CCAprogrammes/whycca/
+title: Overview
+permalink: /cca/overview/
 description: ""
+variant: tiptap
 ---
 Co-curricular activities (CCAs) are an integral part of your child’s learning experience in their schooling life as they provide your child learning opportunities and platforms to develop social-emotional competencies, on top of skills and knowledge related to the CCA. Furthermore, they provide opportunities for your child to hone his/her leadership skills. Through CCA, your child will receive a well-rounded and holistic education to assist them in their life journey.
 

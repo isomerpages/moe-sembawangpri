@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /programmes/Departments/mathematics/
+permalink: /our-curriculum/mathematics/
 description: ""
 variant: tiptap
 ---

@@ -1,8 +1,8 @@
 ---
 title: Track & Field
-permalink: /cca/sports-team/track-and-field/
+permalink: /cca/sports-games/track-and-field/
 description: ""
-third_nav_title: Sports Team
+third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h3>Track &amp; Field</h3>

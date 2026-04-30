@@ -1,8 +1,8 @@
 ---
 title: Table Tennis
-permalink: /cca/sports-team/table-tennis/
+permalink: /cca/sports-games/table-tennis/
 description: ""
-third_nav_title: Sports Team
+third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h3>Table Tennis</h3>

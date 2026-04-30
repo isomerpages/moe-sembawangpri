@@ -1,6 +1,6 @@
 ---
 title: School Calendar
-permalink: /for-parents/school-calendar/
+permalink: /general-information/school-calendar/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Student Management
-permalink: /student-management/
+permalink: /our-curriculum/student-management/
 variant: tiptap
 description: ""
 ---

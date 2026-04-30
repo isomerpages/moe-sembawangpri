@@ -2,7 +2,7 @@
 title: Rugby
 permalink: /cca/sports-team/rugby/
 description: ""
-third_nav_title: Sports Team
+third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h3>Rugby</h3>

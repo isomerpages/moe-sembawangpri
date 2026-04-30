@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /departments/physicaleducation/
+permalink: /our-curriculum/physical-education/
 description: ""
 variant: tiptap
 ---

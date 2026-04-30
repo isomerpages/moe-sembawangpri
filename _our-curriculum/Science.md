@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /programmes/Departments/science/
+permalink: /our-curriculum/science/
 description: ""
 variant: tiptap
 ---

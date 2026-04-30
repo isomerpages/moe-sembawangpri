@@ -1,8 +1,8 @@
 ---
 title: Chinese Dance
-permalink: /cca/visual-and-performing-arts/chinese-dance/
+permalink: /cca/performing-arts/chinese-dance/
 description: ""
-third_nav_title: Visual and Performing Arts
+third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Chinese Dance</h3>

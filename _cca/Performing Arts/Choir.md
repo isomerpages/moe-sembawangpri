@@ -1,8 +1,8 @@
 ---
 title: Choir
-permalink: /cca/visual-and-performing-arts/choir/
+permalink: /cca/performing-arts/choir/
 description: ""
-third_nav_title: Visual and Performing Arts
+third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Choir</h3>

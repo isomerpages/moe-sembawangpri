@@ -1,8 +1,8 @@
 ---
 title: Chinese Orchestra
-permalink: /cca/visual-and-performing-arts/chinese-orchestra/
+permalink: /cca/performing-arts/chinese-orchestra/
 description: ""
-third_nav_title: Visual and Performing Arts
+third_nav_title: Performing Arts
 variant: tiptap
 ---
 <p>Chinese Orchestra CCA aspires to groom little musicians who can appreciate

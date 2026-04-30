@@ -47,46 +47,70 @@ links:
         url: /programmes/Learning-for-Life-Programme/lflp
       - title: Kindergarten Visit
         url: /programmes/kindergarten-visit/
-      - title: English Language
-        url: /our-curriculum/english-language
-      - title: Mathematics
-        url: /our-curriculum/mathematics
-      - title: Science
-        url: /our-curriculum/science
-      - title: Mother Tongue Languages
-        url: /our-curriculum/mother-tongue-languages
-      - title: Physical Education
-        url: /our-curriculum/physical-education
-      - title: Art
-        url: /our-curriculum/art
-      - title: Music
-        url: /our-curriculum/music
-      - title: CCE
-        url: /our-curriculum/cce
-      - title: ICT
-        url: /our-curriculum/ict
       - title: E21CC
         url: /our-curriculum/e21cc
-      - title: Student Management
-        url: /our-curriculum/student-management
   - title: CCA
     url: /cca/overview
-    sublinks:
-      - title: Overview
-        url: /cca/overview
-      - title: Clubs and Societies
-        url: /cca/clubs-and-societies
-      - title: Performing Arts
-        url: /cca/performing-arts
-      - title: Sports and Games
-        url: /cca/sports-and-games
-      - title: Unifromed Groups
-        url: /cca/uniformed-groups
+    sublinks: []
   - title: Special Programmes
     url: /special-programmes/llp
     sublinks:
       - title: LLP
         url: /special-programmes/llp
+      - title: ALP
+        url: /special-programmes/alp
+      - title: TIE
+        url: /special-programmes/tie
+      - title: ELW
+        url: /special-programmes/ELW
+  - title: Partnerships
+    url: /partnerships/parent-support-group
+    sublinks:
+      - title: Parent Support Group
+        url: /partnerships/parent-support-group
+      - title: Parent Volunteer Scheme
+        url: /partnerships/parent-volunteer-scheme
+      - title: Positive Parenting Programme
+        url: /partnerships/parent-parenting-programme
+      - title: School Alumni
+        url: /partnerships/school-alumni
+  - title: General Information
+    url: /general-information/school-calendar/
+    sublinks:
+      - title: School Calendar
+        url: /general-information/school-calendar/
+      - title: School Rules and Expectations
+        url: /general-information/school-rules-and -expectations/
+      - title: Homework Guidelines
+        url: /general-information/homework-guidelines/
+      - title: School Hours
+        url: /general-information/school-hours/
+      - title: Service Providers
+        url: /general-information/service -providers/
+      - title: Consent for Photography&Videos
+        url: /general-information/consent-for-photography&videos/
+      - title: School Bookshop
+        url: /general-information/school-bookshop/
+      - title: Dental Clinic
+        url: /general-information/dental-clinic/
+      - title: School Bus
+        url: /general-information/school-bus/
+      - title: School Bus Advertisement
+        url: /general-information/school-bus-advertisement/
+      - title: School Canteen Advertisement
+        url: /general-information/school-canteen-advertisement/
+      - title: School Uniform
+        url: /general-information/school-uniform/
+      - title: Student Care Centre
+        url: /general-information/student-care-centre/
+      - title: For Parents
+        url: /general-information/for-parents/
+      - title: For Students
+        url: /general-information/for-students/
+  - title: MOE Kindergarten
+    collection: mk-sembawang
+  - title: Contact Us
+    url: /contact-us
   - title: For Parents
     url: /for-parents/Briefing-for-parents/
     sublinks:
@@ -124,24 +148,3 @@ links:
         url: /for-parents/supporting-your-child-at-home/
       - title: Triple P Parent Consultation
         url: /triple-p-one-to-one-parenting-consultation/
-  - title: MOE Kindergarten
-    collection: mk-sembawang
-  - title: General Information
-    url: /general-information/school-bookshop/
-    sublinks:
-      - title: School Bookshop
-        url: /general-information/school-bookshop/
-      - title: Dental Clinic
-        url: /general-information/dental-clinic/
-      - title: School Bus
-        url: /general-information/school-bus/
-      - title: School Bus Advertisement
-        url: /general-information/school-bus-advertisement/
-      - title: School Canteen Advertisement
-        url: /general-information/school-canteen-advertisement/
-      - title: School Uniform
-        url: /general-information/school-uniform/
-      - title: Student Care Centre
-        url: /general-information/student-care-centre/
-  - title: Contact Us
-    url: /contact-us

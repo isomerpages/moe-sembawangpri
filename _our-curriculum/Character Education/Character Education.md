@@ -1,8 +1,9 @@
 ---
 title: Character Education
-permalink: /departments/Character-Education/character-education/
+permalink: /our-curriculum/character-education/character-education/
 description: ""
 third_nav_title: Character Education
+variant: tiptap
 ---
 ### Character Education
 
@@ -10,34 +11,31 @@ Quality relationships are a core and basic need that is necessary for all our st
 
 In Sembawang Primary School, we adopt the the PSR Framework which embodies the 3 domains of:
 
-●      Peer Helping
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peer Helping
 
-●      Peer Bonding
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peer Bonding
 
-●       Peer Influencing
+●&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;Peer Influencing
 
-<img src="/images/cce2.png" 
-     style="width:70%">_PSR Framework adopted by the school_
+<img src="/images/cce2.png" style="width:70%">_PSR Framework adopted by the school_
 
-    **Level 1 - Every Child is a Peer Supporter**
+&nbsp;&nbsp;&nbsp;&nbsp;**Level 1 - Every Child is a Peer Supporter**
 
 The students are taught that every student can play the role of a peer supporter - by understanding that everyone is different and each of them should appreciate the unique personality of each other.
 
 Through multiple programs in school, students are taught how to be a good friend to their peers and show care for each other.
 
-<img src="/images/cce3.png" 
-     style="width:90%">_Discussion with students on Peer Support_
+<img src="/images/cce3.png" style="width:90%">_Discussion with students on Peer Support_
 
-Additionally, every student in Sembawang Primary School will be paired to at least 1 **_Peer Buddy,_** a fellow student that is either from their form classes or CCA.
+Additionally, every student in Sembawang Primary School will be paired to at least 1&nbsp;**_Peer Buddy,_**&nbsp;a fellow student that is either from their form classes or CCA.
 
 The role of the Peer Buddy is to:
 
-●      Keep a look out for one another
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keep a look out for one another
 
-●      Check-in on their buddies when they have been away from school.
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check-in on their buddies when they have been away from school.
 
-<img src="/images/cce7.png" 
-     style="width:90%">
+<img src="/images/cce7.png" style="width:90%">
 1.  **Selected students trained to be Peer Support Leaders**
 
 In each class, teachers will select suitable students to receive further training on how to be a SBPS PAL (Peer Support Leader).
@@ -48,48 +46,47 @@ Kindly refer to  [SBPS PAL (Peer Support Leader)](https://sembawangpri.moe.edu.s
 
 In ECG, students are guided to make informed school choices based on their values, strengths, interests and skills through secondary school talks, career talks and experiences that provide opportunities to build students’ self-awareness and knowledge of the different education and career pathways. ECG aims to:
 
-●      Nurture students' self-awareness and self-directedness for lifelong learning
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nurture students' self-awareness and self-directedness for lifelong learning
 
-●      Enable students to explore education and career options
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enable students to explore education and career options
 
-●      Help students develop a growth mindset and a resilient attitude to embrace future opportunities
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Help students develop a growth mindset and a resilient attitude to embrace future opportunities
 
-●      Create opportunities for students to develop an appreciation for different career pathways.
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Create opportunities for students to develop an appreciation for different career pathways.
 
 In 2022, we have organised our inaugural ECG Seminar for P6 students to:
 
-●  To learn and appreciate the different careers, understanding the joys and challenges that each profession faces
+●&nbsp;&nbsp;To learn and appreciate the different careers, understanding the joys and challenges that each profession faces
 
-●      Develop a resilient attitude and growth mindset to embrace future challenges.
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Develop a resilient attitude and growth mindset to embrace future challenges.
 
-The students were able to listen and interact with industry professionals from different fields of work, while engaging in question & answer sessions with the speakers. The speakers came from an array of careers, which includes:
+The students were able to listen and interact with industry professionals from different fields of work, while engaging in question &amp; answer sessions with the speakers. The speakers came from an array of careers, which includes:
 
-●      Statutory Board (Government Agencies)
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statutory Board (Government Agencies)
 
-●      Research and Study
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research and Study
 
-●      Aviation
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aviation
 
-●       Medical
-<img src="/images/cce8.png" 
-     style="width:90%">
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Medical
+<img src="/images/cce8.png" style="width:90%">
 **Form Teacher Guidance Period (FTGP)**
 
 CCE (FTGP) lessons involve the explicit teaching and learning of fundamental social-emotional skills which are anchored on values and citizenship dispositions. The activities, reflections and discussions during the lessons also help strengthen positive Teacher-Student Relationships (TSR) and build supportive peer relationships.
 
 The following six CCE content areas will be explored and discussed in a developmentally appropriate manner during the CCE (FTGP) lessons:
 
-●       Cyber Wellness
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyber Wellness
 
-●       Education and Career Guidance
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Education and Career Guidance
 
-●       Family Education
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Family Education
 
-●       Mental Health
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mental Health
 
-●       National Education
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Education
 
-●       Growing Years Programme
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Growing Years Programme
 
 **CCE (Mother Tongue Language)**
 
@@ -111,7 +108,6 @@ SBPS Star is a school-based recognition for students who have demonstrated exemp
 
 
 _Collar pin for SBPS Stars_
-<img src="/images/cce5.png" 
-     style="width:55%">
+<img src="/images/cce5.png" style="width:55%">
 
 Last updated : 08/05/2022

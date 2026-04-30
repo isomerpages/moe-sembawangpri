@@ -1,9 +1,9 @@
 ---
 title: Badminton
-permalink: /badminton/
+permalink: /cca/sports-games/badminton/
 variant: tiptap
 description: ""
-third_nav_title: Sports Team
+third_nav_title: Sports & Games
 ---
 <h3>Badminton</h3>
 <p>Badminton is a fast-paced and exciting sport that offers students the

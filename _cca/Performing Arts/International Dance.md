@@ -1,9 +1,9 @@
 ---
 title: International Dance
-permalink: /international-dance/
+permalink: /cca/performing-arts/international-dance/
 variant: tiptap
 description: ""
-third_nav_title: Visual and Performing Arts
+third_nav_title: Performing Arts
 ---
 <p></p>
 <table style="minWidth: 50px">

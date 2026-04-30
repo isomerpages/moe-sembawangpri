@@ -1,6 +1,6 @@
 ---
 title: School Rules & Expectations
-permalink: /our-school/school-rules-expectations/school-rules-expectations/
+permalink: /general-information/school-rules-expectations/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
-title: InfoComm Technology
-permalink: /departments/ICT/
+title: Infomation & Communication Technology
+permalink: /our-curriculum/ict/
 description: ""
 variant: tiptap
 ---
