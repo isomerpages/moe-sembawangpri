@@ -1,11 +1,11 @@
 ---
-title: Our School Song
-permalink: /our-school/about-us/our-school-song/
+title: School Song
+permalink: /about-us/school-song/
 description: ""
-third_nav_title: About Us
 variant: tiptap
 ---
-<h3>Our School Song</h3>
+<h3>School Song</h3>
+<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Kgh1R_j5FUA?si=G-2761k_dPAjyE4f"></iframe>
 </div>
@@ -27,4 +27,5 @@ variant: tiptap
 <p>A place for everyone.</p>
 <p>Lyrics - Han Mok Puek</p>
 <p>Music - Tan Wei Ling</p>
-<p>Last updated :17/04/2026</p>
+<p></p>
+<p>Last updated :30/04/2026</p>

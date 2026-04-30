@@ -1,10 +1,10 @@
 ---
-title: Our School
-permalink: /our-school/
+title: School Crest
+permalink: /about-us/school-crest/
 description: ""
 variant: markdown
 ---
-### Our School
+### School Crest
 
 ![](/images/Updated_School_Logo.png)
 
@@ -21,4 +21,4 @@ variant: markdown
 
 *   The two&nbsp;CONCENTRIC CIRCLES&nbsp;reflect the school's emphasis on an all-rounded education equipping pupils with 'roots' and 'wings'.
 
-Last updated : 30/12/2024
+Last updated : 30/04/2026

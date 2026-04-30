@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /our-school/principals-message/
+permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
