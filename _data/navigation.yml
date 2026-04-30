@@ -19,8 +19,8 @@ links:
         url: /our-school/securityandemergencymeasures
       - title: Photo Gallery
         url: /our-school/photo-gallery/
-  - title: Our Staff
-    url: /our-staff/school-leadership-team
+  - title: Our People
+    url: /our-people/school-leadership-team
     sublinks:
       - title: School Leadership Team
         url: /our-staff/school-leadership-team
@@ -28,8 +28,8 @@ links:
         url: /our-staff/teacher-leader-council/
       - title: Teachers
         url: /our-staff/teachers
-      - title: Admin & Support Team
-        url: /our-staff/adminandsupportteam
+      - title: Non Teaching Staff
+        url: /our-staff/non-teaching-staff
   - title: Programmes
     url: /programmes/departments/english
     sublinks:
