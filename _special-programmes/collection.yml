@@ -2,7 +2,6 @@ collections:
   special-programmes:
     output: true
     order:
-      - English Language.md
       - "Applied Learning Programme: Leading Environmental Action for the Future
         (LEAF).md"
       - Learning for Life Programme/.keep
