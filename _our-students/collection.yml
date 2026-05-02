@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic Achievements/.keep
-      - Academic Achievements/Destination Imagination.md
       - Academic Achievements/Mathematics.md
       - Academic Achievements/Science.md
       - Academic Achievements/Chinese Language.md
