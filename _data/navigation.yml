@@ -55,14 +55,14 @@ links:
     url: /cca/overview
     sublinks: []
   - title: Special Programmes
-    url: /special-programmes/llp
+    url: /programmes/earning-for-life-programme/prefectorial-board/
     sublinks:
-      - title: LLP
-        url: /special-programmes/llp
-      - title: ALP
-        url: /special-programmes/alp
-      - title: TIE
-        url: /special-programmes/tie
+      - title: Learning for Life Programme
+        url: /programmes/earning-for-life-programme/prefectorial-board/
+      - title: Applied Learning Programme
+        url: /special-programmes/applied-learning-programme/
+      - title: Trips for Internationalisation
+        url: /special-programmes/trips-for-internationalisation-experience-tie/
       - title: Experiential Learning Week
         url: /special-programmes/experiential-learning-week-elw/
   - title: Partnerships
