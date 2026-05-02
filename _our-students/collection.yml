@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic Achievements/.keep
-      - Academic Achievements/Tamil Language.md
       - Non Academic Achievements/.keep
       - Non Academic Achievements/Aesthetics.md
       - Non Academic Achievements/Clubs & Societies.md
