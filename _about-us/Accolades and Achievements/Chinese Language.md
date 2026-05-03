@@ -1,8 +1,9 @@
 ---
 title: Chinese Language
-permalink: /our-students/Academic-achievements/chineselanguage/
+permalink: /about-us/accolades-and-achievements/chineselanguage/
 description: ""
-third_nav_title: Academic Achievements
+third_nav_title: Accolades and Achievements
+variant: tiptap
 ---
 #### Chinese Language
 

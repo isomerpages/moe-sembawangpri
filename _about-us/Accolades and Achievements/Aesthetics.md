@@ -1,8 +1,9 @@
 ---
 title: Aesthetics
-permalink: /our-students/Non-Academic-Achievements/aesthetics/
+permalink: /about-us/accolades-and-achievements/aesthetics/
 description: ""
-third_nav_title: Non Academic Achievements
+third_nav_title: Accolades and Achievements
+variant: tiptap
 ---
 #### Aesthetics
 **Singapore Youth Festival Arts Presentation**

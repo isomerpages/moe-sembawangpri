@@ -1,8 +1,9 @@
 ---
 title: Science
-permalink: /our-students/Academic-achievements/science/
+permalink: /about-us/accolades-and-achievements/science/
 description: ""
-third_nav_title: Academic Achievements
+third_nav_title: Accolades and Achievements
+variant: tiptap
 ---
 #### Science
 

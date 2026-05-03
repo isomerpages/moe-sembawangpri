@@ -1,10 +1,11 @@
 ---
 title: Clubs & Societies
-permalink: /our-students/Non-Academic-Achievements/clubsandsocieties/
+permalink: /about-us/accolades-and-achievements/clubsandsocieties/
 description: ""
-third_nav_title: Non Academic Achievements
+third_nav_title: Accolades and Achievements
+variant: tiptap
 ---
-### Clubs & Societies
+### Clubs &amp; Societies
 #### **ICT Club**
 
 | Year | Event | Achievement |
@@ -21,8 +22,7 @@ third_nav_title: Non Academic Achievements
 |:---:|:---:|:---:|:---:|:---:|
 | Silver | Silver | Gold |  Gold | Gold  |
 
-<img src="images/redcross.png" 
-     style="width:50%">
+<img src="images/redcross.png" style="width:50%">
 
 #### **Chess Club**
 
@@ -38,4 +38,4 @@ third_nav_title: Non Academic Achievements
 |:---:|:---:|:---:|
 | Nil | 4th - Kelly Tan | 2nd - Dawson Oh Xu Jie |
 
-Last updated :  01/01/2022
+Last updated :&nbsp; 01/01/2022

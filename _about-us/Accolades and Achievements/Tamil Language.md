@@ -1,8 +1,9 @@
 ---
 title: Tamil Language
-permalink: /our-students/Academic-achievements/tamillanguage/
+permalink: /about-us/accolades-and-achievements/tamillanguage/
 description: ""
-third_nav_title: Academic Achievements
+third_nav_title: Accolades and Achievements
+variant: tiptap
 ---
 #### Tamil Language
 

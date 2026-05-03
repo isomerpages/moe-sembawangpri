@@ -1,8 +1,9 @@
 ---
 title: Mathematics
-permalink: /our-students/Academic-achievements/mathematics/
+permalink: /about-us/accolades-and-achievements/mathematics/
 description: ""
-third_nav_title: Academic Achievements
+third_nav_title: Accolades and Achievements
+variant: tiptap
 ---
 #### Mathematics
 

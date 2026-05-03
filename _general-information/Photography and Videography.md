@@ -1,7 +1,8 @@
 ---
 title: Photography and Videography
-permalink: /for-parents/photography-and-videography/
+permalink: /general-information/photography-and-videography/
 description: ""
+variant: tiptap
 ---
 Dear Parents  
   

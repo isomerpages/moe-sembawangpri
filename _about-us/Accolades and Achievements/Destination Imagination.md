@@ -1,8 +1,9 @@
 ---
 title: Destination Imagination
-permalink: /our-students/academic-achievements/destination-imagination/
+permalink: /about-us/accolades-and-achievements/destination-imagination/
 description: ""
-third_nav_title: Academic Achievements
+third_nav_title: Accolades and Achievements
+variant: tiptap
 ---
 #### Destination Imagination
 
@@ -14,7 +15,6 @@ third_nav_title: Academic Achievements
 | 2018 | Engineering Category 2nd, 3rd and 5th<br> Project Outreach Category 3rd<br> Improvisational Category 2nd |
 | 2019 | Technical Category 1st <br> Engineering Category 1st  <br> Scientific Category 4th |
 
-<img src="images/piec.png" 
-     style="width:50%">
+<img src="images/piec.png" style="width:50%">
 
 Last updated : 01/01/2022

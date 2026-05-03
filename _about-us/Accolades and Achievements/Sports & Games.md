@@ -1,11 +1,12 @@
 ---
 title: Sports & Games
-permalink: /our-students/Non-Academic-Achievements/sportsandgames/
+permalink: /about-us/accolades-and-achievements/sportsandgames/
 description: ""
-third_nav_title: Non Academic Achievements
+third_nav_title: Accolades and Achievements
+variant: tiptap
 ---
-### Sports & Games
-#### Track & Field
+### Sports &amp; Games
+#### Track &amp; Field
 **National Inter-Primary Schools Track and Field Championships**
 
 | Year | Achievement |

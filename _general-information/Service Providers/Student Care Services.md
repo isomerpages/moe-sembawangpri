@@ -1,9 +1,9 @@
 ---
 title: Student Care Services
-permalink: /for-parents/student-care-services/
+permalink: /general-information/service-providers/student-care-services/
 variant: tiptap
 description: ""
-third_nav_title: For Parents
+third_nav_title: Service Providers
 ---
 <p><strong>QSF The Enablers’ SCC @ Sembawang Primary School</strong>
 </p>
