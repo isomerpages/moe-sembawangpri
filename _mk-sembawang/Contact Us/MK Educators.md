@@ -99,7 +99,7 @@ third_nav_title: Contact Us
 <p>Name of MK Educators</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email Addre</p>
+<p>Email Address</p>
 </th>
 </tr>
 <tr>
@@ -119,10 +119,10 @@ third_nav_title: Contact Us
 <p>K1 Azalea</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yan Muhan</p>
+<p>Ms Dong Wenwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yan_muhan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yan_muhan@schools.gov.sg</u></a>
+<p><a href="mailto:dong_wenwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dong_wenwei@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -167,10 +167,10 @@ third_nav_title: Contact Us
 <p>K1 Camellia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ayyappan Vallipriya</p>
+<p>Mdm Nasrin Fatimah D/O Nasurudeen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Vallipriya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Vallipriya@schools.gov.sg</u></a>
+<p><a href="mailto:Nasrin_Fatimah_Nasurudeen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Nasrin_Fatimah_Nasurudeen@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -191,10 +191,10 @@ third_nav_title: Contact Us
 <p>K1 Dahlia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ju Shiying</p>
+<p>Mdm Liu Jinyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ju_shiying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ju_shiying@schools.gov.sg</u></a>
+<p><a href="mailto:liu_jinyan_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_jinyan_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -287,10 +287,10 @@ third_nav_title: Contact Us
 <p>K2 Cupcake</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nasrin Fatimah D/O Nasurudeen</p>
+<p>Mdm Zhang Huaying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nasrin_Fatimah_Nasurudeen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Nasrin_Fatimah_Nasurudeen@schools.gov.sg</u></a>
+<p><a href="mailto:zhang_huaying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_huaying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -311,10 +311,10 @@ third_nav_title: Contact Us
 <p>K2 Doughnut</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norliza binte Ahmad</p>
+<p>Mdm Ayyappan Vallipriya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Norliza_ahmad_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Norliza_ahmad_B@schools.gov.sg</u></a>
+<p><a href="mailto:Vallipriya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Vallipriya@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -335,14 +335,14 @@ third_nav_title: Contact Us
 <p>K2 Egg Tart</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dong Wenwei</p>
+<p>Mdm Nur Amalina binte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dong_wenwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dong_wenwei@schools.gov.sg</u></a>
+<p><a href="mailto:nur_amalina_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amalina_abdul_aziz@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>last updated : 05/12/2025</p>
+<p>last updated : 04/05/2026</p>
