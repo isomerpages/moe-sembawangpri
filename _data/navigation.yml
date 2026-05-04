@@ -27,28 +27,38 @@ links:
       - title: School Advisory Committee
         url: /our-people/school-advisory-committee/
       - title: School Leadership Team
-        url: /our-people/school-leadership-team
+        url: /our-people/school-leadership-team/
       - title: Teacher Leaders Council
         url: /our-people/teacher-leader-council/
       - title: Teachers
-        url: /our-people/teachers
+        url: /our-people/teachers/
       - title: Non Teaching Staff
-        url: /our-people/non-teaching-staff
+        url: /our-people/non-teaching-staff/
   - title: Our Curriculum
-    url: /our-curriculum/english-language
+    url: /our-curriculum/english-language/
     sublinks:
-      - title: Departments
-        url: /programmes/departments/english
-      - title: Applied Learning Programme
-        url: /programmes/applied-learning-programme
-      - title: CCA Programmes
-        url: /CCAprogrammes/whycca
-      - title: Learning for Life Programme
-        url: /programmes/Learning-for-Life-Programme/lflp
-      - title: Kindergarten Visit
-        url: /programmes/kindergarten-visit/
+      - title: English Language
+        url: /our-curriculum/english-language
+      - title: Mathematics
+        url: /our-curriculum/mathematics
+      - title: Science
+        url: /our-curriculum/science
+      - title: Mother Tongue Languages
+        url: /our-curriculum/mother-tongue-languages/
+      - title: Physical Education
+        url: /our-curriculum/physical-education/
+      - title: Art
+        url: /our-curriculum/art/
+      - title: Music
+        url: /our-curriculum/music/
+      - title: CCE
+        url: /our-curriculum/cce/
+      - title: ICT
+        url: /our-curriculum/ict/
       - title: E21CC
-        url: /our-curriculum/e21cc
+        url: /our-curriculum/e21cc/
+      - title: Student Management
+        url: /our-curriculum/student-management/
   - title: CCA
     url: /cca/overview
     sublinks: []
