@@ -60,8 +60,18 @@ links:
       - title: Student Management
         url: /our-curriculum/student-management/
   - title: CCA
-    url: /cca/overview
-    sublinks: []
+    url: /cca/overview/
+    sublinks:
+      - title: Overview
+        url: /cca/overview/
+      - title: Club & Societies
+        url: /cca/club-and-societies/
+      - title: Performing Arts
+        url: /cca/performing-arts/
+      - title: Sports and Games
+        url: /cca/sports-and-games/
+      - title: Unifromed Groups
+        url: /cca/uniformed-groups/
   - title: Special Programmes
     url: /programmes/earning-for-life-programme/prefectorial-board/
     sublinks:
