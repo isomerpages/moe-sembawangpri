@@ -1,6 +1,6 @@
 ---
 title: Primary 3 Learning Journey
-permalink: /partnerships/parents-support-group/p3-learningjourney/
+permalink: /partnerships/parents-support-group/p3-learning-journey/
 description: ""
 third_nav_title: Parents Support Group (PSG)
 variant: markdown

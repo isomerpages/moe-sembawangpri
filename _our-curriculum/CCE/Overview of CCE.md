@@ -1,8 +1,8 @@
 ---
 title: Overview of CCE
-permalink: /our-curriculum/character-education/overview-of-cce/
+permalink: /our-curriculum/cce/overview-of-cce/
 description: ""
-third_nav_title: Character Education
+third_nav_title: CCE
 variant: tiptap
 ---
 ### Character &amp; Citizenship Education

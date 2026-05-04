@@ -1,6 +1,6 @@
 ---
 title: General
-permalink: /quick-links/general/
+permalink: /about-us/sbps-heartbeat/general/
 description: ""
 variant: tiptap
 third_nav_title: SBPS Heartbeat

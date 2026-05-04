@@ -1,6 +1,6 @@
 ---
 title: Science Club
-permalink: /cca/Clubs-and-Societies/scienceclub/
+permalink: /cca/clubs-and-societies/scienceclub/
 description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap

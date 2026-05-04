@@ -1,8 +1,8 @@
 ---
 title: Citizenship Education
-permalink: /our-curriculum/character-education/citizenship-education/
+permalink: /our-curriculum/cce/citizenship-education/
 description: ""
-third_nav_title: Character Education
+third_nav_title: CCE
 variant: tiptap
 ---
 ### Citizenship Education

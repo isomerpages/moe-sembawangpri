@@ -1,6 +1,6 @@
 ---
 title: Prefectorial Board
-permalink: /programmes/Learning-for-Life-Programme/prefectorial-board/
+permalink: /programmes/learning-for-life-programme/prefectorial-board/
 description: ""
 third_nav_title: Learning for Life Programme
 variant: markdown

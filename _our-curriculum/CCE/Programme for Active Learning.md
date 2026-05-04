@@ -1,8 +1,8 @@
 ---
 title: Programme for Active Learning
-permalink: /our-curriculum/character-education/programme-for-active-learning/
+permalink: /our-curriculum/cce/programme-for-active-learning/
 description: ""
-third_nav_title: Character Education
+third_nav_title: CCE
 variant: tiptap
 ---
 ### Programme for Active Learning

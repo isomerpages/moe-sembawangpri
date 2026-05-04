@@ -1,8 +1,8 @@
 ---
 title: Music
-permalink: /departments/Aesthetics/music/
+permalink: /our-curriculum/music/
 description: ""
-third_nav_title: Aesthetics
+variant: tiptap
 ---
 ### Music
 

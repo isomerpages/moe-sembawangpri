@@ -1,8 +1,8 @@
 ---
-title: Art & Craft
-permalink: /departments/Aesthetics/artandcraft/
+title: Art
+permalink: /our-curriculum/art/
 description: ""
-third_nav_title: Aesthetics
+variant: tiptap
 ---
 ### Art
 The Art Department believes in providing students opportunities to learn and appreciate art. Through equipping students with skills, they will be able to make meaning of artworks and relate it to their own experiences.  
@@ -15,9 +15,7 @@ The Art Department believes in providing students opportunities to learn and app
 *   P5 Art Mosaic
 
 Photos
-<img src="/images/art1.png" 
-     style="width:80%">
-<img src="/images/art2.png" 
-     style="width:80%">
+<img src="/images/art1.png" style="width:80%">
+<img src="/images/art2.png" style="width:80%">
 
 Last updated : 01/01/2022

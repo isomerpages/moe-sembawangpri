@@ -1,6 +1,6 @@
 ---
 title: English Drama Club
-permalink: /cca/Visual-and-Performing-Arts/englishdramaclub/
+permalink: /cca/clubs-and-societies/englishdramaclub/
 description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap

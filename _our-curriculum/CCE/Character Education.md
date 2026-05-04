@@ -1,8 +1,8 @@
 ---
 title: Character Education
-permalink: /our-curriculum/character-education/character-education/
+permalink: /our-curriculum/cce/character-education/
 description: ""
-third_nav_title: Character Education
+third_nav_title: CCE
 variant: tiptap
 ---
 ### Character Education

@@ -5,53 +5,73 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-us/principals-message/
+      - title: School History
+        url: /about-us/school-history/
+      - title: School VMV & Motto
+        url: /about-us/school-vmv-and-motto/
       - title: School Crest
         url: /about-us/school-crest/
       - title: School Song
         url: /about-us/school-song/
       - title: School Corporate Video
         url: /about-us/school-corporate-video/
+      - title: Accolades & Achievements
+        url: /about-us/accolades-and-achievements/
+      - title: SBPS Heartbeat
+        url: /about-us/sbps-heartbeat/
       - title: Photo Gallery
         url: /about-us/photo-gallery/
-      - title: School Advisory Committee
-        url: /our-school/school-advisory-committee
-      - title: School Operating Hours
-        url: /our-school/school-operating-hours
-      - title: School Building
-        url: /our-school/school-building
-      - title: Security & Emergency measures
-        url: /our-school/securityandemergencymeasures
   - title: Our People
     url: /our-people/school-leadership-team
     sublinks:
       - title: School Advisory Committee
         url: /our-people/school-advisory-committee/
       - title: School Leadership Team
-        url: /our-people/school-leadership-team
+        url: /our-people/school-leadership-team/
       - title: Teacher Leaders Council
         url: /our-people/teacher-leader-council/
       - title: Teachers
-        url: /our-people/teachers
+        url: /our-people/teachers/
       - title: Non Teaching Staff
-        url: /our-people/non-teaching-staff
+        url: /our-people/non-teaching-staff/
   - title: Our Curriculum
-    url: /our-curriculum/english-language
+    url: /our-curriculum/english-language/
     sublinks:
-      - title: Departments
-        url: /programmes/departments/english
-      - title: Applied Learning Programme
-        url: /programmes/applied-learning-programme
-      - title: CCA Programmes
-        url: /CCAprogrammes/whycca
-      - title: Learning for Life Programme
-        url: /programmes/Learning-for-Life-Programme/lflp
-      - title: Kindergarten Visit
-        url: /programmes/kindergarten-visit/
+      - title: English Language
+        url: /our-curriculum/english-language
+      - title: Mathematics
+        url: /our-curriculum/mathematics
+      - title: Science
+        url: /our-curriculum/science
+      - title: Mother Tongue Languages
+        url: /our-curriculum/mother-tongue-languages/
+      - title: Physical Education
+        url: /our-curriculum/physical-education/
+      - title: Art
+        url: /our-curriculum/art/
+      - title: Music
+        url: /our-curriculum/music/
+      - title: CCE
+        url: /our-curriculum/cce/
+      - title: ICT
+        url: /our-curriculum/ict/
       - title: E21CC
-        url: /our-curriculum/e21cc
+        url: /our-curriculum/e21cc/
+      - title: Student Management
+        url: /our-curriculum/student-management/
   - title: CCA
-    url: /cca/overview
-    sublinks: []
+    url: /cca/overview/
+    sublinks:
+      - title: Overview
+        url: /cca/overview/
+      - title: Club & Societies
+        url: /cca/club-and-societies/
+      - title: Performing Arts
+        url: /cca/performing-arts/
+      - title: Sports and Games
+        url: /cca/sports-and-games/
+      - title: Unifromed Groups
+        url: /cca/uniformed-groups/
   - title: Special Programmes
     url: /programmes/earning-for-life-programme/prefectorial-board/
     sublinks:
@@ -87,64 +107,13 @@ links:
         url: /general-information/school-hours/
       - title: Service Providers
         url: /general-information/service -providers/
-      - title: Consent for Photography&Videos
-        url: /general-information/consent-for-photography&videos/
-      - title: School Bookshop
-        url: /general-information/school-bookshop/
-      - title: Dental Clinic
-        url: /general-information/dental-clinic/
-      - title: School Bus
-        url: /general-information/school-bus/
-      - title: School Bus Advertisement
-        url: /general-information/school-bus-advertisement/
-      - title: School Canteen Advertisement
-        url: /general-information/school-canteen-advertisement/
-      - title: School Uniform
-        url: /general-information/school-uniform/
-      - title: Student Care Centre
-        url: /general-information/student-care-centre/
       - title: For Parents
         url: /general-information/for-parents/
       - title: For Students
         url: /general-information/for-students/
+      - title: Consent for Photography&Videos
+        url: /general-information/consent-for-photography&videos/
   - title: MOE Kindergarten
-    collection: mk-sembawang
+    collection: cca
   - title: Contact Us
     url: /contact-us
-  - title: For Parents
-    url: /for-parents/Briefing-for-parents/
-    sublinks:
-      - title: 2025 Speech Day
-        url: /for-parents/speech-day/
-      - title: Briefing for parents
-        url: /for-parents/Briefing-for-parents/
-      - title: Growing Years Programme
-        url: /for-parents/growing-years-programme/
-      - title: Homework Policy
-        url: /for-parents/homework-policy/
-      - title: Letters to Parents
-        url: /for-parents/letters-to-parents/
-      - title: Parent Support Group
-        url: /for-parents/parents-support-group/psg-exco-members/
-      - title: PHASE 2B PARENT VOLUNTEER
-        url: /for-parents/phase-2b-parent-volunteer-scheme/
-      - title: Parenting Programme
-        url: /for-parents/parenting-programme
-      - title: Parents Gateway
-        url: /for-parents/parents-gateway
-      - title: Photography and Videography
-        url: /for-parents/photography-and-videography
-      - title: Sembawang Buzz
-        url: /for-parents/sembawang-buzz
-      - title: Safe Management Measures
-        url: /for-parents/safe-management-measures
-      - title: School Calendar
-        url: /for-parents/school-calendar/
-      - title: Student Care Services
-        url: /for-parents/student-care-services/
-      - title: Student Learning Space
-        url: /for-parents/studentlearningspace
-      - title: Supporting Your Child at Home
-        url: /for-parents/supporting-your-child-at-home/
-      - title: Triple P Parent Consultation
-        url: /triple-p-one-to-one-parenting-consultation/
