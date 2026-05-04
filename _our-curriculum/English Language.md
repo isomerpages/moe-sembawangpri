@@ -1,6 +1,6 @@
 ---
 title: English Language
-permalink: /our-curriculum/english/
+permalink: /our-curriculum/english-language/
 description: ""
 variant: tiptap
 ---

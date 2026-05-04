@@ -16,9 +16,9 @@ links:
       - title: School Corporate Video
         url: /about-us/school-corporate-video/
       - title: Accolades & Achievements
-        url: /about-us/accolades-and-achievements/
+        url: /about-us/accolades-and-achievements/staff/
       - title: SBPS Heartbeat
-        url: /about-us/sbps-heartbeat/
+        url: /about-us/sbps-heartbeat/general/
       - title: Photo Gallery
         url: /about-us/photo-gallery/
   - title: Our People
@@ -52,7 +52,7 @@ links:
       - title: Music
         url: /our-curriculum/music/
       - title: CCE
-        url: /our-curriculum/cce/
+        url: /our-curriculum/cce/overview-of-cce/
       - title: ICT
         url: /our-curriculum/ict/
       - title: E21CC
