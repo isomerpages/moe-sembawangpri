@@ -2,8 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Music.md
-      - Art & Craft.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -13,6 +11,8 @@ collections:
       - Mother Tongue Languages/Malay Language.md
       - Mother Tongue Languages/Tamil Language.md
       - Physical Education.md
+      - Art & Craft.md
+      - Music.md
       - Character Education/.keep
       - Character Education/Overview of CCE.md
       - Character Education/Character Education.md
