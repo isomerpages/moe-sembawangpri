@@ -40,46 +40,52 @@ following guidelines when assigning homework:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Levels</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Weekly Homework Load</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Approximate Daily Homework Load</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>P1 &amp; P2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 – 7 hr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>0.5 – 1.0 hr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3 &amp; P4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 – 10 hr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.0 - 1.5 hr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5 &amp; P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 – 13 hr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.5 - 2.0 hr</p>
 </td>
 </tr>
 </tbody>
