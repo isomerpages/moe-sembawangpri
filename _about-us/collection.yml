@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School VMV and Motto.md
       - About Us.md
       - School History.md
       - Principal's Message.md
