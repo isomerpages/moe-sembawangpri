@@ -14,7 +14,7 @@ sections:
           url: /announcements/
         - title: Quick Links
           description: ""
-          url: /quick-links/for-staff
+          url: /quick-links/for-staff/
         - title: Social Media
           description: ""
           url: /contact-us
