@@ -2,7 +2,7 @@
 title: ICT Club
 permalink: /cca/club-and-societies/ict-club/
 description: ""
-third_nav_title: Clubs and Societies
+third_nav_title: Club and Societies
 variant: tiptap
 ---
 <h3>ICT Club</h3>

@@ -2,7 +2,7 @@
 title: Science Club
 permalink: /cca/club-and-societies/scienceclub/
 description: ""
-third_nav_title: Clubs and Societies
+third_nav_title: Club and Societies
 variant: tiptap
 ---
 <h3>Science Club</h3>

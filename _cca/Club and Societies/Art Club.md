@@ -2,7 +2,7 @@
 title: Art Club
 permalink: /cca/club-and-societies/art-club/
 description: ""
-third_nav_title: Clubs and Societies
+third_nav_title: Club and Societies
 variant: tiptap
 ---
 <h3>Art Club</h3>

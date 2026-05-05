@@ -2,7 +2,7 @@
 title: English Drama Club
 permalink: /cca/club-and-societies/englishdramaclub/
 description: ""
-third_nav_title: Clubs and Societies
+third_nav_title: Club and Societies
 variant: tiptap
 ---
 <h3>Drama Club</h3>

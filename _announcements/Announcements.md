@@ -4,6 +4,21 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>Say It From Your Heart</u></strong>
+</p>
+<p></p>
+<p>Dear Parents/Partners,</p>
+<p>As part of school’s continued efforts to recognise and affirm staff who
+have gone the extra mile to help and support our students/parents, we would
+like to invite you to share your positive experience you have had with
+them (via the form below) during their interactions with you.</p>
+<p>Your words of encouragement, a testament to their efforts and positive
+impact, will go a long way in motivating them to continue to give of their
+best and help our students appreciate the value of care and gratitude.</p>
+<p>Link to Form: <a href="https://form.gov.sg/67ae9ba515ef7ba256cda499" rel="noopener nofollow" target="_blank">https://form.gov.sg/67ae9ba515ef7ba256cda499</a>
+</p>
+<p>Thank you in advance for your time and effort.</p>
+<p></p>
 <p><strong>Closure of General Office on 28 November 2025 (8am to 2pm)</strong>
 </p>
 <p>Please be informed that the General Office will be closed from 8am to
@@ -103,4 +118,4 @@ for our teachers/staff!</p>
 <p>Click <a href="https://www.sembawangpri.moe.edu.sg/for-parents/sembawang-buzz/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the latest edition of Sembawang Buzz.</p>
 <p></p>
-<p>Last Updated : 9/12/2025</p>
+<p>Last Updated : 05/05/2026</p>

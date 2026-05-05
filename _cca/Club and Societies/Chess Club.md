@@ -2,7 +2,7 @@
 title: Chess Club
 permalink: /cca/club-and-societies/chess-club/
 description: ""
-third_nav_title: Clubs and Societies
+third_nav_title: Club and Societies
 variant: tiptap
 ---
 <h3>Chess Club</h3>
