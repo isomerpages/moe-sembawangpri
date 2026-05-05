@@ -1,6 +1,6 @@
 ---
 title: ICT Club
-permalink: /cca/clubs-and-societies/ict-club/
+permalink: /cca/club-and-societies/ict-club/
 description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap

@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /contact-us/
+permalink: /about-us/contact-us/
 description: ""
 variant: markdown
 ---

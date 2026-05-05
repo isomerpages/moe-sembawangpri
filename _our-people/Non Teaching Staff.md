@@ -32,17 +32,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammed Yusry Bin Ahmad
-<br><a href="mailto:muhammed_yusry_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammed_yusry_ahmad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>ICT Manager</strong>
 </p>
 </td>
@@ -164,7 +153,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nanama D/O Rathakrisna</p>
-<p></p>
+<p><a href="Nanama_Rathakrisna@schools.gov.sg" rel="noopener nofollow" target="_blank">Nanama_Rathakrisna@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

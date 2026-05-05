@@ -1,9 +1,8 @@
 ---
 title: For Students
-permalink: /general-information/for-students/for-students/
+permalink: /quick-links/for-students/
 description: ""
 variant: markdown
-third_nav_title: For Students
 ---
 ### For Students
 

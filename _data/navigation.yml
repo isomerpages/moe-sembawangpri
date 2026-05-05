@@ -21,6 +21,8 @@ links:
         url: /about-us/sbps-heartbeat/general/
       - title: Photo Gallery
         url: /about-us/photo-gallery/
+      - title: Contact Us
+        url: /about-us/contact-us
   - title: Our People
     url: /our-people/school-leadership-team
     sublinks:
@@ -70,7 +72,7 @@ links:
         url: /cca/performing-arts/
       - title: Sports and Games
         url: /cca/sports-and-games/
-      - title: Unifromed Groups
+      - title: Uniformed Groups
         url: /cca/uniformed-groups/
   - title: Special Programmes
     url: /programmes/learning-for-life-programme/prefectorial-board/
@@ -106,7 +108,7 @@ links:
       - title: School Hours
         url: /general-information/school-hours/
       - title: Service Providers
-        url: /general-information/service -providers/
+        url: /general-information/service-providers/
       - title: For Parents
         url: /general-information/for-parents/
       - title: For Students
@@ -115,5 +117,3 @@ links:
         url: /general-information/consent-for-photography&videos/
   - title: MOE Kindergarten
     collection: cca
-  - title: Contact Us
-    url: /contact-us
