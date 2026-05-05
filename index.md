@@ -22,7 +22,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Say It From Your Heart @SBPS [for Teachers' Day 2025]
+        - title: Say It From Your Heart @SBPS
           date: 05 May 2026
           announcement: Dear Parents/Partners,  Your words of encouragement, a testament
             to their efforts and positive impact, will go a long way in
