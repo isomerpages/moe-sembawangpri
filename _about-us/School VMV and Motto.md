@@ -13,4 +13,4 @@ description: ""
 <p>Care, Gratitude, Integrity, Curiosity, Excellence, Resilience</p>
 <h4><strong>School Motto</strong></h4>
 <p>The Best From Me</p>
-<p>Later updated : 04/05/2026</p>
+<p>Later updated : 05/05/2026</p>
