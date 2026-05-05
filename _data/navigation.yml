@@ -21,6 +21,8 @@ links:
         url: /about-us/sbps-heartbeat/general/
       - title: Photo Gallery
         url: /about-us/photo-gallery/
+      - title: Contact Us
+        url: /about-us/contact-us
   - title: Our People
     url: /our-people/school-leadership-team
     sublinks:
