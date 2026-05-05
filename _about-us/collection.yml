@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - About Us.md
       - School History.md
       - School VMV and Motto.md
@@ -23,5 +22,6 @@ collections:
       - SBPS Heartbeat/.keep
       - SBPS Heartbeat/General.md
       - Photo Gallery.md
+      - Contact Us.md
       - School Building.md
       - Security & Emergency Measures.md
