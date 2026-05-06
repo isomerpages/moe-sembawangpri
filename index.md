@@ -24,11 +24,11 @@ sections:
       announcement_items:
         - title: Say It From Your Heart @SBPS
           date: 05 May 2026
-          announcement: As part of school’s continued efforts to affirm staff who have
-            gone the extra mile to help our students/parents, we would like to
-            invite you to share a positive experience you have had with them
-            during their interaction with you. Your affirmation help motivate
-            them to continue to give of their best.
+          announcement: As part of our continued effort to affirm staff who have gone the
+            extra mile to help our students/parents, we would like to invite you
+            to share a positive experience you have had with them during their
+            interactions with you. Your affirmation will help motivate them to
+            continue to give of their best.
           link_text: Click Here link to the Form
           link_url: https://form.gov.sg/67ae9ba515ef7ba256cda499
 ---

@@ -1,6 +1,6 @@
 ---
 title: Media Highlights
-permalink: /mk-media-highlights/
+permalink: /mk-sembawang/media-highlights/
 variant: tiptap
 description: MK Media Highlights
 ---

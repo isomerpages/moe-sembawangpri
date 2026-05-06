@@ -108,8 +108,17 @@ links:
       - title: School Hours
         url: /general-information/school-hours/
       - title: Service Providers
-        url: /general-information/service-providers/
+        url: /general-information/service-providers/school-bookshop-services/
       - title: Consent for Photography&Videos
         url: /general-information/consent-for-photography&videos/
-  - title: MOE Kindergarten
-    collection: cca
+  - title: MK Sembawang
+    url: /mk-sembawang/about-us/
+    sublinks:
+      - title: Our People
+        url: /mk-sembawang/our-people/
+      - title: Media Highlights
+        url: /mk-sembawang/media-highlights/
+      - title: KCare
+        url: /mk-sembawang/kcare/
+      - title: Contact Us
+        url: /mk-sembawang/contact-us/
