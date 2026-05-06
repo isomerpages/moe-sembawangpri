@@ -24,10 +24,11 @@ sections:
       announcement_items:
         - title: Say It From Your Heart @SBPS
           date: 05 May 2026
-          announcement: Dear Parents/Partners,  Your words of encouragement, a testament
-            to their efforts and positive impact, will go a long way in
-            motivating them to continue to give of their best and help our
-            students appreciate the value of care and gratitude.
+          announcement: As part of school’s continued efforts to affirm staff who have
+            gone the extra mile to help our students/parents, we would like to
+            invite you to share a positive experience you have had with them
+            during their interaction with you. Your affirmation help motivate
+            them to continue to give of their best.
           link_text: Click Here link to the Form
           link_url: https://form.gov.sg/67ae9ba515ef7ba256cda499
 ---
