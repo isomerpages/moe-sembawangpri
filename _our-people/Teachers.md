@@ -1128,6 +1128,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Khalisah Bte Kamisan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="khalisah_kamisan@schools.gov.sg" rel="noopener nofollow" target="_blank">khalisah_kamisan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Wang Xinlin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1229,4 +1238,4 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<p>Last updated : 14/01/2026</p>
+<p>Last updated : 06/05/2026</p>
