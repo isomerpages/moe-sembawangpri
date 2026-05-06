@@ -39,7 +39,7 @@ description: ""
 <p>K1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dong Wenwei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="dong_wenwei@schools.gov.sg" rel="noopener nofollow" target="_blank">dong_wenwei@schools.gov.sg</a>
@@ -51,7 +51,7 @@ description: ""
 <p>k1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Munirah Bee Binte Shaik Pareed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="munirah_bee_shaik_pareed@schools.gov.sg" rel="noopener nofollow" target="_blank">munirah_bee_shaik_pareed@schools.gov.sg</a>
