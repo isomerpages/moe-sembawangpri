@@ -111,5 +111,12 @@ links:
         url: /general-information/service-providers/
       - title: Consent for Photography&Videos
         url: /general-information/consent-for-photography&videos/
-  - title: MOE Kindergarten
-    collection: cca
+  - title: MK Sembawang
+    url: /mk-sembawang/about-us/
+    sublinks:
+      - title: Our People
+        url: /mk-sembawang/our-people/
+      - title: Media Highlights
+        url: /mk-sembawang/media-highlights/
+      - title: KCare
+        url: /mk-sembawang/kcare/
