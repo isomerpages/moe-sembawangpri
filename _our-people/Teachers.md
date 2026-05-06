@@ -170,6 +170,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shamsiah Binte Md Shariff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="shamsiah_md_shariff_a@schools.gov.sg" rel="noopener nofollow" target="_blank">shamsiah_md_shariff_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -546,6 +558,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Jin Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ong_jin_cheng@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_jin_cheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Primary 4</h4>
@@ -764,6 +788,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lian_wei_qi_jenell@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lian_wei_qi_jenell@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Curiosity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Lay Huay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_lay_huay_b@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_lay_huay_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1092,10 +1128,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Khalisah Bte Kamisan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="khalisah_kamisan@schools.gov.sg" rel="noopener nofollow" target="_blank">khalisah_kamisan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Wang Xinlin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="wang_xinlin@schools.gov.sg" rel="noopener nofollow" target="_blank">wang_xinlin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lediana Bte Mohamed Said</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lediana_mohamed_said@schools.gov.sg" rel="noopener nofollow" target="_blank">lediana_mohamed_said@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1189,8 +1243,24 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<p>Last updated : 14/01/2026</p>
+<p>Last updated : 06/05/2026</p>

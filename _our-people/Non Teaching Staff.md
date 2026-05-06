@@ -100,7 +100,6 @@ variant: tiptap
 <p>Mdm Lim Bee Nak
 <br>Mdm Norliza Bte Bahari
 <br>Mdm Norizah Binte SelamatMdm
-<br>Mr Hanif Bin Othman
 <br>Mr Chew Teck Seng</p>
 </td>
 </tr>
@@ -144,16 +143,33 @@ variant: tiptap
 <br>Ms Maizatul Husna Binte Ishak
 <br><a href="mailto:maizatul_husna_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maizatul_husna_ishak@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mrs Goh Pee Chuan</p>
+<p><a href="goh_pee_chuan@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_pee_chuan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Student Welfare Officer</strong>
 </p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nanama D/O Rathakrisna</p>
 <p><a href="Nanama_Rathakrisna@schools.gov.sg" rel="noopener nofollow" target="_blank">Nanama_Rathakrisna@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AED (Admin)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Eng Wee</p>
+<p><a href="tay_eng_wee@schools.gov.sg" rel="noopener nofollow" target="_blank">tay_eng_wee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
