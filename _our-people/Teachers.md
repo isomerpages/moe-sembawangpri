@@ -170,6 +170,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shamsiah Binte Md Shariff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="shamsiah_md_shariff_a@schools.gov.sg" rel="noopener nofollow" target="_blank">shamsiah_md_shariff_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -546,6 +558,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Jin Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ong_jin_cheng@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_jin_cheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Primary 4</h4>
@@ -764,6 +788,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lian_wei_qi_jenell@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lian_wei_qi_jenell@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Curiosity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Lay Huay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_lay_huay_b@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_lay_huay_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
