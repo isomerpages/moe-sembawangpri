@@ -100,7 +100,6 @@ variant: tiptap
 <p>Mdm Lim Bee Nak
 <br>Mdm Norliza Bte Bahari
 <br>Mdm Norizah Binte SelamatMdm
-<br>Mr Hanif Bin Othman
 <br>Mr Chew Teck Seng</p>
 </td>
 </tr>
@@ -143,6 +142,10 @@ variant: tiptap
 <br>
 <br>Ms Maizatul Husna Binte Ishak
 <br><a href="mailto:maizatul_husna_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maizatul_husna_ishak@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mrs Goh Pee Chuan</p>
+<p><a href="goh_pee_chuan@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_pee_chuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
