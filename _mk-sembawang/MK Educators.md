@@ -1,9 +1,8 @@
 ---
 title: MK Educators
-permalink: /mk-sembawang/contact-us/mk-teachers/
+permalink: /mk-sembawang/mk-teachers/
 variant: tiptap
 description: ""
-third_nav_title: Contact Us
 ---
 <table style="minWidth: 75px">
 <colgroup>
