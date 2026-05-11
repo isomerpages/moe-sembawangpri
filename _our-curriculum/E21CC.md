@@ -55,3 +55,5 @@ of confident, resilient and future-ready learners.</p>
 <p>Building on the success of past ELW experiences, we remain committed to
 providing enriching learning opportunities that inspire our students to
 discover, explore and grow beyond the classroom.</p>
+<p></p>
+<p>updated: 11/05/26</p>
