@@ -56,4 +56,4 @@ of confident, resilient and future-ready learners.</p>
 providing enriching learning opportunities that inspire our students to
 discover, explore and grow beyond the classroom.</p>
 <p></p>
-<p>updated: 11/05/26</p>
+<p>Last updated: 11/05/26</p>
