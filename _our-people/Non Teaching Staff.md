@@ -123,6 +123,10 @@ variant: tiptap
 <p>Ms Jennifer Fong Lai See
 <br><a href="mailto:fong_lai_see@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_lai_see@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Miss Lee Huisi, Grace</p>
+<p><a href="Lee_Huisi_Grace@schools.gov.sg" rel="noopener nofollow" target="_blank">Lee_Huisi_Grace@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
