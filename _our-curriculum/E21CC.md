@@ -46,14 +46,5 @@ literacy. Through meaningful tasks and immersive experiences, students
 are given opportunities to apply what they have learnt in authentic contexts
 while exploring different learning environments and approaches beyond textbooks
 and the traditional classroom setting.</p>
-<p>Throughout the week, students demonstrated active participation and enthusiasm
-as they engaged meaningfully in the various activities. It was heartening
-to observe them working together, reflecting on their experiences, and
-embodying our school values through their actions. These experiences not
-only made learning experiential and enjoyable, but also supported the growth
-of confident, resilient and future-ready learners.</p>
-<p>Building on the success of past ELW experiences, we remain committed to
-providing enriching learning opportunities that inspire our students to
-discover, explore and grow beyond the classroom.</p>
 <p></p>
-<p>Last updated: 11/05/26</p>
+<p>Last updated: 12/05/26</p>
