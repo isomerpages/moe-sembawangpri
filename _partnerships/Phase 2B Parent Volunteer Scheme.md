@@ -1,6 +1,6 @@
 ---
-title: PHASE 2B PARENT VOLUNTEER
-permalink: /for-parents/phase-2b-parent-volunteer-scheme/
+title: Phase 2B Parent Volunteer Scheme
+permalink: /partnerships/phase-2b-parent-volunteer-scheme/
 variant: tiptap
 description: ""
 ---
