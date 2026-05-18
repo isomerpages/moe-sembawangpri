@@ -20,6 +20,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>22 April 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/u8Gf7Gww74dzQuJu8" rel="noopener nofollow" target="_blank">Library Fiesta</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>30 March to 3 April 2026</p>
 </td>
 <td rowspan="1" colspan="1">
