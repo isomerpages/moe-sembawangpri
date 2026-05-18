@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Learning for Life Programme/LLP (Student Leadership) in SBPS.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Prefectorial Board.md
       - Learning for Life Programme/Class Committee.md
