@@ -9,8 +9,6 @@ third_nav_title: Service Providers
 </p>
 <p>&nbsp;Center Supervisor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 : Miss Jayashree Jevina Sivarajah</p>
-<p>Roving Supervisor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-: Ms Jane Chan</p>
 <p></p>
 <p>Centre Contact No.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 93496306</p>
 <p>Center Email Address&nbsp; : <a href="spscc@qsfirst.sg" rel="noopener nofollow" target="_blank">spscc@qsfirst.sg</a>
