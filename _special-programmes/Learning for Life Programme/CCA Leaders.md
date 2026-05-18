@@ -1,6 +1,6 @@
 ---
 title: CCA Leaders
-permalink: /programmes/Learning-for-Life-Programme/cca-leaders/
+permalink: /programmes/learning-for-life-programme/cca-leaders/
 description: ""
 third_nav_title: Learning for Life Programme
 variant: markdown

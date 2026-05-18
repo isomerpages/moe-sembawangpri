@@ -1,10 +1,10 @@
 ---
 title: Class Committee
-permalink: /programmes/Learning-for-Life-Programme/class-committee/
+permalink: /programmes/learning-for-life-programme/class-committee/
 description: ""
 third_nav_title: Learning for Life Programme
+variant: tiptap
 ---
-
 ### Class Committee
 
 The Class Committee consists of nominated students who ensure that every class is well-maintained and in good order for learning to take place. They assist teachers and work closely together with one another so that lessons continue smoothly.
@@ -20,4 +20,3 @@ The class committee structure consists of the following members:
 | Green Leader | ●      Ensures all electrical points are switched off before leaving the classroom<br>●      P2 to P3: Assists teacher to ensure recyclables are categorised correctly; and deposits collected recyclables into the recycling bins<br>●      P4 to P6: Assists peers to recycle right and deposit collected recyclables into recycling bins; and educates peers on environmental issues |
 
 Last updated: 25/04/2022
-
