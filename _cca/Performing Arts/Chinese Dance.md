@@ -30,8 +30,7 @@ talent in public.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday :</p>
-<p>2.15 p.m. – 3.15 p.m. (for non SYF students)</p>
-<p>2.15 p.m. to 5.15 p.m. (for SYF students)</p>
+<p>2.15 p.m. – 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -63,6 +62,11 @@ creativity! Our CCA offers a dynamic blend of traditional and contemporary
 styles, providing an opportunity to explore China's rich cultural heritage
 through movement and expression. Join us for a journey of discovery, teamwork,
 and artistic growth as we dance our way to new heights together!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF 2026 Certificate of Accomplishment" src="/images/ChineseDanceCCA_SYF_2026.jpg">
+</div>
+<p>SYF 2026 Certificate of Accomplishment</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_chineseDanceSYF2024.jpg">
 </div>
@@ -82,7 +86,7 @@ and artistic growth as we dance our way to new heights together!</p>
 to cherish every little moment!</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8aKa4pSHDHM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8aKa4pSHDHM"></iframe>
 </div>
 <p></p>
 <p></p>
