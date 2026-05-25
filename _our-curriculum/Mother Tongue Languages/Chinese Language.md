@@ -160,5 +160,29 @@ and 3 Bronze Awards in the Group Category.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl16.jpg">
 </div>
+<p><strong>GoodTalk (Global Village) International Children &amp; Youth Bilingual Speech Conference</strong>
+</p>
+<p>The GoodTalk (Global Village) International Children &amp; Youth Bilingual
+Speech Conference aims to provide students with an international platform
+to develop their bilingual communication and public speaking skills, while
+promoting cultural exchange and confidence in language learning.</p>
+<p>Each year, selected students represent the school in the conference and
+advance to the finals, where they have opportunities to interact and exchange
+ideas with students from China, collaborate with peers from different backgrounds,
+and showcase their speech and presentation skills on the international
+stage. Through this meaningful experience, students strengthen their communication
+abilities, broaden their global perspectives, and deepen their appreciation
+for bilingual learning.</p>
+<p>Our students have also achieved commendable results at the conference.
+In 2024, our students attained 1 Silver Award and 1 Bronze Award. In 2025,
+our school received the Most Promising Award. These achievements reflect
+our students’ confidence, dedication, resilience, and passion for learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl18.jpg">
+</div>
 <p></p>
 <p>Last updated : 25/05/2026</p>
