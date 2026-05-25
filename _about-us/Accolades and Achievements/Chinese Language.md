@@ -155,7 +155,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h6>International Chinese Language Competition</h6>
+<h6>International Chinese Language Competition - Creative Writing</h6>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
