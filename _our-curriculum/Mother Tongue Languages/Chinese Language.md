@@ -139,6 +139,26 @@ Chinese traditional games and traditional crafts. Student-designed posters
 about these Chinese traditional games are also presented during the Annual
 Cultural Camp for student’s learning.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cl8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl15.png">
 </div>
+<p><strong>Developing Student Talents through Competitions</strong>
+</p>
+<p><strong>National Text Recital Competition</strong>
+</p>
+<p>The National Text Recital Competition is jointly organized by the Committee
+to Promote Chinese Language Learning (CPCLL) and several primary schools.
+The competition aims to strengthen students’ Chinese reading skills and
+deepen their appreciation of the language.</p>
+<p>Every year, our school selects and trains talented students from the Primary
+3 and Primary 4 Higher Chinese classes who have a strong passion for the
+Chinese language to participate in the competition. Through the training
+process, students not only improve their recitation and presentation skills,
+but also gain greater confidence and appreciation for the language.</p>
+<p>Our students have consistently achieved commendable results in the competition.
+In 2025, our students attained 3 Bronze Awards in the Individual Category
+and 3 Bronze Awards in the Group Category.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl16.jpg">
+</div>
+<p></p>
 <p>Last updated : 25/05/2026</p>
