@@ -51,71 +51,110 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>OUR OBJECTIVE</strong></h4>
-<p>The Art Club aspires to create budding artists who are passionate about
-art.</p>
-<h4><strong>WHAT WE DO</strong></h4>
-<p>Students learn different art styles, create various artefacts and get
-introduced to many different artists and art mediums. They go on museum
-visits, join art competitions and also play a part in making the school
-beautiful by displaying their artworks.</p>
-<h4><strong>OUR ACHIEVEMENTS</strong></h4>
-<p><strong>1. SYF 2019</strong>
-</p>
-<p>Sembawang Primary School took part in the 2019 SYF (Singapore Youth Festival)
-Competition. Our artwork (MY SG KIT) was selected by the curators for the
-on-site exhibition at the National Art Museum.It was one of the number
-of artworks which demonstrated creative interpretation of the theme for
-the exhibition and our school was conferred the Certificate of Recognition
-(Special Mention).&nbsp;</p>
-<p>Our budding artists on their artwork (My SG Kit)</p>
-<p>&nbsp;<strong>• What?</strong>
-</p>
-<p>We want to show Singapore’s multicultural society and our beautiful landmarks
-in the form of a model kit.</p>
-<p>&nbsp;<strong>• Why?</strong>
-</p>
-<p>Every part you see here is an important part of the Singapore identity,
-just like a model kit. In a model kit, every part is integral to the construction
-of the whole model and to us, Singapore is that model country celebrating
-racial diversity and sharing each other’s customs and cultures.&nbsp;</p>
-<p><strong>• How?</strong>
-</p>
-<p>We brainstormed on what constitutes Singapore and what it means to be
-a Singaporean. So we came up with the iconic landmarks that represents
-Singapore to the whole world. And as Mr Lee Kuan Yew once said,”Singapore
-is not a Malay nation, not a Chinese nation, not an Indian nation. Everyone
-will have a place in Singapore.”&nbsp;</p>
-<p>We used coloured pencils and markers and a variety of mixed media like
-paper, cardboards, styrofoam and other recycled materials.</p>
+<p>Art has the power to transform the way we see the world — and in Art Club,
+we invite every member to experience that transformation for themselves.</p>
+<p>Art Club is more than a creative space. It is a launchpad for young artists
+to discover, experiment, and grow. Through an exciting range of projects
+and experiences, members broaden their artistic horizons by working both
+individually and collaboratively — learning to trust their own creative
+instincts while also discovering the extraordinary things that can happen
+when minds and hands come together towards a shared vision. Here, every
+student grows not just as an artist, but as a thinker, a collaborator,
+and a contributor.</p>
+<p>Inventive and adaptive thinking are at the core of what we do. Members
+are challenged to step beyond their comfort zones, experimenting boldly
+with a wide range of mediums — from paint and charcoal to mixed media and
+beyond. Each session is an opportunity to push boundaries, refine skills,
+and uncover new ways of seeing and creating.</p>
+<p>Our creativity does not stop at the canvas. At Art Club, we believe that
+true artists are also stewards of the world they live in. Our members breathe
+new life into discarded and everyday materials, transforming what others
+overlook into works of meaning and beauty. Through this practice, we cultivate
+in every student a deep and abiding love for Mother Earth — a reminder
+that sustainability and creativity are not opposites, but powerful partners.</p>
+<p>Art Club is where passion meets purpose. We warmly welcome every aspiring
+artist to pick up their tools, open their minds, and leave their mark on
+the world, joining us on this journey of discovery, expression, and growth.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/ccaart.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art09.jpg">
 </div>
-<p><strong>2. NDP 2020 Pledge Card Design Competiton</strong>
-</p>
-<p>One of our P5 Art Club student, Lim Chen Xun’s design was selected by
-the Art for Cause Singapore (AFCSG) to be showcased at the National Museum
-of Singapore(NMS) from 9 Aug 2020 for at least one year. It will also be
-included in:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>the credit for funpack pledge card designs. You can download it <a href="https://sembawangpri.moe.edu.sg/qql/slot/u508/Our%20Programme/CCA/Clubs%20&amp;%20Societies/Art%20Club/NDP%20Card%20Design.pptx" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-</li>
-<li>
-<p>time capsule gift for Singapore’s 55th at NMS, and</p>
-</li>
-<li>
-<p>National Museum of Singapore gallery showcase.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/cca12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art10.jpg">
 </div>
-</li>
-</ol>
-<p>Other Photos</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Sweet Creations, Green Intentions: Designing Pastries from Recyclable Materials</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/cca13.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art11.jpg">
 </div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K1QGjF4bFgY"></iframe>
+<p><em>See Through the Possibilities:</em>
+</p>
+<p><em>Reimagining Glass Containers</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art12.jpg">
 </div>
-<p>Last updated : 12/01/2026</p>
+<p><em>Cardboard Creatures: Unleashing Imagination One Roll at a Time</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art13.jpg">
+</div>
+<p><em>Assembled Chaos: A Collaborative Monster Creation Project</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art14.jpg">
+</div>
+<p><em>The Texture of Creativity: Unconventional Art with Wall Putty</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Singapore Youth Festival 2025</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art15.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art16.png">
+</div>
+<p><strong><u>Singapore Youth Festival 2023</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art17.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art18.png">
+</div>
+<p>Last updated : 25/05/2026</p>
