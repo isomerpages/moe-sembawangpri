@@ -98,7 +98,7 @@ passion learning Chinese Language and Culture.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/cl2.png">
 </div>
-<p><strong>• Chinese New Year (Cultural Activities)</strong>
+<p><strong>Chinese New Year (Cultural Activities)</strong>
 </p>
 <p>The objective of this programme is to create an immersive and authentic
 environment for learning and appreciating the Chinese Culture. By introducing
@@ -107,7 +107,7 @@ interest in Chinese Language and culture.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/cl3.png">
 </div>
-<p><strong>• Mother Tongue Fortnight (Chinese Language)</strong>
+<p><strong>Mother Tongue Fortnight (Chinese Language)</strong>
 </p>
 <p>The objective of this programme is to introduce different culture and
 language activities to the various levels so as to deepen the interest
