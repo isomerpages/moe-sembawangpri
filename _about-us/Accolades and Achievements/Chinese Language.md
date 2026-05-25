@@ -5,21 +5,198 @@ description: ""
 third_nav_title: Accolades and Achievements
 variant: tiptap
 ---
-#### Chinese Language
-
-###### National Calligraphy Competition
-
-| 2014 | 2015 | 2016 | 2017 | 2018 | 2019 |
-|---|---|---|---|---|---|
-| Silver Award | Merit Award | Did not participate | Merit Award | Merit Award | Merit Award |
-
-###### International Chinese Language Competition
-
-| 2014 | 2015 | 2016 | 2017 | 2018 | 2019 |
-|---|---|---|---|---|---|
-| First Prize | Silver Award | Third Prize | First Prize | First Prize | International Level: First Prize/Diplomatic Leader Award |
-
-###### International Chinese Language Competition
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2014</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2015</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2016</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2017</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2018</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">International Level</span><br>2 Bronze Medals</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">National Level</span><br>1 Bronze Medal<br><br><br><br><span style="font-weight:bold;text-decoration:underline">International Level</span><br>1 Gold Medal</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">National Level</span><br>1 Silver Medal <br><br>1 Bronze Medal<br><br><span style="font-weight:bold;text-decoration:underline">International Level</span><br>1 Bronze Medal</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">National Level</span><br>1 Gold Medal<br><br>1 Silver Medal</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">National Level</span><br>1 Bronze Medal</td></tr></tbody></table>
-
-Last updated : 01/01/2022
+<h4>Chinese Language</h4>
+<p><strong>National Text Recital Competition – Primary School Level</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Individual:</u></strong>
+</p>
+<p>1 Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Individual:</u></strong>
+</p>
+<p>3 Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Individual:</u></strong>
+</p>
+<p>1 Silver Award</p>
+<p>2 Bronze Award</p>
+<p><strong><u>Team:</u></strong>
+</p>
+<p>2 Bronze Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Global Village Children and Youths Bilingual Speech Competition</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Preliminary Round</u></strong>
+<br>1 First Prize
+<br>5 Second Prize</p>
+<p>4 Third Prize</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Preliminary Round</u></strong>
+<br>1 First Prize
+<br>1 Third Prize</p>
+<p><strong><u>International Level</u></strong>
+<br>1 Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Preliminary Round</u></strong>
+<br>2 First Prize</p>
+<p>2 Second Prize
+<br>2 Third Prize</p>
+<p><strong><u>International Level</u></strong>
+<br>1 Silver Award</p>
+<p>1 Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Preliminary Round</u></strong>
+<br>1 First Prize</p>
+<p>2 Second Prize
+<br>5 Third Prize</p>
+<p><strong><u>International Level</u></strong>
+<br>1 Most Promising Award
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h6>National Calligraphy Competition</h6>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2026</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Consolation Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not participate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation Certificate</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h6>International Chinese Language Competition - Creative Writing</h6>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2023</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>National Level</u></strong>
+</p>
+<p>1 Gold Award</p>
+<p></p>
+<p><strong><u>International Level</u></strong>
+</p>
+<p>1 Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>National Level</u></strong>
+</p>
+<p>1 Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>National Level</u></strong>
+</p>
+<p>1 Bronze Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h6></h6>
+<p></p>
+<p>Last updated : 25/05/2026</p>
