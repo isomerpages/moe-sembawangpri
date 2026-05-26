@@ -18,7 +18,7 @@ links:
       - title: Accolades & Achievements
         url: /about-us/accolades-and-achievements/staff/
       - title: SBPS Heartbeat
-        url: /about-us/sbps-heartbeat/general/
+        url: /about-us/sbps-heartbeat/
       - title: Photo Gallery
         url: /about-us/photo-gallery/
       - title: Contact Us
@@ -111,6 +111,8 @@ links:
         url: /general-information/service-providers/school-bookshop-services/
       - title: Consent for Photography&Videos
         url: /general-information/consent-for-photography&videos/
+      - title: Useful Links
+        url: /general-information/useful-links/
   - title: MK Sembawang
     url: /mk-sembawang/about-us/
     sublinks:
