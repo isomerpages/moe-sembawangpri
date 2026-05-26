@@ -20,7 +20,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Mar – 3 Apr 2026</p>
+<p>30th March – 3rd April 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/nKcVfVhL6k1LHWySA" rel="noopener nofollow" target="_blank">Overseas Learning Journey to Kuala Lumpur, Malaysia</a>
@@ -29,7 +29,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 April 2026</p>
+<p>22nd April 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/u8Gf7Gww74dzQuJu8" rel="noopener nofollow" target="_blank">Library Fiesta</a>
@@ -38,7 +38,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 March to 3 April 2026</p>
+<p>30th March - 3rd April 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/v3vjbr7KFRCYpyYh6" rel="noopener nofollow" target="_blank">Overseas Learning Journey to Guangzhou</a>
@@ -119,7 +119,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21st Nov 2025</p>
+<p>21st November 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/mvUxDoEyvLLVUhzH8" rel="noopener nofollow" target="_blank">Speech Day</a>
@@ -128,7 +128,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18th Nov 2025</p>
+<p>18th November 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/Z5QVziLdqngo2TXK8" rel="noopener nofollow" target="_blank">Celebration of Success Part 2</a>
@@ -137,7 +137,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17th Nov 2025</p>
+<p>17th November 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/wnDHiNRhnETWetoU8" rel="noopener nofollow" target="_blank">Celebration of Success Part 1</a>
@@ -146,7 +146,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8th Aug 2025</p>
+<p>8th August 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/x2rt5oPtxQqV9vP2A" rel="noopener nofollow" target="_blank">National Day Celebration</a>
