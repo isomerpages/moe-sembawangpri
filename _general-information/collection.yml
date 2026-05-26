@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Useful Links/.keep
       - School Calendar.md
       - School Rules & Expectations.md
       - Homework Guidelines.md
