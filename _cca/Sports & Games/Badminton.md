@@ -106,10 +106,17 @@ can improve their skills and form lasting camaraderie.</p>
 <p>Station drills allow students practice the different technical skills
 in badminton during training.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_2026_1.jpg">
-</div>
-<p>NSG Junior Team 2025</p>
 <p></p>
-<p>Last updated : 05/01/2026</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Badminton_1.jpg">
+</div>
+<p>NSG Senior Boys Division 2026 – League 6, 2<sup>nd</sup> Position</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Badminton_2.jpg">
+</div>
+<p>NSG Senior Girls Division 2026 – League 5, Top 6 Position</p>
+<p></p>
+<p>Last updated : 26/05/2026</p>
 <p></p>
