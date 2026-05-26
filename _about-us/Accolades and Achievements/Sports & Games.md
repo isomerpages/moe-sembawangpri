@@ -271,7 +271,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>2026 NSG Senior Division </strong>
+<p><strong>2026 NSG Senior Division</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
