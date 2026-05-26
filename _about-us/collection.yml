@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - SBPS Heartbeat.md
       - About Us.md
       - School History.md
       - School VMV and Motto.md
@@ -20,6 +19,7 @@ collections:
       - Accolades and Achievements/Science.md
       - Accolades and Achievements/Mathematics.md
       - Accolades and Achievements/Destination Imagination.md
+      - SBPS Heartbeat.md
       - SBPS Heartbeat/.keep
       - SBPS Heartbeat/General.md
       - Photo Gallery.md
