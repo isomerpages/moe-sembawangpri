@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Useful Links.md
       - School Calendar.md
       - School Rules & Expectations.md
       - Homework Guidelines.md
@@ -19,3 +18,4 @@ collections:
       - For Parents/.keep
       - For Students/.keep
       - Consent for Photography & Videos.md
+      - Useful Links.md
