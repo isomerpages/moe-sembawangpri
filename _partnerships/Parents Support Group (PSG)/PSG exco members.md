@@ -15,8 +15,8 @@ The partnership with parents aims to support parents so that are they are able a
 *   have access to information, advice and support during decision-making processes about their children’s education or special educational provision.        
     
 
-**Parent Support Group (PSG) Executive Committee:**
-![](/images/2026_PSG.jpg)
+**2026 Parent Support Group (PSG) Executive Committee:**
+![](/images/2026_PSG_2a.jpg)
 
 
 Parents who are interested to volunteer their services by being a member of the Parent Support Group can call the General Office at 67567330 or email:&nbsp;[sbps.parents@gmail.com](mailto:sbps.parents@gmail.com)  
