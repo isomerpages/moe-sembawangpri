@@ -6,17 +6,33 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h3>Table Tennis</h3>
-<p>Table tennis is a sport that requires students to possess dexterity and
-a high level of focus – as they consider the spin, speed, and placement
-of the ball during play. In SBPS, the training sessions assist in the development
-of mental acuity, with focus on their serves, strokes, and footwork. Objectives
-of Table Tennis CCA:</p>
-<p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable table
-tennis as a recreational sport for healthy living in our students.
-<br>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To develop self-discipline,
-resilience and confidence in the students.
-<br>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To provide a platform
-for students to experience the sport at a competitive level.</p>
+<p>The Table Tennis CCA is more than just a sports club — it is a community
+where students develop resilience, discipline, and grit through every training
+session and match. Members learn to overcome challenges, adapt to setbacks,
+and continuously strive for improvement both individually and as a team.</p>
+<p>Through rigorous practices, friendly competitions, and team bonding activities,
+students build perseverance and confidence while sharpening their skills
+in the sport. Collaboration is also a key part of the CCA, as teammates
+encourage and support one another, creating a positive and inclusive environment
+for everyone.</p>
+<p>Beyond training, the club fosters friendships and a shared passion for
+table tennis, making every session enjoyable and meaningful. Whether students
+are beginners or experienced players, the Table Tennis CCA provides opportunities
+for growth, teamwork, and personal development while cultivating a lifelong
+appreciation for the sport and the values it teaches.</p>
+<p></p>
+<h3>Achievements (2025)</h3>
+<p>Junior Division</p>
+<p>(Tier 4 Singles)</p>
+<p>Huang Yifei – 1<sup>st</sup>
+</p>
+<p>Foo Sze Qi – 2<sup>nd</sup>
+</p>
+<p>Jayrein Apolonio Liang – 3<sup>rd</sup>
+</p>
+<p>(Tier 4 Doubles)</p>
+<p>Ng Yong Xiang / Yeo Rui Yang Reayner – 3<sup>rd</sup>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -59,34 +75,36 @@ for students to experience the sport at a competitive level.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_table_tennis_1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Table_Tennis_1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_table_tennis_2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Table_Tennis_2.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_table_tennis_3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Table_Tennis_3.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_table_tennis_4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Table_Tennis_4.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_table_tennis_5.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Table_Tennis_5.jpg">
 </div>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pkwsHUACXuA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pkwsHUACXuA"></iframe>
 </div>
-<p>Last updated: 12/01/2026</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ccALkxd1vW4?si=XS-8kUpE3EaozBU4"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yxpwCRmeoDk?si=qazpmAi-HT34XcI7"></iframe>
+</div>
+<p>Last updated: 26/05/2026</p>

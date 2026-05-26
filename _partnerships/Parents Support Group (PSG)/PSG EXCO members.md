@@ -1,5 +1,5 @@
 ---
-title: PSG exco members
+title: PSG EXCO members
 permalink: /partnerships/parents-support-group/psg-exco-members/
 variant: tiptap
 description: ""
