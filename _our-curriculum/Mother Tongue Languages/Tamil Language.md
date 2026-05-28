@@ -34,15 +34,35 @@ thoughts and ideas confidently while developing imagination, communication
 skills, and a deeper appreciation for books and stories. Through various
 activities, students will develop their critical and creative thinking
 skills while enjoying a collaborative reading experience with their peers.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl19.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl20.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl21.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Mother Tongue Fortnight Activities</strong>
 </p>
 <p><strong>P1 - Puppet Storytelling</strong>
@@ -53,18 +73,42 @@ opportunity to use the puppets to share their own ideas, thoughts, and
 simple conversations. This hands-on activity helped to build their confidence
 in speaking and encouraged creativity and imagination in learning their
 Mother Tongue language.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl22.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl23.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl24.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl25.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>P2 - Speech &amp; Drama</strong>
 </p>
 <p>Tamil Language Speech &amp; Drama for Primary 2 pupils was a fun and engaging
@@ -74,16 +118,35 @@ their vocabulary and develop expressive communication skills in an enjoyable
 and interactive environment. Through group activities and short performances,
 students also strengthened their creativity, teamwork, and self-confidence
 while developing a deeper appreciation for the Tamil language and culture.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl26.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl27.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl28.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>P3 - Tamil Language Camp</strong>
 </p>
 <p>The Tamil Language Camp for Primary 3 students was a fun and enriching
