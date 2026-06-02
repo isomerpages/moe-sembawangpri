@@ -20,7 +20,25 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30th March – 3rd April 2026</p>
+<p>26th May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/mYaJpz9hZQ38iJ467" rel="noopener nofollow" target="_blank">Last Day of School Activities</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26th May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://photos.app.goo.gl/7a39Pr9XVmGkv9DL9" rel="noopener nofollow" target="_blank">Celebration of Success 1</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30th March to 3rd April 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/nKcVfVhL6k1LHWySA" rel="noopener nofollow" target="_blank">Overseas Learning Journey to Kuala Lumpur, Malaysia</a>
@@ -38,7 +56,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30th March - 3rd April 2026</p>
+<p>30th March to 3rd April 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://photos.app.goo.gl/v3vjbr7KFRCYpyYh6" rel="noopener nofollow" target="_blank">Overseas Learning Journey to Guangzhou</a>
@@ -185,4 +203,4 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
-<p>Last Updated : 28/04/2026</p>
+<p>Last Updated : 02/06/2026</p>
