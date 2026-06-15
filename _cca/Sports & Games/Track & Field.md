@@ -29,7 +29,9 @@ disciplined and confident.</p>
 <p>Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday and Thursday, 3.30 pm to 5 pm</p>
+<p>Term 1 &amp; 2, Monday &amp; Thursday, 3.15pm – 4.45pm (new timing from
+2027)</p>
+<p>Term 3 &amp; 4, Monday, 3.15pm – 4.45pm</p>
 </td>
 </tr>
 <tr>
@@ -53,25 +55,25 @@ disciplined and confident.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/tf1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Track_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/tf2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Track_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/tf3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Track_3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/tf4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Track_4.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/tf5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Track_5.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/tf6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/tf7.jpg">
-</div>
-<p>Last updated: 08/01/2026</p>
+<p></p>
+<p>Last updated: 05/06/2026</p>
