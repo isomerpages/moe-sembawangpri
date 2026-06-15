@@ -28,6 +28,6 @@ by ballot.</p>
 <p></p>
 <p>Online Registration (click <a href="https://go.gov.sg/sbpspvphase2b" rel="noopener nofollow" target="_blank">link</a>)
 is now open for children born between 02 January 2021 and 01 January 2022
-(both dates inclusive). The last day of registration is 30 June 2026.</p>
+(both dates inclusive). The last day of registration is 31 May 2026.</p>
 <p></p>
 <p>Last updated : 17/04/2026</p>
