@@ -14,6 +14,7 @@ on iNaturalist to contribute to real scientific research. Through these
 activities, students develop a love for nature, learn important science
 skills, and are encouraged to take action to protect the Earth and support
 green efforts in school and at home.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -49,10 +50,10 @@ green efforts in school and at home.</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Zhao Zhiyang</p>
 <p>Mr Andi Fatahillah</p>
 <p>Mr Lee Meng Chee, Alvin</p>
-<p>Mdm Shamsiah Binte Md Shariff</p>
-<p>Mr Zhao Zhiyang</p>
+<p>Mdm Zarina Khatoon Bte Mohamed Ashraf</p>
 </td>
 </tr>
 <tr>
@@ -87,82 +88,81 @@ as part of the <em>Every Singaporean A Naturalist</em> (ESN) programme (Nature
 Society Singapore; NSS)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Science_13.jpg">
 </div>
-<p>Congratulations to our third batch of Novice Naturalists (Birds) who were
-awarded under the NSS ESN Skills Achievement Programme!</p>
+<p>Congratulations to our fourth batch of Novice Naturalists (Birds) who
+were awarded under the NSS ESN Skills Achievement Programme!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Science_14.jpg">
 </div>
-<p>Congratulations to our second batch of Novice Naturalists (Butterflies)
+<p>Congratulations to our third batch of Novice Naturalists (Butterflies)
 who were awarded under the NSS ESN Skills Achievement Programme!</p>
 <p></p>
 <p>Students diving into nature journaling, capturing and documenting various
 bird and butterfly species through sketches and observations in our school
 premise!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_6.jpg">
-</div>
-<p>Some sketches of the <strong>Javan Myna</strong> created through nature
-journaling.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_4.png">
 </div>
-<p>Some sketches of the <strong>Eurasian Tree Sparrow</strong>.</p>
+<p>Sketches of the <strong>House Crow</strong>.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_5.png">
 </div>
-<p>Some sketches of the <strong>Julia Heliconian</strong>.</p>
+<p>Sketches of the <strong>Black-naped Oriole</strong>.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_6.png">
 </div>
-<p>Some sketches of the <strong>Painted Jezebel</strong>.</p>
+<p>Sketches of <strong>Parakeets</strong>.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_17.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_7.png">
 </div>
-<p>Team <em>Cool Koels</em>
+<p>Sketches of the <strong>Chocolate Pansy</strong>.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_8.png">
+</div>
+<p>Sketches of the <strong>Common Mormon</strong>.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_9.png">
+</div>
+<p>Congratulations to our two teams for their strong showing at the <em>41st Singapore Bird Race 2025</em>!
+We are proud to share that <em>The Flame Bird Observatory</em> team clinched <strong>Second Runner-Up</strong>.
+Well done, teams!</p>
+<p></p>
+<p>Well done to our three teams for their enthusiastic participation
+<br>in the <em>NSS ESN 5th Biodiversity Race 2026</em>!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_10.png">
+</div>
+<p>Team <em>Bird Guardians</em>
 </p>
-<p>Congratulations to <em>The Jezebellas</em> team on earning a well-deserved
-award!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_18.jpg">
-</div>
-<p>2nd Place: Most Unique Observation
-<br>(Pin-striped Tit-Babbler, a species of bird)</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_2a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_11.png">
 </div>
-<p>Shoutout to our team at the 23rd Elementz Science Project Competition!
-They exemplified our school values of curiosity, resilience, and excellence
-throughout the competition. Well done!</p>
+<p>Team <em>Butterfly Rescuers</em>
+</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Club_2026_12.png">
 </div>
-<p>Congratulations to our two teams for their strong showing at the 41st
-Singapore Bird Race 2025! We are proud to share that The Flame Bird Observatory
-team clinched Third Runner-Up. Well done, teams!</p>
+<p>Team <em>Taylor Birds</em>
+</p>
+<p><strong>2nd Place: Best-photographed Observation</strong>
+<br>(Red-eared Slider: <a href="https://www.inaturalist.org/observations/367931302" rel="noopener noreferrer nofollow" target="_blank">https://www.inaturalist.org/observations/367931302</a>)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_4a.png">
-</div>
-<p>Our upper primary members joined Waterways Clean-up Day @ North West,
-helping to clean up Pang Sua Pond and learning the importance of water
-conservation and clean waterways. We are honoured to be recognised as a
-valued partner for five years of contributions to Singapore’s SG60 and
-sustainability efforts.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Science_Club_5a.png">
-</div>
-<p>Our members engaged in an enriching NParks’ horticultural session, taking
-a guided walk around our school grounds, learning about plant propagation,
-and having fun planning their own garden layouts.</p>
-<p></p>
-<p>Last updated : 13/01/2026</p>
+<p>Last updated : 25/06/2026</p>
