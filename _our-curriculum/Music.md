@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong><u>Music @ Sembawang Primary School</u></strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_06_25_at_12_53_16.jpg">
+</div>
+<p></p>
 <p>At Sembawang Primary School, Music is a dynamic and engaging learning
 experience where students learn through singing, playing instruments, movement
 and creating their own music. Through diverse musical experiences such
