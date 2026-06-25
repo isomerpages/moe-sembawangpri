@@ -54,7 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Adjunct Administrative Executives</strong>
+<p><strong>Administrative Executives</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +62,7 @@ variant: tiptap
 <br><a href="mailto:nurmasrifa_shukor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurmasrifa_shukor@schools.gov.sg</a> 
 <br>
 <br>Mdm Ong Lay Tin Helen
-<br><a href="mailto:ong_lay_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lay_tin@schools.gov.sg</a>
+<br><a href="mailto:ong_lay_tin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lay_tin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
