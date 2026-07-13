@@ -17,7 +17,7 @@ sections:
           url: /quick-links/for-staff/
         - title: Social Media
           description: ""
-          url: /contact-us
+          url: /about-us/contact-us/
   - announcements:
       title: Announcements
       id: announcements
